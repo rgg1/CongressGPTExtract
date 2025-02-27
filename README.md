@@ -29,7 +29,7 @@ The Congressional Directory is a comprehensive publication containing informatio
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CongressGPTExtract.git
+git clone https://github.com/rgg1/CongressGPTExtract.git
 cd CongressGPTExtract
 
 # Install dependencies
