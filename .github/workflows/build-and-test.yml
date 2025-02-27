@@ -157,48 +157,29 @@ jobs:
         New-Item -Path "package" -ItemType Directory -Force
         Copy-Item -Path "dist\congressional_extractor.exe" -Destination "package\" -Force
         
-        # Copy existing batch file instead of creating a new one
+        # Copy existing batch file
         Copy-Item -Path "run_extractor.bat" -Destination "package\" -Force
         
-        # Create README 
-        New-Item -Path "package\README.md" -ItemType File -Force
-        Add-Content -Path "package\README.md" -Value "# Congressional Data Extraction Tool"
-        Add-Content -Path "package\README.md" -Value ""
-        Add-Content -Path "package\README.md" -Value "This tool extracts information from congressional directory text files and converts it to structured JSON format."
-        Add-Content -Path "package\README.md" -Value ""
-        Add-Content -Path "package\README.md" -Value "## Requirements"
-        Add-Content -Path "package\README.md" -Value "- OpenAI API key in the .env file or provided via prompt"
-        Add-Content -Path "package\README.md" -Value ""
-        Add-Content -Path "package\README.md" -Value "## Setup"
-        Add-Content -Path "package\README.md" -Value "1. Create a .env file with your OpenAI API key by copying the .env.template file, or enter it when prompted"
-        Add-Content -Path "package\README.md" -Value "2. Add your text files to the congressional_directory_files folder, organized by congress number"
-        Add-Content -Path "package\README.md" -Value "3. Run run_extractor.bat and follow the prompts"
-        Add-Content -Path "package\README.md" -Value ""
-        Add-Content -Path "package\README.md" -Value "## Directory Structure"
-        Add-Content -Path "package\README.md" -Value "- congressional_directory_files/"
-        Add-Content -Path "package\README.md" -Value "  - congress_117/"
-        Add-Content -Path "package\README.md" -Value "    - txt/"
-        Add-Content -Path "package\README.md" -Value "      - CDIR-YYYY-MM-DD-SECTION.txt"
-        Add-Content -Path "package\README.md" -Value "      - ...other files..."
-        Add-Content -Path "package\README.md" -Value "  - congress_118/"
-        Add-Content -Path "package\README.md" -Value "    - ...and so on..."
-        Add-Content -Path "package\README.md" -Value ""
-        Add-Content -Path "package\README.md" -Value "## Outputs"
-        Add-Content -Path "package\README.md" -Value "All JSON outputs will be saved to the outputs/ directory, organized by congress number."
+        # Copy existing README
+        Copy-Item -Path "README.md" -Destination "package\" -Force
         
-        # Create .env template
-        New-Item -Path "package\.env.template" -ItemType File -Force
-        Add-Content -Path "package\.env.template" -Value "# Add your OpenAI API key below"
-        Add-Content -Path "package\.env.template" -Value "OPENAI_API_KEY=your_api_key_here"
-        
+        # Create .env template (use existing if available, create if not)
+        if (Test-Path ".env.template") {
+            Copy-Item -Path ".env.template" -Destination "package\.env.template" -Force
+        } else {
+            New-Item -Path "package\.env.template" -ItemType File -Force
+            Add-Content -Path "package\.env.template" -Value "# Add your OpenAI API key below"
+            Add-Content -Path "package\.env.template" -Value "OPENAI_API_KEY=your_api_key_here"
+        }
+
         # Create directory structure
         New-Item -Path "package\congressional_directory_files" -ItemType Directory -Force
         New-Item -Path "package\outputs" -ItemType Directory -Force
-        
+
         # Add a sample directory structure
         New-Item -Path "package\congressional_directory_files\congress_sample" -ItemType Directory -Force
         New-Item -Path "package\congressional_directory_files\congress_sample\txt" -ItemType Directory -Force
-        
+
         # Create sample README
         New-Item -Path "package\congressional_directory_files\congress_sample\txt\README.txt" -ItemType File -Force
         Add-Content -Path "package\congressional_directory_files\congress_sample\txt\README.txt" -Value "This is a sample text file showing the directory structure."
