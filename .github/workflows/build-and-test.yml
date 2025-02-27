@@ -157,21 +157,8 @@ jobs:
         New-Item -Path "package" -ItemType Directory -Force
         Copy-Item -Path "dist\congressional_extractor.exe" -Destination "package\" -Force
         
-        # Create a batch file using direct Add-Content approach
-        New-Item -Path "package\run_extractor.bat" -ItemType File -Force
-        Add-Content -Path "package\run_extractor.bat" -Value "@echo off"
-        Add-Content -Path "package\run_extractor.bat" -Value "echo Congressional Data Extraction Tool"
-        Add-Content -Path "package\run_extractor.bat" -Value "echo ================================"
-        Add-Content -Path "package\run_extractor.bat" -Value "set /p congress=`"Enter Congress range (e.g., 117 or 114-117): `""
-        Add-Content -Path "package\run_extractor.bat" -Value "set /p processors=`"Enter processors to run (leave blank for all, or space-separated list): `""
-        Add-Content -Path "package\run_extractor.bat" -Value "if `"%processors%`"==`"`" ("
-        Add-Content -Path "package\run_extractor.bat" -Value "    congressional_extractor.exe --congress `"%congress%`""
-        Add-Content -Path "package\run_extractor.bat" -Value ") else ("
-        Add-Content -Path "package\run_extractor.bat" -Value "    congressional_extractor.exe --congress `"%congress%`" --processors %processors%"
-        Add-Content -Path "package\run_extractor.bat" -Value ")"
-        Add-Content -Path "package\run_extractor.bat" -Value "echo."
-        Add-Content -Path "package\run_extractor.bat" -Value "echo Process completed. Press any key to exit."
-        Add-Content -Path "package\run_extractor.bat" -Value "pause > nul"
+        # Copy existing batch file instead of creating a new one
+        Copy-Item -Path "run_extractor.bat" -Destination "package\" -Force
         
         # Create README 
         New-Item -Path "package\README.md" -ItemType File -Force
@@ -180,10 +167,10 @@ jobs:
         Add-Content -Path "package\README.md" -Value "This tool extracts information from congressional directory text files and converts it to structured JSON format."
         Add-Content -Path "package\README.md" -Value ""
         Add-Content -Path "package\README.md" -Value "## Requirements"
-        Add-Content -Path "package\README.md" -Value "- OpenAI API key in the .env file"
+        Add-Content -Path "package\README.md" -Value "- OpenAI API key in the .env file or provided via prompt"
         Add-Content -Path "package\README.md" -Value ""
         Add-Content -Path "package\README.md" -Value "## Setup"
-        Add-Content -Path "package\README.md" -Value "1. Create a .env file with your OpenAI API key by copying the .env.template file"
+        Add-Content -Path "package\README.md" -Value "1. Create a .env file with your OpenAI API key by copying the .env.template file, or enter it when prompted"
         Add-Content -Path "package\README.md" -Value "2. Add your text files to the congressional_directory_files folder, organized by congress number"
         Add-Content -Path "package\README.md" -Value "3. Run run_extractor.bat and follow the prompts"
         Add-Content -Path "package\README.md" -Value ""
