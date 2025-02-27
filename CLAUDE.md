@@ -1,17 +1,23 @@
-# Congressional Directory Parsing - Development Guide
+# CLAUDE.md - Assistant Guide
 
 ## Commands
-- **Run parser**: `python run.py --congress 117 --processors judiciary departments`
-- **Run single test**: `python test_validator.py 111 judiciary`
-- **Install dependencies**: `pip install -r requirements.txt`
-- **Build executable**: `pyinstaller --onefile --name extraction run.py`
+- Run extractor: `python run.py --congress <number> [--processors <list>] [--api_key <key>]`
+  - Example: `python run.py --congress 117 --processors "judiciary departments"`
+- Test outputs: `python test_validator.py <congress_number>`
+- Windows: `run_extractor.bat` (interactive)
 
-## Code Style
-- **Imports**: Standard library first, then third-party, then local modules
-- **Type Hints**: Use Pydantic models for structured data; use typing for function signatures
-- **Naming**: snake_case for functions/variables; CamelCase for classes; ALL_CAPS for constants
-- **Error Handling**: Use try/except blocks with specific exceptions and detailed error messages
-- **Documentation**: All functions should have docstrings with Args/Returns sections
-- **Processors**: Follow established patterns in existing processor files
-- **Environment**: Use dotenv for configuration and environment variables
-- **API Usage**: Use the OpenAI client consistently with error handling for API calls
+## Code Style Guidelines
+- **Imports**: Standard lib → Third-party → Local (alphabetical within groups)
+- **Type hints**: Use throughout with Pydantic models for validation
+- **Naming**: snake_case for functions/variables, PascalCase for classes
+- **Error handling**: Specific try/except blocks with fallbacks for API failures
+- **Functions**: Clear docstrings with Args/Returns sections
+- **Data processing pattern**:
+  1. Locate input files
+  2. Process in chunks
+  3. Extract via OpenAI API
+  4. Save JSON outputs
+  5. Handle errors with fallbacks
+
+## Project Structure
+The codebase processes Congressional Directory PDF/TXT files into structured JSON data using OpenAI's API.
