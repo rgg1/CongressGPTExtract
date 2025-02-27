@@ -1,3 +1,9 @@
+"""
+Extracts international organizations, departments, and personnel information from the
+congressional directory files using OpenAI's API and saves the information in JSON format
+containing the organization name, personnel, and departments.
+"""
+
 import os
 import json
 import openai
@@ -15,23 +21,26 @@ class Department(BaseModel):
 class Organization(BaseModel):
     organization_name: str
     organization_personnel: list[Personnel]
-    departments: list[Department] = [] # Some organizations won't have departments
+    departments: list[Department] = []  # Some organizations won't have departments
 
-class organizations_json_schema(BaseModel):
+class OrganizationsJsonSchema(BaseModel):
     organizations: list[Organization]
 
-def extract_international_organizations_info(text_chunk, client):
+def extract_international_organizations_info(text_chunk: str, client: openai.OpenAI) -> str:
     """
-    Uses OpenAI's API to extract international organizations, departments, and personnel information from the given text.
-    Returns the information in JSON format as specified by the implementation.
+    Uses OpenAI's API to extract international organizations, departments, and personnel
+    information from the given text. Returns the information in JSON format as specified
+    by the implementation.
 
     Args:
-        text_chunk: str
-            Chunk of text to process
+        text_chunk: Chunk of text to process
+        client: OpenAI API client
 
     Returns:
-        response: str
-            Extracted information in JSON format
+        response: Extracted information in JSON format
+
+    Raises:
+        Exception: If an error occurs during the API call
     """
     print(f"Processing chunk of size: {len(text_chunk)} characters")
     try:
@@ -99,99 +108,140 @@ def extract_international_organizations_info(text_chunk, client):
                     Output the results in the existing JSON structure provided.
                     """,
                 },
-                {
-                    "role": "user",
-                    "content": text_chunk
-                }
+                {"role": "user", "content": text_chunk},
             ],
             response_format={
-                'type': 'json_schema',
-                'json_schema': 
-                    {
-                        "name":"_", 
-                        "schema": organizations_json_schema.model_json_schema()
-                    }
-            },  
+                "type": "json_schema",
+                "json_schema": {
+                    "name": "_",
+                    "schema": OrganizationsJsonSchema.model_json_schema(),
+                },
+            },
             temperature=0.3,
-            # max_tokens=10000,
-            timeout=600  # 10 minute timeout per chunk
+            timeout=600,  # 10 minute timeout per chunk
         )
         return response.choices[0].message.content
     except Exception as e:
         print(f"Error during API call: {str(e)}")
         raise
 
-def chunk_international_organizations_text(text, max_chunk_size=15000):
+
+def chunk_international_organizations_text(text: str, max_chunk_size: int = 15000) -> list[str]:
+    """
+    Splits the text into chunks while respecting the maximum chunk size.
+    Each chunk will contain one or more international organizations and try
+    to avoid splitting in the middle of a section.
+
+    Args:
+        text: Text to split into chunks
+        max_chunk_size: Maximum size of each chunk
+
+    Returns:
+        chunks: List of text chunks
+    """
     chunks = []
     organizations = []  # Initialize the organizations list
-    lines = text.split('\n')
-    
+    lines = text.split("\n")
+
     def is_organization_header(line, prev_line="", next_line=""):
         """Check if line appears to be a main organization header"""
         line = line.strip()
-        if not line or line.startswith('[Page') or line.startswith('[[Page'):
+        if not line or line.startswith("[Page") or line.startswith("[[Page"):
             return False
-            
+
         # Common sub-sections that should not be treated as new organizations
         exclusions = [
-            'HEADQUARTERS', 'MEMBER STATES', 'BOARD OF DIRECTORS',
-            'EXECUTIVE DIRECTORS', 'OFFICERS', 'STAFF', 'MANAGEMENT',
-            'COMMISSIONERS', 'PERMANENT MISSIONS', 'DUTY STATIONS',
-            'REGIONAL OFFICES', 'FIELD OFFICES', 'CENTERS', 'FUNDS AND PROGRAMS'
+            "HEADQUARTERS",
+            "MEMBER STATES",
+            "BOARD OF DIRECTORS",
+            "EXECUTIVE DIRECTORS",
+            "OFFICERS",
+            "STAFF",
+            "MANAGEMENT",
+            "COMMISSIONERS",
+            "PERMANENT MISSIONS",
+            "DUTY STATIONS",
+            "REGIONAL OFFICES",
+            "FIELD OFFICES",
+            "CENTERS",
+            "FUNDS AND PROGRAMS",
         ]
         if any(excl in line for excl in exclusions):
             return False
 
         is_caps = line.isupper() and len(line) > 10
-        
+
         # Check for organization indicators
         indicators = [
-            'ORGANIZATION', 'AGENCY', 'COMMISSION', 'COMMITTEE',
-            'BANK', 'FUND', 'PROGRAMME', 'COUNCIL', 'UNION',
-            'INSTITUTE', 'ASSOCIATION', 'SECRETARIAT', 'BOARD',
-            'NATIONS', 'OFFICE', 'DEVELOPMENT', 'AUTHORITY'
+            "ORGANIZATION",
+            "AGENCY",
+            "COMMISSION",
+            "COMMITTEE",
+            "BANK",
+            "FUND",
+            "PROGRAMME",
+            "COUNCIL",
+            "UNION",
+            "INSTITUTE",
+            "ASSOCIATION",
+            "SECRETARIAT",
+            "BOARD",
+            "NATIONS",
+            "OFFICE",
+            "DEVELOPMENT",
+            "AUTHORITY",
         ]
-        
+
         has_indicator = any(ind in line for ind in indicators)
-        
+
         # Check if followed by contact/location info
-        has_contact = any(ind in next_line.lower() for ind in [
-            'phone', 'address', 'fax', 'avenue', 'street',
-            'headquarters', 'p.o. box', 'http', 'www'
-        ])
-        
+        has_contact = any(
+            ind in next_line.lower()
+            for ind in [
+                "phone",
+                "address",
+                "fax",
+                "avenue",
+                "street",
+                "headquarters",
+                "p.o. box",
+                "http",
+                "www",
+            ]
+        )
+
         # Avoid splitting in the middle of a section
-        is_continuation = prev_line.strip() and prev_line.strip()[-1] in ',:;'
-        
+        is_continuation = prev_line.strip() and prev_line.strip()[-1] in ",:;"
+
         return is_caps and (has_indicator or has_contact) and not is_continuation
 
     def find_organization_end(start_idx):
         """Find where the current organization section ends"""
         depth = 0
         i = start_idx
-        
+
         while i < len(lines):
             # Check if next line starts a new main organization
             if i > start_idx and is_organization_header(
                 lines[i],
-                lines[i-1] if i > 0 else "",
-                lines[i+1] if i+1 < len(lines) else ""
+                lines[i - 1] if i > 0 else "",
+                lines[i + 1] if i + 1 < len(lines) else "",
             ):
                 # Look back for last non-empty line
-                while i > start_idx and not lines[i-1].strip():
+                while i > start_idx and not lines[i - 1].strip():
                     i -= 1
                 return i
-                
+
             # Track nested depth for sub-sections
             line = lines[i].strip()
-            if line and not line.startswith('['):
-                if line.endswith(':'):
+            if line and not line.startswith("["):
+                if line.endswith(":"):
                     depth += 1
                 elif depth > 0 and not any(c.isspace() for c in line[:4]):
                     depth -= 1
-            
+
             i += 1
-            
+
         return len(lines)
 
     # Process text into organizations
@@ -199,11 +249,11 @@ def chunk_international_organizations_text(text, max_chunk_size=15000):
     while current_start < len(lines):
         if is_organization_header(
             lines[current_start],
-            lines[current_start-1] if current_start > 0 else "",
-            lines[current_start+1] if current_start+1 < len(lines) else ""
+            lines[current_start - 1] if current_start > 0 else "",
+            lines[current_start + 1] if current_start + 1 < len(lines) else "",
         ):
             org_end = find_organization_end(current_start)
-            org_content = '\n'.join(lines[current_start:org_end])
+            org_content = "\n".join(lines[current_start:org_end])
             if org_content.strip():
                 organizations.append(org_content)
             current_start = org_end
@@ -218,16 +268,16 @@ def chunk_international_organizations_text(text, max_chunk_size=15000):
             if current_chunk:
                 chunks.append(current_chunk)
                 current_chunk = ""
-            
+
             # Split the oversized organization text into smaller pieces
-            org_lines = org.split('\n')
+            org_lines = org.split("\n")
             temp_chunk = ""
             for line in org_lines:
                 if len(temp_chunk) + len(line) > 2 * max_chunk_size:
                     chunks.append(temp_chunk)
-                    temp_chunk = line + '\n'
+                    temp_chunk = line + "\n"
                 else:
-                    temp_chunk += line + '\n'
+                    temp_chunk += line + "\n"
             if temp_chunk:
                 chunks.append(temp_chunk)
             continue
@@ -239,7 +289,7 @@ def chunk_international_organizations_text(text, max_chunk_size=15000):
                 current_chunk = ""
             chunks.append(org)
             continue
-            
+
         # If adding organization would exceed max size
         if len(current_chunk) + len(org) > max_chunk_size and current_chunk:
             chunks.append(current_chunk)
@@ -249,19 +299,36 @@ def chunk_international_organizations_text(text, max_chunk_size=15000):
                 current_chunk += "\n\n" + org
             else:
                 current_chunk = org
-                
+
     if current_chunk:
         chunks.append(current_chunk)
-        
+
     return chunks
 
-def process_international_organizations_file(file_name, input_dir, output_dir, client):
+def process_international_organizations_file(
+        file_name: str,
+        input_dir: str,
+        output_dir: str,
+        client: openai.OpenAI
+    ) -> None:
+    """
+    Processes the international organizations file by reading the content, splitting it into chunks
+    using `chunk_international_organizations_text`, and extracting international organizations
+    information using `extract_international_organizations_info`. The extracted information is
+    saved in JSON format.
+
+    Args:
+        file_name: Name of the file to process
+        input_dir: Directory containing the input file
+        output_dir: Directory to save the output JSON file
+        client: OpenAI API client
+    """
     # Read file content
     file_path = os.path.join(input_dir, file_name)
-    with open(file_path, 'r') as file:
+    with open(file_path, "r") as file:
         content = file.read()
         print(f"File loaded. Size: {len(content)} characters")
-    
+
     print("Splitting content into chunks...")
     chunks = chunk_international_organizations_text(content)
     print(f"Split into {len(chunks)} chunks")
@@ -274,56 +341,81 @@ def process_international_organizations_file(file_name, input_dir, output_dir, c
         try:
             # Extract international organizations information in JSON format
             organizations_info = extract_international_organizations_info(chunk, client)
-            
+
             try:
                 # Parse the JSON response
                 organizations_data = json.loads(organizations_info)
-                
+
                 # Merge organizations from this chunk
                 if "organizations" in organizations_data:
-                    all_organizations["organizations"].extend(organizations_data["organizations"])
-                
+                    all_organizations["organizations"].extend(
+                        organizations_data["organizations"]
+                    )
+
                 print(f"Successfully processed chunk {chunk_num}")
-                
+
             except json.JSONDecodeError as e:
                 print(f"JSON Decode Error in chunk {chunk_num}: {str(e)}")
                 # Save the problematic chunk
-                error_file_path = os.path.join(output_dir, f'{file_name}_chunk{chunk_num}_error.txt')
-                with open(error_file_path, 'w') as error_file:
+                error_file_path = os.path.join(
+                    output_dir, f"{file_name}_chunk{chunk_num}_error.txt"
+                )
+                with open(error_file_path, "w") as error_file:
                     error_file.write(organizations_info)
                 print(f"Problematic chunk saved to {error_file_path}")
                 continue
-            
+
         except Exception as e:
             print(f"Error processing chunk {chunk_num}: {str(e)}")
             continue
 
     # Save the combined results
-    json_file_path = os.path.join(output_dir, f'{file_name}_output.json') # output file name
+    json_file_path = os.path.join(
+        output_dir, f"{file_name}_output.json"
+    )  # output file name
 
     os.makedirs(output_dir, exist_ok=True)
 
-    with open(json_file_path, 'w') as json_file:
+    with open(json_file_path, "w") as json_file:
         json.dump(all_organizations, json_file, indent=2)
         print(f"\nCombined results saved to {json_file_path}")
 
-def process_international_organizations_file_for_congress(congress_number, client, base_directory):
-    print(f"Processing international organizations file for Congress {congress_number}...")
 
-    for filename in os.listdir(f'{base_directory}/congressional_directory_files/congress_{congress_number}/txt'):
-        if 'INTERNATIONALORGANIZATIONS' in filename:
+def process_international_organizations_file_for_congress(
+    congress_number: int, client: openai.OpenAI, base_directory: str = "."
+    ) -> None:
+    """
+    Processes the international organizations file for the given Congress by calling
+    `process_international_organizations_file` for the each relevant file in this
+    Congress's directory.
+
+    Args:
+        congress_number: Number of the Congress to process
+        client: OpenAI API client
+        base_directory: Base directory containing the congressional directory files
+    """
+    print(
+        f"Processing international organizations file for Congress {congress_number}..."
+    )
+
+    for filename in os.listdir(
+        f"{base_directory}/congressional_directory_files/congress_{congress_number}/txt"
+    ):
+        if "INTERNATIONALORGANIZATIONS" in filename:
             process_international_organizations_file(
                 filename,
-                f'{base_directory}/congressional_directory_files/congress_{congress_number}/txt',
-                f'{base_directory}/outputs/{congress_number}',
-                client
+                f"{base_directory}/congressional_directory_files/congress_{congress_number}/txt",
+                f"{base_directory}/outputs/{congress_number}",
+                client,
             )
+
 
 if __name__ == "__main__":
     load_dotenv()
 
-    client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+    input_client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
     print("Processing international organizations file...")
-    # process_international_organizations_file('CDIR-2022-10-26-INTERNATIONALORGANIZATIONS.txt', 'congressional_directory_files/congress_117/txt', 'outputs/117')
-    process_international_organizations_file_for_congress(117)
+    # process_international_organizations_file('CDIR-2022-10-26-INTERNATIONALORGANIZATIONS.txt',
+    # 'congressional_directory_files/congress_117/txt', 'outputs/117')
+    process_international_organizations_file_for_congress(congress_number=117, client=input_client)

@@ -2,3 +2,6 @@
 myenv/
 venv/
 CLAUDE.md
+committee_names.csv
+legislators.csv
+__pycache__/

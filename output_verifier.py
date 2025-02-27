@@ -68,6 +68,13 @@ def analyze_directory_files():
     print("="*50)
     
     analyze_names_in_json_files(json_files)
+    
+    # Check for people who appear as both members and staff
+    print("\n" + "="*50)
+    print("MEMBER AND STAFF ROLE ANALYSIS")
+    print("="*50)
+    
+    analyze_member_staff_overlap(json_files)
 
 def analyze_names_in_json_files(json_files):
     # Initialize counters and containers for name analysis
@@ -98,8 +105,12 @@ def analyze_names_in_json_files(json_files):
                 data = json.load(f)
                 file_names = []
                 
-                # Extract names from the JSON structure
-                names = extract_names(data)
+                # Extract names from the JSON structure - now returns (name, role) tuples
+                names_with_roles = extract_names(data)
+                
+                # For backwards compatibility with the rest of this function
+                # Strip off the role information and just use the names
+                names = [name for name, _ in names_with_roles]
                 
                 file_names.extend(names)
                 
@@ -261,7 +272,8 @@ def analyze_names_in_json_files(json_files):
         with open(json_file, 'r', encoding='utf-8') as f:
             try:
                 data = json.load(f)
-                names = extract_names(data)
+                names_with_roles = extract_names(data)
+                names = [name for name, _ in names_with_roles]
                 
                 # Count placeholder names
                 placeholder_count = sum(1 for name in names if name.lower() in ["[vacant]", "n/a"])
@@ -285,14 +297,25 @@ def analyze_names_in_json_files(json_files):
     for name, count in name_frequencies.most_common(max_examples):
         print(f"  \"{name}\": {count} occurrences")
 
-def extract_names(data):
+def extract_names(data, role="unknown"):
     """
-    Extract only people's names from the JSON data based on the file schema.
+    Extract people's names from the JSON data based on the file schema with role information.
+    
+    This function is now only used by analyze_names_in_json_files() since analyze_member_staff_overlap()
+    has been updated to only process house/senate committee files directly.
+    
     Different file types have different schema for storing people's names:
     - departments.py: "member_name" fields
     - judiciary.py: "name" fields inside "court_personnel" or "circuit_personnel" 
     - international_organizations.py: "name" fields inside "organization_personnel" or "department_personnel"
-    - etc.
+    - house_senate_committees.py: "member_name" and "staff_name" fields in subcommittees
+    
+    Args:
+        data: The JSON data to extract names from
+        role: The role of the person (member, staff, or unknown)
+    
+    Returns:
+        List of tuples of (name, role)
     """
     names = []
     
@@ -325,21 +348,40 @@ def extract_names(data):
                      "Office", "Member", "Observer"]
     
     if isinstance(data, dict):
+        current_role = role  # Default to passed-in role
+
+        # Try to determine role from structure
+        if "member_role" in data:
+            if any(staff_term in str(data.get("member_role", "")).lower() for staff_term in 
+                  ["staff", "counsel", "director", "secretary", "clerk", "assistant", "aide", "advisor"]):
+                current_role = "staff"
+            else:
+                current_role = "member"
+        
         # Department files use member_name for people
         if "member_name" in data and data["member_name"] is not None:
             name = data["member_name"]
             if name not in country_names and not name.startswith("Office") and name != "Member":
-                names.append(name)
+                names.append((name, current_role))
         
         # Files with personnel lists (courts, organizations)
         for field in ["court_personnel", "circuit_personnel", "organization_personnel", "department_personnel", "office_personnel"]:
             if field in data and isinstance(data[field], list):
+                # These are typically staff
+                staff_role = "staff"
                 for person in data[field]:
                     if isinstance(person, dict) and "name" in person and person["name"] is not None:
                         name = person["name"]
                         # Skip country names and non-person entries
                         if name not in country_names and not name.startswith("Office"):
-                            names.append(name)
+                            # Check if role is specified in the person data
+                            person_role = staff_role
+                            if "role" in person:
+                                role_str = str(person.get("role", "")).lower()
+                                if any(member_term in role_str for member_term in 
+                                      ["chair", "member", "ranking", "vice", "president", "representative", "senator"]):
+                                    person_role = "member"
+                            names.append((name, person_role))
         
         # Cabinet and executive office structures
         if "cabinet" in data and isinstance(data["cabinet"], list):
@@ -347,7 +389,23 @@ def extract_names(data):
                 if isinstance(member, dict) and "member_name" in member and member["member_name"] is not None:
                     name = member["member_name"]
                     if name not in country_names and not name.startswith("Office"):
-                        names.append(name)
+                        # Cabinet members are typically members, not staff
+                        names.append((name, "member"))
+        
+        # House and Senate committees - members are in members list, staff in staff list
+        if "members" in data and isinstance(data["members"], list):
+            for member in data["members"]:
+                if isinstance(member, dict) and "name" in member and member["name"] is not None:
+                    name = member["name"]
+                    if name not in country_names and not name.startswith("Office"):
+                        names.append((name, "member"))
+        
+        if "staff" in data and isinstance(data["staff"], list):
+            for staff in data["staff"]:
+                if isinstance(staff, dict) and "name" in staff and staff["name"] is not None:
+                    name = staff["name"]
+                    if name not in country_names and not name.startswith("Office"):
+                        names.append((name, "staff"))
         
         # Process nested elements
         for key, value in data.items():
@@ -355,14 +413,165 @@ def extract_names(data):
             if key not in ["organization_name", "department_name", "court_name", "circuit_name", "office_name", 
                           "officers", "state", "role", "member_role"] and (
                 isinstance(value, dict) or isinstance(value, list)):
-                names.extend(extract_names(value))
+                # Pass down role information for nested elements
+                nested_role = current_role
+                # Check if we're entering a specifically role-defined section
+                if key == "staff":
+                    nested_role = "staff"
+                elif key == "members":
+                    nested_role = "member"
+                names.extend(extract_names(value, nested_role))
     
     elif isinstance(data, list):
         # Process each item in the list
         for item in data:
-            names.extend(extract_names(item))
+            names.extend(extract_names(item, role))
     
     return names
+
+def analyze_member_staff_overlap(json_files):
+    """
+    Analyzes if people appear as both members and staff across House and Senate committee files.
+    Only analyzes files from house_senate_committees.py schema which have explicit member/staff distinctions.
+    Ignores member/staff distinctions in departments, judiciary, and international organizations.
+    
+    Args:
+        json_files: List of JSON file paths to analyze
+    """
+    # Dictionary to keep track of each person's roles and the files they appear in
+    # {name: {"member": [files], "staff": [files], "unknown": [files]}}
+    people_roles = {}
+    
+    # Only process House and Senate committee files which have explicit member/staff distinction
+    house_senate_committee_files = []
+    
+    # Classify files based on their type
+    for json_file in json_files:
+        file_name = json_file.name
+        if "HOUSECOMMITTEES" in file_name or "SENATECOMMITTEES" in file_name:
+            house_senate_committee_files.append(json_file)
+    
+    # Process committee files (these have explicit member/staff distinction)
+    for json_file in house_senate_committee_files:
+        file_name = json_file.name
+        with open(json_file, 'r', encoding='utf-8') as f:
+            try:
+                data = json.load(f)
+                
+                # Process committee files looking for members and staff
+                if "committees" in data:
+                    for committee in data["committees"]:
+                        # Process each subcommittee (including main committee which is stored as a subcommittee)
+                        if "subcommittees" in committee:
+                            for subcommittee in committee["subcommittees"]:
+                                if "subcommittee_members" in subcommittee:
+                                    for person in subcommittee["subcommittee_members"]:
+                                        # Check if it's a member or staff based on field names
+                                        if "member_name" in person and person["member_name"]:
+                                            name = person["member_name"]
+                                            role = "member"
+                                        elif "staff_name" in person and person["staff_name"]:
+                                            name = person["staff_name"]
+                                            role = "staff"
+                                        else:
+                                            continue
+                                            
+                                        # Skip placeholders and empty names
+                                        if not name or name.strip() == "" or name.lower() in ["[vacant]", "n/a"]:
+                                            continue
+                                        
+                                        # Initialize entry for this person if it doesn't exist
+                                        if name not in people_roles:
+                                            people_roles[name] = {"member": [], "staff": [], "unknown": []}
+                                        
+                                        # Add this file to the appropriate role list
+                                        if file_name not in people_roles[name][role]:
+                                            people_roles[name][role].append(file_name)
+            except json.JSONDecodeError:
+                print(f"Error: Could not parse JSON file {file_name}")
+                continue
+            except KeyError as e:
+                print(f"Error: Missing expected key in {file_name}: {e}")
+                continue
+    
+    # Find people who appear as both member and staff
+    dual_role_people = {}
+    for name, roles in people_roles.items():
+        if roles["member"] and roles["staff"]:
+            # Count total occurrences as both member and staff
+            member_count = len(roles["member"])
+            staff_count = len(roles["staff"])
+            total_dual_roles = member_count + staff_count
+            
+            dual_role_people[name] = {
+                "member_files": roles["member"],
+                "staff_files": roles["staff"],
+                "member_count": member_count,
+                "staff_count": staff_count,
+                "total_dual_roles": total_dual_roles
+            }
+    
+    # Print analysis results
+    print(f"\nTotal people found who appear as both member and staff: {len(dual_role_people)}")
+    print(f"Total unique people found in all House/Senate committee files: {len(people_roles)}")
+    percentage = (len(dual_role_people) / len(people_roles)) * 100 if people_roles else 0
+    print(f"Percentage of people with dual roles: {percentage:.2f}%")
+    print(f"Number of House/Senate committee files analyzed: {len(house_senate_committee_files)}")
+    print("\nNote: Only analyzing House/Senate committee files for member/staff overlap")
+    print("Other file types (departments, judiciary, international organizations) are not checked")
+    print("as requested, since those don't have the same member/staff distinction.")
+    
+    # Show top people with most dual role occurrences
+    max_examples = 10
+    print("\nTop people appearing as both member and staff (sorted by total occurrences):")
+    
+    sorted_dual_roles = sorted(
+        dual_role_people.items(), 
+        key=lambda x: x[1]["total_dual_roles"], 
+        reverse=True
+    )
+    
+    for i, (name, data) in enumerate(sorted_dual_roles[:max_examples]):
+        print(f"  {i+1}. \"{name}\":")
+        print(f"     - Member in {data['member_count']} files")
+        print(f"     - Staff in {data['staff_count']} files")
+        
+        # Show sample files (up to 3) for each role
+        if data['member_files']:
+            print(f"     - Member example files: {', '.join(data['member_files'][:3])}")
+            if len(data['member_files']) > 3:
+                print(f"       and {len(data['member_files']) - 3} more files")
+                
+        if data['staff_files']:
+            print(f"     - Staff example files: {', '.join(data['staff_files'][:3])}")
+            if len(data['staff_files']) > 3:
+                print(f"       and {len(data['staff_files']) - 3} more files")
+    
+    if len(sorted_dual_roles) > max_examples:
+        print(f"  ... and {len(sorted_dual_roles) - max_examples} more people with dual roles")
+    
+    # Count dual roles by file
+    files_with_dual_roles = {}
+    for name, data in dual_role_people.items():
+        all_files = set(data["member_files"] + data["staff_files"])
+        for file_name in all_files:
+            if file_name not in files_with_dual_roles:
+                files_with_dual_roles[file_name] = []
+            files_with_dual_roles[file_name].append(name)
+    
+    # Show files with most dual-role people
+    print("\nFiles with the most people appearing in dual roles:")
+    sorted_files = sorted(
+        files_with_dual_roles.items(),
+        key=lambda x: len(x[1]),
+        reverse=True
+    )
+    
+    for file_name, names in sorted_files[:max_examples]:
+        print(f"  {file_name}: {len(names)} people with dual roles")
+        
+    if len(sorted_files) > max_examples:
+        print(f"  ... and {len(sorted_files) - max_examples} more files with dual-role people")
 
 if __name__ == "__main__":
     analyze_directory_files()
