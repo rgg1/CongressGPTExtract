@@ -3,12 +3,26 @@ import json
 import re
 import statistics
 import collections
+import sys
 from pathlib import Path
 
-def analyze_directory_files():
+def analyze_directory_files(congress_number=None):
+    """
+    Analyze the output files for a specific congress number or the default (108).
+    
+    Args:
+        congress_number: The congress number to analyze.
+    """
+    # Get the root directory
+    script_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+    root_dir = script_dir.parent
+    
+    # Use the provided congress number or default to 108
+    congress = congress_number or "108"
+    
     # Define the directories
-    txt_dir = Path("congressional_directory_files/congress_108/txt")
-    json_dir = Path("outputs/108")
+    txt_dir = root_dir / f"congressional_directory_files/congress_{congress}/txt"
+    json_dir = root_dir / f"outputs/{congress}"
     
     # Get all text files
     txt_files = [f for f in txt_dir.glob("*.txt")]
@@ -574,4 +588,9 @@ def analyze_member_staff_overlap(json_files):
         print(f"  ... and {len(sorted_files) - max_examples} more files with dual-role people")
 
 if __name__ == "__main__":
-    analyze_directory_files()
+    # Check if congress number is provided via command line
+    if len(sys.argv) > 1:
+        congress_number = sys.argv[1]
+        analyze_directory_files(congress_number)
+    else:
+        analyze_directory_files()

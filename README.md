@@ -9,6 +9,7 @@ The Congressional Directory is a comprehensive publication containing informatio
 1. Processes raw `.txt` files extracted from Congressional Directory PDFs
 2. Uses OpenAI's GPT-4o-mini to identify and extract structured information
 3. Outputs standardized JSON data files with details about individuals and organizations
+4. Provides utilities to enhance data with BioGuide IDs and Thomas IDs for research integration
 
 ## Features
 
@@ -52,6 +53,21 @@ python run.py --congress 114-117 --processors judiciary departments
 
 # Use a specific API key
 python run.py --congress 116 --api_key sk-your-key-here
+
+# Add BioGuide IDs to committee data
+python tools/add_bioguide_id.py
+
+# Add Thomas IDs to committee data
+python tools/add_thomas_id.py
+
+# Verify BioGuide ID matching statistics
+python tools/bioguide_id_checker.py
+
+# Verify Thomas ID matching statistics
+python tools/thomas_id_checker.py
+
+# Run output verification tool
+python tools/output_verifier.py [congress_number]
 ```
 
 ### Windows Executable
@@ -67,6 +83,15 @@ The executable is built and tested via GitHub Actions to ensure functionality.
 ## Output Structure
 
 The tool produces JSON files in the `outputs/<congress_number>/` directory. Each file follows a standardized schema for its section type:
+
+## Project Structure
+
+The repository is organized as follows:
+- `gpt_parsing_files/`: Core extraction modules for each type of content
+- `tools/`: Utility scripts for enriching and validating outputs
+- `congressional_directory_files/`: Source text files organized by congress
+- `outputs/`: JSON output files organized by congress
+- Root: Main entry points and configuration files
 
 ```json
 {

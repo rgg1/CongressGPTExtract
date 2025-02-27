@@ -161,7 +161,13 @@ def main():
     Main function to analyze the matching statistics. When called,
     it will analyze the matching statistics from the JSON files in the `json_files` list.
     """
-    json_files = ["CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_bioguide.json"]
+    import os
+    
+    # Get the root directory of the project
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(script_dir)
+    
+    json_files = [os.path.join(root_dir, "CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_bioguide.json")]
 
     for json_file in json_files:
         try:

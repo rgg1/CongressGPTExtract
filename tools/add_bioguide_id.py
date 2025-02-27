@@ -217,12 +217,18 @@ def main():
     updates the data with BioGuide IDs, and writes the updated
     data to a new JSON file.
     """
+    import os
+    
+    # Get the root directory of the project
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(script_dir)
+    
     # Input and output file paths
-    json_files = ["outputs/117/CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json"]
-    legislators_file = "legislators.csv"
+    json_files = [os.path.join(root_dir, "outputs/117/CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json")]
+    legislators_file = os.path.join(root_dir, "legislators.csv")
 
     for json_file in json_files:
-        output_file = json_file.split("/")[-1].replace(".json", "_with_bioguide.json")
+        output_file = os.path.join(root_dir, json_file.split("/")[-1].replace(".json", "_with_bioguide.json"))
         try:
             # Load the JSON data
             with open(json_file, "r") as f:

@@ -234,16 +234,23 @@ def main():
     When run, this script will process all JSON files in the specified directory and output
     updated JSON files with Thomas IDs.
     """
-    # json_files = ["congress_117_json_main_new/CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json"]
+    # Get the root directory of the project
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(script_dir)
+    
+    # Define paths relative to root directory
+    outputs_dir = os.path.join(root_dir, "outputs/117")
+    csv_file = os.path.join(root_dir, "committee_names.csv")
+    
+    # Find all HOUSECOMMITTEES files
     json_files = [
-        "outputs/117/" + f
-        for f in os.listdir("outputs/117")
+        os.path.join(outputs_dir, f)
+        for f in os.listdir(outputs_dir)
         if "HOUSECOMMITTEES.txt" in f
     ]
-    csv_file = "committee_names.csv"
 
     for json_file in json_files:
-        output_file = json_file.split("/")[-1].replace(".json", "_with_thomas_ids.json")
+        output_file = os.path.join(root_dir, os.path.basename(json_file).replace(".json", "_with_thomas_ids.json"))
         try:
             with open(json_file, "r") as f:
                 committee_data = json.load(f)

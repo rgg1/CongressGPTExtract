@@ -138,15 +138,17 @@ def main():
     """
     Main function to analyze the coverage of Thomas IDs in committee data.
     """
-    input_file = "updated_committees.json"  # Use the updated JSON file with thomas_ids
-    # input_files = ["CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_thomas_ids.json"]
-    input_file = "CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_thomas_ids.json"
+    import os
+    
+    # Get the root directory of the project
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(script_dir)
+    
+    # Define input file path
+    input_file = os.path.join(root_dir, "CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_thomas_ids.json")
 
     # Run analysis
-    # for input_file in input_files:
-    _, _, _ = analyze_committee_coverage(
-        input_file
-    )
+    _, _, _ = analyze_committee_coverage(input_file)
 
 
 if __name__ == "__main__":
