@@ -1,0 +1,1609 @@
+{
+  "committees": [
+    {
+      "committee_name": "Committee on Indian Affairs",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Committee on Indian Affairs",
+          "subcommittee_members": [
+            {
+              "member_name": "Ben Nighthorse Campbell",
+              "member_role": "Chairman",
+              "member_state": "Colorado"
+            },
+            {
+              "member_name": "Daniel K. Inouye",
+              "member_role": "Vice Chairman",
+              "member_state": "Hawaii"
+            },
+            {
+              "member_name": "John McCain",
+              "member_role": "Member",
+              "member_state": "Arizona"
+            },
+            {
+              "member_name": "Kent Conrad",
+              "member_role": "Member",
+              "member_state": "North Dakota"
+            },
+            {
+              "member_name": "Pete V. Domenici",
+              "member_role": "Member",
+              "member_state": "New Mexico"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "Member",
+              "member_state": "Nevada"
+            },
+            {
+              "member_name": "Craig Thomas",
+              "member_role": "Member",
+              "member_state": "Wyoming"
+            },
+            {
+              "member_name": "Daniel K. Akaka",
+              "member_role": "Member",
+              "member_state": "Hawaii"
+            },
+            {
+              "member_name": "Orrin G. Hatch",
+              "member_role": "Member",
+              "member_state": "Utah"
+            },
+            {
+              "member_name": "Byron L. Dorgan",
+              "member_role": "Member",
+              "member_state": "North Dakota"
+            },
+            {
+              "member_name": "James M. Inhofe",
+              "member_role": "Member",
+              "member_state": "Oklahoma"
+            },
+            {
+              "member_name": "Tim Johnson",
+              "member_role": "Member",
+              "member_state": "South Dakota"
+            },
+            {
+              "member_name": "Gordon Smith",
+              "member_role": "Member",
+              "member_state": "Oregon"
+            },
+            {
+              "member_name": "Maria Cantwell",
+              "member_role": "Member",
+              "member_state": "Washington"
+            },
+            {
+              "member_name": "Lisa Murkowski",
+              "member_role": "Member",
+              "member_state": "Alaska"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Paul Moorehead",
+          "staff_role": "Majority Staff Director/Chief Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Morgan Litchfield",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John Tahsuda",
+          "staff_role": "Senior Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jim Hall",
+          "staff_role": "Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Lee Frazier",
+          "staff_role": "Professional Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Patricia Zell",
+          "staff_role": "Minority Staff Director/Chief Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "[Vacant]",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Carl Christensen",
+          "staff_role": "Senior Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Colin Kippen",
+          "staff_role": "Senior Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Janet Erickson",
+          "staff_role": "Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Diana Kupchella",
+          "staff_role": "Counsel",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Select Committee on Ethics",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Select Committee on Ethics",
+          "subcommittee_members": [
+            {
+              "member_name": "George V. Voinovich",
+              "member_role": "Chairman",
+              "member_state": "Ohio"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "Vice Chairman",
+              "member_state": "Nevada"
+            },
+            {
+              "member_name": "Pat Roberts",
+              "member_role": "Member",
+              "member_state": "Kansas"
+            },
+            {
+              "member_name": "Daniel K. Akaka",
+              "member_role": "Member",
+              "member_state": "Hawaii"
+            },
+            {
+              "member_name": "Craig Thomas",
+              "member_role": "Member",
+              "member_state": "Wyoming"
+            },
+            {
+              "member_name": "Blanche L. Lincoln",
+              "member_role": "Member",
+              "member_state": "Arkansas"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Robert L. Walker",
+          "staff_role": "Staff Director / Chief Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kenyen Brown",
+          "staff_role": "Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Eric Witiw",
+          "staff_role": "Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Annette M. Gillis",
+          "staff_role": "Chief Clerk",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John Lewter",
+          "staff_role": "Professional Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Danny Remington",
+          "staff_role": "Systems Administrator",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Greg Gomes",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Courtney Kaezyk",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Dawne Vernon",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Select Committee on Intelligence",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Select Committee on Intelligence",
+          "subcommittee_members": [
+            {
+              "member_name": "Pat Roberts",
+              "member_role": "Chairman",
+              "member_state": "Kansas"
+            },
+            {
+              "member_name": "John D. Rockefeller IV",
+              "member_role": "Vice Chairman",
+              "member_state": "West Virginia"
+            },
+            {
+              "member_name": "Orrin G. Hatch",
+              "member_role": "Member",
+              "member_state": "Utah"
+            },
+            {
+              "member_name": "Carl Levin",
+              "member_role": "Member",
+              "member_state": "Michigan"
+            },
+            {
+              "member_name": "Mike DeWine",
+              "member_role": "Member",
+              "member_state": "Ohio"
+            },
+            {
+              "member_name": "Dianne Feinstein",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Christopher S. Bond",
+              "member_role": "Member",
+              "member_state": "Missouri"
+            },
+            {
+              "member_name": "Ron Wyden",
+              "member_role": "Member",
+              "member_state": "Oregon"
+            },
+            {
+              "member_name": "Trent Lott",
+              "member_role": "Member",
+              "member_state": "Mississippi"
+            },
+            {
+              "member_name": "Richard Durbin",
+              "member_role": "Member",
+              "member_state": "Illinois"
+            },
+            {
+              "member_name": "Olympia J. Snowe",
+              "member_role": "Member",
+              "member_state": "Maine"
+            },
+            {
+              "member_name": "Evan Bayh",
+              "member_role": "Member",
+              "member_state": "Indiana"
+            },
+            {
+              "member_name": "Chuck Hagel",
+              "member_role": "Member",
+              "member_state": "Nebraska"
+            },
+            {
+              "member_name": "John Edwards",
+              "member_role": "Member",
+              "member_state": "North Carolina"
+            },
+            {
+              "member_name": "Saxby Chambliss",
+              "member_role": "Member",
+              "member_state": "Georgia"
+            },
+            {
+              "member_name": "Barbara A. Mikulski",
+              "member_role": "Member",
+              "member_state": "Maryland"
+            },
+            {
+              "member_name": "John W. Warner",
+              "member_role": "Member",
+              "member_state": "Virginia"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Bill Duhnke",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Chris Mellon",
+          "staff_role": "Minority Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kathleen P. McGhee",
+          "staff_role": "Chief Clerk",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Special Committee on Aging",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Special Committee on Aging",
+          "subcommittee_members": [
+            {
+              "member_name": "Larry E. Craig",
+              "member_role": "Chairman",
+              "member_state": "Idaho"
+            },
+            {
+              "member_name": "Richard C. Shelby",
+              "member_role": "Member",
+              "member_state": "Alabama"
+            },
+            {
+              "member_name": "John Breaux",
+              "member_role": "Member",
+              "member_state": "Louisiana"
+            },
+            {
+              "member_name": "Susan M. Collins",
+              "member_role": "Member",
+              "member_state": "Maine"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "Member",
+              "member_state": "Nevada"
+            },
+            {
+              "member_name": "Michael B. Enzi",
+              "member_role": "Member",
+              "member_state": "Wyoming"
+            },
+            {
+              "member_name": "Herb Kohl",
+              "member_role": "Member",
+              "member_state": "Wisconsin"
+            },
+            {
+              "member_name": "Gordon Smith",
+              "member_role": "Member",
+              "member_state": "Oregon"
+            },
+            {
+              "member_name": "James M. Jeffords",
+              "member_role": "Member",
+              "member_state": "Vermont"
+            },
+            {
+              "member_name": "James M. Talent",
+              "member_role": "Member",
+              "member_state": "Missouri"
+            },
+            {
+              "member_name": "Russell D. Feingold",
+              "member_role": "Member",
+              "member_state": "Wisconsin"
+            },
+            {
+              "member_name": "Peter G. Fitzgerald",
+              "member_role": "Member",
+              "member_state": "Illinois"
+            },
+            {
+              "member_name": "Ron Wyden",
+              "member_role": "Member",
+              "member_state": "Oregon"
+            },
+            {
+              "member_name": "Orrin G. Hatch",
+              "member_role": "Member",
+              "member_state": "Utah"
+            },
+            {
+              "member_name": "Blanche L. Lincoln",
+              "member_role": "Member",
+              "member_state": "Arkansas"
+            },
+            {
+              "member_name": "Elizabeth Dole",
+              "member_role": "Member",
+              "member_state": "North Carolina"
+            },
+            {
+              "member_name": "Evan Bayh",
+              "member_role": "Member",
+              "member_state": "Indiana"
+            },
+            {
+              "member_name": "Ted Stevens",
+              "member_role": "Member",
+              "member_state": "Alaska"
+            },
+            {
+              "member_name": "Thomas R. Carper",
+              "member_role": "Member",
+              "member_state": "Delaware"
+            },
+            {
+              "member_name": "Rick Santorum",
+              "member_role": "Member",
+              "member_state": "Pennsylvania"
+            },
+            {
+              "member_name": "Debbie Stabenow",
+              "member_role": "Member",
+              "member_state": "Michigan"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Lupe Wissel",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Zola McMurray",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Andrew Patzman",
+          "staff_role": "Chief Policy Advisor / Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Scott Nystrom",
+          "staff_role": "Senior Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ron Crump",
+          "staff_role": "Senior Investigator / Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Omar Valverde",
+          "staff_role": "Senior Investigator / Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Dana Bostic Lukken",
+          "staff_role": "Senior Health Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Maria Vallejo",
+          "staff_role": "Press Secretary",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jeff Schrade",
+          "staff_role": "Communications Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Trenton Wright",
+          "staff_role": "Legislative Correspondent",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Stacy Smith",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Wonderlich",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "National Republican Senatorial Committee",
+      "subcommittees": [
+        {
+          "subcommittee_name": "National Republican Senatorial Committee",
+          "subcommittee_members": [
+            {
+              "member_name": "George Allen",
+              "member_role": "Chairman",
+              "member_state": "Virginia"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Jay Timmons",
+          "staff_role": "Executive Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Stan Huckaby",
+          "staff_role": "Treasurer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Nicole Sexton",
+          "staff_role": "Director of Finance",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ed Rahal",
+          "staff_role": "Director of Corporate Affairs",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Dan Allen",
+          "staff_role": "Director of Communications",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Gary Feld",
+          "staff_role": "Director of Research",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Steve Hoersting",
+          "staff_role": "Legal Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Patrick Davis",
+          "staff_role": "Political Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Linda Bond",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ted Borie",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Thomas Breen",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John Byrd",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Keith Carter",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Krista Cole",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Taylor Craig",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mark Drake",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jonathan Finger",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ashleigh Foard",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Megan Foran",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Blair Foutch",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Heidi Frederickson",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sandy Fuentes",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Will Fulgeras",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "David Gershanik",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John Gibson",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Leslie Grabias",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Matt Granish",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Vince Haley",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Daniel Kayede",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mary Kinner",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mike Kroeger",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Rachel Lavender",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Renee Limoge",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Shahla Mansoori",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Fraley Marshall",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Thomas Maxwell",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mike McSherry",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Court Michau",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Carmen Miller",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Megan Morgan",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Liz Murray",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tara Nelson",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Joseph Osborne",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Laura Petrilino",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Gretchen Purser",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Doug Robinson",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Rogers",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Frank Sadler",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tricia Sell",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Beth Sherrard",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Bill Spence",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Stephen Taylor",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jim Tobin",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Elizabeth Verrill",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tricia Waite",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Hannah Walker",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Eric Wang",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "David Welch",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Erica White",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kevin Wright",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Evan Yost",
+          "staff_role": "Staff",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Republican Policy Committee",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Republican Policy Committee",
+          "subcommittee_members": [
+            {
+              "member_name": "Jon Kyl",
+              "member_role": "Chairman",
+              "member_state": "Arizona"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Lawrence Willcox",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Katie Gumerson",
+          "staff_role": "Deputy Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Craig Cheney",
+          "staff_role": "Administrative Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mark Gaspers",
+          "staff_role": "Analyst - Defense Policy",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Daniel Fata",
+          "staff_role": "Analyst - Foreign Policy",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Paul Georgia",
+          "staff_role": "Analyst - Natural Resources, Energy, and Environmental Policy",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Steven J. Duffield",
+          "staff_role": "Analyst - Judiciary Issues",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kyle Hicks",
+          "staff_role": "Analyst - Labor, Education, Welfare Policy",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Diane Major",
+          "staff_role": "Analyst - Health Care Policy",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Eric Schlecht",
+          "staff_role": "Analyst - Tax, Budget, and Economic Policy",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jason Thomas",
+          "staff_role": "Analyst - Economic Policy",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Judy Gorman Prinkey",
+          "staff_role": "Professional Staff - Editor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tom Pulju",
+          "staff_role": "Professional Staff - System Administrator/RVA Analyst",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Carolyn Laird",
+          "staff_role": "Professional Staff - Station Manager/Special Projects",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Chad Luck",
+          "staff_role": "Professional Staff - Station Operator/Project Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Anne Wharam",
+          "staff_role": "Professional Staff - Station Operator/Project Assistant",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Senate Republican Conference",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Senate Republican Conference",
+          "subcommittee_members": [
+            {
+              "member_name": "Rick Santorum",
+              "member_role": "Chairman",
+              "member_state": "Pennsylvania"
+            },
+            {
+              "member_name": "Kay Bailey Hutchison",
+              "member_role": "Vice Chair",
+              "member_state": "Texas"
+            },
+            {
+              "member_name": "Jon Kyl",
+              "member_role": "Committee Chairman - Policy",
+              "member_state": "Arizona"
+            },
+            {
+              "member_name": "George Allen",
+              "member_role": "Committee Chairman - NRSC",
+              "member_state": "Virginia"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Mark Rodgers",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Rebecca Kessler",
+          "staff_role": "Assistant to the Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Robert Traynham",
+          "staff_role": "Deputy Staff Director/Communications Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tonya Bah",
+          "staff_role": "Assistant to Deputy Staff Director/Office Consultant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Chris Angrisani",
+          "staff_role": "Art Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Laura Gill",
+          "staff_role": "Senior Graphic Designer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Katie Wise",
+          "staff_role": "Graphic Designer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tim Petty",
+          "staff_role": "Director of Information Technology",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Rebecca Cotton",
+          "staff_role": "Technology Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Eric Miller",
+          "staff_role": "Systems Administrator",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Henry Peterson, Jr.",
+          "staff_role": "Television Services Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Chris Ahlberg",
+          "staff_role": "Photographer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Cyrus Pearson",
+          "staff_role": "Photographer/Editor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Deirdre M. Woodbyrne",
+          "staff_role": "Producer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Dave Hodgdon",
+          "staff_role": "Radio Services Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Alex Kauffman",
+          "staff_role": "Booker for Radio Productions",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Barbara Ledeen",
+          "staff_role": "Director of Coalitions",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Drew Cantor",
+          "staff_role": "Senior Communications Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Eden Gordon",
+          "staff_role": "Office Manager",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sarah Berk",
+          "staff_role": "Communications Manager",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Elizabeth Keys",
+          "staff_role": "Communications Manager",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jennifer Mahurin",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Democratic Policy Committee",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Democratic Policy Committee",
+          "subcommittee_members": [
+            {
+              "member_name": "Byron Dorgan",
+              "member_role": "Chairman",
+              "member_state": "North Dakota"
+            },
+            {
+              "member_name": "Patty Murray",
+              "member_role": "Regional Chair",
+              "member_state": "Washington"
+            },
+            {
+              "member_name": "Ron Wyden",
+              "member_role": "Member",
+              "member_state": "Oregon"
+            },
+            {
+              "member_name": "Tim Johnson",
+              "member_role": "Member",
+              "member_state": "South Dakota"
+            },
+            {
+              "member_name": "Evan Bayh",
+              "member_role": "Regional Chair",
+              "member_state": "Indiana"
+            },
+            {
+              "member_name": "Charles E. Schumer",
+              "member_role": "Member",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "Blanche L. Lincoln",
+              "member_role": "Member",
+              "member_state": "Arkansas"
+            },
+            {
+              "member_name": "Jack Reed",
+              "member_role": "Regional Chair",
+              "member_state": "Rhode Island"
+            },
+            {
+              "member_name": "Zell Miller",
+              "member_role": "Member",
+              "member_state": "Georgia"
+            },
+            {
+              "member_name": "Bill Nelson",
+              "member_role": "Member",
+              "member_state": "Florida"
+            },
+            {
+              "member_name": "Mary L. Landrieu",
+              "member_role": "Regional Chair",
+              "member_state": "Louisiana"
+            },
+            {
+              "member_name": "Thomas R. Carper",
+              "member_role": "Member",
+              "member_state": "Delaware"
+            },
+            {
+              "member_name": "Jon S. Corzine",
+              "member_role": "Member",
+              "member_state": "New Jersey"
+            },
+            {
+              "member_name": "Ernest F. Hollings",
+              "member_role": "Member",
+              "member_state": "South Carolina"
+            },
+            {
+              "member_name": "Mark Dayton",
+              "member_role": "Member",
+              "member_state": "Minnesota"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "ex officio",
+              "member_state": "Nevada"
+            },
+            {
+              "member_name": "John D. Rockefeller IV",
+              "member_role": "ex officio",
+              "member_state": "West Virginia"
+            },
+            {
+              "member_name": "Barbara Mikulski",
+              "member_role": "ex officio",
+              "member_state": "Maryland"
+            },
+            {
+              "member_name": "Thomas A. Daschle",
+              "member_role": "Member",
+              "member_state": "South Dakota"
+            },
+            {
+              "member_name": "Daniel K. Akaka",
+              "member_role": "Member",
+              "member_state": "Hawaii"
+            },
+            {
+              "member_name": "Russell D. Feingold",
+              "member_role": "Member",
+              "member_state": "Wisconsin"
+            },
+            {
+              "member_name": "Joseph I. Lieberman",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "Dianne Feinstein",
+              "member_role": "Member",
+              "member_state": "California"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Chuck Cooper",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Emily Tyler",
+          "staff_role": "Assistant to the Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tim Gaffaney",
+          "staff_role": "Research Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Bethany Dickerson",
+          "staff_role": "Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Evan Gottesman",
+          "staff_role": "Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Hickey",
+          "staff_role": "Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Isaac Reyes",
+          "staff_role": "Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Celine Senseney",
+          "staff_role": "Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Peter Umhofer",
+          "staff_role": "Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ted Zegers",
+          "staff_role": "Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Doug Connelly",
+          "staff_role": "Publications Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Alex Fisher",
+          "staff_role": "Publications Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Katharine Moore",
+          "staff_role": "Publications Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Chris Tishue",
+          "staff_role": "Publications Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Clare Amoruso",
+          "staff_role": "Votes Analyst",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kristin Hedger",
+          "staff_role": "Votes Analyst",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Michael Mozden",
+          "staff_role": "Votes Analyst",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Steering and Coordination Committee",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Steering and Coordination Committee",
+          "subcommittee_members": [
+            {
+              "member_name": "Hillary Rodham Clinton",
+              "member_role": "Chair",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "John F. Kerry",
+              "member_role": "Member",
+              "member_state": "Massachusetts"
+            },
+            {
+              "member_name": "Carl Levin",
+              "member_role": "Member",
+              "member_state": "Michigan"
+            },
+            {
+              "member_name": "Daniel K. Inouye",
+              "member_role": "Member",
+              "member_state": "Hawaii"
+            },
+            {
+              "member_name": "Herbert H. Kohl",
+              "member_role": "Member",
+              "member_state": "Wisconsin"
+            },
+            {
+              "member_name": "Robert C. Byrd",
+              "member_role": "Member",
+              "member_state": "West Virginia"
+            },
+            {
+              "member_name": "Barbara Boxer",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Edward M. Kennedy",
+              "member_role": "Member",
+              "member_state": "Massachusetts"
+            },
+            {
+              "member_name": "Joseph R. Biden, Jr.",
+              "member_role": "Member",
+              "member_state": "Delaware"
+            },
+            {
+              "member_name": "Thomas A. Daschle",
+              "member_role": "Member",
+              "member_state": "South Dakota"
+            },
+            {
+              "member_name": "Patrick J. Leahy",
+              "member_role": "Member",
+              "member_state": "Vermont"
+            },
+            {
+              "member_name": "Jeff Bingaman",
+              "member_role": "Member",
+              "member_state": "New Mexico"
+            },
+            {
+              "member_name": "Christopher J. Dodd",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "Tom Harkin",
+              "member_role": "Member",
+              "member_state": "Iowa"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "Member",
+              "member_state": "Nevada"
+            },
+            {
+              "member_name": "Max Baucus",
+              "member_role": "Member",
+              "member_state": "Montana"
+            },
+            {
+              "member_name": "Richard J. Durbin",
+              "member_role": "Member",
+              "member_state": "Illinois"
+            },
+            {
+              "member_name": "Bob Graham",
+              "member_role": "Member",
+              "member_state": "Florida"
+            },
+            {
+              "member_name": "John Edwards",
+              "member_role": "Member",
+              "member_state": "North Carolina"
+            },
+            {
+              "member_name": "Kent Conrad",
+              "member_role": "Member",
+              "member_state": "North Dakota"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Jodi Sakol",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Josh Ackil",
+          "staff_role": "Associate Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Leslie Brown",
+          "staff_role": "Associate Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sarah Lucas",
+          "staff_role": "Associate Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ilia Rodriguez",
+          "staff_role": "Associate Director",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Technology and Communications Committee",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Technology and Communications Committee",
+          "subcommittee_members": [
+            {
+              "member_name": "Thomas A. Daschle",
+              "member_role": "Chairman",
+              "member_state": "South Dakota"
+            },
+            {
+              "member_name": "Ernest F. Hollings",
+              "member_role": "Member",
+              "member_state": "South Carolina"
+            },
+            {
+              "member_name": "Patty Murray",
+              "member_role": "Member",
+              "member_state": "Washington"
+            },
+            {
+              "member_name": "Hillary Rodham Clinton",
+              "member_role": "Member",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "Jeff Bingaman",
+              "member_role": "Member",
+              "member_state": "New Mexico"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "ex officio",
+              "member_state": "Nevada"
+            },
+            {
+              "member_name": "Christopher J. Dodd",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "Kent Conrad",
+              "member_role": "Member",
+              "member_state": "North Dakota"
+            },
+            {
+              "member_name": "John B. Breaux",
+              "member_role": "Member",
+              "member_state": "Louisiana"
+            },
+            {
+              "member_name": "Tim Johnson",
+              "member_role": "Member",
+              "member_state": "South Dakota"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Joseph Trahern",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sarah Feinberg",
+          "staff_role": "Deputy Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mary Helen Fuller",
+          "staff_role": "Administrator",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Russ Kelley",
+          "staff_role": "Radio Producer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ike Blake",
+          "staff_role": "Editor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Toby Hayman",
+          "staff_role": "Editor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mike Million",
+          "staff_role": "Editor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Nathan Ackerman",
+          "staff_role": "TV Producer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Barrie",
+          "staff_role": "Internet Technology Adviser",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jeff Hecker",
+          "staff_role": "Internet Technology Adviser",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Clare Flood",
+          "staff_role": "Videographer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Jones",
+          "staff_role": "Videographer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kevin Kelleher",
+          "staff_role": "Videographer",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sara Gragert",
+          "staff_role": "Press Assistant",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Senate Democratic Conference",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Senate Democratic Conference",
+          "subcommittee_members": [
+            {
+              "member_name": "Barbara A. Mikulski",
+              "member_role": "Secretary",
+              "member_state": "Maryland"
+            },
+            {
+              "member_name": "Jennifer Luray",
+              "member_role": "Liaison to Leadership",
+              "member_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Democratic Senatorial Campaign Committee",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Democratic Senatorial Campaign Committee",
+          "subcommittee_members": [
+            {
+              "member_name": "Jon S. Corzine",
+              "member_role": "Chairman",
+              "member_state": "New Jersey"
+            },
+            {
+              "member_name": "Debbie Stabenow",
+              "member_role": "Vice Chairman",
+              "member_state": "Michigan"
+            },
+            {
+              "member_name": "Thomas A. Daschle",
+              "member_role": "Democratic Leader",
+              "member_state": "South Dakota"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

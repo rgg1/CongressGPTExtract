@@ -1,0 +1,749 @@
+{
+  "cabinet": [
+    {
+      "member_name": "MEL MARTINEZ",
+      "member_role": "Secretary of Housing and Urban Development"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT",
+      "department_members": [
+        {
+          "member_name": "MEL MARTINEZ",
+          "member_role": "Secretary of Housing and Urban Development"
+        },
+        {
+          "member_name": "FRANK R. JIMENEZ",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "TERRY COUCH",
+          "member_role": "Special Assistant to the Secretary"
+        },
+        {
+          "member_name": "PAULINE LORE",
+          "member_role": "Special Assistant to the Chief of Staff"
+        },
+        {
+          "member_name": "PHIL MUSSER",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "OSCAR ANDERSON",
+          "member_role": "Deputy Chief of Staff for Policy and Programs"
+        },
+        {
+          "member_name": "RYAN STREETER",
+          "member_role": "Director, Center for Faith Based and Community Initiatives"
+        },
+        {
+          "member_name": "MARCELLA BELT",
+          "member_role": "Executive Office for Administrative Operations and Management"
+        },
+        {
+          "member_name": "MARIANNE C. DECONT",
+          "member_role": "Administrative Officer"
+        },
+        {
+          "member_name": "ALPHONSO JACKSON",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "KIMBERLY SNYDER",
+          "member_role": "Staff Assistant"
+        },
+        {
+          "member_name": "MARGARET LARA",
+          "member_role": "Special Assistant to the Deputy Secretary"
+        },
+        {
+          "member_name": "CAMILLE PIERCE",
+          "member_role": "Senior Advisor to the Deputy Secretary"
+        },
+        {
+          "member_name": "PAMELA H. PATENAUDE",
+          "member_role": "Assistant Deputy Secretary"
+        },
+        {
+          "member_name": "JO BAYLOR",
+          "member_role": "Director, Small and Disadvantaged Business Utilization"
+        },
+        {
+          "member_name": "CAROLYN Y. PEOPLES",
+          "member_role": "Assistant Secretary, Office of Fair Housing and Equal Opportunity"
+        },
+        {
+          "member_name": "FLOYD MAY",
+          "member_role": "General Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "BRYAN GREENE",
+          "member_role": "Director, Office of Policy and Program Evaluation"
+        },
+        {
+          "member_name": "DAVID ENGEL",
+          "member_role": "Deputy Assistant Secretary for Enforcement Programs"
+        },
+        {
+          "member_name": "KAREN A. NEWTON",
+          "member_role": "Deputy Assistant Secretary for Operations and Management"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Deputy Assistant Secretary for Economic Opportunity, Monitoring and Compliance"
+        },
+        {
+          "member_name": "VICKERS B. MEADOWS",
+          "member_role": "Assistant Secretary / Chief Information Officer"
+        },
+        {
+          "member_name": "FRED STECKLER",
+          "member_role": "General Deputy Assistant Secretary for Administration"
+        },
+        {
+          "member_name": "GLORIA PARKER",
+          "member_role": "Chief Technology Officer"
+        },
+        {
+          "member_name": "CYNTHIA A. O'CONNOR",
+          "member_role": "Director, Office of the Executive Secretariat"
+        },
+        {
+          "member_name": "DEXTER J. SIDNEY",
+          "member_role": "Chief Procurement Officer"
+        },
+        {
+          "member_name": "BARBARA EDWARDS",
+          "member_role": "Deputy Assistant Secretary for Human Resource Management"
+        },
+        {
+          "member_name": "SHERMAN R. LANCEFIELD",
+          "member_role": "Deputy Assistant Secretary for Operations"
+        },
+        {
+          "member_name": "RICHARD A. HAUSER",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "KATHLEEN KOCH",
+          "member_role": "Deputy General Counsel for Equal Opportunity and Administrative Law"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Deputy General Counsel for Programs and Regulations"
+        },
+        {
+          "member_name": "WILLIAM C. WHITE",
+          "member_role": "Deputy General Counsel for Litigation (acting)"
+        },
+        {
+          "member_name": "GEORGE L. WEIDENFELLER",
+          "member_role": "Deputy General Counsel for Housing Finance Operations"
+        },
+        {
+          "member_name": "ROBERT S. KENISON",
+          "member_role": "Associate General Counsel for Assisted Housing and Community Development"
+        },
+        {
+          "member_name": "JOHN P. KENNEDY",
+          "member_role": "Associate General Counsel for Finance and Regulatory Enforcement"
+        },
+        {
+          "member_name": "SAM E. HUTCHINSON",
+          "member_role": "Associate General Counsel for Human Resources"
+        },
+        {
+          "member_name": "JOHN J. DALY",
+          "member_role": "Associate General Counsel for Insured Housing"
+        },
+        {
+          "member_name": "CAMILLE E. ACEVEDO",
+          "member_role": "Associate General Counsel for Legislation and Regulations"
+        },
+        {
+          "member_name": "CAROLE W. WILSON",
+          "member_role": "Associate General Counsel for Litigation"
+        },
+        {
+          "member_name": "HARRY L. CAREY",
+          "member_role": "Associate General Counsel for Fair Housing"
+        },
+        {
+          "member_name": "JON L. GANT",
+          "member_role": "Director, Departmental Enforcement Center"
+        },
+        {
+          "member_name": "ROY BERNARDI",
+          "member_role": "Assistant Secretary, Office of Community Planning and Development"
+        },
+        {
+          "member_name": "NELSON BREGON",
+          "member_role": "General Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "ANNA MARIA FARIAS",
+          "member_role": "Deputy Assistant Secretary for Special Initiatives"
+        },
+        {
+          "member_name": "WILLIAM EARGLE, JR.",
+          "member_role": "Deputy Assistant Secretary for Operations"
+        },
+        {
+          "member_name": "DONALD MAINS",
+          "member_role": "Deputy Assistant Secretary for Economic Development"
+        },
+        {
+          "member_name": "PATRICIA CARLILE",
+          "member_role": "Deputy Assistant Secretary for Special Needs"
+        },
+        {
+          "member_name": "NELSON BREGON",
+          "member_role": "Deputy Assistant Secretary for Grant Programs"
+        },
+        {
+          "member_name": "ANGELA ANTONELLI",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "DE W. RITCHIE",
+          "member_role": "Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "MARGARET E. WHITE",
+          "member_role": "Assistant Chief Financial Officer for Accounting"
+        },
+        {
+          "member_name": "JAMES M. MARTIN",
+          "member_role": "Assistant Chief Financial Officer for Financial Management"
+        },
+        {
+          "member_name": "DAVID M. GIBBONS",
+          "member_role": "Assistant Chief Financial Officer for Budget"
+        },
+        {
+          "member_name": "HARTLEY M. JONES",
+          "member_role": "Assistant Chief Financial Officer for Systems"
+        },
+        {
+          "member_name": "KENNETH M. DONOHUE, SR.",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "MICHAEL P. STEPHENS",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "JAMES HEIST",
+          "member_role": "Assistant Inspector General, Office of Audit"
+        },
+        {
+          "member_name": "BRYAN SADDLER",
+          "member_role": "Counsel to the Inspector General, Office of Legal Counsel"
+        },
+        {
+          "member_name": "DENNIS A. RASCHKA",
+          "member_role": "Assistant Inspector General, Office of Management and Policy"
+        },
+        {
+          "member_name": "R. JOE HABAN",
+          "member_role": "Assistant Inspector General, Office of Investigation"
+        },
+        {
+          "member_name": "JOHN C. WEICHER",
+          "member_role": "Assistant Secretary / Federal Housing Commissioner"
+        },
+        {
+          "member_name": "SEAN CASSIDY",
+          "member_role": "General Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "STILLMAN KNIGHT",
+          "member_role": "Deputy Assistant Secretary for Multifamily Housing Programs"
+        },
+        {
+          "member_name": "JOHN J. CONNTS",
+          "member_role": "Deputy Assistant Secretary for Single Family Housing (acting)"
+        },
+        {
+          "member_name": "MICHAEL F. HILL",
+          "member_role": "Deputy Assistant Secretary for Housing Operations"
+        },
+        {
+          "member_name": "MARGARET A. YOUNG",
+          "member_role": "Deputy Assistant Secretary for Finance and Budget"
+        },
+        {
+          "member_name": "STEVEN B. NESMITH",
+          "member_role": "Assistant Secretary for Congressional and Intergovernmental Relations"
+        },
+        {
+          "member_name": "WILLIAM M. HIMPLER",
+          "member_role": "Deputy Assistant Secretary for Congressional Relations"
+        },
+        {
+          "member_name": "GREGORY Y. HILL",
+          "member_role": "Deputy Assistant Secretary for Intergovernmental Relations"
+        },
+        {
+          "member_name": "L. CARTER CORNICK",
+          "member_role": "Deputy Assistant Secretary for Legislation"
+        },
+        {
+          "member_name": "DAVID E. JACOBS",
+          "member_role": "Director, Office of Lead Hazard Control"
+        },
+        {
+          "member_name": "ARMANDO FALCON",
+          "member_role": "Director, Office of Federal Housing Enterprise Oversight"
+        },
+        {
+          "member_name": "MICHAEL LIU",
+          "member_role": "Assistant Secretary, Office of Public and Indian Housing"
+        },
+        {
+          "member_name": "PAULA BLUNT",
+          "member_role": "General Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "BESSIE KONG",
+          "member_role": "Deputy Assistant Secretary for Policy, Programs and Legislative Initiatives (acting)"
+        },
+        {
+          "member_name": "RODGER J. BOYD",
+          "member_role": "Deputy Assistant Secretary for Native American Programs"
+        },
+        {
+          "member_name": "ROBERT DALZELL",
+          "member_role": "Deputy Assistant Secretary for Administration and Budget (acting)"
+        },
+        {
+          "member_name": "WILLIAM RUSSELL",
+          "member_role": "Deputy Assistant Secretary for Public Housing and Voucher Programs"
+        },
+        {
+          "member_name": "DAVID R. ZIAYA",
+          "member_role": "Deputy Assistant Secretary for Troubled Agency Recovery (acting)"
+        },
+        {
+          "member_name": "MILAN OZDINEC",
+          "member_role": "Deputy Assistant Secretary for Public Housing Investments"
+        },
+        {
+          "member_name": "ALBERTO F. TREVINO",
+          "member_role": "Assistant Secretary, Office of Policy Development and Research"
+        },
+        {
+          "member_name": "DARLENE F. WILLIAMS",
+          "member_role": "General Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "HAROLD BUNCE",
+          "member_role": "Deputy Assistant Secretary for Economic Affairs"
+        },
+        {
+          "member_name": "SHANNON SORZANO",
+          "member_role": "Deputy Assistant Secretary for International Affairs"
+        },
+        {
+          "member_name": "CHRISTOPHER LORD",
+          "member_role": "Deputy Assistant Secretary for Policy Development"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Deputy Assistant Secretary for Research, Evaluation and Monitoring"
+        },
+        {
+          "member_name": "DIANE LENEGHAN TOMB",
+          "member_role": "Assistant Secretary for Public Affairs"
+        },
+        {
+          "member_name": "DOUGLAS P. DUVALL",
+          "member_role": "General Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "KELLEY KEELER",
+          "member_role": "Director of Press Relations"
+        },
+        {
+          "member_name": "RONALD A. ROSENFELD",
+          "member_role": "President, Government National Mortgage Association"
+        },
+        {
+          "member_name": "GEORGE S. ANDERSON",
+          "member_role": "Executive Vice President"
+        },
+        {
+          "member_name": "CHERYL W. OWENS",
+          "member_role": "Senior Vice President, Office of Management Operations"
+        },
+        {
+          "member_name": "MICHAEL J. NAJJUM, JR.",
+          "member_role": "Senior Vice President, Office of Finance"
+        },
+        {
+          "member_name": "THEODORE B. FOSTER",
+          "member_role": "Vice President, Office of Mortgage-Backed Securities"
+        },
+        {
+          "member_name": "THOMAS R. WEAKLAND",
+          "member_role": "Vice President, Office of Program Operations"
+        },
+        {
+          "member_name": "MICHAEL J. FRENZ",
+          "member_role": "Vice President, Office of Capital Markets"
+        },
+        {
+          "member_name": "CHARLES (HANK) WILLIAMS",
+          "member_role": "Director, Office of Multifamily Housing Assistance Restructuring"
+        },
+        {
+          "member_name": "ELIZABETH A. HANSON",
+          "member_role": "Director, Real Estate Assessment Center"
+        },
+        {
+          "member_name": "FRANK L. DAVIS",
+          "member_role": "Director, Office of Departmental Operations and Coordination"
+        },
+        {
+          "member_name": "INEZ BANKS-DUBOSE",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "MARIA S. ORTIZ",
+          "member_role": "Coordinator, Southwest Border region, Colonias & Migrant / Farmworker Initiatives"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF DEPARTMENTAL EQUAL EMPLOYMENT OPPORTUNITY",
+      "department_members": [
+        {
+          "member_name": "William C. King",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Kevin Keogh",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "Loren W. Cole",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Michael McNamara",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Julie Fagan",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "James H. Barnes",
+          "member_role": "Acting Field Office Director"
+        },
+        {
+          "member_name": "Nancy D. Smith",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Marisel Morales",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "Bob Scofield",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Stephen Banko",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Michael Worth",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Paul Aprigliano",
+          "member_role": "Acting Field Office Director"
+        },
+        {
+          "member_name": "Milton R. Pratt",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Harold D. Young",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "George H. Rodriguez",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Richard M. Nemoytin",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Mary Ann Wilson",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "James David Reeves",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Diane Lello",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Brian Noyes",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "Cindy Yarbrough",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Anthony Britto",
+          "member_role": "Acting Director"
+        },
+        {
+          "member_name": "William D. Gregorie",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Gary Dimmick",
+          "member_role": "Acting Field Office Director"
+        },
+        {
+          "member_name": "Cassandra Terry",
+          "member_role": "Acting Field Director"
+        },
+        {
+          "member_name": "Louis Ybarra",
+          "member_role": "Acting Director"
+        },
+        {
+          "member_name": "Ben Cook",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Mark J. Brezina",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Yvonne F. Leander",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Edward Pringle",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Paul C. Ausley, Jr.",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Michael A. Colon",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Joseph Galvan",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "James Cunningham",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Douglas W. Shelby",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Thomas Leach",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Dianne Johnson",
+          "member_role": "Acting Field Office Director"
+        },
+        {
+          "member_name": "Louis M. Berra",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "John Hall",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Delbert F. Reynolds",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Jason Gamlin",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Thomas T. Feeney",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Anthony Randolph",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Michael R. Griego",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Richard Wilson",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Bessie Jackson",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Miguel C. Rincon",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Patricia Hoban-Moore",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Kevin McNeely",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Luz Day",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Martha N. Sakre",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "James S. Colgan",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Macie Houston",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "William H. McNarney",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Stan Quy",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Roy E. Pierce",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "John K. Carson",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "Chris Stearns",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Joel Manske",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Tom Friesen",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Dwight A. Peterson",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Sheryl Miller",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Richard K. Rainey",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "Ann Marie Sudduth",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Gordan Y. Furutani",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Jason Coughenour",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Rebecca Flanagan",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Ken Lobene",
+          "member_role": "Acting Field Office Director"
+        },
+        {
+          "member_name": "William Bolton",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Cynthia Leon",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "Charles J. Wilson",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Theresa Camiling",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Ken Lobene",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Sharon K. Atwell",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "John W. Meyers",
+          "member_role": "Regional Director"
+        },
+        {
+          "member_name": "Colleen Bickford",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Constance Hogland",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Thomas C. Cusack",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Arlene Patton",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Karen Jackson Sims",
+          "member_role": "Field Office Director"
+        },
+        {
+          "member_name": "Stephen Banko",
+          "member_role": "Field Office Director"
+        }
+      ]
+    }
+  ]
+}

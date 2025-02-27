@@ -1,0 +1,1250 @@
+{
+  "cabinet": [
+    {
+      "member_name": "RAY LaHOOD",
+      "member_role": "Secretary of Transportation"
+    }
+  ],
+  "executive_office_of_president": [
+    {
+      "office_name": "OFFICE OF PUBLIC AFFAIRS",
+      "office_members": [
+        {
+          "member_name": "Jill Zuckman",
+          "member_role": "Assistant to the Secretary and Director of Public Affairs"
+        },
+        {
+          "member_name": "Maureen Knightly",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "William S. \"Bill\" Adams",
+          "member_role": "Associate Director of Media Relation"
+        },
+        {
+          "member_name": "Amy Bernsteen",
+          "member_role": "Speech Writing and Research Division"
+        }
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF TRANSPORTATION",
+      "department_members": [
+        {
+          "member_name": "RAY LaHOOD",
+          "member_role": "Secretary of Transportation"
+        },
+        {
+          "member_name": "John D. Porcari",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Joan DeBoer",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Marlise Streitmatter",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Roy Kienitz",
+          "member_role": "Under Secretary of Transportation for Policy"
+        },
+        {
+          "member_name": "Mary N. Jones",
+          "member_role": "Director, Office of Civil Rights (acting)"
+        },
+        {
+          "member_name": "Carol C. Darr",
+          "member_role": "Director, Office of Executive Secretariat"
+        },
+        {
+          "member_name": "Michael Lowder",
+          "member_role": "Director, Office of Intelligence and Security"
+        },
+        {
+          "member_name": "Brandon Neal",
+          "member_role": "Director, Office of Small and Disadvantaged Business Utilization"
+        },
+        {
+          "member_name": "Linda J. Washington",
+          "member_role": "Assistant Secretary for Administration"
+        },
+        {
+          "member_name": "George Fields",
+          "member_role": "Director, Office of Facilities, Information and Asset Management"
+        },
+        {
+          "member_name": "Marie Petrosino",
+          "member_role": "Director, Office of Financial Management"
+        },
+        {
+          "member_name": "Judge Ronnie A. Yoder",
+          "member_role": "Chief Administrative Law Judge"
+        },
+        {
+          "member_name": "Nancy Mowry",
+          "member_role": "Director, Office of Human Resource Management"
+        },
+        {
+          "member_name": "Lee Privett",
+          "member_role": "Director, Office of Security"
+        },
+        {
+          "member_name": "Joanie Newhart",
+          "member_role": "Senior Procurement Executive"
+        },
+        {
+          "member_name": "Christa Fornarotto",
+          "member_role": "Assistant Secretary for Aviation and International Affairs (acting)"
+        },
+        {
+          "member_name": "Susan McDermott",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Todd Homan",
+          "member_role": "Director, Office of Aviation Analysis"
+        },
+        {
+          "member_name": "Paul Gretch",
+          "member_role": "Director, Office of International Aviation"
+        },
+        {
+          "member_name": "Bernestine Allen",
+          "member_role": "Director, Office of International Transportation and Trade"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary / Chief Financial Officer"
+        },
+        {
+          "member_name": "Lana Hurdle",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Ellen Heup",
+          "member_role": "Director, Office of Budget and Program Performance"
+        },
+        {
+          "member_name": "Laurie Howard",
+          "member_role": "Director, Office of Financial Management"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary for Governmental Affairs"
+        },
+        {
+          "member_name": "Robert Letteney",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Joanna Turner",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Curtis Johnson",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "Yasmin Yaver",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "David Matsuda",
+          "member_role": "Assistant Secretary for Transportation Policy (acting)"
+        },
+        {
+          "member_name": "Elizabeth Osborne",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Joel Szabat",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Rosalind A. Knapp",
+          "member_role": "General Counsel (acting)"
+        },
+        {
+          "member_name": "Samuel Podberesky",
+          "member_role": "Assistant General Counsel for Aviation Enforcement and Proceedings"
+        },
+        {
+          "member_name": "Donald H. Horn",
+          "member_role": "Assistant General Counsel for International Law"
+        },
+        {
+          "member_name": "Thomas W. Herlihy",
+          "member_role": "Assistant General Counsel for Legislation"
+        },
+        {
+          "member_name": "Paul M. Geier",
+          "member_role": "Assistant General Counsel for Litigation"
+        },
+        {
+          "member_name": "Neil K. Eisner",
+          "member_role": "Assistant General Counsel for Regulation and Enforcement"
+        },
+        {
+          "member_name": "Ronald Jackson",
+          "member_role": "Assistant General Counsel for Operations"
+        },
+        {
+          "member_name": "Calvin L. Scovel III",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "David A. Dobbs",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "Ann Calvaresi Barr",
+          "member_role": "Principal Assistant Inspector General for Auditing and Evaluation"
+        },
+        {
+          "member_name": "Mark Zabarsky",
+          "member_role": "Assistant Inspector General for Acquisition and Procurement Audits"
+        },
+        {
+          "member_name": "Lou Dixon",
+          "member_role": "Assistant Inspector General for Aviation and Special Program Audits"
+        },
+        {
+          "member_name": "David Tornquist",
+          "member_role": "Assistant Inspector General for Competition and Economic Analysis"
+        },
+        {
+          "member_name": "Rebecca Leng",
+          "member_role": "Assistant Inspector General for Financial and Information Technology Audits"
+        },
+        {
+          "member_name": "Tim Barry",
+          "member_role": "Assistant Inspector General for Investigations"
+        },
+        {
+          "member_name": "Brian A. Dettelbach",
+          "member_role": "Assistant Inspector General for Legal, Legislative and External Affairs"
+        },
+        {
+          "member_name": "Joe Come",
+          "member_role": "Assistant Inspector General for Surface and Maritime Program Audits"
+        },
+        {
+          "member_name": "Matthew Hamption",
+          "member_role": "Deputy Assistant Inspector General for Aviation and Special Program Audits"
+        },
+        {
+          "member_name": "Rosalyn Millman",
+          "member_role": "Deputy Assistant Inspector General for Surface and Maritime Program Audits"
+        },
+        {
+          "member_name": "Tina Nysted",
+          "member_role": "Regional Program Director"
+        },
+        {
+          "member_name": "Scott Macey",
+          "member_role": "Regional Program Director"
+        },
+        {
+          "member_name": "Darren Murphy",
+          "member_role": "Regional Program Director"
+        },
+        {
+          "member_name": "Earl Hedges",
+          "member_role": "Regional Program Director"
+        },
+        {
+          "member_name": "Ted Doherty",
+          "member_role": "Special Agent-In-Charge, Region I"
+        },
+        {
+          "member_name": "Ned E. Schwartz",
+          "member_role": "Special Agent-In-Charge, Region II"
+        },
+        {
+          "member_name": "Kathryn Jones",
+          "member_role": "Special Agent-In-Charge, Region III"
+        },
+        {
+          "member_name": "John Long",
+          "member_role": "Special Agent-In-Charge, Region IV"
+        },
+        {
+          "member_name": "Michelle McVicker",
+          "member_role": "Special Agent-In-Charge, Region V"
+        },
+        {
+          "member_name": "Max Smith",
+          "member_role": "Special Agent-In-Charge, Region VI"
+        },
+        {
+          "member_name": "Hank W. Smedley",
+          "member_role": "Special Agent-In-Charge, Region IX"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL AVIATION ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Lynne A. Osmus",
+          "member_role": "Administrator (acting)"
+        },
+        {
+          "member_name": "Jana Murphy",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Senior Counsel to the Administrator"
+        },
+        {
+          "member_name": "Sharon Harrison",
+          "member_role": "Executive Assistant to the Administrator"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Administrator"
+        },
+        {
+          "member_name": "David Weingart",
+          "member_role": "Senior Advisor to the Deputy Administrator (acting)"
+        },
+        {
+          "member_name": "Ramesh K. Punwani",
+          "member_role": "Assistant Administrator for Financial Services"
+        },
+        {
+          "member_name": "Victoria Wassmer",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Carol Rose",
+          "member_role": "Director of Budget"
+        },
+        {
+          "member_name": "Greg Rasnake",
+          "member_role": "Deputy Director of Budget"
+        },
+        {
+          "member_name": "Carl Burrus",
+          "member_role": "Director of Financial Controls"
+        },
+        {
+          "member_name": "Allison Ritman",
+          "member_role": "Director of Financial Management"
+        },
+        {
+          "member_name": "Fanny Rivera",
+          "member_role": "Assistant Administrator for Civil Rights"
+        },
+        {
+          "member_name": "Barbara A. Edwards",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Nancy LoBue",
+          "member_role": "Assistant Administrator for Aviation Policy, Planning and Environment (acting)"
+        },
+        {
+          "member_name": "Carl Burleson",
+          "member_role": "Deputy Assistant Administrator (acting)"
+        },
+        {
+          "member_name": "Nan Shellabarger",
+          "member_role": "Director of Aviation Policy and Plans"
+        },
+        {
+          "member_name": "Carl Burleson",
+          "member_role": "Director of Environment and Energy"
+        },
+        {
+          "member_name": "James W. Whitlow",
+          "member_role": "Chief Counsel (acting)"
+        },
+        {
+          "member_name": "James W. Whitlow",
+          "member_role": "Deputy Chief Counsel"
+        },
+        {
+          "member_name": "Mary U. Walsh",
+          "member_role": "Assistant Administrator for Government and Industry Affairs (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Ventris C. Gibson",
+          "member_role": "Assistant Administrator for Human Resource Management"
+        },
+        {
+          "member_name": "Darlene Freeman",
+          "member_role": "Deputy Assistant Administrator (acting)"
+        },
+        {
+          "member_name": "Melvin Harris",
+          "member_role": "Deputy Assistant Administrator for Strategic Labor Relations"
+        },
+        {
+          "member_name": "Maria Fernandez-Greczmiel",
+          "member_role": "Director of Accountability Board"
+        },
+        {
+          "member_name": "Darlene Freeman",
+          "member_role": "Director of Center for Management and Leadership Development"
+        },
+        {
+          "member_name": "Paul Meyer",
+          "member_role": "Director of Corporate, Learning and Development (acting)"
+        },
+        {
+          "member_name": "Melvin Harris",
+          "member_role": "Director of Labor and Employee Relations"
+        },
+        {
+          "member_name": "Angela Porter",
+          "member_role": "Personnel (acting)"
+        },
+        {
+          "member_name": "David Bowen",
+          "member_role": "Assistant Administrator for Information Services (CIO)"
+        },
+        {
+          "member_name": "Michael F. Brown",
+          "member_role": "Director of Information Systems Security"
+        },
+        {
+          "member_name": "Laura J. Brown",
+          "member_role": "Assistant Administrator for Communications"
+        },
+        {
+          "member_name": "Laura J. Brown",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Gerald Lavey",
+          "member_role": "Deputy Assistant Administrator for Corporate Communications"
+        },
+        {
+          "member_name": "Di Reimold",
+          "member_role": "Assistant Administrator for International Aviation (acting)"
+        },
+        {
+          "member_name": "Di Reimold",
+          "member_role": "Deputy Assistant Director of International Aviation"
+        },
+        {
+          "member_name": "Jeri Alles",
+          "member_role": "Asia-Pacific"
+        },
+        {
+          "member_name": "Stephen Creamer",
+          "member_role": "Europe, Africa, and Middle East"
+        },
+        {
+          "member_name": "Dawn Veatch",
+          "member_role": "Western Hemisphere"
+        },
+        {
+          "member_name": "Paula Lewis",
+          "member_role": "Assistant Administrator for Regions and Center Operations"
+        },
+        {
+          "member_name": "Michael A. Crillo",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Bob Lewis",
+          "member_role": "Regional Administrator for Alaskan (acting)"
+        },
+        {
+          "member_name": "Joseph Miniace",
+          "member_role": "Regional Administrator for Central"
+        },
+        {
+          "member_name": "Carmine Gallo",
+          "member_role": "Regional Administrator for Eastern"
+        },
+        {
+          "member_name": "Barry D. Cooper",
+          "member_role": "Regional Administrator for Great Lakes"
+        },
+        {
+          "member_name": "Amy Lind Corbett",
+          "member_role": "Regional Administrator for New England"
+        },
+        {
+          "member_name": "Kathryn Vernon",
+          "member_role": "Regional Administrator for Northwest Mountain"
+        },
+        {
+          "member_name": "Douglas Murphy",
+          "member_role": "Regional Administrator for Southern"
+        },
+        {
+          "member_name": "Teresa Bruner",
+          "member_role": "Regional Administrator for Southwest"
+        },
+        {
+          "member_name": "William C. Withycombe",
+          "member_role": "Regional Administrator for Western-Pacific"
+        },
+        {
+          "member_name": "Lindy Ritz",
+          "member_role": "Director, Mike Monroney Aeronautical Center"
+        },
+        {
+          "member_name": "Claudio Manno",
+          "member_role": "Assistant Administrator for Security and Hazardous Materials (acting)"
+        },
+        {
+          "member_name": "Claudio Manno",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Chris J. Rocheleau",
+          "member_role": "Director of Emergency Operations and Communications"
+        },
+        {
+          "member_name": "Thomas D. Ryan",
+          "member_role": "Director of Field Operations"
+        },
+        {
+          "member_name": "Christopher Bonanti",
+          "member_role": "Director of Hazardous Materials"
+        },
+        {
+          "member_name": "Bruce Herron",
+          "member_role": "Director of Internal Security"
+        },
+        {
+          "member_name": "Henry P. Krakowski",
+          "member_role": "Chief Operating Officer for Air Traffic Services"
+        },
+        {
+          "member_name": "James H. Washington",
+          "member_role": "Senior Vice President for Acquisition and Business Services"
+        },
+        {
+          "member_name": "Robert O. Tarter",
+          "member_role": "Senior Vice President for Safety Services"
+        },
+        {
+          "member_name": "Eugene D. Juba",
+          "member_role": "Senior Vice President for Finance Business Unit"
+        },
+        {
+          "member_name": "Victoria Cox",
+          "member_role": "Senior Vice President for NextGen and Operations Planning Services"
+        },
+        {
+          "member_name": "John Pipes",
+          "member_role": "Senior Vice President for Strategy and Performance Business Unit"
+        },
+        {
+          "member_name": "Richard L. Day",
+          "member_role": "Senior Vice President for Operations Business"
+        },
+        {
+          "member_name": "Richard Duchame",
+          "member_role": "Vice President for En Route and Oceanic Services (acting)"
+        },
+        {
+          "member_name": "Walt Cochran",
+          "member_role": "Vice President for Service Center (acting)"
+        },
+        {
+          "member_name": "Nancy B. Kalinowski",
+          "member_role": "Vice President for System Operations Service Unit"
+        },
+        {
+          "member_name": "Teri Bristol",
+          "member_role": "Vice President for Technical Operations Service Unit"
+        },
+        {
+          "member_name": "D. Shawn Clark",
+          "member_role": "Vice President for Technical Training"
+        },
+        {
+          "member_name": "Mike Sammartino",
+          "member_role": "Vice President for Terminal Service Unit (acting)"
+        },
+        {
+          "member_name": "Charles Leader",
+          "member_role": "Director of Joint Planning Development Office"
+        },
+        {
+          "member_name": "Wilson Felder",
+          "member_role": "Director of William J. Hughes Technical Center"
+        },
+        {
+          "member_name": "Catherine Lang",
+          "member_role": "Associate Administrator for Airports"
+        },
+        {
+          "member_name": "Randall S. Fiertz",
+          "member_role": "Deputy Associate Administrator (acting)"
+        },
+        {
+          "member_name": "Benito DeLeon",
+          "member_role": "Director of Airport Planning and Programming"
+        },
+        {
+          "member_name": "Michael J. O'Donnell",
+          "member_role": "Director of Airport Safety and Standards"
+        },
+        {
+          "member_name": "Dr. George C. Nield",
+          "member_role": "Associate Administrator for Commercial Space Transportation"
+        },
+        {
+          "member_name": "James E. VanLaak",
+          "member_role": "Deputy Associate Administrator"
+        },
+        {
+          "member_name": "Peggy Gilligan",
+          "member_role": "Associate Administrator for Aviation Safety"
+        },
+        {
+          "member_name": "John J. Hickey",
+          "member_role": "Deputy Associate Administrator"
+        },
+        {
+          "member_name": "Hooper Harris",
+          "member_role": "Director of Accident Investigation"
+        },
+        {
+          "member_name": "Tony Ferrante",
+          "member_role": "Director of Air Traffic Oversight"
+        },
+        {
+          "member_name": "Dorenda Baker",
+          "member_role": "Director of Aircraft Certification Service"
+        },
+        {
+          "member_name": "Jay J. Pardee",
+          "member_role": "Director of Aviation Safety Analytical Services"
+        },
+        {
+          "member_name": "John Allen",
+          "member_role": "Director of Flight Standards Service"
+        },
+        {
+          "member_name": "Tina Amereihn",
+          "member_role": "Director of Quality, Integration and Executive"
+        },
+        {
+          "member_name": "Pamela Hamilton",
+          "member_role": "Director of Rulemaking"
+        },
+        {
+          "member_name": "Dr. Fred Tilton",
+          "member_role": "Federal Air Surgeon"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL HIGHWAY ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Administrator"
+        },
+        {
+          "member_name": "Michael F. Trentacoste",
+          "member_role": "Associate Administrator / Director of TFHRC"
+        },
+        {
+          "member_name": "Patricia A. Prosperi",
+          "member_role": "Associate Administrator for Administration"
+        },
+        {
+          "member_name": "Jeffrey F. Paniati",
+          "member_role": "Executive Director"
+        },
+        {
+          "member_name": "Karen Hedlund",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Elissa K. Konove",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Allen Masuda",
+          "member_role": "Associate Administrator for Civil Rights"
+        },
+        {
+          "member_name": "John R. Baxter",
+          "member_role": "Associate Administrator for Federal Lands"
+        },
+        {
+          "member_name": "King W. Gee",
+          "member_role": "Associate Administrator for Infrastructure"
+        },
+        {
+          "member_name": "Jeffrey A. Lindley",
+          "member_role": "Associate Administrator for Operations"
+        },
+        {
+          "member_name": "James A. Cheatham",
+          "member_role": "Associate Administrator for Policy (acting)"
+        },
+        {
+          "member_name": "Cathy St. Denis",
+          "member_role": "Associate Administrator for Public Affairs"
+        },
+        {
+          "member_name": "Gloria M. Shepherd",
+          "member_role": "Associate Administrator for Planning, Environment, and Realty"
+        },
+        {
+          "member_name": "Joseph S. Toole",
+          "member_role": "Associate Administrator for Safety"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Rose A. McMurray",
+          "member_role": "Deputy Administrator (acting)"
+        },
+        {
+          "member_name": "Rose A. McMurray",
+          "member_role": "Chief Safety Officer"
+        },
+        {
+          "member_name": "David Tochen",
+          "member_role": "Chief Counsel (acting)"
+        },
+        {
+          "member_name": "Daniel Hartman",
+          "member_role": "Associate Administrator for Field Operation"
+        },
+        {
+          "member_name": "Candice Tolliver",
+          "member_role": "Director, Office of Communications"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL RAILROAD ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Joseph C. Szabo",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Margaret Reid",
+          "member_role": "Associate Administrator for Finance Management and Administration"
+        },
+        {
+          "member_name": "Timothy Barkley",
+          "member_role": "Associate Administrator for Policy and Program Development"
+        },
+        {
+          "member_name": "Mark E. Yachmetz",
+          "member_role": "Associate Administrator for Railroad Development"
+        },
+        {
+          "member_name": "Jo Strang",
+          "member_role": "Associate Administrator for Safety"
+        },
+        {
+          "member_name": "Mark Lindsey",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Donna Alwine",
+          "member_role": "Director of Budget"
+        },
+        {
+          "member_name": "Calvin Gibson",
+          "member_role": "Director of Civil Rights"
+        },
+        {
+          "member_name": "Kimberly Orben",
+          "member_role": "Director of Financial Management"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Director of Public Affairs"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL TRANSIT ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Matt Welbes",
+          "member_role": "Deputy Administrator (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Cheryl Hershey",
+          "member_role": "Director, Office of Civil Rights"
+        },
+        {
+          "member_name": "Ann Linnertz",
+          "member_role": "Associate Administrator for Administration"
+        },
+        {
+          "member_name": "Robert Tuccillo",
+          "member_role": "Associate Administrator for Budget and Policy"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Associate Administrator for Communications and Congressional Affairs"
+        },
+        {
+          "member_name": "Susan Borinsky",
+          "member_role": "Associate Administrator for Planning and Environment"
+        },
+        {
+          "member_name": "Susan Schruth",
+          "member_role": "Associate Administrator for Program Management"
+        },
+        {
+          "member_name": "Vincent Valdes",
+          "member_role": "Associate Administrator for Research, Demonstration and Innovation"
+        }
+      ]
+    },
+    {
+      "department_name": "MARITIME ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Administrator and Chairman, Maritime Subsidy Board"
+        },
+        {
+          "member_name": "James E. Caponiti",
+          "member_role": "Deputy Administrator (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Secretary, Maritime Administration and Maritime Subsidy Board"
+        },
+        {
+          "member_name": "Rand Pixa",
+          "member_role": "Chief Counsel and Member, Maritime Subsidy Board (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Director, Office of Congressional and Public Affairs"
+        },
+        {
+          "member_name": "Susan Clark",
+          "member_role": "Public Affairs Officer"
+        },
+        {
+          "member_name": "James E. Caponiti",
+          "member_role": "Office of Assistant Administrator"
+        },
+        {
+          "member_name": "Gregory Hall",
+          "member_role": "Director of International Activities"
+        },
+        {
+          "member_name": "Janice G. Weaver",
+          "member_role": "Director of Policy and Plans"
+        },
+        {
+          "member_name": "David J. Rivait",
+          "member_role": "Associate Administrator for Budget and Programs / Chief Financial Officer"
+        },
+        {
+          "member_name": "Jim Chen",
+          "member_role": "Director, Office of Accounting"
+        },
+        {
+          "member_name": "James Lampert",
+          "member_role": "Director, Office of Budget"
+        },
+        {
+          "member_name": "Jennifer Fallis",
+          "member_role": "Director, Office of National Security Resource Management"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Director, Office of Resources"
+        },
+        {
+          "member_name": "Taylor E. Jones II",
+          "member_role": "Associate Administrator for Administration"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Director, Office of Acquisition"
+        },
+        {
+          "member_name": "Richard A. Weaver",
+          "member_role": "Director, Office of Management and Information Services"
+        },
+        {
+          "member_name": "Kim Norris",
+          "member_role": "Director, Office of Personnel"
+        },
+        {
+          "member_name": "Joseph A. Byrne",
+          "member_role": "Associate Administrator for Environment and Compliance"
+        },
+        {
+          "member_name": "Michael C. Carter",
+          "member_role": "Director, Office of Environment"
+        },
+        {
+          "member_name": "Joseph A. Byrne",
+          "member_role": "Director, Office of Safety (acting)"
+        },
+        {
+          "member_name": "Owen Doherty",
+          "member_role": "Director, Office of Security"
+        },
+        {
+          "member_name": "Keith Lesnick",
+          "member_role": "Associate Administrator for Intermodal System Development"
+        },
+        {
+          "member_name": "Roger V. Bohnert",
+          "member_role": "Deputy Associate Administrator"
+        },
+        {
+          "member_name": "Yvette Fields",
+          "member_role": "Director, Office of Deepwater Ports and Offshore Activities"
+        },
+        {
+          "member_name": "Roger V. Bohnert",
+          "member_role": "Director, Office of Gateway Offices"
+        },
+        {
+          "member_name": "Robert Bouchard",
+          "member_role": "Director, Office of Infrastructure Development and Congestion Mitigation"
+        },
+        {
+          "member_name": "James D. Pugh",
+          "member_role": "Director, Office of Marine Highways and Passenger Services"
+        },
+        {
+          "member_name": "Richard J. Lolich",
+          "member_role": "Director, Office of Shipper and Carrier Outreach"
+        },
+        {
+          "member_name": "Kevin M. Tokarski",
+          "member_role": "Associate Administrator for National Security"
+        },
+        {
+          "member_name": "Thomas M.P. Christensen",
+          "member_role": "Director, Office of Emergency Preparedness"
+        },
+        {
+          "member_name": "Jerome D. Davis",
+          "member_role": "Director, Office of Sealift Support"
+        },
+        {
+          "member_name": "Curt J. Michanczyk",
+          "member_role": "Director, Office of Ship Disposal"
+        },
+        {
+          "member_name": "William H. Cahill",
+          "member_role": "Director, Office of Ship Operations"
+        },
+        {
+          "member_name": "Jean E. McKeever",
+          "member_role": "Associate Administrator for Business and Workforce Development"
+        },
+        {
+          "member_name": "Thomas W. Harrelson",
+          "member_role": "Director, Office of Cargo Preference and Domestic Trade"
+        },
+        {
+          "member_name": "Edmond J. Fitzgerald",
+          "member_role": "Director, Office of Financial Approvals and Marine Insurance"
+        },
+        {
+          "member_name": "Gregory V. Sparkman",
+          "member_role": "Chief, Division of Business Finance"
+        },
+        {
+          "member_name": "Anne Dougherty",
+          "member_role": "Director, Office of Maritime Workforce Development"
+        },
+        {
+          "member_name": "Jean E. McKeever",
+          "member_role": "Director, Office of Shipyards and Marine Finance (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. MERCHANT MARINE ACADEMY",
+      "department_members": [
+        {
+          "member_name": "RADM Allen Worley",
+          "member_role": "Superintendent"
+        },
+        {
+          "member_name": "Shashi N. Kumar",
+          "member_role": "Assistant Superintendent for Academic Affairs (Academic Dean)"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Ronald L. Medford",
+          "member_role": "Deputy Administrator (acting)"
+        },
+        {
+          "member_name": "Mark Paustenbach",
+          "member_role": "Executive Director, Public Affairs"
+        },
+        {
+          "member_name": "Will Otero",
+          "member_role": "Director of Legislative Affairs"
+        },
+        {
+          "member_name": "Gregory Walter",
+          "member_role": "Senior Associate Administrator for Policy and Operation"
+        },
+        {
+          "member_name": "Brian McLaughlin",
+          "member_role": "Senior Associate Administrator for Traffic Injury Control"
+        },
+        {
+          "member_name": "Ronald Medford",
+          "member_role": "Senior Associate Administrator for Vehicle Safety"
+        },
+        {
+          "member_name": "Susan Gorcowski",
+          "member_role": "Associate Administrator for Communications and Consumer Information"
+        },
+        {
+          "member_name": "Daniel C. Smith",
+          "member_role": "Associate Administrator for Enforcement"
+        },
+        {
+          "member_name": "Marilena Amoni",
+          "member_role": "Associate Administrator for National Center for Statistics and Analysis"
+        },
+        {
+          "member_name": "Rebecca Pennington",
+          "member_role": "Associate Administrator for Planning, Administrative and Financial Management"
+        },
+        {
+          "member_name": "Marlene Markison",
+          "member_role": "Associate Administrator for Regional Operations and Program Delivery"
+        },
+        {
+          "member_name": "Jeffrey P. Michael",
+          "member_role": "Associate Administrator for Research and Program Development"
+        },
+        {
+          "member_name": "Stephen R. Kratzke",
+          "member_role": "Associate Administrator for Rulemaking"
+        },
+        {
+          "member_name": "John Maddox",
+          "member_role": "Associate Administrator for Vehicle Safety Research Program"
+        },
+        {
+          "member_name": "Colleen Coggins",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Rose Trujillo",
+          "member_role": "Director, Office of Civil Rights"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Director, Office of External Affairs"
+        },
+        {
+          "member_name": "Wilfred Otero",
+          "member_role": "Director, Office of Legislative Affairs"
+        },
+        {
+          "member_name": "O. Kevin Vincent",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Gregory Walter",
+          "member_role": "Director, Executive Correspondence"
+        },
+        {
+          "member_name": "Bernadette Millings",
+          "member_role": "Supervisor, Executive Correspondence"
+        }
+      ]
+    },
+    {
+      "department_name": "PIPELINE AND HAZARDOUS MATERIALS SAFETY ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Cynthia Douglass",
+          "member_role": "Deputy Administrator (acting)"
+        },
+        {
+          "member_name": "Cynthia Douglass",
+          "member_role": "Assistant Administrator / Chief Safety Officer"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Helen E. Hagin",
+          "member_role": "Director, Office of Civil Rights"
+        },
+        {
+          "member_name": "Monica Summitt",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Associate Administrator for Governmental, International and Public Affairs"
+        },
+        {
+          "member_name": "Ted Willke",
+          "member_role": "Associate Administrator for Hazardous Materials Safety"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Associate Administrator for Management and Administration"
+        },
+        {
+          "member_name": "Jeffrey Wiese",
+          "member_role": "Associate Administrator for Pipeline Safety"
+        }
+      ]
+    },
+    {
+      "department_name": "RESEARCH AND INNOVATIVE TECHNOLOGY ADMINISTRATION (RITA)",
+      "department_members": [
+        {
+          "member_name": "Dr. Steven K. Smith",
+          "member_role": "Deputy Administrator (acting)"
+        },
+        {
+          "member_name": "Robert A. Monniere",
+          "member_role": "Chief Counsel (acting)"
+        },
+        {
+          "member_name": "Katherine Montgomery",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "David Smallen",
+          "member_role": "Public Affairs Contact, Bureau of Transportation Statistics"
+        },
+        {
+          "member_name": "Thomas Bolle",
+          "member_role": "Director for Governmental, International and Public Affairs (acting)"
+        },
+        {
+          "member_name": "Shelly Row",
+          "member_role": "Director for Intelligent Transportation Systems"
+        },
+        {
+          "member_name": "John Phillips",
+          "member_role": "Director for Transportation Safety Institute"
+        },
+        {
+          "member_name": "Dr. Richard John",
+          "member_role": "Director for Volpe National Transportation Systems Center (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "SAINT LAWRENCE SEAWAY DEVELOPMENT CORPORATION-U.S. DOT",
+      "department_members": [
+        {
+          "member_name": "Collister Johnson, Jr.",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Kevin P. O'Malley",
+          "member_role": "Director, Office of Budget and Logistics"
+        },
+        {
+          "member_name": "Nancy T. Alcalde",
+          "member_role": "Director, Office of Congressional and Public Relations"
+        },
+        {
+          "member_name": "Rebecca McGill",
+          "member_role": "Director, Office of Trade Development"
+        }
+      ]
+    },
+    {
+      "department_name": "SURFACE TRANSPORTATION BOARD",
+      "department_members": [
+        {
+          "member_name": "Francis P. Mulvey",
+          "member_role": "Chairman (acting)"
+        },
+        {
+          "member_name": "Charles D. Nottingham",
+          "member_role": "Vice Chairman"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Leland L. Gardner",
+          "member_role": "Office of Economics, Environmental Analysis, and Administration"
+        },
+        {
+          "member_name": "Ellen D. Hanson",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Rachel D. Campbell",
+          "member_role": "Proceedings"
+        },
+        {
+          "member_name": "Matthew T. Wallen",
+          "member_role": "Public Assistance, Governmental Affairs, and Compliance"
+        },
+        {
+          "member_name": "Anne K. Quinlan",
+          "member_role": "Secretary"
+        }
+      ]
+    }
+  ]
+}

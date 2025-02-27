@@ -1,0 +1,276 @@
+{
+  "cabinet": [
+    {
+      "member_name": "STEVEN CHU",
+      "member_role": "Secretary of Energy"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF ENERGY",
+      "department_members": [
+        {
+          "member_name": "STEVEN CHU",
+          "member_role": "Secretary of Energy"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Rod O'Connor",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Gregory H. Friedman",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Thomas N. Pyke, Jr.",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Rita Franklin",
+          "member_role": "Chief Human Capital Officer (acting)"
+        },
+        {
+          "member_name": "Steve Isakowitz",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Annie Whately",
+          "member_role": "Director, Office of Economic Impact and Diversity (acting)"
+        },
+        {
+          "member_name": "Glenn S. Podonski",
+          "member_role": "Director, Office of Health, Safety and Security"
+        },
+        {
+          "member_name": "Poli Marmolejos",
+          "member_role": "Director, Office of Hearings and Appeals (acting)"
+        },
+        {
+          "member_name": "Stan Borgia",
+          "member_role": "Director, Office of Intelligence and Counterintelligence"
+        },
+        {
+          "member_name": "Ingrid Kolb",
+          "member_role": "Director, Office of Management"
+        },
+        {
+          "member_name": "Dan Leistikow",
+          "member_role": "Director, Office of Public Affairs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary for Congressional and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary for Policy and International Affairs"
+        },
+        {
+          "member_name": "Howard Gruenspecht",
+          "member_role": "Administrator for Energy Information Administration (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Under Secretary of Energy"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary for Energy Efficiency and Renewable Energy"
+        },
+        {
+          "member_name": "Ines Triay",
+          "member_role": "Assistant Secretary for Environmental Management (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary for Fossil Energy"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary for Nuclear Energy"
+        },
+        {
+          "member_name": "Christopher Kouts",
+          "member_role": "Director, Office of Civilian Radioactive Waste Management"
+        },
+        {
+          "member_name": "Pat Hoffman",
+          "member_role": "Director, Office of Electricity Delivery and Energy Reliability"
+        },
+        {
+          "member_name": "David Geiser",
+          "member_role": "Director, Office of Legacy Management"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Under Secretary for Science"
+        },
+        {
+          "member_name": "Thomas D'Agostino",
+          "member_role": "Administrator / Under Secretary of Energy for Nuclear Security"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Administrator for Defense Programs"
+        },
+        {
+          "member_name": "Kenneth Baker",
+          "member_role": "Deputy Administrator for Defense Nuclear Nonproliferation"
+        },
+        {
+          "member_name": "ADM Kirtland Donald, USN",
+          "member_role": "Deputy Administrator for Naval Reactors"
+        },
+        {
+          "member_name": "Dr. Steven Aoki",
+          "member_role": "Deputy Under Secretary for Counter-terrorism"
+        },
+        {
+          "member_name": "Bradley Peterson",
+          "member_role": "Associate Administrator for Defense Nuclear Security"
+        },
+        {
+          "member_name": "RADM Joseph Krol, USN (Ret.)",
+          "member_role": "Associate Administrator for Emergency Operations"
+        },
+        {
+          "member_name": "Thad Konopnicki",
+          "member_role": "Associate Administrator for Infrastructure and Environment"
+        },
+        {
+          "member_name": "Marvin Gunn",
+          "member_role": "Manager, Chicago Operations Office"
+        },
+        {
+          "member_name": "Dennis M. Miotla",
+          "member_role": "Manager, Idaho Operations Office (acting)"
+        },
+        {
+          "member_name": "D. Booher",
+          "member_role": "Manager, Oak Ridge Operations Office"
+        },
+        {
+          "member_name": "David A. Brockman",
+          "member_role": "Manager, Richland Operations Office"
+        },
+        {
+          "member_name": "Jeffrey Allison",
+          "member_role": "Manager, Savannah River Operations Office"
+        },
+        {
+          "member_name": "Alice C. Williams",
+          "member_role": "Manager, Livermore Site Office"
+        },
+        {
+          "member_name": "Stephen A. Mellington",
+          "member_role": "Manager, Nevada Site Office"
+        },
+        {
+          "member_name": "Karen L. Boardman",
+          "member_role": "Director, Albuquerque NNSA Service Center"
+        },
+        {
+          "member_name": "Rita L. Wells",
+          "member_role": "Manager, Golden Field Office"
+        },
+        {
+          "member_name": "Stephen J. Wright",
+          "member_role": "Administrator, Bonneville Power Administration"
+        },
+        {
+          "member_name": "Kenneth Legg",
+          "member_role": "Administrator, Southeastern Area Power Administration"
+        },
+        {
+          "member_name": "Jon C. Worthington",
+          "member_role": "Administrator, Southwestern Area Power Administration"
+        },
+        {
+          "member_name": "Timothy J. Meeks",
+          "member_role": "Administrator, Western Area Power Administration"
+        },
+        {
+          "member_name": "Walter L. Warnick",
+          "member_role": "Director, Office of Scientific and Technical Information"
+        },
+        {
+          "member_name": "Henry A. Cardinali",
+          "member_role": "Manager, Naval Reactors Offices"
+        },
+        {
+          "member_name": "Matthew J. Brott",
+          "member_role": "Deputy Manager, Naval Reactors Offices"
+        },
+        {
+          "member_name": "Carl O. Bauer",
+          "member_role": "Director, National Energy Technology Lab"
+        },
+        {
+          "member_name": "William C. Gibson Jr.",
+          "member_role": "Project Manager, Strategic Petroleum Reserve Project Office"
+        },
+        {
+          "member_name": "Clarke D. Turner",
+          "member_role": "Director, Colorado, Utah, Wyoming (Oil Shale Reserves)"
+        },
+        {
+          "member_name": "Jon Wellinghoff",
+          "member_role": "Chair, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "Suedeen G. Kelly",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "Philip D. Moeller",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "Marc Spitzer",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "Curtis L. Wagner, Jr.",
+          "member_role": "Deputy Chief Administrative Law Judge"
+        },
+        {
+          "member_name": "Thomas R. Herlihy",
+          "member_role": "Executive Director"
+        },
+        {
+          "member_name": "Cynthia Marlette",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Richard Miles",
+          "member_role": "Director, Office of Administrative Litigation"
+        },
+        {
+          "member_name": "Joseph McClelland",
+          "member_role": "Director, Office of Electric Reliability"
+        },
+        {
+          "member_name": "Jeff Wright",
+          "member_role": "Director, Office of Energy Projects"
+        },
+        {
+          "member_name": "Susan Court",
+          "member_role": "Director, Office of Enforcement"
+        },
+        {
+          "member_name": "Pat Schaub",
+          "member_role": "Director, Office of External Affairs (acting)"
+        }
+      ]
+    }
+  ]
+}

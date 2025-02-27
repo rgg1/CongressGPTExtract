@@ -1,0 +1,190 @@
+{
+  "courts": [
+    {
+      "court_name": "United States Tax Court",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "KATHLEEN KERRIGAN",
+          "role": "chief judge"
+        },
+        {
+          "name": "MAURICE B. FOLEY",
+          "role": "judge"
+        },
+        {
+          "name": "JOSEPH H. GALE",
+          "role": "judge"
+        },
+        {
+          "name": "DAVID GUSTAFSON",
+          "role": "judge"
+        },
+        {
+          "name": "ELIZABETH CREWSON PARIS",
+          "role": "judge"
+        },
+        {
+          "name": "RICHARD T. MORRISON",
+          "role": "judge"
+        },
+        {
+          "name": "RONALD L. BUCH",
+          "role": "judge"
+        },
+        {
+          "name": "JOSEPH W. NEGA",
+          "role": "judge"
+        },
+        {
+          "name": "CARY DOUGLAS PUGH",
+          "role": "judge"
+        },
+        {
+          "name": "TAMARA W. ASHFORD",
+          "role": "judge"
+        },
+        {
+          "name": "ELIZABETH A. COPELAND",
+          "role": "judge"
+        },
+        {
+          "name": "PATRICK J. URDA",
+          "role": "judge"
+        },
+        {
+          "name": "COURTNEY D. JONES",
+          "role": "judge"
+        },
+        {
+          "name": "EMIN TORO",
+          "role": "judge"
+        },
+        {
+          "name": "TRAVIS A. GREAVES",
+          "role": "judge"
+        },
+        {
+          "name": "ALINA I. MARSHALL",
+          "role": "judge"
+        },
+        {
+          "name": "CHRISTIAN N. WEILER",
+          "role": "judge"
+        },
+        {
+          "name": "MARY ANN COHEN",
+          "role": "senior judge"
+        },
+        {
+          "name": "THOMAS B. WELLS",
+          "role": "senior judge"
+        },
+        {
+          "name": "JOHN O. COLVIN",
+          "role": "senior judge"
+        },
+        {
+          "name": "JAMES S. HALPERN",
+          "role": "senior judge"
+        },
+        {
+          "name": "JUAN F. VASQUEZ",
+          "role": "senior judge"
+        },
+        {
+          "name": "MICHAEL B. THORTON",
+          "role": "senior judge"
+        },
+        {
+          "name": "L. PAIGE MARVEL",
+          "role": "senior judge"
+        },
+        {
+          "name": "JOSEPH ROBERT GOEKE",
+          "role": "senior judge"
+        },
+        {
+          "name": "MARK V. HOLMES",
+          "role": "senior judge"
+        },
+        {
+          "name": "ALBERT G. LAUBER",
+          "role": "senior judge"
+        },
+        {
+          "name": "LEWIS R. CARLUZZO",
+          "role": "Chief Special Trial Judge"
+        },
+        {
+          "name": "EUNKYONG CHOI",
+          "role": "special trial judge"
+        },
+        {
+          "name": "ADAM B. LANDY",
+          "role": "special trial judge"
+        },
+        {
+          "name": "DIANA L. LEYDEN",
+          "role": "special trial judge"
+        },
+        {
+          "name": "PETER J. PANUTHOS",
+          "role": "special trial judge"
+        },
+        {
+          "name": "STEPHANIE A. SERVOSS",
+          "role": "Clerk"
+        },
+        {
+          "name": "JESSICA F. MARINE",
+          "role": "Deputy Clerk / Case Services Officer"
+        },
+        {
+          "name": "MICHAEL C. MCVICKER",
+          "role": "Deputy Clerk / Chief Information Officer"
+        },
+        {
+          "name": "PATRICIA L. LEVY",
+          "role": "General Counsel"
+        },
+        {
+          "name": "JENNIFER E. SIEGEL",
+          "role": "Public Affairs Counsel"
+        },
+        {
+          "name": "ANITA HORN RIZEK",
+          "role": "Legislative Counsel"
+        },
+        {
+          "name": "FIG RUGGIERI",
+          "role": "Court Administrator"
+        },
+        {
+          "name": "TINA BUCKLER",
+          "role": "Case Services Director"
+        },
+        {
+          "name": "BYRON L. TINDALL",
+          "role": "Facilities Management Director"
+        },
+        {
+          "name": "JOSEPH L. HARDY, JR.",
+          "role": "Financial Management Director"
+        },
+        {
+          "name": "JANET L. BOYER",
+          "role": "Human Resources Director"
+        },
+        {
+          "name": "NANCY A. CILIBERTI",
+          "role": "Librarian"
+        },
+        {
+          "name": "SHEILA A. MURPHY",
+          "role": "Reporter of Decisions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Miguel Cardona",
+      "member_role": "Secretary of Education"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF EDUCATION",
+      "department_members": [
+        {
+          "member_name": "Miguel Cardona",
+          "member_role": "Secretary of Education"
+        },
+        {
+          "member_name": "Cindy Marten",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Sheila Nix",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Donna Harris Aikens",
+          "member_role": "Deputy Chief of Staff, Strategy"
+        },
+        {
+          "member_name": "Scott Sargrad",
+          "member_role": "Deputy Chief of Staff, Policy"
+        },
+        {
+          "member_name": "James Kvaal",
+          "member_role": "Under Secretary"
+        },
+        {
+          "member_name": "Jordan Matsudiara",
+          "member_role": "Deputy Under Secretary"
+        },
+        {
+          "member_name": "Melanie Muenzer",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Denise L. Carter",
+          "member_role": "Assistant Secretary and Chief Financial Officer (acting)"
+        },
+        {
+          "member_name": "Denise L. Carter",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Timothy Barkley",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Ayesha Edwards-Kemp",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Anthony Cummings",
+          "member_role": "Director, Alternative Dispute Resolution Center"
+        },
+        {
+          "member_name": "Michael Chew",
+          "member_role": "Service Director of Equal Employment Opportunity Services"
+        },
+        {
+          "member_name": "Anthony Cummings",
+          "member_role": "Director, Office of Hearings and Appeals"
+        },
+        {
+          "member_name": "Jim Stader",
+          "member_role": "Deputy Assistant Secretary, Office of Acquisition Management / DCAO / SPE (acting)"
+        },
+        {
+          "member_name": "Andrew Sanzenbacher",
+          "member_role": "Deputy Assistant Secretary, Office of Business Support Services"
+        },
+        {
+          "member_name": "Gary Wood",
+          "member_role": "Deputy Assistant Secretary, Office of Financial Management"
+        },
+        {
+          "member_name": "Phillip Juengst",
+          "member_role": "Deputy Assistant Secretary, Office of Grants Administration"
+        },
+        {
+          "member_name": "Antonia Harris",
+          "member_role": "Deputy Assistant Secretary, Office of Human Resources"
+        },
+        {
+          "member_name": "Jim Hairfield",
+          "member_role": "Deputy Assistant Secretary, Office of Security, Facilities and Logistics Services"
+        },
+        {
+          "member_name": "Calvin Mitchell",
+          "member_role": "Director, Office of Small and Disadvantaged Business Utilization"
+        },
+        {
+          "member_name": "Catherine E. Lhamon",
+          "member_role": "Assistant Secretary for Civil Rights"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Hannah Zack",
+          "member_role": "Confidential Assistant to the Assistant Secretary for Civil Rights"
+        },
+        {
+          "member_name": "Addie Zinsner",
+          "member_role": "Confidential Assistant to the Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Alice Abrokwa",
+          "member_role": "Senior Counsel to the Assistant Secretary"
+        },
+        {
+          "member_name": "Samantha Scheuler",
+          "member_role": "Counsel to the Assistant Secretary"
+        },
+        {
+          "member_name": "Monique Dixon",
+          "member_role": "Deputy Assistant Secretary for Policy and Development"
+        },
+        {
+          "member_name": "Meir Katz",
+          "member_role": "Senior Counsel to the Deputy Assistant Secretary for Policy and Development"
+        },
+        {
+          "member_name": "Suzanne Goldberg",
+          "member_role": "Deputy Assistant Secretary for Management and Operations"
+        },
+        {
+          "member_name": "Anna Kasior",
+          "member_role": "Special Assistant to the Deputy Assistant Secretary for Management and Operations"
+        },
+        {
+          "member_name": "Will Young",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Randolph Wills",
+          "member_role": "Deputy Assistant Secretary for Enforcement"
+        },
+        {
+          "member_name": "Meena Morey Chandra",
+          "member_role": "Enforcement Director"
+        },
+        {
+          "member_name": "Lisa Chang",
+          "member_role": "Enforcement Director"
+        },
+        {
+          "member_name": "Mia Karvonides",
+          "member_role": "Enforcement Director"
+        },
+        {
+          "member_name": "Emily McCarthy",
+          "member_role": "Enforcement Director"
+        },
+        {
+          "member_name": "Marvida Scarbrough",
+          "member_role": "Executive Assistant to the Deputy Assistant Secretary for Enforcement"
+        },
+        {
+          "member_name": "Alejandro Reyes",
+          "member_role": "Director, Program Legal Group"
+        },
+        {
+          "member_name": "Joshua Shopf",
+          "member_role": "Senior Counsel / Litigation"
+        },
+        {
+          "member_name": "Sherrell Evans",
+          "member_role": "Senior Counsel"
+        },
+        {
+          "member_name": "Nichelle Boone",
+          "member_role": "Human Resources Team Supervisor"
+        },
+        {
+          "member_name": "Crystal Foster",
+          "member_role": "Budget and Planning Support Team Lead"
+        },
+        {
+          "member_name": "Anna Kasior",
+          "member_role": "Customer Service and Technology Team Supervisor (acting)"
+        },
+        {
+          "member_name": "Amy Loyd",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Francine Sinclair",
+          "member_role": "Staff Assistant"
+        },
+        {
+          "member_name": "Rachel Thomas",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Kelly Leon",
+          "member_role": "Press Secretary"
+        },
+        {
+          "member_name": "Rachel Thomas",
+          "member_role": "Deputy Assistant Secretary, Communications"
+        },
+        {
+          "member_name": "Branden Cobb",
+          "member_role": "Deputy Assistant Secretary, Creative Content"
+        },
+        {
+          "member_name": "Daniel J. Miller",
+          "member_role": "Deputy Assistant Secretary, Management and Planning"
+        },
+        {
+          "member_name": "James Lane",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Mark Washington",
+          "member_role": "Deputy Assistant Secretary for the Office of Administration"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Assistant Secretary for Discretionary Grants (acting)"
+        },
+        {
+          "member_name": "Ruth Ryder",
+          "member_role": "Deputy Assistant Secretary for Formula Grants"
+        },
+        {
+          "member_name": "Tina Hunter",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Kim Okahara",
+          "member_role": "Director for Management Support Unit"
+        },
+        {
+          "member_name": "Ellen Safranek",
+          "member_role": "Program Director, Charter School Program"
+        },
+        {
+          "member_name": "Meredith Miller",
+          "member_role": "Program Director, Disaster Recovery Group"
+        },
+        {
+          "member_name": "Venitia Richardson",
+          "member_role": "Program Director, Effective Educator Development Program (acting)"
+        },
+        {
+          "member_name": "Venitia Richardson",
+          "member_role": "Program Director, Effective Teaching and Social Emotional Learning"
+        },
+        {
+          "member_name": "Anna Hinton",
+          "member_role": "Program Director, Expanding Student Choice and High-Quality Schools"
+        },
+        {
+          "member_name": "Victoria Hammer",
+          "member_role": "Program Director, High Quality Assessments and Accountability Systems"
+        },
+        {
+          "member_name": "Marilyn Hall",
+          "member_role": "Program Director, Impact Aid Program"
+        },
+        {
+          "member_name": "Jamila Smith",
+          "member_role": "Program Director, Innovation and Early Learning Programs"
+        },
+        {
+          "member_name": "Tara Ramsey",
+          "member_role": "Program Director, Migrant Education"
+        },
+        {
+          "member_name": "Julian Guerrero",
+          "member_role": "Program Director, Office of Indian Education"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Program Director, Program and Grantee Support Services"
+        },
+        {
+          "member_name": "Ruth Ryder",
+          "member_role": "Program Director, Rural, Insular and Native Achievement Programs (acting)"
+        },
+        {
+          "member_name": "Paul Kesner",
+          "member_role": "Program Director, Safe and Supportive Schools"
+        },
+        {
+          "member_name": "Norris Dickard",
+          "member_role": "Program Director, School Choice and Improvement Programs"
+        },
+        {
+          "member_name": "Patrick Rooney",
+          "member_role": "Program Director, School Support and Accountability"
+        },
+        {
+          "member_name": "Tara Ramsey",
+          "member_role": "Program Director, State and Grantee Relations"
+        },
+        {
+          "member_name": "Sylvia Lyles",
+          "member_role": "Program Director, Well-Rounded Education Programs"
+        },
+        {
+          "member_name": "Supreet Anand",
+          "member_role": "Assistant Deputy Secretary and Director (acting)"
+        },
+        {
+          "member_name": "Supreet Anand, Ph.D.",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Richard Cordray",
+          "member_role": "Chief Operating Officer"
+        },
+        {
+          "member_name": "Katie Malague",
+          "member_role": "Principal Deputy Chief Operating Officer"
+        },
+        {
+          "member_name": "Deborah Harry",
+          "member_role": "Deputy Chief Operating Officer, Partner Participation and Oversight"
+        },
+        {
+          "member_name": "Kristen Donoghue",
+          "member_role": "Deputy Chief Operating Officer, Strategic Measures and Outcomes"
+        },
+        {
+          "member_name": "Dave Albers",
+          "member_role": "Deputy Chief Operating Officer, Strategy, Innovation and Transformation"
+        },
+        {
+          "member_name": "Christopher Greene",
+          "member_role": "Deputy Chief Operating Officer, Student Experience and Aid Delivery"
+        },
+        {
+          "member_name": "Quasette Crowner",
+          "member_role": "Chief Administration Officer"
+        },
+        {
+          "member_name": "Richard Lucas",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Wanda Broadus",
+          "member_role": "Chief Information Officer (acting)"
+        },
+        {
+          "member_name": "Bradley Bumgarner",
+          "member_role": "Executive Director, Acquisitions"
+        },
+        {
+          "member_name": "Jeff Appel",
+          "member_role": "Director, Policy Liaison and Implementation"
+        },
+        {
+          "member_name": "Colleen McGinnis",
+          "member_role": "Director, Strategic Communications (acting)"
+        },
+        {
+          "member_name": "Joyce DeMoss",
+          "member_role": "Ombudsman"
+        },
+        {
+          "member_name": "Lisa Brown",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Principal Deputy General Counsel"
+        },
+        {
+          "member_name": "Patrick Shaheen",
+          "member_role": "Confidential Assistant"
+        },
+        {
+          "member_name": "Hilary Malawer",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Toby Merrill",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Philip H. Rosenfelt",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Greg Schmidt",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Bucky Methfessel",
+          "member_role": "Senior Counsel"
+        },
+        {
+          "member_name": "Ron Petracca",
+          "member_role": "Senior Counsel"
+        },
+        {
+          "member_name": "Rob Wexler",
+          "member_role": "Senior Counsel"
+        },
+        {
+          "member_name": "Liza Araujo",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Kathryn Ellis",
+          "member_role": "Assistant General Counsel"
+        },
+        {
+          "member_name": "Marcella Keller-Goodridge",
+          "member_role": "Assistant General Counsel"
+        },
+        {
+          "member_name": "Dennis Koeppel",
+          "member_role": "Assistant General Counsel"
+        },
+        {
+          "member_name": "Paul Riddle",
+          "member_role": "Assistant General Counsel"
+        },
+        {
+          "member_name": "Tracey Sasser",
+          "member_role": "Assistant General Counsel"
+        },
+        {
+          "member_name": "Brian Siegel",
+          "member_role": "Assistant General Counsel (acting)"
+        },
+        {
+          "member_name": "Sandra D. Bruce",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "Antigone Potamianos",
+          "member_role": "Counsel to the Inspector General"
+        },
+        {
+          "member_name": "Byron Gordon",
+          "member_role": "Assistant Inspector General for Audit Services"
+        },
+        {
+          "member_name": "Robert Mancuso",
+          "member_role": "Assistant Inspector General for Investigations"
+        },
+        {
+          "member_name": "Kevin Young",
+          "member_role": "Assistant Inspector General for IT Audit and Computer Crimes Investigations"
+        },
+        {
+          "member_name": "Francine Hines",
+          "member_role": "Assistant Inspector General for Management Services"
+        },
+        {
+          "member_name": "Maureen McLaughlin",
+          "member_role": "Senior Advisor to the Secretary and Director"
+        },
+        {
+          "member_name": "Rebecca Miller",
+          "member_role": "International Affairs Specialist"
+        },
+        {
+          "member_name": "Rafael Nevarez",
+          "member_role": "International Affairs Specialist"
+        },
+        {
+          "member_name": "Mark Schneider",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Craig Stanton",
+          "member_role": "Deputy Director for Administration and Policy"
+        },
+        {
+          "member_name": "Anne Riccuiti",
+          "member_role": "Deputy Director for Science"
+        },
+        {
+          "member_name": "Matthew Soldner",
+          "member_role": "National Center for Education Evaluation and Regional Assistance"
+        },
+        {
+          "member_name": "Elizabeth Albro",
+          "member_role": "National Center for Education Research"
+        },
+        {
+          "member_name": "Peggy Carr",
+          "member_role": "National Center for Education Statistics"
+        },
+        {
+          "member_name": "Joan McLaughlin",
+          "member_role": "National Center for Special Education Research"
+        },
+        {
+          "member_name": "Gwen Graham",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Rachel Niebling",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Lakeisha Steele",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Ben Martel",
+          "member_role": "Confidential Assistant"
+        },
+        {
+          "member_name": "Molly Petersen",
+          "member_role": "Director of Legislative Affairs"
+        },
+        {
+          "member_name": "Roberto Rodriguez",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Larry Kean",
+          "member_role": "Budget Service"
+        },
+        {
+          "member_name": "Gregory Fortelny",
+          "member_role": "Chief Data Officer"
+        },
+        {
+          "member_name": "Kristina Ishmael",
+          "member_role": "Deputy Director of the Office of Educational Technology"
+        },
+        {
+          "member_name": "Jessica Ramakis",
+          "member_role": "Director of Grants Policy Office"
+        },
+        {
+          "member_name": "Kevin Herms",
+          "member_role": "Director of Student Privacy Policy Office"
+        },
+        {
+          "member_name": "Ann Margaret Owens",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Nasser Paydar",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Michelle Asha Cooper",
+          "member_role": "Deputy Assistant Secretary for Higher Education Programs"
+        },
+        {
+          "member_name": "Cheryl Gibbs",
+          "member_role": "Deputy Assistant Secretary for International and Foreign Language Education (Senior Director)"
+        },
+        {
+          "member_name": "Tiwanda Burse",
+          "member_role": "Deputy Assistant Secretary for Management and Planning"
+        },
+        {
+          "member_name": "Annmarie Weisman",
+          "member_role": "Deputy Assistant Secretary for Policy, Planning, and Innovation"
+        },
+        {
+          "member_name": "John Woodard",
+          "member_role": "Executive Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES",
+      "department_members": [
+        {
+          "member_name": "Katherine Neas",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Katherine Neas",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Valerie Williams",
+          "member_role": "Director of the Office of Special Education Programs"
+        },
+        {
+          "member_name": "David Cantrell",
+          "member_role": "Deputy Director of the Office of Special Education Programs"
+        },
+        {
+          "member_name": "Carol Dobak",
+          "member_role": "Commissioner of the Rehabilitation Services Administration (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Commissioner of the Rehabilitation Services Administration"
+        },
+        {
+          "member_name": "Melanie Winston",
+          "member_role": "Executive Officer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1468 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Elaine L. Chao",
+      "member_role": "Secretary of Labor"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF LABOR",
+      "department_members": [
+        {
+          "member_name": "Elaine L. Chao",
+          "member_role": "Secretary of Labor"
+        },
+        {
+          "member_name": "Connie Johnston",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Steven Law",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Andrew Siff",
+          "member_role": "Counselor to the Secretary"
+        },
+        {
+          "member_name": "Ruth D. Knouse",
+          "member_role": "Executive Secretariat"
+        },
+        {
+          "member_name": "Tina Henry",
+          "member_role": "Director of Scheduling and Advance"
+        },
+        {
+          "member_name": "D. Cameron Findlay",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Alan Severson",
+          "member_role": "Senior Counsel"
+        },
+        {
+          "member_name": "Brent Orrell",
+          "member_role": "Director, Office of Faith Based Initiatives"
+        },
+        {
+          "member_name": "Jacqueline Halbig",
+          "member_role": "Deputy Director, Office of Faith Based Initiatives"
+        },
+        {
+          "member_name": "John M. Vittone",
+          "member_role": "Chief Administrative Law Judge"
+        },
+        {
+          "member_name": "Nancy S. Dolder",
+          "member_role": "Chair, Benefits Review Board"
+        },
+        {
+          "member_name": "Alec Koromilas",
+          "member_role": "Chairman, Employees Compensation Appeals Board"
+        },
+        {
+          "member_name": "M. Cynthia Douglass",
+          "member_role": "Chairman, Administrative Review Board"
+        },
+        {
+          "member_name": "Jose Lira",
+          "member_role": "Director, Office of Small Business Programs"
+        },
+        {
+          "member_name": "W. Roy Grizzard, Ed.D.",
+          "member_role": "Assistant Secretary, Office of Disability Employment Policy"
+        },
+        {
+          "member_name": "Russell Harris",
+          "member_role": "Deputy Assistant Secretary (acting), Office of Disability Employment Policy"
+        },
+        {
+          "member_name": "J. Kim Cook",
+          "member_role": "Chief of Staff, Office of Disability Employment Policy"
+        },
+        {
+          "member_name": "Nancy Skaggs",
+          "member_role": "Executive Assistant, Office of Disability Employment Policy"
+        },
+        {
+          "member_name": "Robert Brostrom",
+          "member_role": "Special Assistant, Office of Disability Employment Policy"
+        },
+        {
+          "member_name": "Alice O'Steen",
+          "member_role": "Special Assistant, Office of Disability Employment Policy"
+        },
+        {
+          "member_name": "Susan Parker",
+          "member_role": "Director, Office of Policy and Research"
+        },
+        {
+          "member_name": "John Davey",
+          "member_role": "Director, Office of Operations"
+        },
+        {
+          "member_name": "Kristine Iverson",
+          "member_role": "Assistant Secretary for Congressional and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Glenda Manning",
+          "member_role": "Staff Assistant"
+        },
+        {
+          "member_name": "Jennifer Jameson",
+          "member_role": "Deputy Assistant Secretary, Congressional"
+        },
+        {
+          "member_name": "Karen Czarnecki",
+          "member_role": "Deputy Assistant Secretary, Intergovernmental"
+        },
+        {
+          "member_name": "Adam Sullivan",
+          "member_role": "Senior Legislative Officer, Budget and Appropriations"
+        },
+        {
+          "member_name": "Elena Thompkins",
+          "member_role": "Senior Legislative Officer, Employment Standards"
+        },
+        {
+          "member_name": "Anthony Bedell",
+          "member_role": "Senior Legislative Officer, Employment and Training"
+        },
+        {
+          "member_name": "Mala Krishnamoorti",
+          "member_role": "Senior Legislative Officer, Employment and Training"
+        },
+        {
+          "member_name": "Bradford Campbell",
+          "member_role": "Senior Legislative Officer, Employment Benefits"
+        },
+        {
+          "member_name": "Bryan Little",
+          "member_role": "Senior Legislative Officer, Workplace Safety and Health"
+        },
+        {
+          "member_name": "Jana Hoisington",
+          "member_role": "Congressional Research Assistant"
+        },
+        {
+          "member_name": "Elizabeth Keelan",
+          "member_role": "Congressional Research Assistant"
+        },
+        {
+          "member_name": "Blair Palmer",
+          "member_role": "Congressional Research Assistant"
+        },
+        {
+          "member_name": "Bettye Samuels",
+          "member_role": "Senior Intergovernmental Officer"
+        },
+        {
+          "member_name": "Christopher Bugbee",
+          "member_role": "Intergovernmental Officer"
+        },
+        {
+          "member_name": "Maria Fuentes",
+          "member_role": "Intergovernmental Officer"
+        },
+        {
+          "member_name": "Joycelyn Daniels",
+          "member_role": "Administrative Officer"
+        },
+        {
+          "member_name": "Arnold Levine",
+          "member_role": "Associate Deputy Under Secretary, Bureau of International Labor Affairs"
+        },
+        {
+          "member_name": "Jorge Perez-Lopez",
+          "member_role": "Associate Deputy Under Secretary, Bureau of International Labor Affairs"
+        },
+        {
+          "member_name": "Martha Newton",
+          "member_role": "Chief of Staff, Bureau of International Labor Affairs"
+        },
+        {
+          "member_name": "James Perlmutter",
+          "member_role": "Director, Office of Foreign Relations"
+        },
+        {
+          "member_name": "Jorge Perez-Lopez",
+          "member_role": "Director, Office of International Economic Affairs"
+        },
+        {
+          "member_name": "Charles Spring",
+          "member_role": "Director, Office of International Organizations"
+        },
+        {
+          "member_name": "Lewis Karesh",
+          "member_role": "Director, National Administrative Office (acting)"
+        },
+        {
+          "member_name": "Marcia Eugenio",
+          "member_role": "Director, International Child Labor Programs (acting)"
+        },
+        {
+          "member_name": "Gordon S. Heddell",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "George J. Opfer",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "Nancy Ruiz de Gamboa",
+          "member_role": "Chief of Staff, Inspector General"
+        },
+        {
+          "member_name": "Elliot P. Lewis",
+          "member_role": "Assistant Inspector General for Audit"
+        },
+        {
+          "member_name": "Stephen J. Cossu",
+          "member_role": "Assistant Inspector General for Investigations"
+        },
+        {
+          "member_name": "Sylvia T. Horowitz",
+          "member_role": "Assistant Inspector General for Legal Services"
+        },
+        {
+          "member_name": "Shinae Chun",
+          "member_role": "Director, Women's Bureau"
+        },
+        {
+          "member_name": "Lisa Kruska",
+          "member_role": "Deputy Director, Women's Bureau"
+        },
+        {
+          "member_name": "Cornelia H. Moore",
+          "member_role": "Manager, National and Regional Operations, Women's Bureau"
+        },
+        {
+          "member_name": "Collis Phillips",
+          "member_role": "Chief of Policy and Programs, Women's Bureau"
+        },
+        {
+          "member_name": "Ann L. Combs",
+          "member_role": "Assistant Secretary, Employee Benefits Security Administration"
+        },
+        {
+          "member_name": "Paul R. Zurawski",
+          "member_role": "Deputy Assistant Secretary for Policy, Employee Benefits Security Administration"
+        },
+        {
+          "member_name": "Alan D. Lebowitz",
+          "member_role": "Deputy Assistant Secretary, Employee Benefits Security Administration"
+        },
+        {
+          "member_name": "Thomas Alexander",
+          "member_role": "Chief of Staff, Employee Benefits Security Administration"
+        },
+        {
+          "member_name": "Sue Ugelow",
+          "member_role": "Executive Assistant to the Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Rosita Hrobowski",
+          "member_role": "Confidential Assistant (acting), Employee Benefits Security Administration"
+        },
+        {
+          "member_name": "Morton Klevan",
+          "member_role": "Senior Director for Policy and Legislative Analysis, Employee Benefits Security Administration"
+        },
+        {
+          "member_name": "Brian C. McDonnell",
+          "member_role": "Director, Program, Planning, Evaluation and Management"
+        },
+        {
+          "member_name": "Ian Dingwall",
+          "member_role": "Director, Chief Accountant"
+        },
+        {
+          "member_name": "Virginia Smith",
+          "member_role": "Director, Enforcement"
+        },
+        {
+          "member_name": "Ivan L. Strasfeld",
+          "member_role": "Director, Exemption Determinations"
+        },
+        {
+          "member_name": "John Helms",
+          "member_role": "Director, Information Management"
+        },
+        {
+          "member_name": "Sharon Watson",
+          "member_role": "Director, Program Services"
+        },
+        {
+          "member_name": "Robert Doyle",
+          "member_role": "Director, Regulations and Interpretations"
+        },
+        {
+          "member_name": "Joseph Piacentini",
+          "member_role": "Director, Policy and Research (acting)"
+        },
+        {
+          "member_name": "Victoria Lipnic",
+          "member_role": "Assistant Secretary, Employment Standards Administration"
+        },
+        {
+          "member_name": "D. Mark Wilson",
+          "member_role": "Deputy Assistant Secretary, Employment Standards Administration"
+        },
+        {
+          "member_name": "Horace Cooper",
+          "member_role": "Chief of Staff, Employment Standards Administration"
+        },
+        {
+          "member_name": "Nicolee Ambrose",
+          "member_role": "Special Assistant, Employment Standards Administration"
+        },
+        {
+          "member_name": "Corrie L. Fischel",
+          "member_role": "Special Assistant, Employment Standards Administration"
+        },
+        {
+          "member_name": "Tammy D. McCutchen",
+          "member_role": "Administrator, Wage and Hour Division"
+        },
+        {
+          "member_name": "Eric S. Dreiband",
+          "member_role": "Deputy Administrator for Policy, Wage and Hour Division"
+        },
+        {
+          "member_name": "Dave Minsky",
+          "member_role": "Senior Policy Advisor"
+        },
+        {
+          "member_name": "Alfred B. Robinson, Jr.",
+          "member_role": "Senior Policy Advisor"
+        },
+        {
+          "member_name": "Nancy M. Flynn",
+          "member_role": "Director, Office of Planning and Analysis"
+        },
+        {
+          "member_name": "Rae E. Glass",
+          "member_role": "Director, Office of External Affairs"
+        },
+        {
+          "member_name": "Michael F. Ginley",
+          "member_role": "Director, Office of Enforcement Policy"
+        },
+        {
+          "member_name": "William M. Gross",
+          "member_role": "Director, Office of Wage Determinations"
+        },
+        {
+          "member_name": "Charles E. James, Sr.",
+          "member_role": "Deputy Assistant Secretary, Office of Federal Contract Compliance Programs"
+        },
+        {
+          "member_name": "Bill Doyle",
+          "member_role": "Deputy Director, Office of Federal Contract Compliance Programs"
+        },
+        {
+          "member_name": "Don Todd",
+          "member_role": "Deputy Assistant Secretary, Office of Labor Management Programs"
+        },
+        {
+          "member_name": "Shelby Hallmark",
+          "member_role": "Director, Workers' Compensation Programs"
+        },
+        {
+          "member_name": "Michael Niss",
+          "member_role": "Director, Division of Longshore and Harbor Worker's Compensation"
+        },
+        {
+          "member_name": "Deborah Sanford",
+          "member_role": "Director, Division of Federal Employees Compensation"
+        },
+        {
+          "member_name": "James DeMarce",
+          "member_role": "Director, Division of Coal Mine Worker's Compensation"
+        },
+        {
+          "member_name": "Peter Turcic",
+          "member_role": "Director, Energy Employees Occupational Illness Compensation Program"
+        },
+        {
+          "member_name": "Anne Baird-Bridges",
+          "member_role": "Director, Office of Management, Administration and Planning"
+        },
+        {
+          "member_name": "Patricia J. Vastano",
+          "member_role": "Deputy Director, Office of Management, Administration and Planning"
+        },
+        {
+          "member_name": "Kate Dorrell",
+          "member_role": "Coordinator, Equal Employment Opportunity Unit"
+        },
+        {
+          "member_name": "Patrick Pizzella",
+          "member_role": "Assistant Secretary for Administration and Management"
+        },
+        {
+          "member_name": "Edward C. Hugler",
+          "member_role": "Deputy Assistant Secretary for Operations"
+        },
+        {
+          "member_name": "James E. McMullen",
+          "member_role": "Deputy Assistant Secretary for Budget and Strategic and Performance Planning"
+        },
+        {
+          "member_name": "Jeff Koch",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "John Pallasch",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Edward L. Jackson",
+          "member_role": "Director, Departmental Budget Center"
+        },
+        {
+          "member_name": "Patricia Smith",
+          "member_role": "Staff Assistant, Departmental Budget Center"
+        },
+        {
+          "member_name": "Richard V. French",
+          "member_role": "Deputy Director, Departmental Budget Center"
+        },
+        {
+          "member_name": "William C. Keisler",
+          "member_role": "Director, Agency Budget Programs"
+        },
+        {
+          "member_name": "Mark Wichlin",
+          "member_role": "Director, Budget Policy and Systems"
+        },
+        {
+          "member_name": "Deborah Staton-Wright",
+          "member_role": "Director, Financial Management Operations"
+        },
+        {
+          "member_name": "Veronica C. Campbell",
+          "member_role": "Director, Center for Program Planning and Results"
+        },
+        {
+          "member_name": "James D. Sullivan",
+          "member_role": "Director, Office of Planning"
+        },
+        {
+          "member_name": "Donna Copson",
+          "member_role": "Director, Office of Performance Monitoring"
+        }
+      ]
+    },
+    {
+      "department_name": "BUSINESS OPERATIONS CENTER",
+      "department_members": [
+        {
+          "member_name": "Al Stewart",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Kathy Alejandro",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Curtis Bartell",
+          "member_role": "Emergency Operations"
+        },
+        {
+          "member_name": "Daniel P. Murphy",
+          "member_role": "Procurement Services"
+        },
+        {
+          "member_name": "Karen Pedone",
+          "member_role": "Acquisition and Management Support Services"
+        },
+        {
+          "member_name": "Laurie Hileman",
+          "member_role": "Safety and Health Services"
+        },
+        {
+          "member_name": "Linda Parker",
+          "member_role": "Wirtz Labor Library"
+        },
+        {
+          "member_name": "Leonard A. Pettiford",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Administrative Services"
+        }
+      ]
+    },
+    {
+      "department_name": "CIVIL RIGHTS CENTER",
+      "department_members": [
+        {
+          "member_name": "Annabelle T. Lockhart",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Vicky Best-Morris",
+          "member_role": "Staff Assistant"
+        },
+        {
+          "member_name": "Gregory Shaw",
+          "member_role": "Compliance Assistance and Planning"
+        },
+        {
+          "member_name": "Willie Alexander",
+          "member_role": "Enforcement / Internal and External"
+        },
+        {
+          "member_name": "Lillian Winstead",
+          "member_role": "EEO Coordinator of Counselors"
+        },
+        {
+          "member_name": "Dawn Murray-Johnson",
+          "member_role": "Reasonable Accommodation Hotline"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Mediation, Counseling and Evaluation"
+        }
+      ]
+    },
+    {
+      "department_name": "HUMAN RESOURCES CENTER",
+      "department_members": [
+        {
+          "member_name": "Daliza Salas",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Jerry Lelchook",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Sharon Woodward",
+          "member_role": "Administration, Events Management and Assistive Services"
+        },
+        {
+          "member_name": "Kim Green",
+          "member_role": "Continuous Learning and Career Management"
+        },
+        {
+          "member_name": "Sandra Keppley",
+          "member_role": "Employee Labor Management Relations"
+        },
+        {
+          "member_name": "David LeDoux",
+          "member_role": "Executive Resources and Personnel Security"
+        },
+        {
+          "member_name": "Richard Kelley",
+          "member_role": "Human Resources Policy and Accountability"
+        },
+        {
+          "member_name": "Violet R. Parker",
+          "member_role": "Human Resources Service Center"
+        },
+        {
+          "member_name": "Dennis Sullivan",
+          "member_role": "Workforce Planning and Diversity"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Worklife Programs"
+        }
+      ]
+    },
+    {
+      "department_name": "INFORMATION TECHNOLOGY CENTER",
+      "department_members": [
+        {
+          "member_name": "Keith Nelson",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Kathy Fox",
+          "member_role": "Administrative Officer"
+        },
+        {
+          "member_name": "Michael Miller",
+          "member_role": "Human Resources Information Systems Unit"
+        },
+        {
+          "member_name": "Cornelius Johnson",
+          "member_role": "Technical Services (acting Director)"
+        },
+        {
+          "member_name": "Hung Phan",
+          "member_role": "Chief Information Officer Programs"
+        },
+        {
+          "member_name": "Dennis Gusty",
+          "member_role": "Government Benefits / Government Director"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Customer Support and Field Operations"
+        }
+      ]
+    },
+    {
+      "department_name": "ASSISTANT SECRETARY FOR POLICY",
+      "department_members": [
+        {
+          "member_name": "Chris Spear",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Fay Ott",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Roland G. Droitsch",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "David Gray",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Dana Barbieri",
+          "member_role": "Associate Assistant Secretary"
+        },
+        {
+          "member_name": "Diana Furchgott-Roth",
+          "member_role": "Chief Economist"
+        },
+        {
+          "member_name": "Barbara Bingham",
+          "member_role": "Director, Compliance Assistance Policy"
+        },
+        {
+          "member_name": "Kathleen Franks",
+          "member_role": "Director, Regulatory Policy"
+        },
+        {
+          "member_name": "Ruth Samardick",
+          "member_role": "Director, Programmatic Policy"
+        },
+        {
+          "member_name": "David DeMers",
+          "member_role": "Director, Research and Technical Policy"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE SOLICITOR",
+      "department_members": [
+        {
+          "member_name": "Howard M. Radzely",
+          "member_role": "Solicitor (acting)"
+        },
+        {
+          "member_name": "Tina McCants",
+          "member_role": "Confidential Assistant"
+        },
+        {
+          "member_name": "Craig W. Hukill",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Timothy J. Keefer",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Joseph B. Maher",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Nancy M. Rooney",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Ronald G. Whiting",
+          "member_role": "Deputy Solicitor for Regional Operations"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Planning and Coordination"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF ADMINISTRATION, MANAGEMENT AND LITIGATION SUPPORT",
+      "department_members": [
+        {
+          "member_name": "Cecilia M. Holmes",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "June M. Graft",
+          "member_role": "Financial Manager"
+        },
+        {
+          "member_name": "Mary Pat Donelan",
+          "member_role": "Personnel Officer"
+        },
+        {
+          "member_name": "Neilda Lee",
+          "member_role": "EEO / Employee Relations"
+        },
+        {
+          "member_name": "Alice L. Rapport",
+          "member_role": "Litigation Support"
+        },
+        {
+          "member_name": "Georgette Price",
+          "member_role": "Automation Information Services"
+        },
+        {
+          "member_name": "Brenda W. Murray",
+          "member_role": "Internal Controls"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF BLACK LUNG BENEFITS",
+      "department_members": [
+        {
+          "member_name": "Donald S. Shire",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Rae Ellen Frank James",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Michael J. Rutledge",
+          "member_role": "Counsel for Administrative Litigation and Legal Advice"
+        },
+        {
+          "member_name": "Christian Barber",
+          "member_role": "Counsel for Appellate Litigation"
+        },
+        {
+          "member_name": "Patricia M. Nece",
+          "member_role": "Counsel for Appellate Litigation"
+        },
+        {
+          "member_name": "Edward Waldman",
+          "member_role": "Counsel for Enforcement"
+        },
+        {
+          "member_name": "Brian E. Peters",
+          "member_role": "Counsel for Regional Litigation"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF CIVIL RIGHTS",
+      "department_members": [
+        {
+          "member_name": "Gary M. Buff",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Donald Shalhaub",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Suzan Chastain",
+          "member_role": "Counsel for Interpretations and Advice"
+        },
+        {
+          "member_name": "Beverly Dankowitz",
+          "member_role": "Counsel for Litigation"
+        },
+        {
+          "member_name": "Richard Gilman",
+          "member_role": "Counsel for Litigation"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF EMPLOYEE BENEFITS",
+      "department_members": [
+        {
+          "member_name": "Jeffrey L. Nesvet",
+          "member_role": "Associate Solicitor (acting)"
+        },
+        {
+          "member_name": "Catherine P. Carter",
+          "member_role": "Counsel for Claims"
+        },
+        {
+          "member_name": "Mark A. Reinhalter",
+          "member_role": "Counsel for Energy Employees Compensation"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Counsel for Longshore"
+        },
+        {
+          "member_name": "John T. Gillelan II",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "Samuel J. Oshansky",
+          "member_role": "Senior Trial Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "EMPLOYMENT AND TRAINING LEGAL SERVICES",
+      "department_members": [
+        {
+          "member_name": "Charles D. Raymond",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Jonathan H. Waxman",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Harry L. Sheinfeld",
+          "member_role": "Counsel for Litigation"
+        },
+        {
+          "member_name": "Michael N. Apfelbaum",
+          "member_role": "Counsel for Employment Compensation"
+        },
+        {
+          "member_name": "Bruce W. Alter",
+          "member_role": "Counsel for Employment and Immigration Programs"
+        },
+        {
+          "member_name": "Vincent C. Costantino",
+          "member_role": "Senior Trial Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "FAIR LABOR STANDARDS",
+      "department_members": [
+        {
+          "member_name": "Steve Mandel",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "William Lesser",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Paul L. Frieden",
+          "member_role": "Counsel for Appellate Litigation"
+        },
+        {
+          "member_name": "Douglas J. Davidson",
+          "member_role": "Counsel for Employment Standards"
+        },
+        {
+          "member_name": "Diane Heim",
+          "member_role": "Counsel for Legal Advice"
+        },
+        {
+          "member_name": "Ellen Edmond",
+          "member_role": "Counsel for Trial Litigation"
+        },
+        {
+          "member_name": "Anne P. Fugitt",
+          "member_role": "Counsel for Trial Litigation"
+        },
+        {
+          "member_name": "Johnathan M. Kronheim",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "William J. Stone",
+          "member_role": "Senior Trial Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF LABOR MANAGEMENT LAWS",
+      "department_members": [
+        {
+          "member_name": "Carol DeDeo",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Barron S. Widom",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Donald D. Carter",
+          "member_role": "Counsel for International Affairs / Opinions"
+        },
+        {
+          "member_name": "Dennis Paquette",
+          "member_role": "Counsel for Litigation"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF LEGISLATION AND LEGAL COUNSEL",
+      "department_members": [
+        {
+          "member_name": "Robert A. Shapiro",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Bruce Cohen",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Peter D. Galvin",
+          "member_role": "Counsel for Administrative Law"
+        },
+        {
+          "member_name": "Miriam McD. Miller",
+          "member_role": "Counsel for Administrative Law"
+        },
+        {
+          "member_name": "Robert Sadler",
+          "member_role": "Counsel for Ethics"
+        },
+        {
+          "member_name": "Mark Maxin",
+          "member_role": "Counsel for Labor Relations"
+        },
+        {
+          "member_name": "Jill M. Otte",
+          "member_role": "Counsel for Legislative Reports"
+        },
+        {
+          "member_name": "Myron Zeitz",
+          "member_role": "Counsel for Opinions, Appropriations Law"
+        },
+        {
+          "member_name": "Mark W. Morin",
+          "member_role": "Senior Attorney Adviser"
+        },
+        {
+          "member_name": "Seth D. Zinman",
+          "member_role": "Senior Attorney Adviser"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF MINE SAFETY AND HEALTH",
+      "department_members": [
+        {
+          "member_name": "Edward P. Clair",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Thomas A. Mascolino",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "W. Christian Schumann",
+          "member_role": "Counsel for Appellate Litigation"
+        },
+        {
+          "member_name": "Heidi W. Strassler",
+          "member_role": "Counsel for Coal Standards and Advice"
+        },
+        {
+          "member_name": "Deborah K. Green",
+          "member_role": "Counsel for Metal / Non-Metal Standards and Advice"
+        },
+        {
+          "member_name": "James B. Crawford",
+          "member_role": "Counsel for Trial Litigation"
+        },
+        {
+          "member_name": "Jerald S. Feingold",
+          "member_role": "Senior Attorney Advisor"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF OCCUPATIONAL SAFETY AND HEALTH",
+      "department_members": [
+        {
+          "member_name": "Joseph M. Woodward",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Alexander Fernandez",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Bruce F. Justh",
+          "member_role": "Counsel for Appellate Litigation"
+        },
+        {
+          "member_name": "Ann Rosenthal",
+          "member_role": "Counsel for Appellate Litigation"
+        },
+        {
+          "member_name": "Robert W. Swain",
+          "member_role": "Counsel for General Legal Advice"
+        },
+        {
+          "member_name": "Claudia Thurber",
+          "member_role": "Counsel for Health Standards"
+        },
+        {
+          "member_name": "George Henschel",
+          "member_role": "Counsel for Safety Standards"
+        },
+        {
+          "member_name": "Daniel Mick",
+          "member_role": "Counsel for Trial and OSHRC Litigation"
+        },
+        {
+          "member_name": "Kenneth Hellman",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "Charles F. James",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "Charles P. Gordon",
+          "member_role": "Senior Program Attorney"
+        },
+        {
+          "member_name": "Richard Pfeffer",
+          "member_role": "Senior Program Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF PLAN BENEFITS SECURITY",
+      "department_members": [
+        {
+          "member_name": "Timothy D. Hauser",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Karen Handorf",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Elizabeth Hopkins",
+          "member_role": "Counsel for Appellate and Special Litigation"
+        },
+        {
+          "member_name": "Risa D. Sandler",
+          "member_role": "Counsel for Fiduciary Litigation"
+        },
+        {
+          "member_name": "Leslie Candied Perlman",
+          "member_role": "Counsel for General Litigation"
+        },
+        {
+          "member_name": "William White Taylor",
+          "member_role": "Counsel for Regulation"
+        },
+        {
+          "member_name": "Michael A. Schloss",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "William Scott",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "William P. Tedesco",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "William E. Zuckerman",
+          "member_role": "Senior Trial Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "DIVISION OF SPECIAL APPELLATE AND SUPREME COURT LITIGATION (SASCL)",
+      "department_members": [
+        {
+          "member_name": "Allen Feldman",
+          "member_role": "Associate Solicitor"
+        },
+        {
+          "member_name": "Nathaniel Spiller",
+          "member_role": "Deputy Associate Solicitor"
+        },
+        {
+          "member_name": "Ellen L. Beard",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "Michael Doyle",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "Mark S. Flynn",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "Elizabeth Hopkins",
+          "member_role": "Senior Trial Attorney"
+        },
+        {
+          "member_name": "Edward D. Sieger",
+          "member_role": "Senior Trial Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "John Henshaw",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "R. Davis Layne",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Gary Visscher",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Betty Gillis-Robinson",
+          "member_role": "Director, Equal Employment Opportunity"
+        },
+        {
+          "member_name": "Bonnie Friedman",
+          "member_role": "Director, Public Affairs"
+        },
+        {
+          "member_name": "David Zeigler",
+          "member_role": "Director of Administrative Programs"
+        },
+        {
+          "member_name": "Russell B. Swanson",
+          "member_role": "Director of Construction and Engineering"
+        },
+        {
+          "member_name": "Paula White",
+          "member_role": "Director of Cooperative and State Programs"
+        },
+        {
+          "member_name": "Richard Fairfax",
+          "member_role": "Director of Enforcement Programs"
+        },
+        {
+          "member_name": "Frank Froydma",
+          "member_role": "Director of Evaluation and Analysis (acting)"
+        },
+        {
+          "member_name": "Cheryl Greeangh",
+          "member_role": "Director of Information Technology"
+        },
+        {
+          "member_name": "Ruth McCully",
+          "member_role": "Director of Science, Technology"
+        },
+        {
+          "member_name": "Steven Witt",
+          "member_role": "Director of Standards and Guidance"
+        }
+      ]
+    },
+    {
+      "department_name": "EMPLOYMENT AND TRAINING ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Emily Stover DeRocco",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Mason M. Bishop",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "David G. Dye",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Thomas M. Dowd",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Anthony Swoope",
+          "member_role": "Administrator, Office of Apprenticeship Training, Employer and Labor Services"
+        },
+        {
+          "member_name": "Gay Gilbert",
+          "member_role": "Administrator, Office of Business Relations Group"
+        },
+        {
+          "member_name": "Jan T. Austin",
+          "member_role": "Administrator, Office of EEO"
+        },
+        {
+          "member_name": "Jack Rapport",
+          "member_role": "Administrator, Office of Field Operations"
+        },
+        {
+          "member_name": "Anna Goddard",
+          "member_role": "Administrator, Office of Financial and Administrative Management"
+        },
+        {
+          "member_name": "Richard C. Trigg",
+          "member_role": "Administrator, Office of Job Corps"
+        },
+        {
+          "member_name": "John R. Beverly III",
+          "member_role": "Administrator, Office of National Programs"
+        },
+        {
+          "member_name": "Shirley M. Smith",
+          "member_role": "Administrator, Office of National Response"
+        },
+        {
+          "member_name": "Jaime Fall",
+          "member_role": "Administrator, Office of Outreach"
+        },
+        {
+          "member_name": "Eric R. Johnson",
+          "member_role": "Administrator, Office of Performance and Results"
+        },
+        {
+          "member_name": "Maria Kniesler Flynn",
+          "member_role": "Administrator, Office of Policy Development, Evaluation and Research"
+        },
+        {
+          "member_name": "Peter J. Brunner",
+          "member_role": "Administrator, Office of Technology"
+        },
+        {
+          "member_name": "Grace A. Kilbane",
+          "member_role": "Administrator, Office of Workforce Investment"
+        },
+        {
+          "member_name": "Cheryl Atkinson",
+          "member_role": "Administrator, Office of Workforce Security"
+        }
+      ]
+    },
+    {
+      "department_name": "MINE SAFETY AND HEALTH ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Dave D. Lauriski",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "John R. Caylor",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "John R. Correll",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Loretta M. Herrington",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Mark G. Ellis",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Katherine Snyder",
+          "member_role": "Director, Office of Information and Public Affairs"
+        },
+        {
+          "member_name": "Regina M. Flahie",
+          "member_role": "Legislative and Policy Analyst"
+        },
+        {
+          "member_name": "Ray McKinney",
+          "member_role": "Administrator for Coal Mine Safety and Health"
+        },
+        {
+          "member_name": "Robert M. Friend",
+          "member_role": "Administrator for Metal and Nonmetal Mine Safety and Health"
+        },
+        {
+          "member_name": "David L. Meyer",
+          "member_role": "Director for Administration and Management Office"
+        },
+        {
+          "member_name": "Steve Webber",
+          "member_role": "Director for Assessments Office"
+        },
+        {
+          "member_name": "Jeffrey A. Duncan",
+          "member_role": "Director for Educational Policy and Development Office"
+        },
+        {
+          "member_name": "George M. Fesak",
+          "member_role": "Director for Program Evaluation and Information Resources"
+        },
+        {
+          "member_name": "Marvin W. Nichols, Jr.",
+          "member_role": "Director for Standards, Regulations and Variances"
+        },
+        {
+          "member_name": "Mark E. Skiles",
+          "member_role": "Director for Technical Support"
+        }
+      ]
+    },
+    {
+      "department_name": "VETERANS' EMPLOYMENT AND TRAINING SERVICE",
+      "department_members": [
+        {
+          "member_name": "Frederico Juarbe, Jr.",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Charles S. Ciccolella",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "John Muckelbauer",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Vicki Sinnett",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Harry Puente-Duany",
+          "member_role": "Director, Management, Budget, and Agency Administrative Officer"
+        },
+        {
+          "member_name": "Gordon Burke",
+          "member_role": "Director, Operations and Programs"
+        },
+        {
+          "member_name": "Norm Lance",
+          "member_role": "Chief of Compliance Assistance and Investigations Branch"
+        },
+        {
+          "member_name": "Robert Wilson",
+          "member_role": "Chief of Employment and Training Program Division"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Public Information Specialist"
+        },
+        {
+          "member_name": "Ronald Drach",
+          "member_role": "Director, Strategic Planning"
+        }
+      ]
+    },
+    {
+      "department_name": "REGIONAL OFFICES",
+      "department_members": [
+        {
+          "member_name": "David Houle",
+          "member_role": "Administrator, Boston"
+        },
+        {
+          "member_name": "John W. Hortiz, Jr.",
+          "member_role": "Administrator, Philadelphia"
+        },
+        {
+          "member_name": "William J. Bolls, Jr.",
+          "member_role": "Administrator, Atlanta"
+        },
+        {
+          "member_name": "Ronald J. Bachman",
+          "member_role": "Administrator, Denver"
+        },
+        {
+          "member_name": "Lester L. Williams, Jr.",
+          "member_role": "Administrator, Dallas"
+        },
+        {
+          "member_name": "Tom Pearson",
+          "member_role": "Administrator, San Francisco (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "BUREAU OF LABOR STATISTICS",
+      "department_members": [
+        {
+          "member_name": "Kathleen P. Utgoff",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Lois L. Orr",
+          "member_role": "Deputy Commissioner"
+        },
+        {
+          "member_name": "Daniel J. Lacey",
+          "member_role": "Associate Commissioner, Office of Administration"
+        },
+        {
+          "member_name": "Katrina Reut",
+          "member_role": "Associate Commissioner, Office of Compensation and Working Conditions"
+        },
+        {
+          "member_name": "John M. Galvin",
+          "member_role": "Associate Commissioner, Office of Employment and Unemployment Statistics"
+        },
+        {
+          "member_name": "Robert A. Gaddie",
+          "member_role": "Associate Commissioner, Office of Field Operations (acting)"
+        },
+        {
+          "member_name": "Kenneth V. Dalton",
+          "member_role": "Associate Commissioner, Office of Prices and Living Conditions"
+        },
+        {
+          "member_name": "Marilyn E. Manser",
+          "member_role": "Associate Commissioner, Office of Productivity and Technology"
+        },
+        {
+          "member_name": "Deborah P. Klein",
+          "member_role": "Associate Commissioner, Office of Publications and Special Studies"
+        },
+        {
+          "member_name": "Stephen H. Cohen",
+          "member_role": "Associate Commissioner, Office of Survey Methods Research"
+        },
+        {
+          "member_name": "Thomas P. Zuromskis",
+          "member_role": "Associate Commissioner, Office of Technology and Survey Processing"
+        },
+        {
+          "member_name": "Mary McCarthy",
+          "member_role": "Assistant Commissioner, Office of Compensation Levels and Trends"
+        },
+        {
+          "member_name": "John D. Greenlees",
+          "member_role": "Assistant Commissioner, Office of Consumer Prices and Price Indexes"
+        },
+        {
+          "member_name": "Philip L. Rones",
+          "member_role": "Assistant Commissioner, Office of Current Employment Analysis"
+        },
+        {
+          "member_name": "Irwin B. Gerduk",
+          "member_role": "Assistant Commissioner, Office of Industrial Prices and Price Indexes"
+        },
+        {
+          "member_name": "George S. Werking",
+          "member_role": "Assistant Commissioner, Office of Industry Employment Statistics"
+        },
+        {
+          "member_name": "Michael W. Harrigan",
+          "member_role": "Assistant Commissioner, Office of Occupational Statistics and Employment Projections"
+        },
+        {
+          "member_name": "John D. Sinks",
+          "member_role": "Director of Survey Processing"
+        },
+        {
+          "member_name": "Rick Kryger",
+          "member_role": "Director of Technology and Computing Services (acting)"
+        }
+      ]
+    }
+  ]
+}

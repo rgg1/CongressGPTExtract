@@ -1,0 +1,94 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Joseph R. Biden, Jr.",
+      "member_role": "Vice President of the United States"
+    },
+    {
+      "member_name": "Hillary Rodham Clinton",
+      "member_role": "Secretary of State"
+    },
+    {
+      "member_name": "Timothy F. Geithner",
+      "member_role": "Secretary of the Treasury"
+    },
+    {
+      "member_name": "Robert M. Gates",
+      "member_role": "Secretary of Defense"
+    },
+    {
+      "member_name": "Eric H. Holder, Jr.",
+      "member_role": "Attorney General"
+    },
+    {
+      "member_name": "Kenneth L. Salazar",
+      "member_role": "Secretary of the Interior"
+    },
+    {
+      "member_name": "Thomas J. Vilsack",
+      "member_role": "Secretary of Agriculture"
+    },
+    {
+      "member_name": "Gary F. Locke",
+      "member_role": "Secretary of Commerce"
+    },
+    {
+      "member_name": "Hilda L. Solis",
+      "member_role": "Secretary of Labor"
+    },
+    {
+      "member_name": "Kathleen Sebelius",
+      "member_role": "Secretary of Health and Human Services"
+    },
+    {
+      "member_name": "Shaun L.S. Donovan",
+      "member_role": "Secretary of Housing and Urban Development"
+    },
+    {
+      "member_name": "Raymond L. LaHood",
+      "member_role": "Secretary of Transportation"
+    },
+    {
+      "member_name": "Steven Chu",
+      "member_role": "Secretary of Energy"
+    },
+    {
+      "member_name": "Arne Duncan",
+      "member_role": "Secretary of Education"
+    },
+    {
+      "member_name": "Eric K. Shinseki",
+      "member_role": "Secretary of Veterans Affairs"
+    },
+    {
+      "member_name": "Janet A. Napolitano",
+      "member_role": "Secretary of Homeland Security"
+    },
+    {
+      "member_name": "Rahm Emanuel",
+      "member_role": "Chief of Staff"
+    },
+    {
+      "member_name": "Peter R. Orszag",
+      "member_role": "Director, Office of Management and Budget"
+    },
+    {
+      "member_name": "Ronald Kirk",
+      "member_role": "U.S. Trade Representative"
+    },
+    {
+      "member_name": "Lisa P. Jackson",
+      "member_role": "Administrator, Environmental Protection Agency"
+    },
+    {
+      "member_name": "Christina Romer",
+      "member_role": "Chair, Council of Economic Advisers"
+    },
+    {
+      "member_name": "Susan Rice",
+      "member_role": "Ambassador, United States Ambassador to the United Nations"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": []
+}

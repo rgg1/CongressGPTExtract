@@ -1,0 +1,58 @@
+{
+  "courts": [
+    {
+      "court_name": "United States Court of Appeals for the Armed Forces",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Kevin A. Ohlson",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "John E. Sparks, Jr.",
+          "role": "Judge"
+        },
+        {
+          "name": "Gregory E. Maggs",
+          "role": "Judge"
+        },
+        {
+          "name": "Liam P. Hardy",
+          "role": "Judge"
+        },
+        {
+          "name": "Walter Thompson Cox III",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Eugene R. Sullivan",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Susan J. Crawford",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Andrew S. Effron",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "James E. Baker",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Charles E. Erdmann",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Margaret A. Ryan",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Scott W. Stucky",
+          "role": "Senior Judge"
+        }
+      ]
+    }
+  ]
+}

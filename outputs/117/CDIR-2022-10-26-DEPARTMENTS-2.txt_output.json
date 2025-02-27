@@ -1,0 +1,1191 @@
+{
+  "cabinet": [],
+  "executive_office_of_president": [
+    {
+      "office_name": "Executive Office of the President",
+      "office_members": [
+        {
+          "member_name": "Joseph R. Biden, Jr.",
+          "member_role": "President of the United States"
+        },
+        {
+          "member_name": "AnnMarie Tomasini",
+          "member_role": "Assistant to the President and Director of Oval Office Operations"
+        },
+        {
+          "member_name": "Ashley N. Williams",
+          "member_role": "Special Assistant to the President and Deputy Director of Oval Office Operations"
+        },
+        {
+          "member_name": "Stephen M. Goepfert",
+          "member_role": "Special Assistant to the President and Personal Aide to the President"
+        }
+      ]
+    },
+    {
+      "office_name": "Office of the Vice President",
+      "office_members": [
+        {
+          "member_name": "Kamala D. Harris",
+          "member_role": "Vice President"
+        },
+        {
+          "member_name": "Opal A. Vadhan",
+          "member_role": "Personal Aide to the Vice President"
+        },
+        {
+          "member_name": "Lorraine Ann Voles",
+          "member_role": "Assistant to the President and Chief of Staff to the Vice President"
+        },
+        {
+          "member_name": "Erin S. Wilson",
+          "member_role": "Special Assistant to the President and Deputy Chief of Staff to the Vice President"
+        },
+        {
+          "member_name": "Rohini Kosoglu",
+          "member_role": "Special Assistant to the President and Domestic Policy Director"
+        },
+        {
+          "member_name": "Ike Irby",
+          "member_role": "Senior Policy Advisor to the Vice President"
+        },
+        {
+          "member_name": "Deanne Millison",
+          "member_role": "Deputy Policy Director to the Vice President"
+        },
+        {
+          "member_name": "Mike Pyle, CFA",
+          "member_role": "Chief Economic Advisor to the Vice President"
+        },
+        {
+          "member_name": "Josh H. Hsu",
+          "member_role": "Special Assistant to the President and Counsel to the Vice President"
+        },
+        {
+          "member_name": "Philip Gordon",
+          "member_role": "Assistant to the President and National Security Advisor to the Vice President"
+        },
+        {
+          "member_name": "Kristine J. Lucius",
+          "member_role": "Assistant to the Vice President and Director of Legislative Affairs"
+        },
+        {
+          "member_name": "Katie Peters",
+          "member_role": "Chief of Staff to Second Gentleman Douglas Emhoff (acting)"
+        },
+        {
+          "member_name": "Kirsten N. Allen",
+          "member_role": "Special Assistant to the President and Press Secretary to the Vice President"
+        },
+        {
+          "member_name": "Jamal N. Simmons",
+          "member_role": "Deputy Assistant to the President and Communications Director to the Vice President"
+        },
+        {
+          "member_name": "Rachel E. Palermo",
+          "member_role": "Deputy Communications Director to the Vice President"
+        },
+        {
+          "member_name": "Herbie Ziskend",
+          "member_role": "Senior Advisor for Communications"
+        },
+        {
+          "member_name": "Ernesto \"Ernie\" Apreza",
+          "member_role": "Deputy Press Secretary to the Vice President"
+        },
+        {
+          "member_name": "Emily R. Langner",
+          "member_role": "Assistant Press Secretary to the Vice President"
+        },
+        {
+          "member_name": "Meghan I. Groob",
+          "member_role": "Speechwriting Director to the Vice President"
+        }
+      ]
+    },
+    {
+      "office_name": "Council of Economic Advisers",
+      "office_members": [
+        {
+          "member_name": "Cecilia Rouse",
+          "member_role": "Chair"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Vice Chair"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member"
+        }
+      ]
+    },
+    {
+      "office_name": "Council on Environmental Quality",
+      "office_members": [
+        {
+          "member_name": "Brenda Mallory",
+          "member_role": "Chair"
+        },
+        {
+          "member_name": "Mary Neumayr",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Sara Jordan",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "David Sorensen",
+          "member_role": "Speechwriter"
+        },
+        {
+          "member_name": "Justin Pidot",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Viktoria Seale",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Philip Bristol",
+          "member_role": "Attorney Advisor"
+        },
+        {
+          "member_name": "Caroline Gignoux",
+          "member_role": "Attorney Advisor"
+        },
+        {
+          "member_name": "Beverly Li",
+          "member_role": "Attorney Advisor"
+        },
+        {
+          "member_name": "Thomas Sharp",
+          "member_role": "Attorney Advisor"
+        },
+        {
+          "member_name": "Howard Sun",
+          "member_role": "Attorney Advisor"
+        },
+        {
+          "member_name": "Angela Matos",
+          "member_role": "Director of Finance and Administration"
+        },
+        {
+          "member_name": "Essence Tillett",
+          "member_role": "Administrative Officer"
+        },
+        {
+          "member_name": "Mary Green",
+          "member_role": "Administrative Assistant"
+        },
+        {
+          "member_name": "Juschelle McLaurin",
+          "member_role": "Administrative Assistant"
+        },
+        {
+          "member_name": "Jayni Hein",
+          "member_role": "Associate Director for NEPA"
+        },
+        {
+          "member_name": "Michael Drummond",
+          "member_role": "Deputy Associate Director for NEPA"
+        },
+        {
+          "member_name": "Karen Hanley",
+          "member_role": "Deputy Associate Director for NEPA"
+        },
+        {
+          "member_name": "Sarah Shattuck",
+          "member_role": "Deputy Associate Director for NEPA"
+        },
+        {
+          "member_name": "Sara Upchurch",
+          "member_role": "Deputy Associate Director for NEPA"
+        },
+        {
+          "member_name": "Alexander \"Alex\" Herrgott",
+          "member_role": "Associate Director for Infrastructure"
+        },
+        {
+          "member_name": "Michael Harkins",
+          "member_role": "Senior Advisor on Infrastructure"
+        },
+        {
+          "member_name": "April Marchese",
+          "member_role": "Senior Advisor on Infrastructure"
+        },
+        {
+          "member_name": "Michael Patella",
+          "member_role": "Senior Advisor on Infrastructure"
+        },
+        {
+          "member_name": "Allison Rusnak",
+          "member_role": "Deputy Advisor on Infrastructure"
+        },
+        {
+          "member_name": "Mark Wingate",
+          "member_role": "Deputy Advisor on Infrastructure"
+        },
+        {
+          "member_name": "Christopher \"Chris\" Prandoni",
+          "member_role": "Associate Director for Natural Resources"
+        },
+        {
+          "member_name": "Tabitha Cale",
+          "member_role": "Deputy Associate Director for Ecosystems"
+        },
+        {
+          "member_name": "Mario Loyola",
+          "member_role": "Associate Director for Regulatory Reform"
+        },
+        {
+          "member_name": "Bernice \"Dee\" Siegel",
+          "member_role": "Deputy Chief Sustainability Officer"
+        },
+        {
+          "member_name": "Mark Ackiewicz",
+          "member_role": "Senior Sustainability Officer"
+        },
+        {
+          "member_name": "Caroline D'Angelo",
+          "member_role": "Senior Sustainability Officer"
+        }
+      ]
+    },
+    {
+      "office_name": "President's Intelligence Advisory Board",
+      "office_members": [
+        {
+          "member_name": "Steve Feinberg",
+          "member_role": "Chair"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Executive Director"
+        }
+      ]
+    },
+    {
+      "office_name": "National Security Council",
+      "office_members": [
+        {
+          "member_name": "Joseph R. Biden, Jr.",
+          "member_role": "President"
+        },
+        {
+          "member_name": "Kamala D. Harris",
+          "member_role": "Vice President"
+        },
+        {
+          "member_name": "Anthony Blinken",
+          "member_role": "Secretary of State"
+        },
+        {
+          "member_name": "Gen. Lloyd Austin",
+          "member_role": "Secretary of Defense"
+        },
+        {
+          "member_name": "Avril Haines",
+          "member_role": "Director of National Intelligence"
+        },
+        {
+          "member_name": "Gen. Mark A. Milley",
+          "member_role": "Chair, Joint Chiefs of Staff"
+        },
+        {
+          "member_name": "Janet L. Yellen",
+          "member_role": "Secretary of the Treasury"
+        },
+        {
+          "member_name": "Ronald A. Klain",
+          "member_role": "Chief of Staff to the President"
+        },
+        {
+          "member_name": "Dana A. Remus",
+          "member_role": "Counsel to the President"
+        },
+        {
+          "member_name": "Jacob J. Sullivan",
+          "member_role": "National Security Adviser"
+        },
+        {
+          "member_name": "Brian C. Deese",
+          "member_role": "Director of National Economic Council"
+        },
+        {
+          "member_name": "Linda Thomas Greenfield",
+          "member_role": "U.S. Representative to the United Nations"
+        },
+        {
+          "member_name": "Jacob J. Sullivan",
+          "member_role": "Assistant to the President for National Security Affairs"
+        },
+        {
+          "member_name": "Jonathan J. Finer",
+          "member_role": "Assistant to the President and Principal Deputy National Security Adviser"
+        },
+        {
+          "member_name": "Elizabeth D. Sherwood-Randall",
+          "member_role": "Assistant to the President and Homeland Security Advisor and Deputy National Security Adviser"
+        }
+      ]
+    },
+    {
+      "office_name": "Office of Administration",
+      "office_members": [
+        {
+          "member_name": "Anne E. Filipic",
+          "member_role": "Director of White House Management and Administration and Director of the Office of Administration"
+        },
+        {
+          "member_name": "Dana E. Rosenzweig",
+          "member_role": "Special Assistant to the President and Deputy Director for Operations"
+        },
+        {
+          "member_name": "Christian B. Peele",
+          "member_role": "Special Assistant to the President and Deputy Director for Personnel"
+        }
+      ]
+    },
+    {
+      "office_name": "Office of Management and Budget",
+      "office_members": [
+        {
+          "member_name": "Shalanda D. Young",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Nani Coloretti",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Jason S. Miller",
+          "member_role": "Deputy Director for Management"
+        },
+        {
+          "member_name": "Samuel R. Bagenstos",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Suzette Kent",
+          "member_role": "Administrator, Federal Chief Information Officer"
+        },
+        {
+          "member_name": "Tim Soltis",
+          "member_role": "Administrator, Federal Financial Management / Controller (acting)"
+        },
+        {
+          "member_name": "Michael Wooten",
+          "member_role": "Administrator, Federal Procurement Policy"
+        },
+        {
+          "member_name": "Dominc J. Mancini",
+          "member_role": "Administrator, Information and Regulatory Affairs (acting)"
+        },
+        {
+          "member_name": "Kelly Kinneen",
+          "member_role": "Assistant Director for Budget"
+        },
+        {
+          "member_name": "Matthew Vaeth",
+          "member_role": "Assistant Director for Legislative Reference"
+        },
+        {
+          "member_name": "John Gray",
+          "member_role": "Associate Director for Education, Income Maintenance, and Labor Programs"
+        },
+        {
+          "member_name": "Kathy Kraninger",
+          "member_role": "Associate Director for General Government Programs"
+        },
+        {
+          "member_name": "Topher Spiro",
+          "member_role": "Associate Director for Health Programs"
+        },
+        {
+          "member_name": "Dustin Brown",
+          "member_role": "Associate Director for Performance and Personnel Management (acting)"
+        }
+      ]
+    },
+    {
+      "office_name": "Office of National Drug Control Policy",
+      "office_members": [
+        {
+          "member_name": "Regina M. LaBelle",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Mario Moreno",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Taylor P. Weyeneth",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Regina M. LaBelle",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Terry W. Zobeck",
+          "member_role": "Assistant Deputy Director, Office of Policy, Research, and Budget"
+        },
+        {
+          "member_name": "Robert Kent",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Eric Talbot",
+          "member_role": "Associate Director, Office of Cocaine Task Force"
+        },
+        {
+          "member_name": "Kemp Chester",
+          "member_role": "Associate Director, Office of Heroin Task Force"
+        },
+        {
+          "member_name": "Gerard Burns",
+          "member_role": "Associate Director, Office of Intelligence"
+        },
+        {
+          "member_name": "Anne Sokolov",
+          "member_role": "Associate Director, Office of Legislative Affairs"
+        },
+        {
+          "member_name": "Michele C. Marx",
+          "member_role": "Associate Director, Office of Management and Administration"
+        },
+        {
+          "member_name": "Jon E. Rice",
+          "member_role": "Associate Director, Office of Policy, Research, and Budget"
+        },
+        {
+          "member_name": "Michael Gottlieb",
+          "member_role": "Associate Director, Office of Programs"
+        }
+      ]
+    },
+    {
+      "office_name": "Office of Science and Technology Policy",
+      "office_members": [
+        {
+          "member_name": "Arati Prabhakr",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Kei Koizumi",
+          "member_role": "Principal Deputy Director for Policy"
+        },
+        {
+          "member_name": "Jane Lubchenco",
+          "member_role": "Deputy Director for Environment and Climate"
+        },
+        {
+          "member_name": "Carrie Wolinetz",
+          "member_role": "Deputy Director for Health and Life Sciences"
+        },
+        {
+          "member_name": "Jason Matheny",
+          "member_role": "Deputy Director for National Security"
+        },
+        {
+          "member_name": "Alondra Nelson",
+          "member_role": "Deputy Director for Science and Society"
+        },
+        {
+          "member_name": "Philip Duffy",
+          "member_role": "Climate Science Advisor"
+        },
+        {
+          "member_name": "Andrew Hebbeler",
+          "member_role": "Principal Assistant Director for Health and Life Sciences"
+        },
+        {
+          "member_name": "Lynne Parker",
+          "member_role": "Assistant Director for Artificial Intelligence and Director, National Artificial Intelligence Initiative Office"
+        },
+        {
+          "member_name": "Charles Tahan",
+          "member_role": "Assistant Director for Quantum Information Science and Director, National Quantum Coordination Office"
+        },
+        {
+          "member_name": "Greg McKelvey",
+          "member_role": "Assistant Director for Biosecurity"
+        },
+        {
+          "member_name": "Ben Buchanan",
+          "member_role": "Assistant Director for Cybersecurity"
+        },
+        {
+          "member_name": "Max Bronstein",
+          "member_role": "Assistant Director for Health Innovation"
+        },
+        {
+          "member_name": "Julie Segre",
+          "member_role": "Assistant Director for Health and Life Sciences"
+        },
+        {
+          "member_name": "Cole Donovan",
+          "member_role": "Assistant Director for International Science and Technology"
+        },
+        {
+          "member_name": "Deerin Babb-Brott",
+          "member_role": "Assistant Director for Oceans and Environment"
+        },
+        {
+          "member_name": "Larry Hinzman",
+          "member_role": "Assistant Director for Polar Sciences"
+        },
+        {
+          "member_name": "Linda Lourie",
+          "member_role": "Assistant Director for Research and Technology Security"
+        },
+        {
+          "member_name": "Nafeesa Owens",
+          "member_role": "Assistant Director for STEM Education"
+        },
+        {
+          "member_name": "Rachel Wallace",
+          "member_role": "Chief Operating Officer and Deputy General Counsel"
+        },
+        {
+          "member_name": "Allison Crimmins",
+          "member_role": "National Climate Assessment Director"
+        },
+        {
+          "member_name": "Julia Krieger",
+          "member_role": "Director of Communications"
+        },
+        {
+          "member_name": "Michael Kuperberg",
+          "member_role": "Executive Director, U.S. Global Change Research Program"
+        }
+      ]
+    },
+    {
+      "office_name": "Office of the United States Trade Representative",
+      "office_members": [
+        {
+          "member_name": "Katherine Tai",
+          "member_role": "United States Trade Representative"
+        },
+        {
+          "member_name": "Jeff Gerrish",
+          "member_role": "Deputy United States Trade Representative"
+        },
+        {
+          "member_name": "C.J. Mahoney",
+          "member_role": "Deputy United States Trade Representative"
+        },
+        {
+          "member_name": "Maria Luisa Pagan",
+          "member_role": "Deputy United States Trade Representative and Chief of Mission, Geneva"
+        },
+        {
+          "member_name": "Gregg Doud",
+          "member_role": "Chief Agricultural Negotiator"
+        },
+        {
+          "member_name": "Christopher Wilson",
+          "member_role": "Chief Innovation and Intellectual Property Negotiator"
+        },
+        {
+          "member_name": "Kevin Garvey",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Greta Peisch",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Maria Pagan",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Fred Ames",
+          "member_role": "Assistant United States Trade Representative for Administration"
+        },
+        {
+          "member_name": "Constance Hamilton",
+          "member_role": "Assistant United States Trade Representative for Africa"
+        },
+        {
+          "member_name": "Julie Callahan",
+          "member_role": "Assistant United States Trade Representative for Agricultural Affairs and Commodity Policy"
+        },
+        {
+          "member_name": "Terrence J. McCartin",
+          "member_role": "Assistant United States Trade Representative for China Affairs"
+        },
+        {
+          "member_name": "Jan Beukelman",
+          "member_role": "Assistant United States Trade Representative for Congressional Affairs"
+        },
+        {
+          "member_name": "Kelly K. Milton",
+          "member_role": "Assistant United States Trade Representative for Environment and Natural Resources"
+        },
+        {
+          "member_name": "L. Daniel Mullaney",
+          "member_role": "Assistant United States Trade Representative for Europe and the Middle East"
+        },
+        {
+          "member_name": "Sirat K. Attapit",
+          "member_role": "Assistant United States Trade Representative for Intergovernmental Affairs and Public Engagement"
+        },
+        {
+          "member_name": "Michael Beeman",
+          "member_role": "Assistant United States Trade Representative for Japan, Korea, and APEC"
+        },
+        {
+          "member_name": "Josh Kagan",
+          "member_role": "Assistant United States Trade Representative for Labor (acting)"
+        },
+        {
+          "member_name": "Juan A. Millan",
+          "member_role": "Assistant United States Trade Representative for Monitoring and Enforcement"
+        },
+        {
+          "member_name": "Julie Greene",
+          "member_role": "Assistant United States Trade Representative for Public and Media Affairs"
+        },
+        {
+          "member_name": "Kenneth Schagrin",
+          "member_role": "Assistant United States Trade Representative for Services and Investment (acting)"
+        },
+        {
+          "member_name": "Jim Sanford",
+          "member_role": "Assistant United States Trade Representative for Small Business, Market Access, and Industrial Competitiveness"
+        },
+        {
+          "member_name": "Christopher Wilson",
+          "member_role": "Assistant United States Trade Representative for South and Central Asia"
+        },
+        {
+          "member_name": "Dawn Shackleford",
+          "member_role": "Assistant United States Trade Representative for Southeast Asia and the Pacific"
+        },
+        {
+          "member_name": "Bill Jackson",
+          "member_role": "Assistant United States Trade Representative for Textiles"
+        },
+        {
+          "member_name": "Edward Gresser",
+          "member_role": "Assistant United States Trade Representative for Trade Policy and Economics"
+        },
+        {
+          "member_name": "Daniel Watson",
+          "member_role": "Assistant United States Trade Representative for Western Hemisphere (acting)"
+        },
+        {
+          "member_name": "Kent Shigetomi",
+          "member_role": "Assistant United States Trade Representative for WTO (World Trade Organization) and Multilateral Affairs (acting)"
+        }
+      ]
+    },
+    {
+      "office_name": "The White House Office",
+      "office_members": [
+        {
+          "member_name": "Evan M. Ryan",
+          "member_role": "Deputy Assistant to the President and Cabinet Secretary"
+        },
+        {
+          "member_name": "Nicholas G. Blosser",
+          "member_role": "Special Assistant to the President and Deputy Cabinet Secretary"
+        },
+        {
+          "member_name": "Nicholas G. Blosser",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Ronald A. Klain",
+          "member_role": "Assistant to the President and Chief of Staff"
+        },
+        {
+          "member_name": "Reema B. Shah",
+          "member_role": "Special Assistant to the President and Senior Advisor to the Chief of Staff"
+        },
+        {
+          "member_name": "W. Wilkins",
+          "member_role": "Special Assistant to the President and Senior Advisor to the Chief of Staff"
+        },
+        {
+          "member_name": "Remi Anne M. Yamamoto",
+          "member_role": "Special Assistant to the President and Senior Advisor for Communications to the Chief of Staff"
+        },
+        {
+          "member_name": "Jennifer B. Dillon",
+          "member_role": "Assistant to the President and Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Bruce N. Reed",
+          "member_role": "Assistant to the President and Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Katherine J. Bedingfield",
+          "member_role": "Assistant to the President and Director of Strategic Communications"
+        },
+        {
+          "member_name": "Karine Jean-Pierre",
+          "member_role": "Assistant to the President and Press Secretary"
+        },
+        {
+          "member_name": "Karine Jean-Pierre",
+          "member_role": "Deputy Assistant to the President and Principal Deputy Press Secretary and Senior Advisor to the Press Secretary"
+        },
+        {
+          "member_name": "Katherine K. Berner",
+          "member_role": "Special Assistant to the President and Deputy Director of Communications"
+        },
+        {
+          "member_name": "Christopher M. Meagher",
+          "member_role": "Special Assistant to the President and Deputy Press Secretary"
+        },
+        {
+          "member_name": "Robert R. Flaherty",
+          "member_role": "Deputy Assistant to the President and Director of Digital Strategy"
+        },
+        {
+          "member_name": "Christian L. Tom",
+          "member_role": "Special Assistant to the President and Deputy Director of Digital Strategy"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF DOMESTIC CLIMATE POLICY",
+      "office_members": [
+        {
+          "member_name": "Gina McCarthy",
+          "member_role": "Assistant to the President and National Climate Advisor"
+        },
+        {
+          "member_name": "Ali A. Zaidi",
+          "member_role": "Deputy Assistant to the President and Deputy National Climate Advisor"
+        },
+        {
+          "member_name": "David J. Hayes",
+          "member_role": "Special Assistant to the President for Climate Policy"
+        },
+        {
+          "member_name": "John B. Rhodes",
+          "member_role": "Special Assistant to the President for Climate Policy"
+        }
+      ]
+    },
+    {
+      "office_name": "DOMESTIC POLICY COUNCIL",
+      "office_members": [
+        {
+          "member_name": "Susan E. Rice",
+          "member_role": "Assistant to the President and Domestic Policy Advisor"
+        },
+        {
+          "member_name": "Stefanie G. Feldman",
+          "member_role": "Deputy Assistant to the President and Senior Advisor to the Domestic Policy Advisor"
+        },
+        {
+          "member_name": "Patrick N. Rodenbush",
+          "member_role": "Deputy Assistant to the President and Senior Advisor to the Domestic Policy Advisor"
+        },
+        {
+          "member_name": "Erin E. Pelton",
+          "member_role": "Special Assistant to the President and Chief of Staff for the Domestic Policy Council"
+        },
+        {
+          "member_name": "Priya Singh",
+          "member_role": "Deputy Chief of Staff and Senior Policy Analyst for the Domestic Policy Council"
+        },
+        {
+          "member_name": "Alexander J. Pascal",
+          "member_role": "Special Assistant to the President and Senior Policy Advisor for the Domestic Policy Council"
+        },
+        {
+          "member_name": "Zev M. Karlin-Neumann",
+          "member_role": "Speechwriter and Communications Advisor for the Domestic Policy Council"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF THE FIRST LADY",
+      "office_members": [
+        {
+          "member_name": "Julissa Reynoso",
+          "member_role": "Assistant to the President and Chief of Staff to the First Lady and Spokesperson"
+        },
+        {
+          "member_name": "Anthony Bernal",
+          "member_role": "Assistant to the President and Advisor to the First Lady"
+        },
+        {
+          "member_name": "Mala Adiga",
+          "member_role": "Deputy Assistant to the President and Director of Policy and Projects for the First Lady"
+        },
+        {
+          "member_name": "Elizabeth Alexander",
+          "member_role": "Deputy Assistant to the President and Communications Director for the First Lady"
+        },
+        {
+          "member_name": "Michael J. LaRosa",
+          "member_role": "Press Secretary for the First Lady"
+        },
+        {
+          "member_name": "Gi Hyun Lee",
+          "member_role": "Director of Scheduling and Advance for the First Lady"
+        },
+        {
+          "member_name": "Jordan R. Montoya",
+          "member_role": "Director of Advance and Trip Director for the First Lady"
+        }
+      ]
+    },
+    {
+      "office_name": "GENDER POLICY COUNCIL",
+      "office_members": [
+        {
+          "member_name": "Jennifer Klein",
+          "member_role": "Deputy Assistant to the President / Co-Chair and Executive Director of the White House Gender Policy Council"
+        },
+        {
+          "member_name": "Shilpa D. Phadke",
+          "member_role": "Special Assistant to the President for Gender Policy and Deputy Director of the White House Gender Policy Council"
+        },
+        {
+          "member_name": "Rosemarie Hidalgo",
+          "member_role": "Special Assistant to the President and Senior Advisor on Gender-Based Violence"
+        },
+        {
+          "member_name": "Lina L. Volin",
+          "member_role": "Chief of Staff and Policy Advisor to the Gender Policy Council"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF LEGISLATIVE AFFAIRS",
+      "office_members": [
+        {
+          "member_name": "Louisa M. Terrell",
+          "member_role": "Assistant to the President and Director, Office of Legislative Affairs"
+        },
+        {
+          "member_name": "Christopher J. Slevin",
+          "member_role": "Deputy Assistant to the President and Deputy Director of Legislative Affairs"
+        },
+        {
+          "member_name": "Reema B. Dodin",
+          "member_role": "Deputy Assistant to the President and Deputy Director of Legislative Affairs / Senate Liaison"
+        },
+        {
+          "member_name": "Shuwanza R. Goff",
+          "member_role": "Deputy Assistant to the President and Deputy Director of Legislative Affairs / House Liaison"
+        },
+        {
+          "member_name": "Alex T. Haskell",
+          "member_role": "Special Assistant to the President and Chief of Staff for the Office of Legislative Affairs"
+        },
+        {
+          "member_name": "Zephranie N. Buetow",
+          "member_role": "Special Assistant to the President and Senate Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Jonathan Y. Black",
+          "member_role": "Special Assistant to the President and Senate Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Elizabeth M. Jurinka",
+          "member_role": "Special Assistant to the President and Senate Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Chad M. Metzler",
+          "member_role": "Special Assistant to the President and Senate Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Alma N. Acosta Garcia",
+          "member_role": "Special Assistant to the President and House Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Meredith A. Jones",
+          "member_role": "Special Assistant to the President and House Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Alicia Molt-West",
+          "member_role": "Special Assistant to the President and House Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Justin T. Oswald",
+          "member_role": "Special Assistant to the President and House Legislative Affairs Liaison"
+        },
+        {
+          "member_name": "Lee Slater",
+          "member_role": "Special Assistant to the President and House Legislative Affairs Liaison"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF MANAGEMENT AND ADMINISTRATION",
+      "office_members": [
+        {
+          "member_name": "Anne E. Filipic",
+          "member_role": "Assistant to the President and Director of Management and Administration and Director of the Office of Administration"
+        },
+        {
+          "member_name": "Frances T. Dougherty",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Dana E. Rosenzweig",
+          "member_role": "Special Assistant to the President and Deputy Director of Management and Administration for Operations"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF THE NATIONAL CYBER DIRECTOR",
+      "office_members": [
+        {
+          "member_name": "Chris Inglis",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "John Costello",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Chris DeRusha",
+          "member_role": "Deputy National Cyber Director for Federal Cybersecurity"
+        }
+      ]
+    },
+    {
+      "office_name": "NATIONAL ECONOMIC COUNCIL",
+      "office_members": [
+        {
+          "member_name": "Brian Deese",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Aviva Aron-Dine",
+          "member_role": "Special Advisor and Deputy Director"
+        },
+        {
+          "member_name": "Sameera Fazili",
+          "member_role": "Deputy Assistants to the President and Deputy Director"
+        },
+        {
+          "member_name": "Bharat R. Ramamurti",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Nadiya Beckwith-Stanley",
+          "member_role": "Special Assistant to the President for Budget and Tax Policy"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Special Assistant to the President for Economic Policy"
+        },
+        {
+          "member_name": "Leandra English",
+          "member_role": "Special Assistant to the President and Chief of Staff for the National Economic Council"
+        }
+      ]
+    },
+    {
+      "office_name": "PRESIDENTIAL PERSONNEL OFFICE",
+      "office_members": [
+        {
+          "member_name": "Gautam Raghavan",
+          "member_role": "Assistant to the President and Director of Presidential Personnel"
+        },
+        {
+          "member_name": "Stacy L. Eichner",
+          "member_role": "Special Assistant to the President and Chief of Staff"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF INTERGOVERNMENTAL AFFAIRS",
+      "office_members": [
+        {
+          "member_name": "Julie C. Rodriguez",
+          "member_role": "Assistant to the President and Director of the White House Office of Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Gabriel F. Amo, Jr.",
+          "member_role": "Special Assistant to the President and Deputy Director of the Office of Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Kathleen M. Marshall",
+          "member_role": "Special Assistant to the President and Senior Advisor for Governors"
+        },
+        {
+          "member_name": "Paawee L. Rivera",
+          "member_role": "Senior Advisor to the Office of Intergovernmental Affairs and Director of Tribal Affairs"
+        },
+        {
+          "member_name": "Eduardo Cisneros",
+          "member_role": "Intergovernmental Affairs Director for the COVID-19 Response"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF PUBLIC ENGAGEMENT",
+      "office_members": [
+        {
+          "member_name": "Keisha R. Lance Bottoms",
+          "member_role": "Senior Advisor to the President for Public Engagement"
+        },
+        {
+          "member_name": "Adrian Saenz",
+          "member_role": "Special Assistant to the President and Deputy Director of the Office of Public Engagement"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF SCHEDULING AND ADVANCE",
+      "office_members": [
+        {
+          "member_name": "Ryan Montoya",
+          "member_role": "Deputy Assistant to the President and Director of Scheduling and Advance"
+        },
+        {
+          "member_name": "Araz Pourmorad",
+          "member_role": "Special Assistant to the President and Director of Presidential Scheduling"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF PRESIDENTIAL ADVANCE",
+      "office_members": [
+        {
+          "member_name": "Connolly J. Keigher",
+          "member_role": "Special Assistant to the President and Director of Presidential Advance"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF THE COUNSELOR TO THE PRESIDENT",
+      "office_members": [
+        {
+          "member_name": "Steven J. Ricchetti",
+          "member_role": "Assistant to the President and Counselor to the President"
+        },
+        {
+          "member_name": "John W. McCarthy",
+          "member_role": "Special Assistant to the President and Senior Advisor to the Counselor to the President"
+        }
+      ]
+    },
+    {
+      "office_name": "OFFICE OF THE STAFF SECRETARY",
+      "office_members": [
+        {
+          "member_name": "Neera Tanden",
+          "member_role": "Staff Secretary and Senior Advisor to the President"
+        }
+      ]
+    },
+    {
+      "office_name": "WHITE HOUSE COUNSEL",
+      "office_members": [
+        {
+          "member_name": "Dana A. Remus",
+          "member_role": "Assistant to the President and Counsel"
+        },
+        {
+          "member_name": "Stuart F. Delery",
+          "member_role": "Deputy Counsel to the President"
+        }
+      ]
+    },
+    {
+      "office_name": "WHITE HOUSE PERSONNEL COVID-19 RESPONSE TEAM",
+      "office_members": [
+        {
+          "member_name": "Ashish K. Jha",
+          "member_role": "Assistant to the President and Counselor to the President / Coordinator of the COVID-19 Response"
+        },
+        {
+          "member_name": "Lisa L. Barclay",
+          "member_role": "Deputy Coordinator of the COVID-19 Response"
+        },
+        {
+          "member_name": "David A. Kessler",
+          "member_role": "Chief Science Officer of COVID-19 Response"
+        },
+        {
+          "member_name": "Dr. Anthony Fauci",
+          "member_role": "Chief Medical Advisor for COVID-19 Response"
+        },
+        {
+          "member_name": "Charles Anderson",
+          "member_role": "Director of: Economic Policy and Budget"
+        },
+        {
+          "member_name": "Eduardo Cisneros",
+          "member_role": "Director of: Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Dorinda A. Salcido",
+          "member_role": "Director of: Strategic Communications and Engagement"
+        },
+        {
+          "member_name": "Subhan N. Cheema",
+          "member_role": "Deputy Director of Strategic Communications"
+        },
+        {
+          "member_name": "Clarke Humphrey",
+          "member_role": "Digital Director"
+        },
+        {
+          "member_name": "Dr. Cyrus Shahpar",
+          "member_role": "Data Director"
+        },
+        {
+          "member_name": "Tim Manning",
+          "member_role": "Supply Coordinator"
+        },
+        {
+          "member_name": "Tom Inglesby",
+          "member_role": "Senior Advisor for Testing"
+        },
+        {
+          "member_name": "Sonya Bernstein",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Sujeet Rao",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Machmud Makhmudov",
+          "member_role": "Policy Advisor"
+        },
+        {
+          "member_name": "Osaremen Okolo",
+          "member_role": "Policy Advisor"
+        },
+        {
+          "member_name": "Vidur Sharma",
+          "member_role": "Policy Advisor for Testing"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Vaccinations Coordinator"
+        },
+        {
+          "member_name": "Carole Johnson",
+          "member_role": "Testing Coordinator"
+        },
+        {
+          "member_name": "Becca Siegel",
+          "member_role": "Senior Advisor for Technology and Delivery, COVID-19 Response"
+        }
+      ]
+    }
+  ],
+  "departments": []
+}

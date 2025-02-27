@@ -1,0 +1,934 @@
+{
+  "diplomatic_representatives": [
+    {
+      "name": "Adela Raz",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AFGHANISTAN"
+    },
+    {
+      "name": "Tarek Ben Youssef",
+      "role": "Counselor (Charge d'Affaires)",
+      "country": "AFRICAN UNION"
+    },
+    {
+      "name": "Floreta Faber",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ALBANIA"
+    },
+    {
+      "name": "Madjid Bougerra",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ALGERIA"
+    },
+    {
+      "name": "Elisenda Vives Balman-a",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANDORRA"
+    },
+    {
+      "name": "Joaquim do Esp\ufffdirito Santo",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANGOLA"
+    },
+    {
+      "name": "Ronald Sanders",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANTIGUA AND BARBUDA"
+    },
+    {
+      "name": "Jorge Martin Arturo Argu\ufffdello",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ARGENTINA"
+    },
+    {
+      "name": "Lilit Makunts",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ARMENIA"
+    },
+    {
+      "name": "Arthur Sinodinos",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AUSTRALIA"
+    },
+    {
+      "name": "Martin Weiss",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AUSTRIA"
+    },
+    {
+      "name": "Khazar Ibrahim",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AZERBAIJAN"
+    },
+    {
+      "name": "Sidney Stanley Collie",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BAHAMAS"
+    },
+    {
+      "name": "Abdulla Rashed Abdulla Alkhalifa",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BAHRAIN"
+    },
+    {
+      "name": "M. Shahidul Islam",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BANGLADESH"
+    },
+    {
+      "name": "Noel Anderson Lynch",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BARBADOS"
+    },
+    {
+      "name": "Dmitry Basik",
+      "role": "Counselor (Charge d'Affaires)",
+      "country": "BELARUS"
+    },
+    {
+      "name": "Jean-Arthur Re\ufffdgibeau",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BELGIUM"
+    },
+    {
+      "name": "Lynn Raymond Young",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BELIZE"
+    },
+    {
+      "name": "Jean-Claude Fe\ufffdlix do Rego",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BENIN"
+    },
+    {
+      "name": "Alejandro Roberto Bilbao La Vieja Ruiz",
+      "role": "First Secretary",
+      "country": "BOLIVIA"
+    },
+    {
+      "name": "Bojan Vujic\ufffd",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BOSNIA AND HERZEGOVINA"
+    },
+    {
+      "name": "Onkokame Kitso Mokaila",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BOTSWANA"
+    },
+    {
+      "name": "Nestor Jose\ufffd Forster Ju\ufffdnior",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BRAZIL"
+    },
+    {
+      "name": "Serbini Ali",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BRUNEI"
+    },
+    {
+      "name": "Tihomir Anguelov Stoytchev",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BULGARIA"
+    },
+    {
+      "name": "Seydou Kabore",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BURKINA FASO"
+    },
+    {
+      "name": "Aung Lynn",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BURMA"
+    },
+    {
+      "name": "Jean de Dieu Ndikumana",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BURUNDI"
+    },
+    {
+      "name": "Jose Luis do Livramento Monteiro Alves de Brito",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CABO VERDE"
+    },
+    {
+      "name": "Chum Sounry",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CAMBODIA"
+    },
+    {
+      "name": "Essomba Etoundi",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CAMEROON"
+    },
+    {
+      "name": "Koutou Ngote Gali",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CHAD"
+    },
+    {
+      "name": "Oscar Alfonso Sebastian Silva Navarro",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CHILE"
+    },
+    {
+      "name": "Gang Qin",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CHINA"
+    },
+    {
+      "name": "Francisco Santos Caldero\ufffdn",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "COLOMBIA"
+    },
+    {
+      "name": "Issimail Chanfi",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "COMOROS"
+    },
+    {
+      "name": "Fran\ufffdois Nkuna Balumuene",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CONGO, DEMOCRATIC REPUBLIC OF"
+    },
+    {
+      "name": "Serge Mombouli",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CONGO, REPUBLIC OF THE"
+    },
+    {
+      "name": "Fernando Llorca Castro",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "COSTA RICA"
+    },
+    {
+      "name": "Mamadou Haidara",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "COTE D'IVOIRE"
+    },
+    {
+      "name": "Pjer S? imunovic\ufffd",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CROATIA"
+    },
+    {
+      "name": "Lianys Torres Rivera",
+      "role": "Charge d'Affaires",
+      "country": "CUBA"
+    },
+    {
+      "name": "Marios Lysiotis",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CYPRUS"
+    },
+    {
+      "name": "Hynek Kmon\ufffdic?ek",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CZECHIA"
+    },
+    {
+      "name": "Lone Dencker Wisborg",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "DENMARK"
+    },
+    {
+      "name": "Mohamed Said Douale",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "DJIBOUTI"
+    },
+    {
+      "name": "Vince Henderson",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "DOMINICA"
+    },
+    {
+      "name": "Sonia Guzman",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "DOMINICAN REPUBLIC"
+    },
+    {
+      "name": "Ivonne Leila Juez de a Baki",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ECUADOR"
+    },
+    {
+      "name": "Motaz Mounir Zahran",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "EGYPT"
+    },
+    {
+      "name": "Carmen Milena Mayorga Valera",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "EL SALVADOR"
+    },
+    {
+      "name": "Miguel Ntutumu Evuna Andeme",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "EQUATORIAL GUINEA"
+    },
+    {
+      "name": "Berhane Gebrehiwet Solomon",
+      "role": "Counselor (Charge d'Affaires)",
+      "country": "ERITREA"
+    },
+    {
+      "name": "Kristjan Prikk",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ESTONIA"
+    },
+    {
+      "name": "Njabuliso Busiswe Sikhulile Gwebu",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ESWATINI"
+    },
+    {
+      "name": "Fitsum Arega Gebrekidan",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ETHIOPIA"
+    },
+    {
+      "name": "Stavros Lambrinidis",
+      "role": "Ambassador (Head of Delegation)",
+      "country": "EUROPEAN UNION"
+    },
+    {
+      "name": "Akuila Kamanalagi Vuira",
+      "role": "First Secretary (Charge d'Affaires)",
+      "country": "FIJI"
+    },
+    {
+      "name": "Mikko Tapani Hautala",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "FINLAND"
+    },
+    {
+      "name": "Philippe Noel Marie Marc Etienne",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "FRANCE"
+    },
+    {
+      "name": "Rod Ciangillan Rembendambya",
+      "role": "Charge d'Affaires",
+      "country": "GABON"
+    },
+    {
+      "name": "Dawda D. Fadera",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "THE GAMBIA"
+    },
+    {
+      "name": "David Bakradze",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GEORGIA"
+    },
+    {
+      "name": "Emily Margarethe Haber",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GERMANY"
+    },
+    {
+      "name": "Alima Mahama",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GHANA"
+    },
+    {
+      "name": "Alexandra Papadopoulou",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GREECE"
+    },
+    {
+      "name": "Yolande Yvonne Smith",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GRENADA"
+    },
+    {
+      "name": "Alfonso Jose Quinonez Lemus",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GUATEMALA"
+    },
+    {
+      "name": "Kerfalla Yansane",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GUINEA"
+    },
+    {
+      "name": "Samuel Archibald Hinds",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "GUYANA"
+    },
+    {
+      "name": "Bocchit Edmond",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "HAITI"
+    },
+    {
+      "name": "Christophe Pierre",
+      "role": "Apostolic Nuncio, Ambassador Extraordinary and Plenipotentiary",
+      "country": "HOLY SEE"
+    },
+    {
+      "name": "Luis Fernando Suazo Barahona",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "HONDURAS"
+    },
+    {
+      "name": "Szabolcs Ferenc Takacs",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "HUNGARY"
+    },
+    {
+      "name": "Bergd\u00eds Ellertsdo\u0301ttir",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ICELAND"
+    },
+    {
+      "name": "Taranjit Singh Sandhu",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "INDIA"
+    },
+    {
+      "name": "Iwan Freddy Hari Susanto",
+      "role": "Minister (Deputy Chief of Mission)",
+      "country": "INDONESIA"
+    },
+    {
+      "name": "Fareed Mustafa Kamil Yasseen",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "IRAQ"
+    },
+    {
+      "name": "Daniel Gerard Mulhall",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "IRELAND"
+    },
+    {
+      "name": "Gilad Menashe Erdan",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ISRAEL"
+    },
+    {
+      "name": "Mariangela Zappia",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ITALY"
+    },
+    {
+      "name": "Audrey Patrice Marks",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "JAMAICA"
+    },
+    {
+      "name": "Tomita Koji",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "JAPAN"
+    },
+    {
+      "name": "Dina Khalil Tawfiq Kawar",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "JORDAN"
+    },
+    {
+      "name": "Yerzhan Ashikbayev",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "name": "Lazarus Ombai Amayo",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "KENYA"
+    },
+    {
+      "name": "Teburoro Tito",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "KIRIBATI"
+    },
+    {
+      "name": "Soo Hyuck Lee",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "KOREA (SOUTH)"
+    },
+    {
+      "name": "Valdet Sadiko",
+      "role": "Charge d'Affaires",
+      "country": "KOSOVO"
+    },
+    {
+      "name": "Salem Abdullah Jaber Alsabah",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "KUWAIT"
+    },
+    {
+      "name": "Baktybek Amanbaev",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "KYRGYZSTAN"
+    },
+    {
+      "name": "Khamphan Anlavan",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "LAOS"
+    },
+    {
+      "name": "Ma\u0301ris Selga",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "LATVIA"
+    },
+    {
+      "name": "Wael Hachem",
+      "role": "Charge d'Affaires",
+      "country": "LEBANON"
+    },
+    {
+      "name": "Masopha Phoofolo Moses Kao",
+      "role": "Counselor",
+      "country": "LESOTHO"
+    },
+    {
+      "name": "George S.W. Patten, Sr.",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "LIBERIA"
+    },
+    {
+      "name": "Wafa M. T. Bughaighis",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "LIBYA"
+    },
+    {
+      "name": "Kurt Jaeger",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "LIECHTENSTEIN"
+    },
+    {
+      "name": "Audra Plepyte",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "LITHUANIA"
+    },
+    {
+      "name": "Gaston Pierre Jean Stronck",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "LUXEMBOURG"
+    },
+    {
+      "name": "Vilma Petkovski",
+      "role": "Minister Counselor (Charge d'Affaires)",
+      "country": "MACEDONIA (NORTH)"
+    },
+    {
+      "name": "Ms. Amielle Pelenne Niriniavisoa Marceda",
+      "role": "Minister Counselor (Charge d'Affaires)",
+      "country": "MADAGASCAR"
+    },
+    {
+      "name": "His Excellency Edward Yakobe Sawerengera",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MALAWI"
+    },
+    {
+      "name": "His Excellency Thilmeeza Hussain",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MALDIVES"
+    },
+    {
+      "name": "His Excellency Mahamadou Nimaga",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MALI"
+    },
+    {
+      "name": "His Excellency Keith Azzopardi",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MALTA"
+    },
+    {
+      "name": "His Excellency Gerald M. Zackios",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MARSHALL ISLANDS"
+    },
+    {
+      "name": "Mr. Jiddou Jiddou",
+      "role": "Charge d'Affaires",
+      "country": "MAURITANIA"
+    },
+    {
+      "name": "His Excellency Permanund Jhugroo",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MAURITIUS"
+    },
+    {
+      "name": "His Excellency Esteban Moctezuma",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MEXICO"
+    },
+    {
+      "name": "His Excellency Akillino Harris Susaia",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MICRONESIA, FEDERATED STATES OF"
+    },
+    {
+      "name": "His Excellency Eugen Caras",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MOLDOVA"
+    },
+    {
+      "name": "Her Excellency Maguy Maccario Doyle",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MONACO"
+    },
+    {
+      "name": "His Excellency Otgonbayar Yondon",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MONGOLIA"
+    },
+    {
+      "name": "Ms. Marija Stjepcevic",
+      "role": "Charge d'Affaires",
+      "country": "MONTENEGRO"
+    },
+    {
+      "name": "Her Excellency Lalla Joumala Alaoui",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MOROCCO"
+    },
+    {
+      "name": "His Excellency Carlos Dos Santos",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "MOZAMBIQUE"
+    },
+    {
+      "name": "Her Excellency Margaret Natalie Mensah-Williams",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NAMIBIA"
+    },
+    {
+      "name": "Her Excellency Marlene Inemwin Moses",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NAURU"
+    },
+    {
+      "name": "His Excellency Yuba Raj Khatiwada",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NEPAL"
+    },
+    {
+      "name": "His Excellency Andre Haspels",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NETHERLANDS"
+    },
+    {
+      "name": "Her Excellency Rosemary Banks",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NEW ZEALAND"
+    },
+    {
+      "name": "His Excellency Francisco Obadiah Campbell Hooker",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NICARAGUA"
+    },
+    {
+      "name": "Mr. Mahamane Bachir Fifi",
+      "role": "Minister (Charge d'Affaires)",
+      "country": "NIGER"
+    },
+    {
+      "name": "Her Excellency Uzoma Elizabeth Emenike",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NIGERIA"
+    },
+    {
+      "name": "Her Excellency Anniken Ramberg Krutnes",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "NORWAY"
+    },
+    {
+      "name": "Her Excellency Moosa Hamdan Moosa Al Tai",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "OMAN"
+    },
+    {
+      "name": "His Excellency Asad Majeed Khan",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "PAKISTAN"
+    },
+    {
+      "name": "His Excellency Hersey Kyota",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "PALAU"
+    },
+    {
+      "name": "His Excellency Juan Ricardo de Dianous Henriquez",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "PANAMA"
+    },
+    {
+      "name": "Mr. Cephas Kayo",
+      "role": "Minister (Charge d'Affaires)",
+      "country": "PAPUA NEW GUINEA"
+    },
+    {
+      "name": "Mr. Luis Jose Gonzalez Fernandez",
+      "role": "Minister (Charge d'Affaires)",
+      "country": "PARAGUAY"
+    },
+    {
+      "name": "His Excellency Hugo Claudio de Zela Martinez",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "PERU"
+    },
+    {
+      "name": "His Excellency Jose Manuel del Gallego Romualdez",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "PHILIPPINES"
+    },
+    {
+      "name": "His Excellency Piotr Antoni Wilczek",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "POLAND"
+    },
+    {
+      "name": "His Excellency Domingos Teixeira de Abreu Fezas Vital",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "PORTUGAL"
+    },
+    {
+      "name": "His Excellency Meshal Hamad M.J. Al Thani",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "QATAR"
+    },
+    {
+      "name": "Mr. Cristian Gaginsky",
+      "role": "Charge d'Affaires",
+      "country": "ROMANIA"
+    },
+    {
+      "name": "His Excellency Anatoly Ivanovich Antonov",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "RUSSIA"
+    },
+    {
+      "name": "Her Excellency Mathilde Mukantabana",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "RWANDA"
+    },
+    {
+      "name": "Her Excellency Thelma Patricia Phillip Browne",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SAINT KITTS AND NEVIS"
+    },
+    {
+      "name": "His Excellency Anton Edsel Edmunds",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SAINT LUCIA"
+    },
+    {
+      "name": "Her Excellency LouAnne Gaylene Gilchrist",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SAINT VINCENT AND THE GRENADINES"
+    },
+    {
+      "name": "His Excellency Pa'olelei Luteru",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SAMOA"
+    },
+    {
+      "name": "His Excellency Damiano Beleffi",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SAN MARINO"
+    },
+    {
+      "name": "His Excellency C. Azevedo Agostinho das Neves",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SAO TOME AND PRINCIPE"
+    },
+    {
+      "name": "His Excellency Reema Bint Bandar bin Sultan Al Saud",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SAUDI ARABIA"
+    },
+    {
+      "name": "His Excellency Mansour Kane",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SENEGAL"
+    },
+    {
+      "name": "His Excellency Marko Djuric",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SERBIA"
+    },
+    {
+      "name": "His Excellency Ronald Jean Jumeau",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SEYCHELLES"
+    },
+    {
+      "name": "His Excellency Sidique Abou Bakarr Wai",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SIERRA LEONE"
+    },
+    {
+      "name": "His Excellency Ashok Kumar",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SINGAPORE"
+    },
+    {
+      "name": "His Excellency Radovan Javorcik",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SLOVAKIA"
+    },
+    {
+      "name": "His Excellency Tone Kajzer",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SLOVENIA"
+    },
+    {
+      "name": "His Excellency Ali Sharif Ahmed",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SOMALIA"
+    },
+    {
+      "name": "Her Excellency Nomaindiya Cathleen Mfeketo",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SOUTH AFRICA"
+    },
+    {
+      "name": "Philip Jada Natana",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SOUTH SUDAN"
+    },
+    {
+      "name": "Santiago Cabanas Ansorena",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SPAIN"
+    },
+    {
+      "name": "Ravinatha Aryasinha",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SRI LANKA"
+    },
+    {
+      "name": "Nureldin Mohamed Hamed Satti",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SUDAN"
+    },
+    {
+      "name": "Niermala Sakoentala Badrising",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SURINAME"
+    },
+    {
+      "name": "Karin Ulrika Olofsdotter",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SWEDEN"
+    },
+    {
+      "name": "Jacques Henri Pitteloud",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "SWITZERLAND"
+    },
+    {
+      "name": "Farrukh Hamralizoda",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TAJIKISTAN"
+    },
+    {
+      "name": "Jean Abel Msabila",
+      "role": "Counselor (Charge d'Affaires)",
+      "country": "TANZANIA"
+    },
+    {
+      "name": "Manatsawi Sisodaphon",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "THAILAND"
+    },
+    {
+      "name": "Isilio Antonio de Fatima Coelho da Silva",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TIMOR-LESTE"
+    },
+    {
+      "name": "Frederic Edem Hegbe",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TOGO"
+    },
+    {
+      "name": "Anthony Wayne Jerome Phillips Spencer",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TRINIDAD AND TOBAGO"
+    },
+    {
+      "name": "Nejmeddin Lakhal",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TUNISIA"
+    },
+    {
+      "name": "Hasan Murat Mercan",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TURKEY"
+    },
+    {
+      "name": "Meret Orazov",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TURKMENISTAN"
+    },
+    {
+      "name": "Samuelu Laloniu",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "TUVALU"
+    },
+    {
+      "name": "Sebujja Mull Katende",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "UGANDA"
+    },
+    {
+      "name": "Oksana Markarova",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "UKRAINE"
+    },
+    {
+      "name": "Yousif Mana Saeed Ahmed Alotaiba",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "UNITED ARAB EMIRATES"
+    },
+    {
+      "name": "Karen Elizabeth Pierce",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "UNITED KINGDOM"
+    },
+    {
+      "name": "Andres Augusto Duran Hareau",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "URUGUAY"
+    },
+    {
+      "name": "Javlon Vakhabov",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "UZBEKISTAN"
+    },
+    {
+      "name": "Odo Tevi",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "VANUATU"
+    },
+    {
+      "name": "Carlos Alfredo Vecchio",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "VENEZUELA"
+    },
+    {
+      "name": "Kim Ngoc Ha",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "VIETNAM"
+    },
+    {
+      "name": "Ahmed Awad Ahmed BinMubarak",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "YEMEN"
+    },
+    {
+      "name": "Lazarous Kapambwe",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ZAMBIA"
+    },
+    {
+      "name": "Tadeous Tafirenyika Chifambe",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ZIMBABWE"
+    }
+  ]
+}

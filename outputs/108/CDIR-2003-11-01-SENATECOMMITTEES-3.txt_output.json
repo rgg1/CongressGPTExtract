@@ -1,0 +1,114 @@
+{
+  "committees": [
+    {
+      "committee_name": "Senate",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Senate",
+          "subcommittee_members": [
+            {
+              "member_name": "Richard B. Cheney",
+              "member_role": "President of the Senate",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Ted Stevens",
+              "member_role": "President Pro Tempore",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Bill Frist",
+              "member_role": "Majority Leader",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Mitch McConnell",
+              "member_role": "Majority Whip",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Thomas A. Daschle",
+              "member_role": "Democratic Leader",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "Assistant Democratic Leader",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Emily J. Reynolds",
+              "member_role": "Secretary of the Senate",
+              "member_state": "Tennessee"
+            },
+            {
+              "member_name": "Barry C. Black",
+              "member_role": "Chaplain of the Senate",
+              "member_state": "Maryland"
+            },
+            {
+              "member_name": "Bill Pickle",
+              "member_role": "Sergeant at Arms",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "David Schiappa",
+              "member_role": "Secretary for the Majority",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Martin P. Paone",
+              "member_role": "Secretary for the Minority",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "James W. Fransen",
+              "member_role": "Legislative Counsel",
+              "member_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of Senate Legal Counsel",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of Senate Legal Counsel",
+          "subcommittee_members": [
+            {
+              "member_name": "Patricia Mack Bryan",
+              "member_role": "Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Morgan J. Frankel",
+              "member_role": "Deputy Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Thomas E. Caballero",
+              "member_role": "Assistant Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Grant R. Vinik",
+              "member_role": "Assistant Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Sara Fox Jones",
+              "member_role": "Systems Administrator/Legal Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Kathleen M. Parker",
+              "member_role": "Administrative Assistant",
+              "member_state": "N/A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

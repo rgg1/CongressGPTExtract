@@ -1,0 +1,836 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Deb Haaland",
+      "member_role": "Secretary of the Interior"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF THE INTERIOR",
+      "department_members": [
+        {
+          "member_name": "Deb Haaland",
+          "member_role": "Secretary of the Interior"
+        },
+        {
+          "member_name": "Hannah Cooke",
+          "member_role": "Special Assistant to the Secretary"
+        },
+        {
+          "member_name": "Shandria Dixon",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Todd Willens",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Margaret Everson",
+          "member_role": "Counselor to the Secretary"
+        },
+        {
+          "member_name": "Gary Lawkowski",
+          "member_role": "Counselor to the Secretary"
+        },
+        {
+          "member_name": "Gregg Renkes",
+          "member_role": "Counselor to the Secretary"
+        },
+        {
+          "member_name": "John Tahsuda",
+          "member_role": "Counselor to the Secretary"
+        },
+        {
+          "member_name": "Samantha Hebert",
+          "member_role": "Director for Scheduling and Advance"
+        },
+        {
+          "member_name": "Tim Williams",
+          "member_role": "Director of External and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Steve Wackowski",
+          "member_role": "Senior Advisor for Alaska Affairs"
+        },
+        {
+          "member_name": "John Bockmier",
+          "member_role": "Advisor"
+        },
+        {
+          "member_name": "Rick May",
+          "member_role": "Advisor"
+        },
+        {
+          "member_name": "William Werkheiser",
+          "member_role": "Advisor"
+        },
+        {
+          "member_name": "Richard Cardinale",
+          "member_role": "Director of Executive Secretariat"
+        },
+        {
+          "member_name": "Cole Rojewski",
+          "member_role": "Director of Congressional and Legislative Affairs"
+        },
+        {
+          "member_name": "Faith Vander Voort",
+          "member_role": "Deputy Director of Congressional and Legislative Affairs"
+        },
+        {
+          "member_name": "Chris Salotti",
+          "member_role": "Legislative Counsel"
+        },
+        {
+          "member_name": "Nicholas Goodwin",
+          "member_role": "Director of Office of Communications"
+        },
+        {
+          "member_name": "Benjamin Goldey",
+          "member_role": "Press Secretary"
+        },
+        {
+          "member_name": "Katharine MacGregor",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Katie White",
+          "member_role": "Executive Assistant to the Deputy Secretary"
+        },
+        {
+          "member_name": "James Cason",
+          "member_role": "Associate Deputy Secretary"
+        },
+        {
+          "member_name": "Kiel Weaver",
+          "member_role": "Associate Deputy Secretary"
+        },
+        {
+          "member_name": "Rob Wallace",
+          "member_role": "Assistant Secretary for Fish and Wildlife and Parks"
+        },
+        {
+          "member_name": "John Tanner",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Ryan Hambleton",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Maureen Foster",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Martha Williams",
+          "member_role": "Director of U.S. Fish and Wildlife Service"
+        },
+        {
+          "member_name": "Margaret Everson",
+          "member_role": "Principal Deputy Director"
+        },
+        {
+          "member_name": "Bryan Arroyo",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Steve Guertin",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Bud Cribley",
+          "member_role": "Senior Advisor for Energy"
+        },
+        {
+          "member_name": "Barbara Wainman",
+          "member_role": "Assistant Director for External Affairs"
+        },
+        {
+          "member_name": "Charisa Morris",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Marty Kodis",
+          "member_role": "Chief of Congressional and Legislative Affairs"
+        },
+        {
+          "member_name": "Cynthia Martinez",
+          "member_role": "Chief of National Wildlife Refuge System"
+        },
+        {
+          "member_name": "Ed Grace",
+          "member_role": "Chief of Office of Law Enforcement"
+        },
+        {
+          "member_name": "Gavin Shire",
+          "member_role": "Chief of Public Affairs"
+        },
+        {
+          "member_name": "Gary Frazer",
+          "member_role": "Assistant Director for Ecological Services"
+        },
+        {
+          "member_name": "David Hoskins",
+          "member_role": "Assistant Director for Fisheries and Habitat Conservation"
+        },
+        {
+          "member_name": "Paul Gibson",
+          "member_role": "Assistant Director for Information Resources and Technology Management"
+        },
+        {
+          "member_name": "Janine Velasco",
+          "member_role": "Assistant Director for Management and Administration"
+        },
+        {
+          "member_name": "Jerome Ford",
+          "member_role": "Assistant Director for Migratory Birds"
+        },
+        {
+          "member_name": "Deborah Rocque",
+          "member_role": "Assistant Director for Science Applications"
+        },
+        {
+          "member_name": "Paul Rauch",
+          "member_role": "Assistant Director for Wildlife & Sport Fish Restoration"
+        },
+        {
+          "member_name": "Wendi Weber",
+          "member_role": "Regional Director for Interior Region 1"
+        },
+        {
+          "member_name": "Leo Miranda",
+          "member_role": "Regional Director for Interior Region 2 / 4"
+        },
+        {
+          "member_name": "Charlie Wooley",
+          "member_role": "Regional Director for Interior Region 3"
+        },
+        {
+          "member_name": "Noreen Walsh",
+          "member_role": "Regional Director for Interior Region 5 / 7"
+        },
+        {
+          "member_name": "Amy Leuders",
+          "member_role": "Regional Director for Interior Region 6 / 8"
+        },
+        {
+          "member_name": "Robyn Thorson",
+          "member_role": "Regional Director for Interior Region 9 / 12"
+        },
+        {
+          "member_name": "Paul Souza",
+          "member_role": "Regional Director for Interior Region 10"
+        },
+        {
+          "member_name": "Greg Siekaniec",
+          "member_role": "Regional Director for Interior Region 11"
+        },
+        {
+          "member_name": "Tara Sweeney",
+          "member_role": "Assistant Secretary for Indian Affairs"
+        },
+        {
+          "member_name": "John Tahsuda",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Jason Freihage",
+          "member_role": "Deputy Assistant Secretary for Management"
+        },
+        {
+          "member_name": "Mark Cruz",
+          "member_role": "Deputy Assistant Secretary for Policy and Economic Development"
+        },
+        {
+          "member_name": "Richard Myers",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Darryl LaCounte",
+          "member_role": "Director of Bureau of Indian Affairs"
+        },
+        {
+          "member_name": "James \"Jim\" James",
+          "member_role": "Deputy Director of Field Operations"
+        },
+        {
+          "member_name": "Charles Addington",
+          "member_role": "Deputy Director of Justice Services"
+        },
+        {
+          "member_name": "Spike Bighorn",
+          "member_role": "Deputy Director of Tribal Services"
+        },
+        {
+          "member_name": "Johanna Blackhair",
+          "member_role": "Deputy Director of Trust Services"
+        },
+        {
+          "member_name": "Tony Dearman",
+          "member_role": "Director of Bureau of Indian Education"
+        },
+        {
+          "member_name": "Sharon Pinto",
+          "member_role": "Deputy Bureau Director, School Operations"
+        },
+        {
+          "member_name": "Clint Bowers",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Juanita Mendoza",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Tamarah Pfeiffer",
+          "member_role": "Chief Academic Officer"
+        },
+        {
+          "member_name": "Hankie Ortiz",
+          "member_role": "Associate Deputy Director of BIE Operated Schools"
+        },
+        {
+          "member_name": "Jeffrey Hamley",
+          "member_role": "Associate Deputy Director of Division of Performance and Accountability"
+        },
+        {
+          "member_name": "Charles Sherman",
+          "member_role": "Associate Deputy Director of Navajo Schools"
+        },
+        {
+          "member_name": "Tracia \"Keri\" Jojola",
+          "member_role": "Associate Deputy Director of Tribally Controlled Schools"
+        },
+        {
+          "member_name": "Casey Hammond",
+          "member_role": "Assistant Secretary for Land and Minerals Management"
+        },
+        {
+          "member_name": "Casey Hammond",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Mike Nedd",
+          "member_role": "Deputy Director of Operations"
+        },
+        {
+          "member_name": "William Perry Pendley",
+          "member_role": "Deputy Director of Programs and Policy"
+        },
+        {
+          "member_name": "Patrick Wilkerson",
+          "member_role": "Division Chief, Legislative Affairs"
+        },
+        {
+          "member_name": "Jill Ralston",
+          "member_role": "Deputy Division Chief"
+        },
+        {
+          "member_name": "Chad Padgett",
+          "member_role": "State Director for Alaska"
+        },
+        {
+          "member_name": "Raymond Suazo",
+          "member_role": "State Director for Arizona"
+        },
+        {
+          "member_name": "Karen Mouritsen",
+          "member_role": "State Director for California"
+        },
+        {
+          "member_name": "Jamie Connell",
+          "member_role": "State Director for Colorado"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "State Director for Eastern States"
+        },
+        {
+          "member_name": "John Ruhs",
+          "member_role": "State Director for Idaho"
+        },
+        {
+          "member_name": "John Mehlhoff",
+          "member_role": "State Director for Montana / Dakotas"
+        },
+        {
+          "member_name": "John Raby",
+          "member_role": "State Director for Nevada"
+        },
+        {
+          "member_name": "Tim Spisak",
+          "member_role": "State Director for New Mexico"
+        },
+        {
+          "member_name": "Jose Linares",
+          "member_role": "State Director for Oregon / Washington"
+        },
+        {
+          "member_name": "Ed Roberson",
+          "member_role": "State Director for Utah"
+        },
+        {
+          "member_name": "Duane Spencer",
+          "member_role": "State Director for Wyoming"
+        },
+        {
+          "member_name": "Walter D. Cruickshank",
+          "member_role": "Director of Bureau of Ocean Energy Management"
+        },
+        {
+          "member_name": "Walter D. Cruickshank",
+          "member_role": "Deputy Director / Chief Financial Officer"
+        },
+        {
+          "member_name": "James G. Anderson",
+          "member_role": "Chief of Office of Budget and Program Coordination"
+        },
+        {
+          "member_name": "Lee Tilton",
+          "member_role": "Chief of Office of Congressional Affairs"
+        },
+        {
+          "member_name": "William Y. Brown",
+          "member_role": "Chief of Office of Environmental Programs"
+        },
+        {
+          "member_name": "Deanna P. Meyer-Pietruszka",
+          "member_role": "Chief of Office of Policy, Regulation and Analysis"
+        },
+        {
+          "member_name": "Connie Gillette",
+          "member_role": "Chief of Office of Public Affairs"
+        },
+        {
+          "member_name": "James F. Bennett",
+          "member_role": "Chief of Office of Renewable Energy Programs"
+        },
+        {
+          "member_name": "L. Renee Orr",
+          "member_role": "Chief of Office of Strategic Resources Programs"
+        },
+        {
+          "member_name": "Scott A. Angelle",
+          "member_role": "Director of Bureau of Safety and Environmental Enforcement"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Scott Mabry",
+          "member_role": "Associate Director for Administration"
+        },
+        {
+          "member_name": "Eric Modrow",
+          "member_role": "Budget"
+        },
+        {
+          "member_name": "Stacey Noem",
+          "member_role": "Associate Director for Offshore Regulatory Programs"
+        },
+        {
+          "member_name": "Molly Madden",
+          "member_role": "Associate Director for Policy and Analysis"
+        },
+        {
+          "member_name": "Julie Fleming",
+          "member_role": "Associate Director for Congressional Affairs"
+        },
+        {
+          "member_name": "Mark Fesmire",
+          "member_role": "Outer Continental Shelf Regional Director for Alaska"
+        },
+        {
+          "member_name": "Lars T. Herbst",
+          "member_role": "Outer Continental Shelf Regional Director for Gulf of Mexico"
+        },
+        {
+          "member_name": "Mark Fesmire",
+          "member_role": "Outer Continental Shelf Regional Director for Pacific"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF SURFACE MINING RECLAMATION AND ENFORCEMENT",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Glenda H. Owens",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Ted Woronka",
+          "member_role": "Assistant Director for Finance and Administration"
+        },
+        {
+          "member_name": "Tristan Weis",
+          "member_role": "Congressional Contact"
+        },
+        {
+          "member_name": "Thomas D. Shope",
+          "member_role": "Regional Director for Appalachian Region"
+        },
+        {
+          "member_name": "Alfred Clayborne",
+          "member_role": "Regional Director for Mid-Continent Region"
+        },
+        {
+          "member_name": "David Berry",
+          "member_role": "Regional Director for Western Region"
+        }
+      ]
+    },
+    {
+      "department_name": "ASSISTANT SECRETARY FOR POLICY, MANAGEMENT, AND BUDGET",
+      "department_members": [
+        {
+          "member_name": "Susan Combs",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Scott J. Cameron",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Jacqueline Jones",
+          "member_role": "Deputy Assistant Secretary for Administrative Services"
+        },
+        {
+          "member_name": "Andrea Brandon",
+          "member_role": "Deputy Assistant Secretary for Budget, Finance, Grants, and Acquisition"
+        },
+        {
+          "member_name": "Raymond Limon",
+          "member_role": "Deputy Assistant Secretary for Human Capital and Diversity"
+        },
+        {
+          "member_name": "Greg Gould",
+          "member_role": "Deputy Assistant Secretary for Natural Resources Revenue Management"
+        },
+        {
+          "member_name": "Michael Freeman",
+          "member_role": "Deputy Assistant Secretary for Policy and Environmental Management"
+        },
+        {
+          "member_name": "Lisa Branum",
+          "member_role": "Deputy Assistant Secretary for Public Safety, Resource Protection, and Emergency Services"
+        }
+      ]
+    },
+    {
+      "department_name": "ASSISTANT SECRETARY FOR WATER AND SCIENCE",
+      "department_members": [
+        {
+          "member_name": "Dr. Timothy R. Petty",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Aubrey Bettencourt",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Ryan Nichols",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Kerry Rae",
+          "member_role": "Chief of Staff"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. GEOLOGICAL SURVEY",
+      "department_members": [
+        {
+          "member_name": "David Applegate",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Cynthia Lodge",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Geoff Plumlee",
+          "member_role": "Chief Scientist (acting)"
+        },
+        {
+          "member_name": "Bill Lukas",
+          "member_role": "Chief of Staff (acting)"
+        },
+        {
+          "member_name": "Katherine McCulloch",
+          "member_role": "Office of Administration"
+        },
+        {
+          "member_name": "Eric Reichard",
+          "member_role": "Office of Budget, Planning, and Integration (acting)"
+        },
+        {
+          "member_name": "Leslie Jones",
+          "member_role": "Office of Communications and Publishing (acting)"
+        },
+        {
+          "member_name": "Jeffrey Onizuk",
+          "member_role": "Office of Congressional Liaison Officer"
+        },
+        {
+          "member_name": "Tim Quinn",
+          "member_role": "Office of Enterprise Information"
+        },
+        {
+          "member_name": "Julie Wozniak",
+          "member_role": "Office of Human Capital"
+        },
+        {
+          "member_name": "Vic Labson",
+          "member_role": "Office of International Programs"
+        },
+        {
+          "member_name": "Karen Armstrong",
+          "member_role": "Office of Public Affairs Officer (acting)"
+        },
+        {
+          "member_name": "Craig Robinson",
+          "member_role": "Office of Science Quality and Integrity"
+        },
+        {
+          "member_name": "Kevin Gallagher",
+          "member_role": "Associate Director for Core Science Systems"
+        },
+        {
+          "member_name": "Anne Kinsinger",
+          "member_role": "Associate Director for Ecosystems"
+        },
+        {
+          "member_name": "Sarah Ryker",
+          "member_role": "Associate Director for Energy and Minerals"
+        },
+        {
+          "member_name": "Anne Kinsinger",
+          "member_role": "Associate Director for Environmental Health and National Climate Adaptation Science Center (acting)"
+        },
+        {
+          "member_name": "Kevin Gallagher",
+          "member_role": "Associate Director for Land Resources (acting)"
+        },
+        {
+          "member_name": "David Applegate",
+          "member_role": "Associate Director for Natural Hazards"
+        },
+        {
+          "member_name": "Donald Cline",
+          "member_role": "Associate Director for Water Resources"
+        },
+        {
+          "member_name": "Michael Tupper",
+          "member_role": "Regional Director for North Atlantic-Appalachian Region"
+        },
+        {
+          "member_name": "Holly Weyers",
+          "member_role": "Regional Director for South Atlantic-Gulf-PR-USVI Region"
+        },
+        {
+          "member_name": "Scott Morlock",
+          "member_role": "Regional Director for Great Lakes Region (acting)"
+        },
+        {
+          "member_name": "Holly Weyers",
+          "member_role": "Regional Director for Mississippi Basin Region"
+        },
+        {
+          "member_name": "Scott Morlock",
+          "member_role": "Regional Director for Missouri Basin Region (acting)"
+        },
+        {
+          "member_name": "Holly Weyers",
+          "member_role": "Regional Director for Arkansas-Rio Grande-Texas-Gulf Region"
+        },
+        {
+          "member_name": "Roseann Gonzales-Schreiner",
+          "member_role": "Regional Director for Upper Colorado Basin Region"
+        },
+        {
+          "member_name": "Mark Sogge",
+          "member_role": "Regional Director for Lower Colorado Basin Region"
+        },
+        {
+          "member_name": "Marijke van Heeswijk",
+          "member_role": "Regional Director for Columbia-Pacific Northwest Region (acting)"
+        },
+        {
+          "member_name": "Mark Sogge",
+          "member_role": "Regional Director for California-Great Basin Region"
+        },
+        {
+          "member_name": "Aimee Devaris",
+          "member_role": "Regional Director for Alaska Region"
+        },
+        {
+          "member_name": "Marijke van Heeswijk",
+          "member_role": "Regional Director for Pacific Islands Region (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "BUREAU OF RECLAMATION",
+      "department_members": [
+        {
+          "member_name": "Brenda Burman",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Shelby Hagenauer",
+          "member_role": "Deputy Commissioner"
+        },
+        {
+          "member_name": "David Palumbo",
+          "member_role": "Deputy Commissioner for Operations"
+        },
+        {
+          "member_name": "Grayford Payne",
+          "member_role": "Deputy Commissioner for Policy, Administration, and Budget"
+        },
+        {
+          "member_name": "James Hess",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of Congressional and Legislative Affairs"
+        },
+        {
+          "member_name": "Theresa Eisenman",
+          "member_role": "Chief of Public Affairs"
+        },
+        {
+          "member_name": "Michael Black",
+          "member_role": "Regional Director for Great Plains"
+        },
+        {
+          "member_name": "Terrance Fulp",
+          "member_role": "Regional Director for Lower Colorado"
+        },
+        {
+          "member_name": "Ernest Conant",
+          "member_role": "Regional Director for Mid-Pacific"
+        },
+        {
+          "member_name": "Lorri Gray",
+          "member_role": "Regional Director for Pacific Northwest"
+        },
+        {
+          "member_name": "Brent Esplin",
+          "member_role": "Regional Director for Upper Colorado"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF INSPECTOR GENERAL",
+      "department_members": [
+        {
+          "member_name": "Mark Greenblatt",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "Stephen Hardgrove",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Jennifer French",
+          "member_role": "Director for Whistleblower Protection"
+        },
+        {
+          "member_name": "Nancy DiPaolo",
+          "member_role": "Director for External Affairs"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE SOLICITOR",
+      "department_members": [
+        {
+          "member_name": "Daniel H. Jorjani",
+          "member_role": "Solicitor"
+        },
+        {
+          "member_name": "Gregory Zerzan",
+          "member_role": "Principal Deputy Solicitor"
+        },
+        {
+          "member_name": "Kevin O'Scannlain",
+          "member_role": "Deputy Solicitor for Energy and Mineral Resources (acting)"
+        },
+        {
+          "member_name": "Hubbel Relat",
+          "member_role": "Deputy Solicitor for General Law"
+        },
+        {
+          "member_name": "Kyle Scherer",
+          "member_role": "Deputy Solicitor for Indian Affairs"
+        },
+        {
+          "member_name": "Marc Marie",
+          "member_role": "Deputy Solicitor for Land Resources (acting)"
+        },
+        {
+          "member_name": "Karen Budd-Falen",
+          "member_role": "Deputy Solicitor for Parks and Wildlife"
+        },
+        {
+          "member_name": "Brandon Middleton",
+          "member_role": "Deputy Solicitor for Water Resources"
+        },
+        {
+          "member_name": "Scott de la Vega",
+          "member_role": "Associate Solicitor for General Law"
+        },
+        {
+          "member_name": "Eric Shepard",
+          "member_role": "Associate Solicitor for Indian Affairs"
+        },
+        {
+          "member_name": "Aaron Moody",
+          "member_role": "Associate Solicitor for Land Resources"
+        },
+        {
+          "member_name": "Karen Hawbecker",
+          "member_role": "Associate Solicitor for Mineral Resources"
+        },
+        {
+          "member_name": "Peg Romanik",
+          "member_role": "Associate Solicitor for Parks and Wildlife"
+        },
+        {
+          "member_name": "Carter Brown",
+          "member_role": "Associate Solicitor for Water Resources"
+        },
+        {
+          "member_name": "Marc Smith",
+          "member_role": "Administration"
+        },
+        {
+          "member_name": "Heather Gottry",
+          "member_role": "Designated Agency Ethics Official (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE SPECIAL TRUSTEE FOR AMERICAN INDIANS",
+      "department_members": [
+        {
+          "member_name": "Jerold Gidner",
+          "member_role": "Principal Deputy Special Trustee"
+        }
+      ]
+    }
+  ]
+}

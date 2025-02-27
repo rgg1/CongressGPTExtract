@@ -1,0 +1,724 @@
+{
+  "diplomatic_representatives": [
+    {
+      "name": "Mohammad Ishaq Shahryar",
+      "role": "N/A",
+      "country": "AFGHANISTAN"
+    },
+    {
+      "name": "Fatos Tarifa",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ALBANIA"
+    },
+    {
+      "name": "Idriss Jazairy",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ALGERIA"
+    },
+    {
+      "name": "Jelena V. Pia-Comella",
+      "role": "Minister Counselor",
+      "country": "ANDORRA"
+    },
+    {
+      "name": "Josefina Pitra Diakite",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANGOLA"
+    },
+    {
+      "name": "Lionel Alexander Hurst",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANTIGUA AND BARBUDA"
+    },
+    {
+      "name": "Eduardo Pablo Amadeo",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ARGENTINA"
+    },
+    {
+      "name": "Arman John Kirakossian",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ARMENIA"
+    },
+    {
+      "name": "Michael Thawley",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AUSTRALIA"
+    },
+    {
+      "name": "Peter Moser",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AUSTRIA"
+    },
+    {
+      "name": "Hafiz Mir Jalal Pashayev",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AZERBAIJAN"
+    },
+    {
+      "name": "Joshua Sears",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BAHAMAS"
+    },
+    {
+      "name": "Sheikh Khalifa Ali Al-Khalifa",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BAHRAIN"
+    },
+    {
+      "name": "Syed Hasan Ahmed",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BANGLADESH"
+    },
+    {
+      "name": "Michael Ian King",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BARBADOS"
+    },
+    {
+      "name": "Mikhail Khvostov",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BELARUS"
+    },
+    {
+      "name": "Franciskus Van Daele",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BELGIUM"
+    },
+    {
+      "name": "Lisa Shoman",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BELIZE"
+    },
+    {
+      "name": "Segbe Cyrille Oguin",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BENIN"
+    },
+    {
+      "name": "Jaime Aparicio",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BOLIVIA"
+    },
+    {
+      "name": "Igor Davidovic",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BOSNIA AND HERZEGOVINA"
+    },
+    {
+      "name": "Lapologang Caesar Lekoa",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BOTSWANA"
+    },
+    {
+      "name": "Rubens Antonio Barbosa",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BRAZIL"
+    },
+    {
+      "name": "Pengiran Anak Dato Puteh",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BRUNEI"
+    },
+    {
+      "name": "Elena Poptodorova",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BULGARIA"
+    },
+    {
+      "name": "Tertius Zongo",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BURKINA FASO"
+    },
+    {
+      "name": "U Linn Myaing",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BURMA"
+    },
+    {
+      "name": "Antoine Ntamobwa",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BURUNDI"
+    },
+    {
+      "name": "Roland Eng",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CAMBODIA"
+    },
+    {
+      "name": "Jerome Mendouga",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CAMEROON"
+    },
+    {
+      "name": "Michael Kergin",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CANADA"
+    },
+    {
+      "name": "Jose Brito",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CAPE VERDE"
+    },
+    {
+      "name": "Emmanuel Touaboy",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CENTRAL AFRICAN REPUBLIC"
+    },
+    {
+      "name": "Hassaballah Ahmat Soubiane",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CHAD"
+    },
+    {
+      "name": "Andres Bianchi",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CHILE"
+    },
+    {
+      "name": "Jiechi Jang",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CHINA"
+    },
+    {
+      "name": "Luis Alberto Moreno",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "COLOMBIA"
+    },
+    {
+      "name": "Faida Mitifu",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CONGO, DEMOCRATIC REPUBLIC OF"
+    },
+    {
+      "name": "Serge Mombouli",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CONGO, REPUBLIC OF"
+    },
+    {
+      "name": "Jamie Daremblum",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "COSTA RICA"
+    },
+    {
+      "name": "Dago Pascal Kokora",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "COTE D'IVOIRE"
+    },
+    {
+      "name": "Ivan Grdesic",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CROATIA"
+    },
+    {
+      "name": "Erato Kozakou-Marcoullis",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CYPRUS"
+    },
+    {
+      "name": "Martin Palous",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "CZECH REPUBLIC"
+    },
+    {
+      "name": "Ulrik A. Federspiel",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "DENMARK"
+    },
+    {
+      "name": "Roble Olhaye",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "DJIBOUTI"
+    },
+    {
+      "name": "Hugo M. Guilliani Cury",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "DOMINICAN REPUBLIC"
+    },
+    {
+      "name": "Carlos A. Jativa",
+      "role": "Minister",
+      "country": "ECUADOR"
+    },
+    {
+      "name": "M. Nabil Fahmy",
+      "role": "Ambassador E. and P.",
+      "country": "EGYPT"
+    },
+    {
+      "name": "Rene Antonio Leon",
+      "role": "Ambassador E. and P.",
+      "country": "EL SALVADOR"
+    },
+    {
+      "name": "Teodoro Biyogo Nsue",
+      "role": "Ambassador E. and P.",
+      "country": "EQUATORIAL GUINEA"
+    },
+    {
+      "name": "Girma Asmerom",
+      "role": "Ambassador E. and P.",
+      "country": "ERITREA"
+    },
+    {
+      "name": "Sven Jurgenson",
+      "role": "Ambassador E. and P.",
+      "country": "ESTONIA"
+    },
+    {
+      "name": "Kassahun Ayele",
+      "role": "Ambassador E. and P.",
+      "country": "ETHIOPIA"
+    },
+    {
+      "name": "Anare Jale",
+      "role": "Ambassador E. and P.",
+      "country": "FIJI"
+    },
+    {
+      "name": "Jukka Valtasaari",
+      "role": "Ambassador E. and P.",
+      "country": "FINLAND"
+    },
+    {
+      "name": "Jean David Levitte",
+      "role": "Ambassador E. and P.",
+      "country": "FRANCE"
+    },
+    {
+      "name": "Jules Marius Ogouebandja",
+      "role": "Ambassador E. and P.",
+      "country": "GABON"
+    },
+    {
+      "name": "Leana Manga Sagnia Seck",
+      "role": "Minister-Counselor",
+      "country": "GAMBIA, THE"
+    },
+    {
+      "name": "Levan Mikeladze",
+      "role": "Ambassador E. and P.",
+      "country": "GEORGIA, REPUBLIC OF"
+    },
+    {
+      "name": "Wolfgang Friedrich Ischinger",
+      "role": "Ambassador E. and P.",
+      "country": "GERMANY, FEDERAL REPUBLIC OF"
+    },
+    {
+      "name": "Alan J. Kyerematen",
+      "role": "Ambassador E. and P.",
+      "country": "GHANA"
+    },
+    {
+      "name": "Alexandre Philon",
+      "role": "Ambassador E. and P.",
+      "country": "GREECE"
+    },
+    {
+      "name": "Denis G. Antoine",
+      "role": "Ambassador E. and P.",
+      "country": "GRENADA"
+    },
+    {
+      "name": "Antonio Arenales Forno",
+      "role": "Ambassador E. and P.",
+      "country": "GUATEMALA"
+    },
+    {
+      "name": "Alpha Oumar Rafiou Barry",
+      "role": "Ambassador E. and P.",
+      "country": "GUINEA"
+    },
+    {
+      "name": "Henrique Adriano Da Silva",
+      "role": "Minister-Counselor",
+      "country": "GUINEA-BISSAU"
+    },
+    {
+      "name": "Dr. Mohammed Ali Odeen Ishmael",
+      "role": "Ambassador E. and P.",
+      "country": "GUYANA"
+    },
+    {
+      "name": "Harry Frantz Leo",
+      "role": "Minister-Counselor",
+      "country": "HAITI"
+    },
+    {
+      "name": "The Most Reverend Gabriele Montalvo",
+      "role": "Apostolic Nuncio",
+      "country": "THE HOLY SEE (VATICAN CITY)"
+    },
+    {
+      "name": "Mario Miguel Canahuati",
+      "role": "Ambassador E. and P.",
+      "country": "HONDURAS"
+    },
+    {
+      "name": "Andras Simonyi",
+      "role": "Ambassador E. and P.",
+      "country": "HUNGARY"
+    },
+    {
+      "name": "Helgi Agustsson",
+      "role": "Ambassador E. and P.",
+      "country": "ICELAND"
+    },
+    {
+      "name": "Lalit Mansingh",
+      "role": "Ambassador E. and P.",
+      "country": "INDIA"
+    },
+    {
+      "name": "Soemadi Djoko M. Brotodiningrat",
+      "role": "Ambassador E. and P.",
+      "country": "INDONESIA"
+    },
+    {
+      "name": "Noel Fahey",
+      "role": "Ambassador E. and P.",
+      "country": "IRELAND"
+    },
+    {
+      "name": "Daniel Ayalon",
+      "role": "Ambassador E. and P.",
+      "country": "ISRAEL"
+    },
+    {
+      "name": "Sergio Vento",
+      "role": "Ambassador E. and P.",
+      "country": "ITALY"
+    },
+    {
+      "name": "Seymour Edward Mullings",
+      "role": "Ambassador E. and P.",
+      "country": "JAMAICA"
+    },
+    {
+      "name": "Royozo Kato",
+      "role": "Ambassador E. and P.",
+      "country": "JAPAN"
+    },
+    {
+      "name": "Karim Kawar",
+      "role": "Ambassador E. and P.",
+      "country": "JORDAN"
+    },
+    {
+      "name": "Kanat B. Saudabayev",
+      "role": "Ambassador E. and P.",
+      "country": "KAZAKHSTAN"
+    },
+    {
+      "name": "Yusuf Abdulrahman Nzibo",
+      "role": "Ambassador E. and P.",
+      "country": "KENYA"
+    },
+    {
+      "name": "Sheikh Salem Abdullah Al Jaber Al-Sabah",
+      "role": "Ambassador E. and P.",
+      "country": "KUWAIT"
+    },
+    {
+      "name": "Baktybek Abdrissaev",
+      "role": "Ambassador E. and P.",
+      "country": "KYRGYZSTAN"
+    },
+    {
+      "name": "Phanthong Phommahaxay",
+      "role": "Ambassador E. and P.",
+      "country": "LAOS"
+    },
+    {
+      "name": "Aivis Ronis",
+      "role": "Ambassador E. and P.",
+      "country": "LATVIA"
+    },
+    {
+      "name": "Farid Abboud",
+      "role": "Ambassador E. and P.",
+      "country": "LEBANON"
+    },
+    {
+      "name": "Molelekeng E. Rapolaki",
+      "role": "Ambassador E. and P.",
+      "country": "LESOTHO"
+    },
+    {
+      "name": "Aaron B. Kollie",
+      "role": "Minister",
+      "country": "LIBERIA"
+    },
+    {
+      "name": "Claudia Fritsche",
+      "role": "Ambassador E. and P.",
+      "country": "LIECHTENSTEIN"
+    },
+    {
+      "name": "Vygaudas Usackas",
+      "role": "Ambassador E. and P.",
+      "country": "LITHUANIA"
+    },
+    {
+      "name": "Arlette Conzemius",
+      "role": "Ambassador E. and P.",
+      "country": "LUXEMBOURG"
+    },
+    {
+      "name": "Nikola Dmitrov",
+      "role": "Ambassador E. and P.",
+      "country": "MACEDONIA"
+    },
+    {
+      "name": "Narisoa Rajaonarivony",
+      "role": "Ambassador E. and P.",
+      "country": "MADAGASCAR"
+    },
+    {
+      "name": "Tony Kandiero",
+      "role": "Ambassador E. and P.",
+      "country": "MALAWI"
+    },
+    {
+      "name": "Sheikh Abdul Khalid Ghazzali",
+      "role": "Ambassador E. and P.",
+      "country": "MALAYSIA"
+    },
+    {
+      "name": "Dr. Mohamed Latheef",
+      "role": "Ambassador E. and P.",
+      "country": "MALDIVES"
+    },
+    {
+      "name": "Abdoulaye Diop",
+      "role": "Ambassador E. and P.",
+      "country": "MALI"
+    },
+    {
+      "name": "John Lowell",
+      "role": "Ambassador E. and P.",
+      "country": "MALTA"
+    },
+    {
+      "name": "Banny De Brum",
+      "role": "Ambassador E. and P.",
+      "country": "MARSHALL ISLANDS"
+    },
+    {
+      "name": "Mohamedou Ould Michel",
+      "role": "Ambassador E. and P.",
+      "country": "MAURITANIA"
+    },
+    {
+      "name": "Usha Jeetah",
+      "role": "Ambassador E. and P.",
+      "country": "MAURITIUS"
+    },
+    {
+      "name": "Juan Jose Bremer Martino",
+      "role": "Ambassador E. and P.",
+      "country": "MEXICO"
+    },
+    {
+      "name": "Jesse Bibiano Marehalau",
+      "role": "Ambassador E. and P.",
+      "country": "MICRONESIA"
+    },
+    {
+      "name": "Mihail Manoli",
+      "role": "Ambassador E. and P.",
+      "country": "MOLDOVA"
+    },
+    {
+      "name": "Bold Ravdan",
+      "role": "Ambassador E. and P.",
+      "country": "MONGOLIA"
+    },
+    {
+      "name": "Aziz Mekouar",
+      "role": "Ambassador E. and P.",
+      "country": "MOROCCO"
+    },
+    {
+      "name": "Armando Alexandre Panguene",
+      "role": "Ambassador E. and P.",
+      "country": "MOZAMBIQUE"
+    },
+    {
+      "name": "Leonard Nangolo Iipumbu",
+      "role": "Ambassador E. and P.",
+      "country": "NAMIBIA"
+    },
+    {
+      "name": "Jai Pratap Rana",
+      "role": "Ambassador E. and P.",
+      "country": "NEPAL"
+    },
+    {
+      "name": "Boudewijn van Eenennaam",
+      "role": "Ambassador E. and P.",
+      "country": "NETHERLANDS"
+    },
+    {
+      "name": "John Wood",
+      "role": "Ambassador E. and P.",
+      "country": "NEW ZEALAND"
+    },
+    {
+      "name": "Carlos Jose Ulvert Sanchez",
+      "role": "Ambassador E. and P.",
+      "country": "NICARAGUA"
+    },
+    {
+      "name": "Joseph Diatta",
+      "role": "Ambassador E. and P.",
+      "country": "NIGER"
+    },
+    {
+      "name": "Jibril Muhammad Aminu",
+      "role": "Ambassador E. and P.",
+      "country": "NIGERIA"
+    },
+    {
+      "name": "Knut Vollebaek",
+      "role": "Ambassador E. and P.",
+      "country": "NORWAY"
+    },
+    {
+      "name": "Mohamed Ali Al Khusaiby",
+      "role": "Ambassador E. and P.",
+      "country": "OMAN"
+    },
+    {
+      "name": "Ashraf Jehangir Qazi",
+      "role": "Ambassador E. and P.",
+      "country": "PAKISTAN"
+    },
+    {
+      "name": "Hersey Kyota",
+      "role": "Ambassador E. and P.",
+      "country": "PALAU"
+    },
+    {
+      "name": "Roberto Alfaro Estripeaut",
+      "role": "Ambassador E. and P.",
+      "country": "PANAMA"
+    },
+    {
+      "name": "Graham Michael",
+      "role": "Counselor",
+      "country": "PAPUA NEW GUINEA"
+    },
+    {
+      "name": "Leila Teresa Rachid Cowles",
+      "role": "Ambassador E. and P.",
+      "country": "PARAGUAY"
+    },
+    {
+      "name": "Roberto Danino",
+      "role": "Ambassador E. and P.",
+      "country": "PERU"
+    },
+    {
+      "name": "Albert Ferreros Del Rosario",
+      "role": "Ambassador E. and P.",
+      "country": "PHILIPPINES"
+    },
+    {
+      "name": "Przemyslaw Grudzinski",
+      "role": "Ambassador E. and P.",
+      "country": "POLAND"
+    },
+    {
+      "name": "Pedro Catarino",
+      "role": "Ambassador E. and P.",
+      "country": "PORTUGAL"
+    },
+    {
+      "name": "Bader Omar Al Dafa",
+      "role": "Ambassador E. and P.",
+      "country": "QATAR"
+    },
+    {
+      "name": "Dumitru Sorin Ducaru",
+      "role": "Ambassador E. and P.",
+      "country": "ROMANIA"
+    },
+    {
+      "name": "Yury Viktorovich Ushakov",
+      "role": "Ambassador E. and P.",
+      "country": "RUSSIA"
+    },
+    {
+      "name": "Zac Nsenga",
+      "role": "Ambassador E. and P.",
+      "country": "RWANDA"
+    },
+    {
+      "name": "Izben Cordinal Williams",
+      "role": "Ambassador E. and P.",
+      "country": "SAINT KITTS AND NEVIS"
+    },
+    {
+      "name": "Sonia Merlyn Johnny",
+      "role": "Ambassador E. and P.",
+      "country": "SAINT LUCIA"
+    },
+    {
+      "name": "Ellsworth I.A. John",
+      "role": "Ambassador E. and P.",
+      "country": "SAINT VINCENT AND THE GRENADINES"
+    },
+    {
+      "name": "Tuiloma Neroni Slade",
+      "role": "Ambassador E. and P.",
+      "country": "SAMOA"
+    },
+    {
+      "name": "Prince Bandar Bin Sultan",
+      "role": "Ambassador E. and P.",
+      "country": "SAUDI ARABIA"
+    },
+    {
+      "name": "Dr. Amadou Lamine Ba",
+      "role": "Ambassador E. and P.",
+      "country": "SENEGAL"
+    },
+    {
+      "name": "Ivan Vujacic",
+      "role": "Ambassador E. and P.",
+      "country": "SERBIA & MONTENEGRO"
+    },
+    {
+      "name": "Claude Sylvestre Morel",
+      "role": "Ambassador E. and P.",
+      "country": "SEYCHELLES"
+    },
+    {
+      "name": "Ibrahim M. Kamara",
+      "role": "Ambassador E. and P.",
+      "country": "SIERRA LEONE"
+    },
+    {
+      "name": "Heng Chee Chan",
+      "role": "Ambassador E. and P.",
+      "country": "SINGAPORE"
+    },
+    {
+      "name": "Peter Kmec",
+      "role": "Counselor",
+      "country": "SLOVAK REPUBLIC"
+    },
+    {
+      "name": "Davorin Kracun",
+      "role": "Ambassador E. and P.",
+      "country": "SLOVENIA"
+    },
+    {
+      "name": "Jeremiah Manele",
+      "role": "Counselor",
+      "country": "SOLOMON ISLANDS"
+    }
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "committees": [
+    {
+      "committee_name": "Joint Economic Committee",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Joint Economic Committee",
+          "subcommittee_members": [
+            {
+              "member_name": "Robert F. Bennett",
+              "member_role": "Chairman",
+              "member_state": "Utah"
+            },
+            {
+              "member_name": "Jim Saxton",
+              "member_role": "Vice Chairman",
+              "member_state": "New Jersey"
+            },
+            {
+              "member_name": "Sam Brownback",
+              "member_role": "Member",
+              "member_state": "Kansas"
+            },
+            {
+              "member_name": "Jack Reed",
+              "member_role": "Member",
+              "member_state": "Rhode Island"
+            },
+            {
+              "member_name": "Jeff Sessions",
+              "member_role": "Member",
+              "member_state": "Alabama"
+            },
+            {
+              "member_name": "John E. Sununu",
+              "member_role": "Member",
+              "member_state": "New Hampshire"
+            },
+            {
+              "member_name": "Lamar Alexander",
+              "member_role": "Member",
+              "member_state": "Tennessee"
+            },
+            {
+              "member_name": "Susan M. Collins",
+              "member_role": "Member",
+              "member_state": "Maine"
+            },
+            {
+              "member_name": "Paul S. Sarbanes",
+              "member_role": "Member",
+              "member_state": "Maryland"
+            },
+            {
+              "member_name": "Jeff Bingaman",
+              "member_role": "Member",
+              "member_state": "New Mexico"
+            },
+            {
+              "member_name": "Paul Ryan",
+              "member_role": "Member",
+              "member_state": "Wisconsin"
+            },
+            {
+              "member_name": "Fortney Pete Stark",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Jennifer Dunn",
+              "member_role": "Member",
+              "member_state": "Washington"
+            },
+            {
+              "member_name": "Carolyn B. Maloney",
+              "member_role": "Member",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "Phil English",
+              "member_role": "Member",
+              "member_state": "Pennsylvania"
+            },
+            {
+              "member_name": "Melvin L. Watt",
+              "member_role": "Member",
+              "member_state": "North Carolina"
+            },
+            {
+              "member_name": "Adam H. Putnam",
+              "member_role": "Member",
+              "member_state": "Florida"
+            },
+            {
+              "member_name": "Baron P. Hill",
+              "member_role": "Member",
+              "member_state": "Indiana"
+            },
+            {
+              "member_name": "Ron Paul",
+              "member_role": "Member",
+              "member_state": "Texas"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Donald Marron",
+          "staff_role": "Executive Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Colleen Healy",
+          "staff_role": "Finance Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Gary Blank",
+          "staff_role": "Senior Policy Advisor",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Rowdy Yeates",
+          "staff_role": "Senior Policy Analyst",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Michael O'Grady",
+          "staff_role": "Senior Health Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ike Brannon",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Reed Garfield",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tim Kane",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jeff Wrase",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Jenn",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Rebecca Wilder",
+          "staff_role": "Press Secretary",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Trish Kent",
+          "staff_role": "Professional Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sean Davis",
+          "staff_role": "Research Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Melissa Branson",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John Falls",
+          "staff_role": "Information Systems Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Chris Frenze",
+          "staff_role": "Chief Economist to Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Robert Keleher",
+          "staff_role": "Chief Macroeconomist to Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jason Fichtner",
+          "staff_role": "Senior Economist to Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Dan Miller",
+          "staff_role": "Senior Economist to Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Robert O'Quinn",
+          "staff_role": "Senior Economist to Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kurt Schuler",
+          "staff_role": "Senior Economist to Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Higginbotham",
+          "staff_role": "Analyst to Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Connie Foster",
+          "staff_role": "Executive Assistant to the Chief Economist to the Vice Chairman",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Wendell Primus",
+          "staff_role": "Minority Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Chad Stone",
+          "staff_role": "Chief Economist / Deputy Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Frank Sammartino",
+          "staff_role": "Deputy Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Nan Gibson",
+          "staff_role": "Press Secretary",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Daphne V. Clones-Federing",
+          "staff_role": "Senior Economist / Special Assistant to Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Diane Rogers",
+          "staff_role": "Principal Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Matthew Salomon",
+          "staff_role": "Principal Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John McInerney",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Joshua Shakin",
+          "staff_role": "Research Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Hayden Smith",
+          "staff_role": "Research Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Rachel Klastorin",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Joint Committee on the Library of Congress",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Joint Committee on the Library of Congress",
+          "subcommittee_members": [
+            {
+              "member_name": "Ted Stevens",
+              "member_role": "Chairman",
+              "member_state": "Alaska"
+            },
+            {
+              "member_name": "Vernon J. Ehlers",
+              "member_role": "Vice Chairman",
+              "member_state": "Michigan"
+            },
+            {
+              "member_name": "Trent Lott",
+              "member_role": "Member",
+              "member_state": "Mississippi"
+            },
+            {
+              "member_name": "Thad Cochran",
+              "member_role": "Member",
+              "member_state": "Mississippi"
+            },
+            {
+              "member_name": "Christopher J. Dodd",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "Charles E. Schumer",
+              "member_role": "Member",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "Robert W. Ney",
+              "member_role": "Member",
+              "member_state": "Ohio"
+            },
+            {
+              "member_name": "John B. Larson",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "Jack Kingston",
+              "member_role": "Member",
+              "member_state": "Georgia"
+            },
+            {
+              "member_name": "Juanita Millender-McDonald",
+              "member_role": "Member",
+              "member_state": "California"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Jennifer Mies",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Bill McBride",
+          "staff_role": "Deputy Staff Director",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Joint Committee on Printing",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Joint Committee on Printing",
+          "subcommittee_members": [
+            {
+              "member_name": "Robert W. Ney",
+              "member_role": "Chairman",
+              "member_state": "Ohio"
+            },
+            {
+              "member_name": "Saxby Chambliss",
+              "member_role": "Vice Chairman",
+              "member_state": "Georgia"
+            },
+            {
+              "member_name": "John T. Doolittle",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "John B. Larson",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "John Linder",
+              "member_role": "Member",
+              "member_state": "Georgia"
+            },
+            {
+              "member_name": "Robert A. Brady",
+              "member_role": "Member",
+              "member_state": "Pennsylvania"
+            },
+            {
+              "member_name": "Thad Cochran",
+              "member_role": "Member",
+              "member_state": "Mississippi"
+            },
+            {
+              "member_name": "Daniel K. Inouye",
+              "member_role": "Member",
+              "member_state": "Hawaii"
+            },
+            {
+              "member_name": "Gordon Smith",
+              "member_role": "Member",
+              "member_state": "Oregon"
+            },
+            {
+              "member_name": "Mark Dayton",
+              "member_role": "Member",
+              "member_state": "Minnesota"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "Maria Robinson",
+          "staff_role": "Staff Director",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Martha Scott Poindexter",
+          "staff_role": "Deputy Staff Director",
+          "staff_state": "N/A"
+        }
+      ]
+    },
+    {
+      "committee_name": "Joint Committee on Taxation",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Joint Committee on Taxation",
+          "subcommittee_members": [
+            {
+              "member_name": "William M. Thomas",
+              "member_role": "Chairman",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Charles E. Grassley",
+              "member_role": "Vice Chairman",
+              "member_state": "Iowa"
+            },
+            {
+              "member_name": "Philip M. Crane",
+              "member_role": "Member",
+              "member_state": "Illinois"
+            },
+            {
+              "member_name": "Charles B. Rangel",
+              "member_role": "Member",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "E. Clay Shaw, Jr.",
+              "member_role": "Member",
+              "member_state": "Florida"
+            },
+            {
+              "member_name": "Fortney Pete Stark",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Orrin G. Hatch",
+              "member_role": "Member",
+              "member_state": "Utah"
+            },
+            {
+              "member_name": "Max Baucus",
+              "member_role": "Member",
+              "member_state": "Montana"
+            },
+            {
+              "member_name": "Don Nickles",
+              "member_role": "Member",
+              "member_state": "Oklahoma"
+            },
+            {
+              "member_name": "John D. Rockefeller IV",
+              "member_role": "Member",
+              "member_state": "West Virginia"
+            }
+          ]
+        }
+      ],
+      "staff": [
+        {
+          "staff_name": "George K. Yin",
+          "staff_role": "Chief of Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Bernard A. Schmitt",
+          "staff_role": "Deputy Chief of Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mary M. Schmitt",
+          "staff_role": "Deputy Chief of Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Thomas F. Koerner",
+          "staff_role": "Associate Deputy Chief of Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Carolyn E. Smith",
+          "staff_role": "Associate Deputy Chief of Staff",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kathleen M. Dorn",
+          "staff_role": "Administrative Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John H. Bloyer",
+          "staff_role": "Chief Clerk",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Harold E. Hirsch",
+          "staff_role": "Senior Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Laurie A. Matthews",
+          "staff_role": "Senior Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Cecily W. Rock",
+          "staff_role": "Senior Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Melvin C. Thomas, Jr.",
+          "staff_role": "Senior Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ray Beeman",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Roger Colinvaux",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Nikole Flax",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Deirdre James",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Trisha McDermott",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Joseph W. Nega",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "David Noren",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Carol Sayegh",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ronald Schultz",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Gretchen Sierra",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Allison Wielobob",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Barry L. Wold",
+          "staff_role": "Legislation Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Thomas A. Barthold",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Patrick A. Driessen",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Ronald A. Jeremias",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Pamela H. Moomau",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "William T. Sutton",
+          "staff_role": "Senior Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Mary Ann Borrelli",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John W. Diamond",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Timothy Dowd",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Christopher P. Giosa",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Robert P. Harvey",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Thomas Holtmann",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Gary Koenig",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "John F. Navratil",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Christopher Overend",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Michael A. Udell",
+          "staff_role": "Economist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brian Meighan",
+          "staff_role": "Accountant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tara Zimmerman",
+          "staff_role": "Accountant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Melani M. Houser",
+          "staff_role": "Chief Statistical Analyst",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tanya Butler",
+          "staff_role": "Statistical Analyst",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Tracy S. Nadel",
+          "staff_role": "Director of Tax Resources",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Melissa A. O'Brien",
+          "staff_role": "Tax Resources Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Norman J. Brand",
+          "staff_role": "Senior Refund Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Carl E. Bates",
+          "staff_role": "Refund Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Robert C. Gotwald",
+          "staff_role": "Refund Counsel",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Christine J. Simmons",
+          "staff_role": "Document Production Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "B. Jean Best",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Jayne Gribbin",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Lucia J. Rogers",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Patricia C. Smith",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sharon Watts",
+          "staff_role": "Executive Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "William J. Dahl",
+          "staff_role": "Senior Computer Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Hal G. Norman",
+          "staff_role": "Computer Specialist",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Brent Trigg",
+          "staff_role": "Data Research Analyst",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Debra L. McMullen",
+          "staff_role": "Senior Staff Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Sean R. Corcoran",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Neval E. McMullen",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        },
+        {
+          "staff_name": "Kristine Means",
+          "staff_role": "Staff Assistant",
+          "staff_state": "N/A"
+        }
+      ]
+    }
+  ]
+}

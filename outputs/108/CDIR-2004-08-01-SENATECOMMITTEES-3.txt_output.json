@@ -1,0 +1,779 @@
+{
+  "committees": [
+    {
+      "committee_name": "Senate",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Senate",
+          "subcommittee_members": [
+            {
+              "member_name": "Richard B. Cheney",
+              "member_role": "President of the Senate",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Ted Stevens",
+              "member_role": "President Pro Tempore",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Bill Frist",
+              "member_role": "Majority Leader",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Mitch McConnell",
+              "member_role": "Majority Whip",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Thomas A. Daschle",
+              "member_role": "Democratic Leader",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Harry Reid",
+              "member_role": "Assistant Democratic Leader",
+              "member_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of the Secretary",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of the Secretary",
+          "subcommittee_members": [
+            {
+              "staff_name": "Emily J. Reynolds",
+              "staff_role": "Secretary of the Senate",
+              "staff_state": "Tennessee"
+            },
+            {
+              "staff_name": "Mary Suit Jones",
+              "staff_role": "Assistant Secretary of the Senate",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Bruce Kasold",
+              "staff_role": "General Counsel",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Zoraida Torres",
+              "staff_role": "Accounts Manager",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Marsha Misenhimer",
+              "staff_role": "Special Projects Manager (LIS / XML)",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Mary Anne Clarkson",
+              "staff_role": "Bill Clerk",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Carl Fritter",
+              "staff_role": "Bookbinder",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Diane Skvarla",
+              "staff_role": "Curator",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Linda E. Sebold",
+              "staff_role": "Editor",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Timothy S. Wineman",
+              "staff_role": "Financial Clerk",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Thomas J. Lundregan",
+              "staff_role": "Enrolling Clerk",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Michelle Haynes",
+              "staff_role": "Executive Clerk",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Richard A. Baker",
+              "staff_role": "Historian",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Donald A. Ritchie",
+              "staff_role": "Associate Historian",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Betty K. Koed",
+              "staff_role": "Assistant Historian",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Michelle Jezycki",
+              "staff_role": "Director of Human Resources",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Dan Kulnis",
+              "staff_role": "Administrator of Information Systems",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Cheri Allen",
+              "staff_role": "Webmaster",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Sally Walsh",
+              "staff_role": "Director of Interparliamentary Services",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Scott Sanborn",
+              "staff_role": "Journal Clerk",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "David J. Tinsley",
+              "staff_role": "Legislative Clerk",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Gregory C. Harness",
+              "staff_role": "Librarian",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Jerald D. Linell",
+              "staff_role": "Chief Reporter",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Eileen Milton",
+              "staff_role": "Coordinator of the Record",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Alan S. Frumin",
+              "staff_role": "Parliamentarian",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Elizabeth MacDonough",
+              "staff_role": "Senior Assistant Parliamentarian",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Karen Moore",
+              "staff_role": "Director of Printing and Document Services",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Doug Bowers",
+              "staff_role": "Assistant to the Director",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Pamela B. Gavin",
+              "staff_role": "Superintendent of Public Records",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Raymond Davis",
+              "staff_role": "Campaign Finance",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Jon Jensen",
+              "staff_role": "Ethics and Disclosure",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Erica Omorogieva",
+              "staff_role": "Lobbying and Foreign Travel",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Jean Manning",
+              "staff_role": "Senate Chief Counsel for Employment",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Ernie LePire",
+              "staff_role": "Director of the Senate Gift Shop",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Kathryn S. Weeden",
+              "staff_role": "Principal of the Senate Page School",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Michael P. DiSilvestro",
+              "staff_role": "Director of Senate Security",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Margaret Garland",
+              "staff_role": "Deputy Director of Senate Security",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Michael J. McGhee",
+              "staff_role": "Keeper of the Stationery",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Michael V. McNeal",
+              "staff_role": "Assistant Keeper of the Stationery",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Peggy Greenberg",
+              "staff_role": "Director of the Senate Office of Education and Training",
+              "staff_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of the Chaplain",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of the Chaplain",
+          "subcommittee_members": [
+            {
+              "staff_name": "Barry C. Black",
+              "staff_role": "Chaplain, U.S. Senate",
+              "staff_state": "Maryland"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of the Sergeant at Arms",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of the Sergeant at Arms",
+          "subcommittee_members": [
+            {
+              "staff_name": "William H. Pickle",
+              "staff_role": "Sergeant at Arms, U.S. Senate",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "J. Keith Kennedy",
+              "staff_role": "Deputy Sergeant at Arms",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Lynne Halbrooks",
+              "staff_role": "General Counsel",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "G. Kevin Lane",
+              "staff_role": "Minority Executive Assistant",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Laura Parker",
+              "staff_role": "Capitol Information Officer",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Becky Daugherty",
+              "staff_role": "Protocol Officer",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Julie Urian",
+              "staff_role": "Executive Office, Officer Manager",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Doug Fertig",
+              "staff_role": "Director of Human Resources",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Jeff Kent",
+              "staff_role": "Media Galleries Director",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Larry Janezich",
+              "staff_role": "Media Galleries Director",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Ed Pesce",
+              "staff_role": "Media Galleries Director",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Joe Keenan",
+              "staff_role": "Media Galleries Director",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Esther Gordon",
+              "staff_role": "Director of Office Support Services",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Chris Dey",
+              "staff_role": "Chief Financial Officer",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Peggy Greenberg",
+              "staff_role": "Director of Education & Training",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Joe Ogden",
+              "staff_role": "Appointments Desk Manager",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Myron Fleming",
+              "staff_role": "Doorkeepers Manager",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Elizabeth Roach",
+              "staff_role": "Page Program Director",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "J. Greg Hanson",
+              "staff_role": "Assistant Sergeant at Arms & Chief Information Officer",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Kim Winn",
+              "staff_role": "Director of IT Support Services",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Joe Eckert",
+              "staff_role": "Manager of Project Management & Initiatives",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Tracy Williams",
+              "staff_role": "Director of Technology Development",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Steve Kaisler",
+              "staff_role": "Technical Advisor",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Barbara Graybill",
+              "staff_role": "Manager of Administrative Support",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Rick Edwards",
+              "staff_role": "Assistant Sergeant at Arms for Operations",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Joann Soults",
+              "staff_role": "Manager of Administrative Support",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Juanita Rilling",
+              "staff_role": "Director of Central Operations",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Mario D'Angelo",
+              "staff_role": "Manager of Hair Care Services",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Dawn Matthews",
+              "staff_role": "Supervisor of ID Office",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Demetrios Dekazos",
+              "staff_role": "Manager of Parking Office",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Bill Allen",
+              "staff_role": "Manager of Photo Studio",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Hazel Getty",
+              "staff_role": "Manager of Printing Office",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Skip Rouse",
+              "staff_role": "Manager of Capitol Facilities",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Dave Bass",
+              "staff_role": "Manager of Recording Studio",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Harry Green",
+              "staff_role": "Senate Postmaster",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Al Concordia",
+              "staff_role": "Assistant Sergeant at Arms for Police Operations",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Chuck Kaylor",
+              "staff_role": "Assistant Sergeant at Arms for Security",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Michael Johnson",
+              "staff_role": "Manager of COOP",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Peter Hull",
+              "staff_role": "Manager of Emergency Preparedness",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Bret Swanson",
+              "staff_role": "Manager of Security Management",
+              "staff_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of the Majority Secretary",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of the Majority Secretary",
+          "subcommittee_members": [
+            {
+              "staff_name": "David Schiappa",
+              "staff_role": "Secretary for the Majority",
+              "staff_state": "N/A"
+            },
+            {
+              "staff_name": "Denise Ramonas",
+              "staff_role": "Assistant Secretary for the Majority",
+              "staff_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of the Minority Secretary",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of the Minority Secretary",
+          "subcommittee_members": [
+            {
+              "member_name": "Martin P. Paone",
+              "member_role": "Secretary for the Minority",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Lula J. Davis",
+              "member_role": "Assistant Secretary for the Minority",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Nancy Iacomini",
+              "member_role": "Administrative Assistant to the Secretary",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Joe Lapia",
+              "member_role": "Cloakroom Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Michelle Marciniak",
+              "member_role": "Cloakroom Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Erik Pederson",
+              "member_role": "Cloakroom Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Bret Wincup",
+              "member_role": "Cloakroom Assistant",
+              "member_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of the Legislative Counsel",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of the Legislative Counsel",
+          "subcommittee_members": [
+            {
+              "member_name": "James W. Fransen",
+              "member_role": "Legislative Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "William F. Jensen III",
+              "member_role": "Deputy Legislative Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Anthony C. Coe",
+              "member_role": "Senior Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Gary L. Endicott",
+              "member_role": "Senior Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Mark J. Mathiesen",
+              "member_role": "Senior Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Gregory A. Scott",
+              "member_role": "Senior Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Charles E. Armstrong",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Laura M. Ayoud",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "William R. Baird",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Darcie E. Chan",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Polly W. Craighill",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Susan M. Cullen",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Ruth Ann Ernst",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Heather L. Flory",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "John A. Goetcheus",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Janine L. Johnson",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Elizabeth Aldridge King",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Mark S. Koster",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "James G. Scott",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Timothy D. Trushel",
+              "member_role": "Assistant Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Kevin M. Davis",
+              "member_role": "Staff Attorney",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Stephanie Easley",
+              "member_role": "Staff Attorney",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Amy E. Gaynor",
+              "member_role": "Staff Attorney",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Matthew D. McGhie",
+              "member_role": "Staff Attorney",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Mark M. McGunagle",
+              "member_role": "Staff Attorney",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Eric J. Shufflebarger",
+              "member_role": "Staff Attorney",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Jennifer L. Testut",
+              "member_role": "Staff Attorney",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Thomas E. Cole",
+              "member_role": "Systems Integrator",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Donna L. Pasqualino",
+              "member_role": "Office Manager",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Joanne T. Cole",
+              "member_role": "Assistant Office Manager",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Kimberly Bourne",
+              "member_role": "Staff Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Ahmika V. Isaac",
+              "member_role": "Staff Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Barbara J. Lyskawa",
+              "member_role": "Staff Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Rebekah J. Musgrove",
+              "member_role": "Staff Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Diane E. Nesmeyer",
+              "member_role": "Staff Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Gretchen E. Walter",
+              "member_role": "Staff Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Patricia E. Harris",
+              "member_role": "Receptionist",
+              "member_state": "N/A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "committee_name": "Office of Senate Legal Counsel",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Office of Senate Legal Counsel",
+          "subcommittee_members": [
+            {
+              "member_name": "Patricia Mack Bryan",
+              "member_role": "Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Morgan J. Frankel",
+              "member_role": "Deputy Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Thomas E. Caballero",
+              "member_role": "Assistant Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Grant R. Vinik",
+              "member_role": "Assistant Senate Legal Counsel",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Sara Fox Jones",
+              "member_role": "Systems Administrator/Legal Assistant",
+              "member_state": "N/A"
+            },
+            {
+              "member_name": "Kathleen M. Parker",
+              "member_role": "Administrative Assistant",
+              "member_state": "N/A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

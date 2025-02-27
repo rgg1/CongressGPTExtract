@@ -1,0 +1,136 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Tom Ridge",
+      "member_role": "Secretary of Homeland Security"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "department_members": [
+        {
+          "member_name": "Tom Ridge",
+          "member_role": "Secretary of Homeland Security"
+        },
+        {
+          "member_name": "James Loy",
+          "member_role": "Deputy Secretary of Homeland Security"
+        },
+        {
+          "member_name": "Duncan Campbell",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Janet Hale",
+          "member_role": "Under Secretary"
+        },
+        {
+          "member_name": "Bruce Carnes",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Steven Cooper",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Ronald James",
+          "member_role": "Chief Human Capital Officer"
+        },
+        {
+          "member_name": "Asa Hutchinson",
+          "member_role": "Under Secretary"
+        },
+        {
+          "member_name": "Michael J. Garcia",
+          "member_role": "Assistant Secretary for the Bureau of Immigration and Customs Enforcement"
+        },
+        {
+          "member_name": "Stewart Verdery",
+          "member_role": "Assistant Secretary for Policy and Planning"
+        },
+        {
+          "member_name": "Robert Bonner",
+          "member_role": "Commissioner, Customs and Border Protection"
+        },
+        {
+          "member_name": "David Stone",
+          "member_role": "Administrator, Transportation Security Administration (acting)"
+        },
+        {
+          "member_name": "Charles E. McQueary",
+          "member_role": "Under Secretary"
+        },
+        {
+          "member_name": "Frank Libutti",
+          "member_role": "Under Secretary"
+        },
+        {
+          "member_name": "Robert Liscouski",
+          "member_role": "Assistant Secretary for Infrastructure Protection"
+        },
+        {
+          "member_name": "Michael Brown",
+          "member_role": "Under Secretary"
+        },
+        {
+          "member_name": "W. Ralph Basham",
+          "member_role": "Director, United States Secret Service"
+        },
+        {
+          "member_name": "ADM Thomas H. Collins",
+          "member_role": "Commandant, United States Coast Guard"
+        },
+        {
+          "member_name": "Eduardo Aguirre",
+          "member_role": "Director, Bureau of Citizenship and Immigration Services"
+        },
+        {
+          "member_name": "Roger Mackin",
+          "member_role": "Counternarcotics Officer / U.S. Interdiction Coordinator"
+        },
+        {
+          "member_name": "Josh Filler",
+          "member_role": "Director, Office of State and Local Government Coordination"
+        },
+        {
+          "member_name": "Michael Byrne",
+          "member_role": "Director, Office of National Capital Region Coordination"
+        },
+        {
+          "member_name": "Clark Ervin",
+          "member_role": "Inspector General (acting), Office of the Inspector General"
+        },
+        {
+          "member_name": "Joe Whitley",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Nuala O'Connor Kelly",
+          "member_role": "Privacy Officer"
+        },
+        {
+          "member_name": "Daniel Sutherland",
+          "member_role": "Civil Rights and Civil Liberties Officer"
+        },
+        {
+          "member_name": "Al Martinez-Fonts",
+          "member_role": "Special Assistant to the Secretary, Office of the Private Sector Liaison"
+        },
+        {
+          "member_name": "Pam Turner",
+          "member_role": "Assistant Secretary, Office of Legislative Affairs"
+        },
+        {
+          "member_name": "Susan Neely",
+          "member_role": "Assistant Secretary, Office of Public Affairs"
+        },
+        {
+          "member_name": "Cresencio Arcos",
+          "member_role": "Director, Office of International Affairs"
+        }
+      ]
+    }
+  ]
+}

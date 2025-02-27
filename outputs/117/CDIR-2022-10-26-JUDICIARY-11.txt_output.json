@@ -1,0 +1,46 @@
+{
+  "courts": [
+    {
+      "court_name": "United States Judicial Panel on Multidistrict Litigation",
+      "court_personnel": [
+        {
+          "name": "Karen K. Caldwell",
+          "role": "Chairman, U.S. District Judge, Eastern District of Kentucky"
+        },
+        {
+          "name": "Nathaniel M. Gorton",
+          "role": "U.S. District Judge, District of Massachusetts"
+        },
+        {
+          "name": "Matthew F. Kennelly",
+          "role": "U.S. District Judge, Northern District of Illinois"
+        },
+        {
+          "name": "David C. Norton",
+          "role": "U.S. District Judge, District of South Carolina"
+        },
+        {
+          "name": "Roger T. Benitez",
+          "role": "U.S. District Judge, Southern District of California"
+        },
+        {
+          "name": "Dale A. Kimball",
+          "role": "U.S. District Judge, District of Utah"
+        },
+        {
+          "name": "Madeline Cox Arleo",
+          "role": "U.S. District Judge, District of New Jersey"
+        },
+        {
+          "name": "Thomasenia P. Duncan",
+          "role": "Panel Executive"
+        },
+        {
+          "name": "John W. Nichols",
+          "role": "Clerk"
+        }
+      ],
+      "circuits": []
+    }
+  ]
+}

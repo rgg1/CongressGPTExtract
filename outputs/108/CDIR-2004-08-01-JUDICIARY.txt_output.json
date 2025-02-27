@@ -1,0 +1,2885 @@
+{
+  "courts": [
+    {
+      "court_name": "SUPREME COURT OF THE UNITED STATES",
+      "court_personnel": [
+        {
+          "name": "WILLIAM HUBBS REHNQUIST",
+          "role": "Chief Justice of the United States"
+        },
+        {
+          "name": "JOHN PAUL STEVENS",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        },
+        {
+          "name": "SANDRA DAY O'CONNOR",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        },
+        {
+          "name": "ANTONIN SCALIA",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        },
+        {
+          "name": "ANTHONY M. KENNEDY",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        },
+        {
+          "name": "DAVID HACKETT SOUTER",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        },
+        {
+          "name": "CLARENCE THOMAS",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        },
+        {
+          "name": "RUTH BADER GINSBURG",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        },
+        {
+          "name": "STEPHEN G. BREYER",
+          "role": "Associate Justice of the Supreme Court of the United States"
+        }
+      ],
+      "circuits": [],
+      "officers": [
+        {
+          "name": "WILLIAM K. SUTER",
+          "role": "Clerk"
+        },
+        {
+          "name": "JUDITH GASKELL",
+          "role": "Librarian"
+        },
+        {
+          "name": "PAMELA TALKIN",
+          "role": "Marshal"
+        },
+        {
+          "name": "FRANK D. WAGNER",
+          "role": "Reporter of Decisions"
+        },
+        {
+          "name": "SCOTT HARRIS",
+          "role": "Counsel"
+        },
+        {
+          "name": "CATHERINE FITTS",
+          "role": "Curator"
+        },
+        {
+          "name": "CYRIL A. DONNELLY",
+          "role": "Budget and Personnel Officer"
+        },
+        {
+          "name": "KATHLEEN L. ARBERG",
+          "role": "Public Information Officer"
+        },
+        {
+          "name": "DONNA CLEMENT",
+          "role": "Director of Data Systems"
+        },
+        {
+          "name": "SALLY M. RIDER",
+          "role": "Administrative Assistant to the Chief Justice"
+        }
+      ]
+    },
+    {
+      "court_name": "UNITED STATES COURTS OF APPEALS",
+      "court_personnel": [],
+      "circuits": [
+        {
+          "circuit_name": "First Judicial Circuit",
+          "circuit_personnel": [
+            {
+              "name": "MICHAEL BOUDIN",
+              "role": "Chief Judge"
+            },
+            {
+              "name": "JUAN R. TORRUELLA",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "BRUCE M. SELYA",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "SANDRA L. LYNCH",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "KERMIT V. LIPEZ",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "JEFFREY R. HOWARD",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "FRANK M. COFFIN",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "LEVIN H. CAMPBELL",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "HUGH H. BOWNES",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "CONRAD K. CYR",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "NORMAN H. STAHL",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "GARY H. WENTE",
+              "role": "Circuit Executive"
+            },
+            {
+              "name": "RICHARD C. DONOVAN",
+              "role": "Clerk"
+            }
+          ]
+        },
+        {
+          "circuit_name": "Second Judicial Circuit",
+          "circuit_personnel": [
+            {
+              "name": "JOHN M. WALKER, JR.",
+              "role": "Chief Judge"
+            },
+            {
+              "name": "DENNIS JACOBS",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "GUIDO CALABRESI",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "JOSE A. CABRANES",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "FRED I. PARKER",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "ROSEMARY S. POOLER",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "CHESTER J. STRAUB",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "ROBERT D. SACK",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "SONIA SOTOMAYOR",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "ROBERT ALLEN KATZMANN",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "BARRINGTON D. PARKER, JR.",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "REENA RAGGI",
+              "role": "Circuit Judge"
+            },
+            {
+              "name": "WILFRED FEINBERG",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "JAMES L. OAKES",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "ELLSWORTH A. VAN GRAAFEILAND",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "THOMAS J. MESKILL",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "JON O. NEWMAN",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "RICHARD J. CARDAMONE",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "RALPH K. WINTER",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "ROGER J. MINER",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "JOSEPH M. MCLAUGHLIN",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "AMALYA L. KEARSE",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "PIERRE N. LEVAL",
+              "role": "Senior Circuit Judge"
+            },
+            {
+              "name": "KAREN GREVE MILTON",
+              "role": "Circuit Executive"
+            },
+            {
+              "name": "ROSEANN B. MACKECHNIE",
+              "role": "Clerk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "court_name": "Third Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Anthony J. Scirica",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Dolores K. Sloviter",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Richard L. Nygaard",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Samuel H. Alito, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Jane R. Roth",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Theodore A. McKee",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Marjorie O. Rendell",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Maryanne Trump Barry",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Thomas L. Ambro",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Julio M. Fuentes",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "D. Brooks Smith",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Michael Chertoff",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "D. Michael Fisher",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Franklin S. Van Antwerpen",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Ruggero J. Aldisert",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Max Rosenn",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Joseph F. Weis, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Leonard I. Garth",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Edward R. Becker",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Walter K Stapleton",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Morton I. Greenberg",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Robert E. Cowen",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Toby D. Slawsky",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Marcia M. Waldron",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Fourth Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "William W. Wilkin",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "H. Emory Widener, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Paul V. Niemeyer",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "J. Harvie Wilkinson III",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "J. Michael Luttig",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Karen J. Williams",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "M. Blane Michael",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Diana Gribbon Motz",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "William B. Traxler, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Robert B. King",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Roger L. Gregory",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Dennis W. Shedd",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Clyde H. Hamilton",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Samuel W. Phillips",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Patricia S. Connor",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Fifth Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Carolyn Dineen King",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "E. Grady Jolly",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Patrick E. Higginbotham",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "W. Eugene Davis",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Edith H. Jones",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Jerry E. Smith",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Jacques L. Wiener, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Rhesa H. Barksdale",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Emilio M. Garza",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Harold R. DeMoss, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Fortunato P. Benavides",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Carl E. Stewart",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "James L. Dennis",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Edith Brown Clement",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Reynaldo G. Garza",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Thomas M. Reavley",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Will Garwood",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "John M. Duhe, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Gregory A. Nussel",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Charles R. Fulbruge III",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Sixth Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Boyce F. Martin, Jr.",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Danny J. Boggs",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Alice M. Batchelder",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Martha Craig Daughtrey",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Karen Nelson Moore",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "R. Guy Cole, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Eric Lee Clay",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Ronald Lee Gilman",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Julie Smith Gibbons",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "John M. Rogers",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Albert J. Engel",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Damon J. Keith",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Cornelia G. Kennedy",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Nathaniel R. Jones",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Robert B. Krupansky",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Harry W. Wellford",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Ralph B. Guy, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "David A. Nelson",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "James L. Ryan",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Gilbert S. Merritt",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Alan E. Norris",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Richard F. Suhrheinrich",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Eugene E. Siler, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "James A. Higgins",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Leonard Green",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Seventh Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Joel M. Flaum",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Richard A. Posner",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "John L. Coffey",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Frank H. Easterbrook",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Kenneth F. Ripple",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Daniel A. Manion",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Michael S. Kanne",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Ilana Diamond Rovner",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Diane P. Wood",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Terence T. Evans",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Ann Claire Williams",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Thomas E. Fairchild",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "William J. Bauer",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Richard D. Cudahy",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Harlington Wood",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Collins T. Fitzpatrick",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Gino J. Agnello",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Eighth Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "James B. Loken",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Theodore McMillian",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Pasco M. Bowman II",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Roger L. Wollman",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Morris S. Arnold",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Diana E. Murphy",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Kermit E. Bye",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "William Jay Riley",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Michael J. Melloy",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Lavenski R. Smith",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Donald P. Lay",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Gerald W. Heaney",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Myron H. Bright",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Richard S. Arnold",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "John R. Gibson",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "George G. Fagg",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Frank J. Magill",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "C. Arlen Beam",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "David R. Hansen",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Millie Adams",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Michael E. Gans",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Ninth Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Mary M. Schroeder",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Harry Pregerson",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Stephen Reinhardt",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Alex Kozinski",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Diarmuid F. O'Scannlain",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Stephen S. Trott",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Pamela Ann Rymer",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Thomas G. Nelson",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Andrew J. Kleinfeld",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Michael Daly Hawkins",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "A. Wallace Tashima",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Sidney R. Thomas",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Barry G. Silverman",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Susan P. Graber",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "M. Margaret McKeown",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Kim McLane Wardlaw",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "William A. Fletcher",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Raymond C. Fisher",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Ronald M. Gould",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Richard A. Paez",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Marsha S. Berzon",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Richard C. Tallman",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Johnnie B. Rawlinson",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Richard R. Clifton",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Jay S. Bybee",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "James R. Browning",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Herbert Y.C. Choy",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Alfred T. Goodwin",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "J. Clifford Wallace",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Joseph Tyree Sneed III",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Procter Hug, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Otto R. Skopil, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Betty Binns Fletcher",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Jerome Farris",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Authur L. Alarcon",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Warren J. Ferguson",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Dorothy W. Nelson",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "William C. Canby, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Robert Boochever",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Robert R. Beezer",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Cynthia Holcomb Hall",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Melvin Brunetti",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "John T. Noonan, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "David R. Thompson",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Edward Leavy",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Ferdinand F. Fernandez",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Gregory B. Walters",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Cathy A. Catterson",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Tenth Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Deanell R. Tacha",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Stephanie K. Seymour",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "David M. Ebel",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Paul J. Kelly, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Robert H. Henry",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Mary Beck Briscoe",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Carlos F. Lucero",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Michael R. Murphy",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Harris L. Hartz",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Terrence L. O'Brien",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Michael W. McConnell",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Timothy Tymkovich",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "William J. Holloway, Jr.",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Robert H. McWilliams",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "James E. Barrett",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Monroe G. McKay",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "John C. Porfilio",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Stephen H. Anderson",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Bobby R. Baldock",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Wade Brorby",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Elisabeth Shumaker",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Patrick J. Fisher",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Eleventh Judicial Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "J.L. Edmondson",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Gerald Bard Tjoflat",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "R. Lanier Anderson III",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Stanley F. Birch, Jr.",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Joel F. Dubina",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Susan Harrell Black",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Edward E. Carnes",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Rosemary Barkett",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Frank Mays Hull",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Stanley Marcus",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Charles Reginald Wilson",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "John C. Godbold",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Paul H. Roney",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "James C. Hill",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Peter T. Fay",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Phyllis A. Kravitch",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Emmett Ripley Cox",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "Norman E. Zoller",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Thomas K. Kahn",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "United States Court of Appeals for the District of Columbia Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Douglas Howard Ginsburg",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Harry T. Edwards",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "David Bryan Sentelle",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Karen LeCraft Henderson",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "A. Raymond Randolph",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Judith W. Rogers",
+          "role": "Circuit Judge"
+        }
+      ]
+    },
+    {
+      "court_name": "District of Columbia Court of Appeals",
+      "court_personnel": [
+        {
+          "name": "N/A",
+          "role": "Corporation Counsel"
+        },
+        {
+          "name": "David S. Tatel",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Merrick Brian Garland",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Laurence Hirsch Silberman",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Stephen F. Williams",
+          "role": "Senior Judge"
+        }
+      ],
+      "circuits": [
+        {
+          "circuit_name": "District of Columbia Circuit",
+          "circuit_personnel": [
+            {
+              "name": "Jill C. Sayenga",
+              "role": "Circuit Executive"
+            },
+            {
+              "name": "Mark J. Langer",
+              "role": "Clerk"
+            },
+            {
+              "name": "Marilyn R. Sargent",
+              "role": "Chief Deputy Clerk"
+            },
+            {
+              "name": "Martha Tomich",
+              "role": "Chief, Legal Division"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "court_name": "United States Court of Appeals for the Federal Circuit",
+      "court_personnel": [
+        {
+          "name": "Haldane Robert Mayer",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Pauline Newman",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "Paul R. Michel",
+          "role": "Circuit Judge"
+        }
+      ],
+      "circuits": []
+    },
+    {
+      "court_name": "N/A",
+      "court_personnel": [],
+      "circuits": []
+    },
+    {
+      "court_name": "U.S. Court of Appeals for the Federal Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "ALAN D. LOURIE",
+          "role": "circuit judge"
+        },
+        {
+          "name": "RAYMOND C. CLEVENGER, III",
+          "role": "circuit judge"
+        },
+        {
+          "name": "RANDALL R. RADER",
+          "role": "circuit judge"
+        },
+        {
+          "name": "ALVIN A. SCHALL",
+          "role": "circuit judge"
+        },
+        {
+          "name": "WILLIAM CURTIS BRYSON",
+          "role": "circuit judge"
+        },
+        {
+          "name": "ARTHUR J. GAJARSA",
+          "role": "circuit judge"
+        },
+        {
+          "name": "RICHARD LINN",
+          "role": "circuit judge"
+        },
+        {
+          "name": "TIMOTHY B. DYK",
+          "role": "circuit judge"
+        },
+        {
+          "name": "SHARON PROST",
+          "role": "circuit judge"
+        },
+        {
+          "name": "DANIEL M. FRIEDMAN",
+          "role": "senior judge"
+        },
+        {
+          "name": "GLENN LeROY ARCHER, Jr.",
+          "role": "senior judge"
+        }
+      ]
+    },
+    {
+      "court_name": "U.S. Court of Appeals for the Federal Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "S. Jay Plager",
+          "role": "senior judge"
+        },
+        {
+          "name": "Jan Horbaly",
+          "role": "Circuit Executive and Clerk of Court"
+        },
+        {
+          "name": "Melvin L. Halpern",
+          "role": "Senior Technical Assistant"
+        },
+        {
+          "name": "Eleanor M. Thayer",
+          "role": "Senior Staff Attorney"
+        },
+        {
+          "name": "Ruth A. Butler",
+          "role": "Administrative Services Officer"
+        },
+        {
+          "name": "Patricia M. McDermott",
+          "role": "Circuit Librarian"
+        },
+        {
+          "name": "Larry Luallen",
+          "role": "Automation and Technology Manager"
+        },
+        {
+          "name": "Dale Bosley",
+          "role": "Operations Officer"
+        },
+        {
+          "name": "Edward W. Hosken, Jr.",
+          "role": "Chief Deputy Clerk for Administration"
+        },
+        {
+          "name": "Pamela Twiford",
+          "role": "Chief Deputy Clerk for Operations"
+        }
+      ]
+    },
+    {
+      "court_name": "UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Thomas F. Hogan",
+          "role": "chief judge"
+        },
+        {
+          "name": "Royce C. Lamberth",
+          "role": "judge"
+        },
+        {
+          "name": "Gladys Kessler",
+          "role": "judge"
+        },
+        {
+          "name": "Paul L. Friedman",
+          "role": "judge"
+        },
+        {
+          "name": "Ricardo M. Urbina",
+          "role": "judge"
+        },
+        {
+          "name": "Emmet G. Sullivan",
+          "role": "judge"
+        }
+      ]
+    },
+    {
+      "court_name": "District of Columbia Court of Appeals",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "JAMES ROBERTSON",
+          "role": "judge"
+        },
+        {
+          "name": "COLLEEN KOLLAR-KOTELLY",
+          "role": "judge"
+        },
+        {
+          "name": "HENRY H. KENNEDY, Jr.",
+          "role": "judge"
+        },
+        {
+          "name": "RICHARD W. ROBERTS",
+          "role": "judge"
+        },
+        {
+          "name": "ELLEN SEGAL HUVELLE",
+          "role": "judge"
+        },
+        {
+          "name": "REGGIE B. WALTON",
+          "role": "judge"
+        },
+        {
+          "name": "JOHN D. BATES",
+          "role": "judge"
+        },
+        {
+          "name": "RICHARD J. LEON",
+          "role": "judge"
+        }
+      ]
+    },
+    {
+      "court_name": "U.S. District Court for the District of Columbia",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "ROSEMARY M. COLLYER",
+          "role": "judge"
+        },
+        {
+          "name": "WILLIAM BENSON BRYANT",
+          "role": "senior judge"
+        },
+        {
+          "name": "LOUIS FALK OBERDORFER",
+          "role": "senior judge"
+        },
+        {
+          "name": "JOHN GARRETT PENN",
+          "role": "senior judge"
+        },
+        {
+          "name": "NORMA HOLLOWAY JOHNSON",
+          "role": "senior judge"
+        },
+        {
+          "name": "THOMAS PENFIELD JACKSON",
+          "role": "judge"
+        },
+        {
+          "name": "Deborah A. Robinson",
+          "role": "United States Magistrate Judge"
+        },
+        {
+          "name": "Alan Kay",
+          "role": "United States Magistrate Judge"
+        },
+        {
+          "name": "John M. Facciola",
+          "role": "United States Magistrate Judge"
+        },
+        {
+          "name": "Nancy Mayer-Whittington",
+          "role": "Clerk of Court"
+        },
+        {
+          "name": "Sheldon L. Snook",
+          "role": "Administrative Assistant to the Chief Judge"
+        },
+        {
+          "name": "S. Martin Teel, Jr.",
+          "role": "Bankruptcy Judge"
+        },
+        {
+          "name": "Denise Curtis",
+          "role": "Bankruptcy Clerk of Court"
+        },
+        {
+          "name": "Richard A. Houck, Jr.",
+          "role": "Chief Probation Officer"
+        }
+      ]
+    },
+    {
+      "court_name": "UNITED STATES COURT OF INTERNATIONAL TRADE",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "JANE A. RESTANI",
+          "role": "chief judge"
+        },
+        {
+          "name": "GREGORY W. CARMAN",
+          "role": "judge"
+        },
+        {
+          "name": "THOMAS J. AQUILINO, Jr.",
+          "role": "judge"
+        }
+      ]
+    },
+    {
+      "court_name": "U.S. Court of International Trade",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "DONALD C. POGUE",
+          "role": "Judge"
+        },
+        {
+          "name": "EVAN J. WALLACH",
+          "role": "Judge"
+        },
+        {
+          "name": "JUDITH M. BARZILAY",
+          "role": "Judge"
+        },
+        {
+          "name": "DELISSA A. RIDGWAY",
+          "role": "Judge"
+        }
+      ]
+    },
+    {
+      "court_name": "U.S. Court of International Trade",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "TIMOTHY C. STANCEU",
+          "role": "Judge"
+        },
+        {
+          "name": "NICHOLAS TSOUCALAS",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "R. KENTON MUSGRAVE",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "RICHARD W. GOLDBERG",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Leo M. Gordon",
+          "role": "Clerk of the Court"
+        }
+      ]
+    },
+    {
+      "court_name": "United States Court of Federal Claims",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "EDWARD J. DAMICH",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "LAWRENCE M. BASKIR",
+          "role": "Judge"
+        },
+        {
+          "name": "CHRISTINE ODELL COOK (O.C.) MILLER",
+          "role": "Judge"
+        },
+        {
+          "name": "MARIAN BLANK HORN",
+          "role": "Judge"
+        },
+        {
+          "name": "ROBERT HAYNE HODGES, Jr.",
+          "role": "Judge"
+        },
+        {
+          "name": "DIANE GILBERT SYPOLT",
+          "role": "Judge"
+        },
+        {
+          "name": "LYNN J. BUSH",
+          "role": "Judge"
+        }
+      ]
+    },
+    {
+      "court_name": "U.S. Court of Federal Claims",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "NANCY B. FIRESTONE",
+          "role": "judge"
+        },
+        {
+          "name": "EMILY CLARK HEWITT",
+          "role": "judge"
+        },
+        {
+          "name": "FRANCIS M. ALLEGRA",
+          "role": "judge"
+        },
+        {
+          "name": "LAWRENCE J. BLOCK",
+          "role": "judge"
+        },
+        {
+          "name": "SUSAN G. BRADEN",
+          "role": "judge"
+        },
+        {
+          "name": "CHARLES F. LETTOW",
+          "role": "judge"
+        },
+        {
+          "name": "MARY ELLEN COSTER WILLIAMS",
+          "role": "judge"
+        },
+        {
+          "name": "VICTOR JOHN WOLSKI",
+          "role": "judge"
+        },
+        {
+          "name": "KENNETH R. HARKINS",
+          "role": "senior judge"
+        },
+        {
+          "name": "THOMAS J. LYDON",
+          "role": "senior judge"
+        },
+        {
+          "name": "JAMES F. MEROW",
+          "role": "senior judge"
+        },
+        {
+          "name": "REGINALD W. GIBSON",
+          "role": "senior judge"
+        },
+        {
+          "name": "JOHN PAUL WIESE",
+          "role": "senior judge"
+        }
+      ]
+    },
+    {
+      "court_name": "U.S. Court of Federal Claims",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "ROBERT J. YOCK",
+          "role": "senior judge"
+        },
+        {
+          "name": "LAWRENCE S. MARGOLIS",
+          "role": "senior judge"
+        },
+        {
+          "name": "MOODY R. TIDWELL III",
+          "role": "senior judge"
+        },
+        {
+          "name": "LOREN ALLAN SMITH",
+          "role": "senior judge"
+        },
+        {
+          "name": "ERIC G. BRUGGINK",
+          "role": "senior judge"
+        },
+        {
+          "name": "WILKES COLEMAN ROBINSON",
+          "role": "senior judge"
+        },
+        {
+          "name": "BOHDAN A. FUTEY",
+          "role": "senior judge"
+        },
+        {
+          "name": "JAMES T. TURNER",
+          "role": "senior judge"
+        },
+        {
+          "name": "Margaret M. Earnest",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "UNITED STATES TAX COURT",
+      "circuits": [],
+      "court_personnel": []
+    },
+    {
+      "court_name": "U.S. Tax Court",
+      "court_personnel": [
+        {
+          "name": "THOMAS B. WELLS",
+          "role": "chief judge"
+        },
+        {
+          "name": "MARY ANN COHEN",
+          "role": "judge"
+        },
+        {
+          "name": "STEPHEN J. SWIFT",
+          "role": "judge"
+        },
+        {
+          "name": "JOEL GERBER",
+          "role": "judge"
+        },
+        {
+          "name": "ROBERT PAUL RUWE",
+          "role": "judge"
+        },
+        {
+          "name": "JOHN O. COLVIN",
+          "role": "judge"
+        },
+        {
+          "name": "JAMES S. HALPERN",
+          "role": "judge"
+        },
+        {
+          "name": "CAROLYN P. CHIECHI",
+          "role": "judge"
+        },
+        {
+          "name": "DAVID LARO",
+          "role": "judge"
+        },
+        {
+          "name": "MAURICE B. FOLEY",
+          "role": "judge"
+        },
+        {
+          "name": "JUAN F. VASQUEZ",
+          "role": "judge"
+        },
+        {
+          "name": "JOSEPH H. GALE",
+          "role": "judge"
+        }
+      ],
+      "circuits": []
+    },
+    {
+      "court_name": "U.S. Tax Court",
+      "court_personnel": [
+        {
+          "name": "THOMAS B. WELLS",
+          "role": "chief judge"
+        },
+        {
+          "name": "MARY ANN COHEN",
+          "role": "judge"
+        },
+        {
+          "name": "STEPHEN J. SWIFT",
+          "role": "judge"
+        },
+        {
+          "name": "JOEL GERBER",
+          "role": "judge"
+        },
+        {
+          "name": "ROBERT PAUL RUWE",
+          "role": "judge"
+        },
+        {
+          "name": "JOHN O. COLVIN",
+          "role": "judge"
+        },
+        {
+          "name": "JAMES S. HALPERN",
+          "role": "judge"
+        },
+        {
+          "name": "CAROLYN P. CHIECHI",
+          "role": "judge"
+        },
+        {
+          "name": "DAVID LARO",
+          "role": "judge"
+        },
+        {
+          "name": "MAURICE B. FOLEY",
+          "role": "judge"
+        },
+        {
+          "name": "JUAN F. VASQUEZ",
+          "role": "judge"
+        },
+        {
+          "name": "JOSEPH H. GALE",
+          "role": "judge"
+        }
+      ],
+      "circuits": []
+    },
+    {
+      "court_name": "U.S. Tax Court",
+      "court_personnel": [
+        {
+          "name": "THOMAS B. WELLS",
+          "role": "chief judge"
+        },
+        {
+          "name": "MARY ANN COHEN",
+          "role": "judge"
+        },
+        {
+          "name": "STEPHEN J. SWIFT",
+          "role": "judge"
+        },
+        {
+          "name": "JOEL GERBER",
+          "role": "judge"
+        },
+        {
+          "name": "ROBERT PAUL RUWE",
+          "role": "judge"
+        },
+        {
+          "name": "JOHN O. COLVIN",
+          "role": "judge"
+        },
+        {
+          "name": "JAMES S. HALPERN",
+          "role": "judge"
+        },
+        {
+          "name": "CAROLYN P. CHIECHI",
+          "role": "judge"
+        },
+        {
+          "name": "DAVID LARO",
+          "role": "judge"
+        },
+        {
+          "name": "MAURICE B. FOLEY",
+          "role": "judge"
+        },
+        {
+          "name": "JUAN F. VASQUEZ",
+          "role": "judge"
+        },
+        {
+          "name": "JOSEPH H. GALE",
+          "role": "judge"
+        }
+      ],
+      "circuits": []
+    },
+    {
+      "court_name": "United States Tax Court",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "MICHAEL B. THORNTON",
+          "role": "judge"
+        },
+        {
+          "name": "L. PAIGE MARVEL",
+          "role": "judge"
+        },
+        {
+          "name": "HARRY A. HAINES",
+          "role": "judge"
+        },
+        {
+          "name": "JOSEPH ROBERT GOEKE",
+          "role": "judge"
+        },
+        {
+          "name": "ROBERT A. WHERRY, Jr.",
+          "role": "judge"
+        },
+        {
+          "name": "HOWARD A. DAWSON, Jr.",
+          "role": "senior judge"
+        },
+        {
+          "name": "ARTHUR L. NIMS III",
+          "role": "senior judge"
+        },
+        {
+          "name": "JULIAN I. JACOBS",
+          "role": "senior judge"
+        },
+        {
+          "name": "HERBERT L. CHABOT",
+          "role": "senior judge"
+        },
+        {
+          "name": "LAURENCE J. WHALEN",
+          "role": "judge"
+        },
+        {
+          "name": "RENATO BEGHE",
+          "role": "judge"
+        },
+        {
+          "name": "Robert N. Armen, Jr.",
+          "role": "special trial judge"
+        },
+        {
+          "name": "Lewis R. Carluzzo",
+          "role": "special trial judge"
+        },
+        {
+          "name": "D. Irvin Couvillion",
+          "role": "special trial judge"
+        },
+        {
+          "name": "John F. Dean",
+          "role": "special trial judge"
+        },
+        {
+          "name": "Daniel J. Dinan",
+          "role": "special trial judge"
+        },
+        {
+          "name": "Stanley J. Goldberg",
+          "role": "special trial judge"
+        },
+        {
+          "name": "John J. Pajak",
+          "role": "special trial judge"
+        },
+        {
+          "name": "Peter J. Panuthos",
+          "role": "chief special trial judge"
+        },
+        {
+          "name": "Carleton D. Powell",
+          "role": "special trial judge"
+        },
+        {
+          "name": "Norman H. Wolfe",
+          "role": "special trial judge"
+        }
+      ]
+    },
+    {
+      "court_name": "Officers of the Court",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Charles S. Casazza",
+          "role": "Clerk"
+        },
+        {
+          "name": "Lynne L. Glasser",
+          "role": "Deputy Clerk"
+        },
+        {
+          "name": "Washington B. Bowie",
+          "role": "Budget and Accounting Officer"
+        },
+        {
+          "name": "Elsa Silverman",
+          "role": "Librarian"
+        },
+        {
+          "name": "John T. Fee",
+          "role": "Reporter"
+        }
+      ]
+    },
+    {
+      "court_name": "United States Court of Appeals for the Armed Forces",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Susan J. Crawford",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "H.F. 'Sparky' Gierke",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Andrew S. Effron",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "James E. Baker",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Charles E. Erdmann",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "William Horace Darden",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Robinson O. Everett",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Walter Thompson Cox III",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Eugene R. Sullivan",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "William A. DeCicco",
+          "role": "Clerk of the Court"
+        },
+        {
+          "name": "David A. Anderson",
+          "role": "Chief Deputy Clerk of the Court"
+        },
+        {
+          "name": "Kevin A. Doherty",
+          "role": "Deputy Clerk for Opinions"
+        },
+        {
+          "name": "Robert J. Bieber",
+          "role": "Administrative Officer"
+        },
+        {
+          "name": "Agnes Kiang",
+          "role": "Librarian"
+        }
+      ]
+    },
+    {
+      "court_name": "UNITED STATES COURT OF APPEALS FOR VETERANS CLAIMS",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "KENNETH B. KRAMER",
+          "role": "chief judge"
+        },
+        {
+          "name": "JOHN J. FARLEY III",
+          "role": "judge"
+        },
+        {
+          "name": "DONALD L. IVERS",
+          "role": "judge"
+        },
+        {
+          "name": "JONATHAN ROBERT STEINBERG",
+          "role": "judge"
+        },
+        {
+          "name": "WILLIAM P. GREENE, Jr.",
+          "role": "judge"
+        },
+        {
+          "name": "NORMAN Y. HERRING",
+          "role": "Clerk of the Court"
+        },
+        {
+          "name": "ANNE P. STYGLES",
+          "role": "Operations Manager"
+        },
+        {
+          "name": "JACK F. LANE",
+          "role": "Counsel and Court Reporter of Decisions"
+        },
+        {
+          "name": "JEFFERY N. LUTHI",
+          "role": "Senior Staff Attorney (Central Legal Staff)"
+        },
+        {
+          "name": "MARLENE DAVIS",
+          "role": "Deputy Executive Officer"
+        },
+        {
+          "name": "BERNARD J. SUSSMAN",
+          "role": "Librarian"
+        }
+      ]
+    },
+    {
+      "court_name": "JUDICIAL PANEL ON MULTIDISTRICT LITIGATION",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "WM. TERRELL HODGES",
+          "role": "Chairman, U.S. District Judge, Middle District of Florida"
+        },
+        {
+          "name": "JOHN F. KEENAN",
+          "role": "U.S. District Judge, Southern District of New York"
+        },
+        {
+          "name": "BRUCE M. SELY",
+          "role": "U.S. Court of Appeals Judge, First Circuit"
+        }
+      ]
+    },
+    {
+      "court_name": "U.S. Court of Appeals",
+      "circuits": [
+        {
+          "circuit_name": "Sixth Circuit",
+          "circuit_personnel": [
+            {
+              "name": "Julia Smith Gibbons",
+              "role": "U.S. Court of Appeals Judge"
+            }
+          ]
+        }
+      ],
+      "court_personnel": []
+    },
+    {
+      "court_name": "U.S. District Court",
+      "circuits": [
+        {
+          "circuit_name": "Northern District of California",
+          "circuit_personnel": [
+            {
+              "name": "D. Lowell Jensen",
+              "role": "U.S. District Judge"
+            }
+          ]
+        },
+        {
+          "circuit_name": "District of Maryland",
+          "circuit_personnel": [
+            {
+              "name": "J. Frederick Motz",
+              "role": "U.S. District Judge, Chief Judge"
+            }
+          ]
+        },
+        {
+          "circuit_name": "Northern District of Indiana",
+          "circuit_personnel": [
+            {
+              "name": "Robert L. Miller, Jr.",
+              "role": "U.S. District Judge"
+            }
+          ]
+        }
+      ],
+      "court_personnel": [
+        {
+          "name": "Robert A. Cahn",
+          "role": "Executive Attorney"
+        },
+        {
+          "name": "Michael J. Beck",
+          "role": "Clerk"
+        }
+      ]
+    },
+    {
+      "court_name": "Administrative Office of the U.S. Courts",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Leonidas Ralph Mecham",
+          "role": "Director"
+        },
+        {
+          "name": "Clarence A. Lee, Jr.",
+          "role": "Associate Director, Management and Operations"
+        },
+        {
+          "name": "Cathy A. McCarthy",
+          "role": "Deputy Associate Director"
+        },
+        {
+          "name": "Jeff Larioni",
+          "role": "Chief, Office of Audit"
+        },
+        {
+          "name": "Cathy A. McCarthy",
+          "role": "Management Coordination and Planning Officer"
+        },
+        {
+          "name": "William M. Lucianovic",
+          "role": "Chief, Long-Range Planning Office"
+        },
+        {
+          "name": "William R. Burchill, Jr.",
+          "role": "Associate Director and General Counsel"
+        },
+        {
+          "name": "Robert K. Loesche",
+          "role": "Deputy General Counsel"
+        },
+        {
+          "name": "Karen K. Siegel",
+          "role": "Assistant Director, Judicial Conference Executive Secretariat"
+        },
+        {
+          "name": "Wendy Jennis",
+          "role": "Deputy Assistant Director, Judicial Conference Executive Secretariat"
+        },
+        {
+          "name": "Michael W. Blommer",
+          "role": "Assistant Director, Legislative Affairs"
+        },
+        {
+          "name": "Daniel A. Cunningham",
+          "role": "Deputy Assistant Director for Legislative Affairs"
+        },
+        {
+          "name": "Richard A. Jaffe",
+          "role": "Chief, Judicial Impact Office"
+        },
+        {
+          "name": "David A. Sellers",
+          "role": "Assistant Director, Public Affairs"
+        },
+        {
+          "name": "Noel J. Augustyn",
+          "role": "Assistant Director for Court Programs"
+        },
+        {
+          "name": "Glen K. Palman",
+          "role": "Deputy Assistant Director for Court Administration"
+        },
+        {
+          "name": "Mary Stickney",
+          "role": "Chief of Electronic Access Program"
+        },
+        {
+          "name": "John P. Hehman",
+          "role": "Chief of Appellate Court and Circuit Administration Division"
+        },
+        {
+          "name": "Glen K. Palman",
+          "role": "Chief of Bankruptcy Court Administration Division"
+        },
+        {
+          "name": "Abel J. Mattos",
+          "role": "Chief of Court Administration Policy Staff"
+        },
+        {
+          "name": "Theodore J. Lidz",
+          "role": "Chief of Defender Services Division"
+        },
+        {
+          "name": "Robert Lowney",
+          "role": "Chief of District Court Administration Division"
+        },
+        {
+          "name": "John M. Hughes",
+          "role": "Chief of Federal Corrections and Supervision Division"
+        },
+        {
+          "name": "Ross Eisenman",
+          "role": "Assistant Director for Facilities and Security"
+        },
+        {
+          "name": "William J. Lehman",
+          "role": "Deputy Assistant Director for Facilities and Security"
+        },
+        {
+          "name": "Dennis P. Chapas",
+          "role": "Chief of Court Security Office"
+        },
+        {
+          "name": "William J. Lehman",
+          "role": "Chief of Policy and Resource Management Staff (acting)"
+        },
+        {
+          "name": "Rodgers A. Stewart",
+          "role": "Chief of Space and Facilities Division"
+        },
+        {
+          "name": "George H. Schafer",
+          "role": "Assistant Director for Finance and Budget"
+        },
+        {
+          "name": "Gregory D. Cummings",
+          "role": "Deputy Assistant Director for Finance and Budget"
+        },
+        {
+          "name": "Philip L. McKinney",
+          "role": "Chief of Accounting and Financial Systems Division"
+        },
+        {
+          "name": "Bruce E. Johnson",
+          "role": "Chief of Budget Division"
+        },
+        {
+          "name": "Penny Jacobs Fleming",
+          "role": "Chief of Financial Liaison Office"
+        },
+        {
+          "name": "R. Townsend Robinson",
+          "role": "Assistant Director for Human Resources and Statistics"
+        },
+        {
+          "name": "Trudi M. Morrison",
+          "role": "Chief of Employee Relations Office"
+        },
+        {
+          "name": "Charlotte G. Peddicord",
+          "role": "Chief of Human Resources Division"
+        },
+        {
+          "name": "Lee Horvath",
+          "role": "Chief of Judiciary Benefits Program Office"
+        },
+        {
+          "name": "Maurice E. White",
+          "role": "Chief of Program and Workforce Development Division"
+        },
+        {
+          "name": "Steven R. Schlesinger",
+          "role": "Chief of Statistics Division"
+        },
+        {
+          "name": "Melvin J. Bryson",
+          "role": "Assistant Director for Information Technology"
+        },
+        {
+          "name": "Barbara C. Macken",
+          "role": "Deputy Assistant Director for Information Technology"
+        },
+        {
+          "name": "Richard D. Fennell",
+          "role": "Chief, Technology Officer"
+        },
+        {
+          "name": "Wendy R. Lageman",
+          "role": "Chief of IT Applications Development Office"
+        },
+        {
+          "name": "Craig W. Jenkins",
+          "role": "Chief of IT Infrastructure Management Division"
+        },
+        {
+          "name": "Terry A. Cain",
+          "role": "Chief of IT Policy Staff"
+        },
+        {
+          "name": "Frank Dozier",
+          "role": "Chief of IT Project Coordination Office (acting)"
+        },
+        {
+          "name": "Robert N. Sinsheimer",
+          "role": "Chief of IT Security Office"
+        },
+        {
+          "name": "Howard J. Grandier",
+          "role": "Chief of IT Systems Deployment and Support Division"
+        },
+        {
+          "name": "Laura C. Minor",
+          "role": "Assistant Director for Internal Services"
+        },
+        {
+          "name": "Nancy Lee Bradshaw",
+          "role": "Deputy Assistant Director for Internal Services"
+        },
+        {
+          "name": "Doreen G.B. Bydume",
+          "role": "Chief of AO Administrative Services Division"
+        },
+        {
+          "name": "John C. Chang",
+          "role": "Chief of AO Information Management Services Division"
+        },
+        {
+          "name": "Cheri Thompson Reid",
+          "role": "Chief of AO Personnel Officer"
+        },
+        {
+          "name": "Arnold Gildenhorn",
+          "role": "Chief of AO Procurement Management Division"
+        },
+        {
+          "name": "Peter G. McCabe",
+          "role": "Assistant Director for Judges Programs"
+        },
+        {
+          "name": "Jeffrey A. Hennemuth",
+          "role": "Deputy Assistant Director for Policy Development"
+        },
+        {
+          "name": "Ellyn L. Vail",
+          "role": "Chief of Analytical Services Office"
+        },
+        {
+          "name": "Margaret A. Irving",
+          "role": "Chief of Article III Judges Division (acting)"
+        },
+        {
+          "name": "Francis F. Szczebak",
+          "role": "Chief of Bankruptcy Judges Division"
+        },
+        {
+          "name": "Thomas C. Hnatowski",
+          "role": "Chief of Magistrate Judges Division"
+        },
+        {
+          "name": "John K. Rabiej",
+          "role": "Chief of Rules Committee Support Office"
+        }
+      ]
+    },
+    {
+      "court_name": "Federal Judicial Center",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Judge Fern M. Smith",
+          "role": "Director"
+        },
+        {
+          "name": "Russell R. Wheeler",
+          "role": "Deputy Director"
+        },
+        {
+          "name": "Sylvan A. Sobel",
+          "role": "Director of Communications Policy and Design"
+        },
+        {
+          "name": "John S. Cooke",
+          "role": "Director of Judicial Education"
+        },
+        {
+          "name": "James B. Eaglin",
+          "role": "Director of Research"
+        },
+        {
+          "name": "Emily Z. Huebner",
+          "role": "Director of Court Education"
+        },
+        {
+          "name": "Mira Gur-Arie",
+          "role": "Chief of Interjudicial Affairs Office"
+        },
+        {
+          "name": "Ted Coleman",
+          "role": "Chief of Systems Innovations and Development Office"
+        },
+        {
+          "name": "Bruce A. Ragsdale",
+          "role": "Chief of Federal Judicial History Office"
+        }
+      ]
+    },
+    {
+      "court_name": "District of Columbia Courts",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Anne B. Wicks",
+          "role": "Executive Officer"
+        },
+        {
+          "name": "Cheryl R. Bailey",
+          "role": "Deputy Executive Officer"
+        },
+        {
+          "name": "Leah Gurowitz",
+          "role": "Director, Legislative, Intergovernmental and Public Affairs"
+        }
+      ]
+    },
+    {
+      "court_name": "District of Columbia Court of Appeals",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Annice M. Wagner",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Michael W. Farrell",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Stephen H. Glickman",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Inez Smith Reid",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Vanessa Ruiz",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "John A. Terry",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Frank E. Schwelb",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "John M. Steadman",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Eric T. Washington",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "George R. Gallagher",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "John W. Kern III",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "William C. Pryor",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Julia Cooper Mack",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Theodore R. Newman, Jr.",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "James A. Belson",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Warren King",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "John M. Ferren",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Frank Q. Nebeker",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Garland Pinkston, Jr.",
+          "role": "Clerk"
+        },
+        {
+          "name": "Joy A. Chapper",
+          "role": "Chief Deputy Clerk"
+        },
+        {
+          "name": "Steven J. Newman",
+          "role": "Administration Director"
+        },
+        {
+          "name": "Clare M. Root",
+          "role": "Admissions Director"
+        },
+        {
+          "name": "Jeanette E. Togans",
+          "role": "Public Office Operations Director"
+        },
+        {
+          "name": "Rosanna M. Mason",
+          "role": "Senior Staff Attorney"
+        }
+      ]
+    },
+    {
+      "court_name": "Superior Court of the District of Columbia",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Rufus G. King III",
+          "role": "Chief Judge"
+        },
+        {
+          "name": "Geoffrey M. Alprin",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Judith Bartnoff",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "John H. Bayly, Jr.",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Ronna L. Beck",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "James E. Boasberg",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Shellie F. Bowers",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Ana Blackburne-Rigsby",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Patricia A. Broderick",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "A. Franklin Burgess, Jr.",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Zoe Bush",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "John M. Campbell",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Russell F. Canan",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Erik Christian",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Kaye K. Christian",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Natalia Combs Greene",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Harold L. Cushenberry, Jr.",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Linda Kay Davis",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Rafael Diaz",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Herbert B. Dixon, Jr.",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Stephanie Duncan-Peters",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Mildred M. Edwards",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Gerald I. Fisher",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Wendell P. Gardner, Jr.",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Steffen W. Graae",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Brook Hedge",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "William M. Jackson",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "J. Ramsey Johnson",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Anita Josey-Herring",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Ann O'Regan Keary",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Noel A. Kramer",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Neal E. Kravitz",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Cheryl M. Long",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Jose M. Lopez",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Lynn Lebowitz",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "George W. Mitchell",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Zinora Mitchell-Rankin",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Robert E. Morin",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Thomas J. Motley",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "John M. Mott",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Hiram E. Puig-Lugo",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Michael L. Rankin",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Judith E. Retchin",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Robert I. Richter",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Robert Rigsby",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Maurice Ross",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Lee F. Satterfield",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Nan R. Shuker",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Mary A. Gooden Terrell",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Linda D. Turner",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Odessa F. Vincent",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Frederick H. Weisberg",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Susan R. Winfield",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Rhonda Reid Winston",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Melvin R. Wright",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Joan Zeldon",
+          "role": "Associate Judge"
+        },
+        {
+          "name": "Mary Ellen Abrecht",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Bruce D. Beaudin",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Leonard Braman",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Arthur L. Burnett, Sr.",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Frederick D. Dorsey",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Stephen F. Eilperin",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "George H. Goodrich",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Henry F. Greene",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Eugene N. Hamilton",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Margaret A. Haywood",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "John R. Hess",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Bruce S. Mencher",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Stephen G. Milliken",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Gregory E. Mize",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Truman A. Morrison III",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Tim Murphy",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Robert S. Tignor",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Fred B. Ugast",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Paul R. Webber III",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Ronald P. Wertheim",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Peter H. Wolf",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Patricia A. Wynn",
+          "role": "Senior Judge"
+        },
+        {
+          "name": "Duane B. Delaney",
+          "role": "Clerk of the Court"
+        }
+      ]
+    }
+  ]
+}

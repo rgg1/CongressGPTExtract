@@ -1,0 +1,1281 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Christine E. Wormuth",
+      "member_role": "Secretary of the Army"
+    },
+    {
+      "member_name": "Gabe Camarillo",
+      "member_role": "Under Secretary of the Army"
+    },
+    {
+      "member_name": "James C. McConville",
+      "member_role": "Chief of Staff of the Army"
+    },
+    {
+      "member_name": "Joseph M. Martin",
+      "member_role": "Vice Chief of Staff of the Army"
+    },
+    {
+      "member_name": "Larry D. Gottardi",
+      "member_role": "Deputy Under Secretary of the Army (acting)"
+    },
+    {
+      "member_name": "Douglas R. Bush",
+      "member_role": "Assistant Secretary of the Army (Acquisition, Logistics, and Technology)"
+    },
+    {
+      "member_name": "Jaime A. Pinkham",
+      "member_role": "Assistant Secretary of the Army (Civil Works) (acting)"
+    },
+    {
+      "member_name": "Caral E. Spangler",
+      "member_role": "Assistant Secretary of the Army (Financial Management and Comptroller)"
+    },
+    {
+      "member_name": "Rachel Jacobson",
+      "member_role": "Assistant Secretary of the Army (Installations, Energy, and Environment)"
+    },
+    {
+      "member_name": "Mark R. Lewis",
+      "member_role": "Assistant Secretary of the Army (Manpower and Reserve Affairs)"
+    },
+    {
+      "member_name": "Carrie F. Ricci",
+      "member_role": "General Counsel of the Army"
+    },
+    {
+      "member_name": "Mark F. Averill",
+      "member_role": "Administrative Assistant to the Secretary of the Army (acting)"
+    },
+    {
+      "member_name": "Anne L. Richards",
+      "member_role": "Auditor General of the Army"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF THE ARMY",
+      "department_members": [
+        {
+          "member_name": "Christine E. Wormuth",
+          "member_role": "Secretary of the Army"
+        },
+        {
+          "member_name": "COL Patrick M. Costello",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Gabe Camarillo",
+          "member_role": "Under Secretary of the Army"
+        },
+        {
+          "member_name": "COL Regina Pistone",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "James C. McConville",
+          "member_role": "Chief of Staff of the Army"
+        },
+        {
+          "member_name": "Joseph M. Martin",
+          "member_role": "Vice Chief of Staff of the Army"
+        },
+        {
+          "member_name": "COL Kareem P. Montague",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "COL Arlic L. Francis",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "COL David J. Zinn",
+          "member_role": "Director of the CSA Staff Group"
+        },
+        {
+          "member_name": "LTG Walter E. Piatt",
+          "member_role": "Director of the Army Staff"
+        },
+        {
+          "member_name": "SMA Michael A. Grinston",
+          "member_role": "Sergeant Major of the Army"
+        },
+        {
+          "member_name": "Michele K. Fry",
+          "member_role": "Director, Army Protocol"
+        },
+        {
+          "member_name": "Thea Harvell III",
+          "member_role": "Director, Executive Communications and Control"
+        },
+        {
+          "member_name": "MG James J. Gallivan",
+          "member_role": "Commanding General, U.S. Army Test and Evaluation Command"
+        },
+        {
+          "member_name": "LTG Darryl A. Williams",
+          "member_role": "Superintendent, U.S. Military Academy"
+        },
+        {
+          "member_name": "MG Allan M. Pepin",
+          "member_role": "Commanding General, U.S. Army Military District of Washington"
+        },
+        {
+          "member_name": "MG Stephen J. Maranian",
+          "member_role": "Commandant, U.S. Army War College"
+        },
+        {
+          "member_name": "Larry D. Gottardi",
+          "member_role": "Deputy Under Secretary of the Army (acting)"
+        },
+        {
+          "member_name": "COL Robert J. Mikesh",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Douglas R. Bush",
+          "member_role": "Assistant Secretary of the Army (Acquisition, Logistics, and Technology)"
+        },
+        {
+          "member_name": "Douglas R. Bush",
+          "member_role": "Principal Deputy"
+        },
+        {
+          "member_name": "LTG Robert L. Marion",
+          "member_role": "Principal Military Deputy"
+        },
+        {
+          "member_name": "COL Frank J. Lozano",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "COL Danielle R. Medaglia",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Anita J. Odom",
+          "member_role": "Confidential Assistant"
+        },
+        {
+          "member_name": "Timothy G. Goddette",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Acquisition, Policy, and Logistics"
+        },
+        {
+          "member_name": "Elizabeth F. Wilson",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Defense Exports and Cooperation"
+        },
+        {
+          "member_name": "John J. (Jack) Daniels",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Plans, Programs, and Resources"
+        },
+        {
+          "member_name": "Megan R. Dake",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Procurement"
+        },
+        {
+          "member_name": "Jeffery D. Singleton",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Research and Technology"
+        },
+        {
+          "member_name": "Margaret E. Boatner",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Strategy, Acquisition and Reform (acting)"
+        },
+        {
+          "member_name": "Jaime A. Pinkham",
+          "member_role": "Assistant Secretary of the Army (Civil Works) (acting)"
+        },
+        {
+          "member_name": "COL Matthew Tyler",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "LTC Doug Massie",
+          "member_role": "Military Assistant"
+        },
+        {
+          "member_name": "Chelsea Haynes",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Vance F. Stewart III",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Management and Budget"
+        },
+        {
+          "member_name": "Robyn S. Colosimo",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Policy and Legislation (acting)"
+        },
+        {
+          "member_name": "David J. Leach",
+          "member_role": "Deputy Assistant Secretary of the Army (DASA) - Project Planning and Review"
+        },
+        {
+          "member_name": "Caral E. Spangler",
+          "member_role": "Assistant Secretary of the Army (Financial Management and Comptroller)"
+        },
+        {
+          "member_name": "Wesley C. Miller",
+          "member_role": "Principal Deputy (acting)"
+        },
+        {
+          "member_name": "LTG Paul A. Chamberlain",
+          "member_role": "Military Deputy for Budget"
+        },
+        {
+          "member_name": "COL Gavin O. Luher",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "LTC John B. Schulke",
+          "member_role": "Military Assistant"
+        },
+        {
+          "member_name": "Judy A. Gupton",
+          "member_role": "Administrative Officer"
+        },
+        {
+          "member_name": "Stephen B. Loftus",
+          "member_role": "Deputy Assistant Secretary of the Army - Cost and Economics"
+        },
+        {
+          "member_name": "Wesley C. Miller",
+          "member_role": "Deputy Assistant Secretary of the Army - Financial Operations and Information"
+        },
+        {
+          "member_name": "BG Mark S. Bennett",
+          "member_role": "Director, Army Budget"
+        },
+        {
+          "member_name": "Rachel Jacobson",
+          "member_role": "Assistant Secretary of the Army (Installations, Energy, and Environment)"
+        },
+        {
+          "member_name": "Carla K. Coulson",
+          "member_role": "Principal Deputy (acting)"
+        },
+        {
+          "member_name": "COL V. Wayne Hertel",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "LTC Jason Gleason",
+          "member_role": "Military Assistant"
+        },
+        {
+          "member_name": "Maria A. Margary",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "John E. Surash",
+          "member_role": "Deputy Assistant Secretary of the Army - Energy and Sustainability"
+        },
+        {
+          "member_name": "Amy L. Borman",
+          "member_role": "Deputy Assistant Secretary of the Army - Environment, Safety, and Occupational Health"
+        },
+        {
+          "member_name": "Carla K. Coulson",
+          "member_role": "Deputy Assistant Secretary of the Army - Installations, Housing, and Partnerships"
+        },
+        {
+          "member_name": "Shelly A. Richardson",
+          "member_role": "Deputy Assistant Secretary of the Army - Strategic Integration (acting)"
+        },
+        {
+          "member_name": "Mark R. Lewis",
+          "member_role": "Assistant Secretary of the Army (Manpower and Reserve Affairs)"
+        },
+        {
+          "member_name": "Jeffrey P. Angers",
+          "member_role": "Principal Deputy (acting)"
+        },
+        {
+          "member_name": "COL Eugenia Guilmartin",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Melissa D. Thomas",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Michael T. Mahoney",
+          "member_role": "Deputy Assistant Secretary of the Army - Army Review Boards"
+        },
+        {
+          "member_name": "Dr. Todd A. Fore",
+          "member_role": "Deputy Assistant Secretary of the Army - Civilian Personnel / Director, Civilian Senior Leader Management Office"
+        },
+        {
+          "member_name": "Jackie Tillery",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Anselm A. Beach",
+          "member_role": "Deputy Assistant Secretary of the Army - Diversity and Leadership"
+        },
+        {
+          "member_name": "Jeffrey P. Angers",
+          "member_role": "Deputy Assistant Secretary of the Army - Military Personnel Policy"
+        },
+        {
+          "member_name": "Eugene Collins",
+          "member_role": "Deputy Assistant Secretary of the Army - Training, Readiness, and Mobilization"
+        },
+        {
+          "member_name": "Carrie F. Ricci",
+          "member_role": "General Counsel of the Army"
+        },
+        {
+          "member_name": "Robert J. Moore",
+          "member_role": "Principal Deputy General Counsel (acting)"
+        },
+        {
+          "member_name": "COL Cory J. Young",
+          "member_role": "Executive Officer / Special Counsel"
+        },
+        {
+          "member_name": "Kernovia L. Roberts",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Levator Norsworthy Jr.",
+          "member_role": "Deputy General Counsel - Acquisition"
+        },
+        {
+          "member_name": "Shelley P. Turner",
+          "member_role": "Deputy General Counsel - Ethics and Fiscal Law"
+        },
+        {
+          "member_name": "Craig R. Schmauder",
+          "member_role": "Deputy General Counsel - Installations, Environment, and Civil Works"
+        },
+        {
+          "member_name": "Michael Lacey",
+          "member_role": "Deputy General Counsel - Operations and Personnel"
+        },
+        {
+          "member_name": "Mark F. Averill",
+          "member_role": "Administrative Assistant to the Secretary of the Army (acting)"
+        },
+        {
+          "member_name": "Mark F. Averill",
+          "member_role": "Deputy Administrative Assistant"
+        },
+        {
+          "member_name": "COL Heather J. Warden",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Tiffany N. Christmas",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Angela K. Ritz",
+          "member_role": "Director, Civilian Aides to the Secretary of the Army (CASAs)"
+        },
+        {
+          "member_name": "Mark F. Averill",
+          "member_role": "Executive Director, Resources and Programs Agency"
+        },
+        {
+          "member_name": "Susan D. Tigner",
+          "member_role": "Executive Director, U.S. Army Headquarters Services"
+        },
+        {
+          "member_name": "Anne L. Richards",
+          "member_role": "Auditor General of the Army"
+        },
+        {
+          "member_name": "Elizabeth L. Casciano",
+          "member_role": "Principal Deputy Auditor General"
+        },
+        {
+          "member_name": "COL John Chu",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Jennifer Crick",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Michael Hoadley",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "William Jenkins",
+          "member_role": "Deputy Auditors General - Acquisition, Cyber, and Logistics Audits"
+        },
+        {
+          "member_name": "Kathleen A. Nelson",
+          "member_role": "Deputy Auditors General - Business Operations Audits"
+        },
+        {
+          "member_name": "Felix Strelsky",
+          "member_role": "Deputy Auditors General - Forces and Infrastructure Audits"
+        },
+        {
+          "member_name": "Elizabeth L. Casciano",
+          "member_role": "Deputy Auditors General - Operations Management"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF ARMY CEMETERIES (OAC)",
+      "department_members": [
+        {
+          "member_name": "Karen L. Durham-Aguilera",
+          "member_role": "Executive Director"
+        },
+        {
+          "member_name": "COL Michael R. ``Mike'' Binetti",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "MAJ Maxwell B. Pappas",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Charles R. Alexander, Jr.",
+          "member_role": "Superintendent, Arlington National Cemetery"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE DEPUTY CHIEF OF STAFF, G-9 (DCS, G-9) (Installations)",
+      "department_members": [
+        {
+          "member_name": "LTG Jason T. Evans",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Daniel ``Dan'' M. Klippstein",
+          "member_role": "Assistant Deputy Chief of Staff"
+        },
+        {
+          "member_name": "SGM Ulysses D. Rayford",
+          "member_role": "Senior Enlisted Advisor to the Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Christopher Thomas",
+          "member_role": "Director of Information and Technology"
+        },
+        {
+          "member_name": "BG Joseph Edwards",
+          "member_role": "Director of Operations"
+        },
+        {
+          "member_name": "Sally G. Pfenning",
+          "member_role": "Director of Resource Integration"
+        },
+        {
+          "member_name": "Michael E. Reheuser",
+          "member_role": "Director, Installation Support Management Activity"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF ARMY RESERVE (CAR)",
+      "department_members": [
+        {
+          "member_name": "LTG Jody J. Daniels",
+          "member_role": "Chief of Army Reserve"
+        },
+        {
+          "member_name": "Stephen D. Austin",
+          "member_role": "Assistant Chief"
+        },
+        {
+          "member_name": "COL Kathryn A. Trombley",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "SFC Nathanial L. Pagliaro",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "COL Curtis Owens",
+          "member_role": "Congressional Affairs Communication Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF INFORMATION OFFICER, G-6 (CIO, G-6)",
+      "department_members": [
+        {
+          "member_name": "Dr. Raj G. Iyer",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "David M. Markowitz",
+          "member_role": "Deputy Chief (acting)"
+        },
+        {
+          "member_name": "COL Maritza Lagaresn",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Paul Puckett",
+          "member_role": "Director, Enterprise Cloud Management Agency"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF OF LEGISLATIVE LIAISON (CLL)",
+      "department_members": [
+        {
+          "member_name": "BG Trevor J. Bredenkamp",
+          "member_role": "Chief Legislative Liaison"
+        },
+        {
+          "member_name": "Kathryn M. Yurkanin",
+          "member_role": "Principal Deputy"
+        },
+        {
+          "member_name": "COL Michael T. (Mike) Katona",
+          "member_role": "Deputy"
+        },
+        {
+          "member_name": "COL Mark C. Johnson",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Matt Staton",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Michele Cromwell",
+          "member_role": "Chief of Congressional Inquiry"
+        },
+        {
+          "member_name": "LTC Douglas McDonnaugh",
+          "member_role": "Chief of Congressional Operations Division"
+        },
+        {
+          "member_name": "COL Rick Zampelli",
+          "member_role": "Chief of House Liaison Division"
+        },
+        {
+          "member_name": "COL Patrick Pflaum",
+          "member_role": "Chief of Investigations and Legislative Division"
+        },
+        {
+          "member_name": "Harry B. Williams",
+          "member_role": "Chief of Management and Support Operations Division"
+        },
+        {
+          "member_name": "COL Carmelia Scott-Skillerman",
+          "member_role": "Chief of Programs Division"
+        },
+        {
+          "member_name": "COL Scott Wilkinson",
+          "member_role": "Chief of Senate Liaison Division"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF NATIONAL GUARD BUREAU (CNGB)",
+      "department_members": [
+        {
+          "member_name": "GEN Daniel R. Hokanson",
+          "member_role": "Chief"
+        },
+        {
+          "member_name": "LTG Marc H. Sasseville",
+          "member_role": "Vice Chief"
+        },
+        {
+          "member_name": "COL Amanda B. Evans",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Valgentina Bolden",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Lt. Gen. Michael A. Loh (USAF)",
+          "member_role": "Director, Air National Guard"
+        },
+        {
+          "member_name": "LTG Jon A. Jensen",
+          "member_role": "Director, Army National Guard"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF OF CHAPLAINS (CCH)",
+      "department_members": [
+        {
+          "member_name": "Chaplain (MG) Thomas L. Solhjem",
+          "member_role": "Chief of Chaplains"
+        },
+        {
+          "member_name": "Chaplain (BG) William Green, Jr.",
+          "member_role": "Deputy Chief of Chaplains"
+        },
+        {
+          "member_name": "Chaplain (COL) Timothy Maracle",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Caridad ``Carie'' Gelineau",
+          "member_role": "Executive Assistant"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF OF ENGINEERS (CoE)",
+      "department_members": [
+        {
+          "member_name": "LTG Scott A. Spellmon",
+          "member_role": "Chief of Engineers"
+        },
+        {
+          "member_name": "MG David C. Hill",
+          "member_role": "Deputy Chief of Engineers"
+        },
+        {
+          "member_name": "COL Joseph ``Clete'' Goetz",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "LTG Scott A. Spellmon",
+          "member_role": "Commanding General, U.S. Army Corps of Engineers"
+        },
+        {
+          "member_name": "MG David C. Hill",
+          "member_role": "Deputy"
+        },
+        {
+          "member_name": "COL John Lloyd",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "LTC Kristen Dahle",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Marie Arthur",
+          "member_role": "Executive Assistant"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF OF PUBLIC AFFAIRS (CPA)",
+      "department_members": [
+        {
+          "member_name": "BG Amy E. Johnston",
+          "member_role": "Chief of Public Affairs"
+        },
+        {
+          "member_name": "Michael P. Brady",
+          "member_role": "Principal Deputy"
+        },
+        {
+          "member_name": "COL Ethan Hall",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "COL Katherine Wilkinson",
+          "member_role": "Chief, Media Relations Division"
+        },
+        {
+          "member_name": "COL Brian Fickel",
+          "member_role": "Director, U.S. Army Public Affairs Center"
+        },
+        {
+          "member_name": "LTC Thomas Campbell",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Sandy Czares",
+          "member_role": "Executive Assistant"
+        }
+      ]
+    },
+    {
+      "department_name": "DEPUTY CHIEF OF STAFF, G-1 (DCS, G-1) (PERSONNEL)",
+      "department_members": [
+        {
+          "member_name": "LTG Gary Brito",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Leslie Ditcharo",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Roy A. Wallace",
+          "member_role": "Assistant Deputy Chief of Staff"
+        },
+        {
+          "member_name": "COL Jennifer S. Walkawicz",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "MAJ Yakena Douglas",
+          "member_role": "Military Assistant"
+        },
+        {
+          "member_name": "James Helis",
+          "member_role": "Director of Army Resiliency"
+        },
+        {
+          "member_name": "Michael Reheuser",
+          "member_role": "Director, Assistant G-1 for Civilian Personnel"
+        },
+        {
+          "member_name": "Dr. Michelle Sams",
+          "member_role": "Director, Human Systems Integration"
+        },
+        {
+          "member_name": "MG Doug Stitt",
+          "member_role": "Director, Military Personnel Management"
+        },
+        {
+          "member_name": "Dr. Robert Steinrauf",
+          "member_role": "Director, Plans and Resources"
+        },
+        {
+          "member_name": "James Helis",
+          "member_role": "Director, Sexual Harassment / Assault Response and Prevention"
+        },
+        {
+          "member_name": "Terry Watson",
+          "member_role": "Director, Technology and Business Architecture Integration"
+        },
+        {
+          "member_name": "BG Thomas R. Drew",
+          "member_role": "Commanding General, U.S. Army Human Resources Command"
+        },
+        {
+          "member_name": "Carol G. Burton",
+          "member_role": "Director, U.S. Army Civilian Human Resources Agency"
+        },
+        {
+          "member_name": "Ed David",
+          "member_role": "Director, Civilian Training Student Education Detachment"
+        },
+        {
+          "member_name": "MG Alex B. Fink",
+          "member_role": "Director, Office of the Chief Army Enterprise Marketing"
+        }
+      ]
+    },
+    {
+      "department_name": "DEPUTY CHIEF OF STAFF, G-2 (DCS, G-2) (INTELLIGENCE)",
+      "department_members": [
+        {
+          "member_name": "LTG Laura A. Potter",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Diane M. Randon",
+          "member_role": "Assistant Deputy Chief of Staff"
+        },
+        {
+          "member_name": "MG Mary Kate Leahy",
+          "member_role": "Military Deputy"
+        },
+        {
+          "member_name": "COL Danielle S. Mettling",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Victoria Palacios",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "MG Michele H. Bredenkamp",
+          "member_role": "Commanding General, U.S. Army Intelligence and Security Command"
+        }
+      ]
+    },
+    {
+      "department_name": "DEPUTY CHIEF OF STAFF, G-3 (DCS, G-3) (OPERATIONS)",
+      "department_members": [
+        {
+          "member_name": "LTG James E. Rainey",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Michael T. Mahoney",
+          "member_role": "Assistant Deputy Chief (acting)"
+        },
+        {
+          "member_name": "COL Joseph E. Escandon",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Maureen Marshall",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "BG Clair A. Gill",
+          "member_role": "Director of Aviation"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Director of Cyber"
+        },
+        {
+          "member_name": "COL Jason A. Charland",
+          "member_role": "Director of Joint and Defense Affairs"
+        },
+        {
+          "member_name": "BG Patrick Work",
+          "member_role": "Director of Operations, Readiness, and Mobilization"
+        },
+        {
+          "member_name": "MG Bradley Gericke",
+          "member_role": "Director of Strategy, Plans, and Policy"
+        },
+        {
+          "member_name": "BG Scott Naumann",
+          "member_role": "Director of Training"
+        },
+        {
+          "member_name": "COL Daniel Y. Morris",
+          "member_role": "Director, U.S. Army Aeronautical Services Agency"
+        },
+        {
+          "member_name": "COL Michael L. Smith",
+          "member_role": "Director, U.S. Army Command and Control Support Agency"
+        },
+        {
+          "member_name": "BG Kevin D. Admiral",
+          "member_role": "Director, U.S. Army Force Management Support Agency"
+        },
+        {
+          "member_name": "COL Benjamin D. Miller",
+          "member_role": "Director, U.S. Army Nuclear and Combating WMD Agency"
+        }
+      ]
+    },
+    {
+      "department_name": "DEPUTY CHIEF OF STAFF, G-4 (DCS, G-4) (LOGISTICS)",
+      "department_members": [
+        {
+          "member_name": "LTG Duane A. Gamble",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "John E. Hall",
+          "member_role": "Assistant Deputy Chief"
+        },
+        {
+          "member_name": "MG Charles R. Hamilton",
+          "member_role": "Assistant Deputy Chief / Operations"
+        },
+        {
+          "member_name": "COL Stephanie Barton",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Torwanna D. Herbert",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Robert Thurston",
+          "member_role": "Director of Enterprise Support"
+        },
+        {
+          "member_name": "COL Farell Duncomb",
+          "member_role": "Director of Maintenance Policy, Programs, and Processes (acting)"
+        },
+        {
+          "member_name": "Julia Lyons",
+          "member_role": "Director of Resource Management"
+        },
+        {
+          "member_name": "Theresa Smith",
+          "member_role": "Director of Supply Policy, Programs, and Processes (acting)"
+        },
+        {
+          "member_name": "Donald R. Bates",
+          "member_role": "Director, U.S. Army Logistics Enterprise Support Agency"
+        }
+      ]
+    },
+    {
+      "department_name": "DEPUTY CHIEF OF STAFF, G-8 (DCS, G-8) (PROGRAMS)",
+      "department_members": [
+        {
+          "member_name": "LTG Erik C. Peterson",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Krystyna M. Kolesar",
+          "member_role": "Assistant Deputy Chief"
+        },
+        {
+          "member_name": "Deborah VanHeest",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "COL Beth A. Behn",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "BG Michael McCurry",
+          "member_role": "Director of Force Development"
+        },
+        {
+          "member_name": "MG Karl H. Gingrich",
+          "member_role": "Director of Program Analysis and Evaluation"
+        },
+        {
+          "member_name": "Dr. Steven A. Stoddard",
+          "member_role": "Director, U.S. Army Center for Army Analysis"
+        }
+      ]
+    },
+    {
+      "department_name": "DIRECTOR OF THE ARMY STAFF (DAS)",
+      "department_members": [
+        {
+          "member_name": "LTG Walter E. Piatt",
+          "member_role": "Director of the Army Staff"
+        },
+        {
+          "member_name": "Laura N. Jankovich",
+          "member_role": "Vice Director"
+        },
+        {
+          "member_name": "COL Michael Kovacevic",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Samantha Johnson",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "BG Andrew C. Hilmes",
+          "member_role": "Commanding General, U.S. Army Combat Readiness / Safety Center"
+        }
+      ]
+    },
+    {
+      "department_name": "PROVOST MARSHAL GENERAL (PMG)",
+      "department_members": [
+        {
+          "member_name": "BG Duane R. Miller",
+          "member_role": "Provost Marshal General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Provost Marshal General"
+        },
+        {
+          "member_name": "COL Andrew Deaton",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Herman ``Tracy'' Williams III",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Thelma Flores",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "BG Duane R. Miller",
+          "member_role": "Commanding General, U.S. Army Criminal Investigation Command"
+        },
+        {
+          "member_name": "BG Duane R. Miller",
+          "member_role": "Commanding General, U.S. Army Corrections Command"
+        },
+        {
+          "member_name": "Glen Krizay",
+          "member_role": "Director, Defense Forensics and Biometrics Agency"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF SMALL BUSINESS PROGRAMS (OSBP)",
+      "department_members": [
+        {
+          "member_name": "Kimberly D. Buehler",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Pamela D. Callicutt",
+          "member_role": "Deputy / Executive Officer"
+        },
+        {
+          "member_name": "Jasmine Barrett",
+          "member_role": "Executive Assistant"
+        }
+      ]
+    },
+    {
+      "department_name": "THE INSPECTOR GENERAL (TIG)",
+      "department_members": [
+        {
+          "member_name": "LTG Leslie C. Smith",
+          "member_role": "The Inspector General"
+        },
+        {
+          "member_name": "COL Issaac C. Manigault",
+          "member_role": "Deputy Inspector General (acting)"
+        },
+        {
+          "member_name": "COL John Chua",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "LTC Mariano Rosario",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "LTG Leslie C. Smith",
+          "member_role": "Commanding General, U.S. Army Inspector General Agency"
+        }
+      ]
+    },
+    {
+      "department_name": "THE JUDGE ADVOCATE GENERAL (TJAG)",
+      "department_members": [
+        {
+          "member_name": "LTG Stuart W. Risch",
+          "member_role": "The Judge Advocate General"
+        },
+        {
+          "member_name": "MG Joseph \"Joe\" B. Berger, III",
+          "member_role": "Deputy Judge Advocate General"
+        },
+        {
+          "member_name": "COL Terri Eriseman",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "M. Delores Mitchell",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "BG George R. Smawley",
+          "member_role": "Commander, U.S. Army Legal Services Agency"
+        },
+        {
+          "member_name": "BG Allison C. Martin",
+          "member_role": "Commander / Commandant, U.S. Army Judge Advocate General's Legal Center and School"
+        }
+      ]
+    },
+    {
+      "department_name": "THE SURGEON GENERAL (TSG)",
+      "department_members": [
+        {
+          "member_name": "LTG R. Scott Dingle",
+          "member_role": "The Surgeon General"
+        },
+        {
+          "member_name": "MG Telita Crosland",
+          "member_role": "Deputy Surgeon General"
+        },
+        {
+          "member_name": "Rich Beauchemin",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "COL Kristen Casto",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "CSM Diamond Hough",
+          "member_role": "Command Sergeant Major"
+        },
+        {
+          "member_name": "Duty Officer-in-Charge",
+          "member_role": "Operations Center"
+        },
+        {
+          "member_name": "LTG R. Scott Dingle",
+          "member_role": "U.S. Army Medical Command"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. ARMY FORCES COMMAND (FORSCOM)",
+      "department_members": [
+        {
+          "member_name": "GEN Michael X. Garrett",
+          "member_role": "Commanding General"
+        },
+        {
+          "member_name": "LTG Leopaldo Quintas, Jr.",
+          "member_role": "Deputy Commanding General"
+        },
+        {
+          "member_name": "MG Eugene \"Gene\" J. LeBoeuf",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "COL Anthony \"Tony\" Lugo",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "CSM Todd Sims",
+          "member_role": "Command Sergeant Major"
+        },
+        {
+          "member_name": "COL Matthew Condry",
+          "member_role": "Secretary of the General Staff"
+        },
+        {
+          "member_name": "COL Luis Ortiz",
+          "member_role": "Operations Center"
+        },
+        {
+          "member_name": "Jennifer Bhartiya",
+          "member_role": "Staff Action Control Officer"
+        },
+        {
+          "member_name": "LTC James L. Congton",
+          "member_role": "Liaison Office (Washington, DC)"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. ARMY TRAINING AND DOCTRINE COMMAND (TRADOC)",
+      "department_members": [
+        {
+          "member_name": "GEN Paul E. Funk II",
+          "member_role": "Commanding General"
+        },
+        {
+          "member_name": "LTG Theodore D. Martin",
+          "member_role": "Deputy Commanding General / Chief of Staff"
+        },
+        {
+          "member_name": "COL Scott Woodward",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "MG Daniel J. Christian",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "CSM Daniel T. Hendrix",
+          "member_role": "Command Sergeant Major"
+        },
+        {
+          "member_name": "Victor Holman",
+          "member_role": "Secretary of the General Staff"
+        },
+        {
+          "member_name": "Richard Heyward",
+          "member_role": "Director, G-33 / Operations Center"
+        },
+        {
+          "member_name": "Charles R. Bowery, Jr.",
+          "member_role": "U.S. Army Center of Military History"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. ARMY MATERIEL COMMAND (AMC)",
+      "department_members": [
+        {
+          "member_name": "GEN Edward M. Daly",
+          "member_role": "Commanding General"
+        },
+        {
+          "member_name": "LTG Donnie Walker",
+          "member_role": "Deputy Commanding General"
+        },
+        {
+          "member_name": "Lisha H. Adams",
+          "member_role": "Executive Deputy Commanding General"
+        },
+        {
+          "member_name": "MG Robert D. Harter",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "COL Landis C. Maddox",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "CSM Alberto Delgado",
+          "member_role": "Command Sergeant Major"
+        },
+        {
+          "member_name": "MAJ Timothy P. Gibbons",
+          "member_role": "Secretary of the General Staff"
+        },
+        {
+          "member_name": "Duty Officer-in-Charge",
+          "member_role": "Operations Center"
+        }
+      ]
+    },
+    {
+      "department_name": "JOINT FORCE HEADQUARTERS-NATIONAL CAPITAL REGION AND MILITARY DISTRICT OF WASHINGTON (JFHQ-NCR / MDW)",
+      "department_members": [
+        {
+          "member_name": "MG Alan M. Pepin",
+          "member_role": "Commanding General"
+        },
+        {
+          "member_name": "MAJ Matthew Dotson",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "CPT Shaye Haver",
+          "member_role": "Aide de Camp"
+        },
+        {
+          "member_name": "Egon F. Hawrylak",
+          "member_role": "Deputy Commander"
+        },
+        {
+          "member_name": "RDML Michael Steffen",
+          "member_role": "JTF Deputy"
+        },
+        {
+          "member_name": "CSM Frank Velez",
+          "member_role": "Command Sergeant Major"
+        },
+        {
+          "member_name": "COL Gregory Beaudoin",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Bart Jumaoas",
+          "member_role": "Secretary of the General Staff"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. ARMY SPECIAL OPERATIONS COMMAND",
+      "department_members": [
+        {
+          "member_name": "LTG Jonathan P. Braga",
+          "member_role": "Commanding General"
+        },
+        {
+          "member_name": "BG Steven M. Marks",
+          "member_role": "Deputy Commanding General"
+        },
+        {
+          "member_name": "COL Sara E. Dudley",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "CSM Michael R. Weimer",
+          "member_role": "Command Sergeant Major"
+        },
+        {
+          "member_name": "Russ Vona",
+          "member_role": "Secretary of the General Staff"
+        }
+      ]
+    }
+  ]
+}

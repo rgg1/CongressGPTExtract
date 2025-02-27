@@ -1,0 +1,1113 @@
+{
+  "cabinet": [
+    {
+      "member_name": "John W. Snow",
+      "member_role": "Secretary of the Treasury"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF THE TREASURY",
+      "department_members": [
+        {
+          "member_name": "John W. Snow",
+          "member_role": "Secretary of the Treasury"
+        },
+        {
+          "member_name": "Deborah Grubbs",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Cheryl Matera",
+          "member_role": "Confidential Assistant"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Reavie Harvey",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Marsha Valentic",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Peter McPherson",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Timothy Adams",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Shirley Gathers",
+          "member_role": "Review Analyst"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Senior Advisor to the Secretary"
+        },
+        {
+          "member_name": "Christopher Smith",
+          "member_role": "Counselor to the Secretary"
+        },
+        {
+          "member_name": "Jeffrey Kupfer",
+          "member_role": "Senior Advisor / Executive Secretary"
+        },
+        {
+          "member_name": "Paul Curry",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Review Analyst"
+        },
+        {
+          "member_name": "Benjamin Getto",
+          "member_role": "Special Assistant to the Executive Secretary"
+        },
+        {
+          "member_name": "Michael L. Romey",
+          "member_role": "Special Assistant to the Secretary (National Security)"
+        },
+        {
+          "member_name": "Laurie Kurtzweg",
+          "member_role": "Senior National Intelligence Adviser"
+        },
+        {
+          "member_name": "David D. Aufhauser",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "George Wolfe",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Associate Deputy General Counsel"
+        },
+        {
+          "member_name": "Thomas M. McGivern",
+          "member_role": "Counselor to the General Counsel"
+        },
+        {
+          "member_name": "Traci J. Sanders",
+          "member_role": "Deputy Counselor to the General Counsel"
+        },
+        {
+          "member_name": "Robert T. Foss, Jr.",
+          "member_role": "Administrative Officer"
+        },
+        {
+          "member_name": "Roberta McInerney",
+          "member_role": "Assistant General Counsel (Banking and Finance)"
+        },
+        {
+          "member_name": "Michael T. Schmitz",
+          "member_role": "Assistant General Counsel (Enforcement) (acting)"
+        },
+        {
+          "member_name": "Kenneth R. Schmalzbach",
+          "member_role": "Assistant General Counsel (General Law and Ethics)"
+        },
+        {
+          "member_name": "Russell L. Munk",
+          "member_role": "Assistant General Counsel (International Affairs)"
+        },
+        {
+          "member_name": "Eleni Constantine",
+          "member_role": "Deputy Assistant General Counsel"
+        },
+        {
+          "member_name": "Ellen McClain",
+          "member_role": "Deputy Assistant General Counsel"
+        },
+        {
+          "member_name": "Marilyn L. Muench",
+          "member_role": "Deputy Assistant General Counsel"
+        },
+        {
+          "member_name": "Barbara C. Hammerle",
+          "member_role": "Chief Counsel, Foreign Assets Control (acting)"
+        },
+        {
+          "member_name": "Mary Ann Curtin",
+          "member_role": "Counsel to the Inspector General for Tax Administration"
+        },
+        {
+          "member_name": "Jeffrey Rush, Jr.",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Dennis S. Schindel",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "Richard Delmar",
+          "member_role": "Counsel to the Inspector General"
+        },
+        {
+          "member_name": "Michael C. Tarr",
+          "member_role": "Assistant Inspector General for Investigations"
+        },
+        {
+          "member_name": "Elizabeth M. Redman",
+          "member_role": "Deputy Assistant Inspector General for Investigations"
+        },
+        {
+          "member_name": "Adam Silverman",
+          "member_role": "Assistant Inspector General for Management Services"
+        },
+        {
+          "member_name": "Dennis S. Schindel",
+          "member_role": "Assistant Inspector General for Audit"
+        },
+        {
+          "member_name": "Marla Freedman",
+          "member_role": "Deputy Assistant Inspector General for Audit"
+        },
+        {
+          "member_name": "William Pugh",
+          "member_role": "Deputy Assistant Inspector General for Audit (CFO)"
+        },
+        {
+          "member_name": "Edith A. Greenip",
+          "member_role": "Director of Human Resources"
+        },
+        {
+          "member_name": "Judy Mullen",
+          "member_role": "Director of Asset Management"
+        },
+        {
+          "member_name": "John Duncan",
+          "member_role": "Assistant Secretary for Legislative Affairs"
+        },
+        {
+          "member_name": "Tim Keeler",
+          "member_role": "Deputy to the Assistant Secretary"
+        },
+        {
+          "member_name": "Janet L. Jones",
+          "member_role": "Scheduling Coordinator"
+        },
+        {
+          "member_name": "Cherry Grayson",
+          "member_role": "Legislative Assistant (Appropriations and Management)"
+        },
+        {
+          "member_name": "David Merkel",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Andy Fishburn",
+          "member_role": "Senior Legislative Specialist"
+        },
+        {
+          "member_name": "Art Cameron",
+          "member_role": "Deputy Assistant Secretary for Appropriations and Management"
+        },
+        {
+          "member_name": "Laura Cox",
+          "member_role": "Deputy Assistant Secretary for Banking and Finance"
+        },
+        {
+          "member_name": "Katie Quinn",
+          "member_role": "Deputy Assistant Secretary for Enforcement"
+        },
+        {
+          "member_name": "James T. Young",
+          "member_role": "Deputy Assistant Secretary for Tax and Budget"
+        },
+        {
+          "member_name": "Robert Nichols",
+          "member_role": "Assistant Secretary for Public Affairs (acting)"
+        },
+        {
+          "member_name": "Robert Nichols",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Director (Public Education)"
+        },
+        {
+          "member_name": "Tony Fratto",
+          "member_role": "Director (Public Affairs)"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Chief of Staff (Education)"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Review Analyst and Scheduling Coordinator"
+        },
+        {
+          "member_name": "John Taylor",
+          "member_role": "Under Secretary for International Affairs"
+        },
+        {
+          "member_name": "Ramin Toloui",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Paul Ashin",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Randal K. Quarles",
+          "member_role": "Assistant Secretary for International Affairs"
+        },
+        {
+          "member_name": "Meg Donovan",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Clara M. Robinson",
+          "member_role": "Staff Assistant"
+        },
+        {
+          "member_name": "John McDowell",
+          "member_role": "Director of Program Services"
+        },
+        {
+          "member_name": "Wilbur F. Monroe",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Wilbur F. Monroe",
+          "member_role": "Director, Office of International Banking and Securities Markets (acting)"
+        },
+        {
+          "member_name": "Michele Shannon",
+          "member_role": "Director, Office of International Monetary Policy (acting)"
+        },
+        {
+          "member_name": "Timothy DuLaney",
+          "member_role": "Director, Office of Foreign Exchange Operations"
+        },
+        {
+          "member_name": "Robert Harlow",
+          "member_role": "Director, Office of Industrial Nations IMI and Global Analyses (acting)"
+        },
+        {
+          "member_name": "Albert Keidel",
+          "member_role": "Director, Office of East Asian Nations (acting)"
+        },
+        {
+          "member_name": "Steve Backes",
+          "member_role": "Director, Office of Latin American and Caribbean Nations"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Director, Office of International Trade"
+        },
+        {
+          "member_name": "Gay S. Sills",
+          "member_role": "Director, Office of International Investment"
+        },
+        {
+          "member_name": "Stephen F. Tvardek",
+          "member_role": "Director, Office of Trade Finance"
+        },
+        {
+          "member_name": "T. Whittier Warthin",
+          "member_role": "Director, Office of International Financial Affairs"
+        },
+        {
+          "member_name": "Karen Mathiasen",
+          "member_role": "Director, Office of Central and Eastern European Nations"
+        },
+        {
+          "member_name": "Anna Gelpern",
+          "member_role": "Director, Office of Middle Eastern and Central Asian Nations"
+        },
+        {
+          "member_name": "Ged Smith",
+          "member_role": "Director, Office of Technical Assistance"
+        },
+        {
+          "member_name": "W. Larry McDonald",
+          "member_role": "Director, Office of Middle East and South Asian Nations"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Director, Office of African Nations"
+        },
+        {
+          "member_name": "Sara Paulson",
+          "member_role": "Director, Office of Development Banks"
+        },
+        {
+          "member_name": "Michael Kaplan",
+          "member_role": "Director, Office of International Debt Policy"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Director, Office of Development Finance"
+        },
+        {
+          "member_name": "Williams E. Schuerch",
+          "member_role": "Deputy Assistant Secretary for International Development, Debt and Environmental Policy"
+        },
+        {
+          "member_name": "Mark Sobel",
+          "member_role": "Deputy Assistant Secretary for International Monetary and Financial Policy"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Deputy Assistant Secretary for Trade and Investment Policy"
+        },
+        {
+          "member_name": "Nancy Lee",
+          "member_role": "Deputy Assistant Secretary for Eurasia and the Middle East"
+        },
+        {
+          "member_name": "James H. Fall III",
+          "member_role": "Deputy Assistant Secretary for Technical Assistance Policy"
+        },
+        {
+          "member_name": "Clay Lowery",
+          "member_role": "Deputy Assistant Secretary for International Debt, Development and Quantitative Policy Analysis"
+        },
+        {
+          "member_name": "Cynthia Shepard Perry",
+          "member_role": "U.S. Director of African Development Bank and Fund"
+        },
+        {
+          "member_name": "Paul W. Speltz",
+          "member_role": "U.S. Director of Asian Development Bank"
+        },
+        {
+          "member_name": "Mark Sullivan",
+          "member_role": "U.S. Director of European Bank for Reconstruction and Development"
+        },
+        {
+          "member_name": "Jose Fourquet",
+          "member_role": "U.S. Executive Director of Inter-American Development Bank"
+        },
+        {
+          "member_name": "Carole Brookins",
+          "member_role": "U.S. Executive Director of International Bank for Reconstruction and Development"
+        },
+        {
+          "member_name": "Nancy P. Jacklin",
+          "member_role": "U.S. Executive Director of International Monetary Fund"
+        },
+        {
+          "member_name": "Peter R. Fisher",
+          "member_role": "Under Secretary for Domestic Finance"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Diana Ridgway",
+          "member_role": "Review Analyst"
+        },
+        {
+          "member_name": "Donald Hammond",
+          "member_role": "Fiscal Assistant Secretary"
+        },
+        {
+          "member_name": "Robert Reid",
+          "member_role": "Deputy Assistant"
+        },
+        {
+          "member_name": "David Monroe",
+          "member_role": "Director, Office of Cash and Debt Management"
+        },
+        {
+          "member_name": "Richard L. Gregg",
+          "member_role": "Commissioner, Financial Management Service"
+        },
+        {
+          "member_name": "Kenneth R. Papaj",
+          "member_role": "Deputy Commissioner"
+        },
+        {
+          "member_name": "Kerry Lanham",
+          "member_role": "Assistant Commissioner for Agency Services"
+        },
+        {
+          "member_name": "Martin Mills",
+          "member_role": "Assistant Commissioner for Debt Management Services"
+        },
+        {
+          "member_name": "Bettsy H. Lane",
+          "member_role": "Assistant Commissioner for Federal Finance"
+        },
+        {
+          "member_name": "Judith R. Tillman",
+          "member_role": "Assistant Commissioner for Financial Operations"
+        },
+        {
+          "member_name": "D. James Sturgill",
+          "member_role": "Assistant Commissioner for Governmentwide Accounting"
+        },
+        {
+          "member_name": "Nancy C. Fleetwood",
+          "member_role": "Assistant Commissioner for Information Resources"
+        },
+        {
+          "member_name": "Scott Johnson",
+          "member_role": "Management (Chief Financial Officer)"
+        },
+        {
+          "member_name": "Anthony Torrice",
+          "member_role": "Assistant Commissioner for Regional Operations"
+        },
+        {
+          "member_name": "Debra Diener",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Alvina M. McHale",
+          "member_role": "Director for Legislative and Public Affairs"
+        },
+        {
+          "member_name": "F. Van Zeck",
+          "member_role": "Commissioner, Bureau of the Public Debt"
+        },
+        {
+          "member_name": "Anne Meister",
+          "member_role": "Deputy Commissioner"
+        },
+        {
+          "member_name": "Glenn E. Ball",
+          "member_role": "Assistant Commissioner for Administration"
+        },
+        {
+          "member_name": "Cynthia Springer",
+          "member_role": "Assistant Commissioner for Office of Information Technology"
+        },
+        {
+          "member_name": "Carl Locken",
+          "member_role": "Assistant Commissioner for Financing"
+        },
+        {
+          "member_name": "Debra Hines",
+          "member_role": "Assistant Commissioner for Public Debt Accounting"
+        },
+        {
+          "member_name": "John Swales",
+          "member_role": "Assistant Commissioner for Office of Securities Operations"
+        },
+        {
+          "member_name": "Frederick Pyatt",
+          "member_role": "Assistant Commissioner for Office of Investor Services"
+        },
+        {
+          "member_name": "Richard Clarida",
+          "member_role": "Assistant Secretary for Economic Policy"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Deputy Assistant Secretary for Macroeconomics Analysis"
+        },
+        {
+          "member_name": "James Carter",
+          "member_role": "Deputy Assistant Secretary for Policy Coordination"
+        },
+        {
+          "member_name": "Mark Warshawsky",
+          "member_role": "Deputy Assistant Secretary for Microeconomic Analysis"
+        },
+        {
+          "member_name": "John Worth",
+          "member_role": "Director, Office of Microeconomic Analysis (acting)"
+        },
+        {
+          "member_name": "Karen Hendershot",
+          "member_role": "Director, Office of Macroeconomic Analysis (acting)"
+        },
+        {
+          "member_name": "Wayne A. Abernathy",
+          "member_role": "Assistant Secretary for Financial Institutions"
+        },
+        {
+          "member_name": "Brian Tishuk",
+          "member_role": "Deputy Assistant Secretary, Office of Consumer Affairs and Community Policy (acting)"
+        },
+        {
+          "member_name": "Michael A. Dawson",
+          "member_role": "Deputy Assistant Secretary, Critical Infrastructure Protection and Compliance Policy"
+        },
+        {
+          "member_name": "Judy Chapa",
+          "member_role": "Deputy Assistant Secretary, Financial Education"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE ASSISTANT SECRETARY FOR FINANCIAL MARKETS",
+      "department_members": [
+        {
+          "member_name": "Brian Carleton Roseboro",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Robert Reid",
+          "member_role": "Deputy Assistant Secretary, Office of Accounting Operation"
+        },
+        {
+          "member_name": "Timothy Bitsberger",
+          "member_role": "Deputy Assistant Secretary, Office of Federal Finance"
+        },
+        {
+          "member_name": "Roger Kodat",
+          "member_role": "Deputy Assistant Secretary, Office of Government Financial Policy"
+        },
+        {
+          "member_name": "Timothy Skud",
+          "member_role": "Deputy Assistant Secretary, Office of Regulatory, Tariff and Trade (acting)"
+        },
+        {
+          "member_name": "Juan Zarate",
+          "member_role": "Deputy Assistant Secretary, Office of Terrorism/Violent Crimes"
+        },
+        {
+          "member_name": "Reese Fuller",
+          "member_role": "Director, Office of Advanced Counterfeit Deterrence"
+        },
+        {
+          "member_name": "Raymond Dineen",
+          "member_role": "Director, Office of Asset Forfeiture"
+        },
+        {
+          "member_name": "David Monroe",
+          "member_role": "Director, Office of Cash and Debt Management"
+        },
+        {
+          "member_name": "Norman K. Carleton",
+          "member_role": "Director, Office of Federal Finance Policy Analysis"
+        },
+        {
+          "member_name": "R. Richard Newcomb",
+          "member_role": "Director, Office of Foreign Assets Control"
+        },
+        {
+          "member_name": "Kerry Lanham",
+          "member_role": "Director, Office of Government Financing"
+        },
+        {
+          "member_name": "Paul F. Malvey",
+          "member_role": "Director, Office of Market Finance"
+        },
+        {
+          "member_name": "Danny Glaser",
+          "member_role": "Director, Office of Money Laundering/Financial Crimes"
+        },
+        {
+          "member_name": "Timothy Skud",
+          "member_role": "Director, Office of Trade and Tariff Affairs"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE ASSISTANT SECRETARY FOR TAX POLICY",
+      "department_members": [
+        {
+          "member_name": "Pamela Olson",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Eric Solomon",
+          "member_role": "Deputy Assistant Secretary for Regulatory Affairs"
+        },
+        {
+          "member_name": "Drew Lyon",
+          "member_role": "Deputy Assistant Secretary for Tax Analysis"
+        },
+        {
+          "member_name": "Gregory Jenner",
+          "member_role": "Deputy Assistant Secretary for Tax Policy"
+        },
+        {
+          "member_name": "Helen Hubbard",
+          "member_role": "Tax Legislative Counsel"
+        },
+        {
+          "member_name": "John Parcell",
+          "member_role": "Deputy Tax Legislative Counsel (acting)"
+        },
+        {
+          "member_name": "Carl Dubert",
+          "member_role": "Deputy, International Tax Counsel"
+        },
+        {
+          "member_name": "Patricia Brown",
+          "member_role": "Deputy, International Tax Counsel"
+        },
+        {
+          "member_name": "Bill Sweetnam",
+          "member_role": "Benefits Tax Counsel"
+        },
+        {
+          "member_name": "Donald Kiefer",
+          "member_role": "Director, Office of Tax Analysis"
+        },
+        {
+          "member_name": "Paul Dobbins",
+          "member_role": "Director, Office of Economic Modeling and Computer Applications (acting)"
+        },
+        {
+          "member_name": "William Randolph",
+          "member_role": "Director, Office of International Taxation"
+        },
+        {
+          "member_name": "James R. Nunns",
+          "member_role": "Director, Office of Individual Taxation"
+        },
+        {
+          "member_name": "Geraldine A. Gerardi",
+          "member_role": "Director, Office of Business Taxation"
+        },
+        {
+          "member_name": "Joel Platt",
+          "member_role": "Director, Office of Revenue Estimating"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE ASSISTANT SECRETARY FOR MANAGEMENT / CHIEF FINANCIAL OFFICER",
+      "department_members": [
+        {
+          "member_name": "Teresa Mullett Ressel",
+          "member_role": "Assistant Secretary for Management (acting)"
+        },
+        {
+          "member_name": "Mike Parker",
+          "member_role": "Deputy Assistant for Information Systems/Chief Information Officer"
+        },
+        {
+          "member_name": "Earl Wright",
+          "member_role": "Deputy Assistant for Human Resources"
+        },
+        {
+          "member_name": "Timothy Weatherford",
+          "member_role": "Deputy Assistant for Management and Budget"
+        },
+        {
+          "member_name": "Mayi Canales",
+          "member_role": "Chief of Business Practices"
+        },
+        {
+          "member_name": "Seven Apps",
+          "member_role": "Chief of Finance"
+        },
+        {
+          "member_name": "Earl Wright",
+          "member_role": "Chief of Management and Administrative Programs (acting)"
+        },
+        {
+          "member_name": "Barry K. Hudson",
+          "member_role": "Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "James R. Lingebach",
+          "member_role": "Director of Accounting and Internal Control"
+        },
+        {
+          "member_name": "Carolyn Austin-Diggs",
+          "member_role": "Director of Asset Management"
+        },
+        {
+          "member_name": "Janice Lambert",
+          "member_role": "Director of Budget"
+        },
+        {
+          "member_name": "Patrick Hargett",
+          "member_role": "Director of Customer Service Infrastructure and Operations"
+        },
+        {
+          "member_name": "John Dyer",
+          "member_role": "Director of Customer Solutions (acting)"
+        },
+        {
+          "member_name": "Sandra M. Penny",
+          "member_role": "Director of Departmental Budget Execution"
+        },
+        {
+          "member_name": "Marcia Hall Coates",
+          "member_role": "Director of Equal Opportunity"
+        },
+        {
+          "member_name": "Wesley L. Hawley",
+          "member_role": "Director of Facilities Management (acting)"
+        },
+        {
+          "member_name": "David J. Epstein",
+          "member_role": "Director of Financial Systems Integration"
+        },
+        {
+          "member_name": "Steve Bryant",
+          "member_role": "Director of IT Policy and Strategy (acting)"
+        },
+        {
+          "member_name": "Veronica Marco",
+          "member_role": "Director of Information Services"
+        },
+        {
+          "member_name": "Michelle Moldenhauer",
+          "member_role": "Director of Information Systems Security"
+        },
+        {
+          "member_name": "Mary Beth Shaw",
+          "member_role": "Director of Pensions"
+        },
+        {
+          "member_name": "Ronald A. Glaser",
+          "member_role": "Director of Personnel Policy"
+        },
+        {
+          "member_name": "Barbara A. Borg",
+          "member_role": "Director of Personnel Resources Division"
+        },
+        {
+          "member_name": "Melissa Hartman",
+          "member_role": "Director of Printing and Graphics"
+        },
+        {
+          "member_name": "Stuart Burns",
+          "member_role": "Director of Safety, Health and Environment"
+        },
+        {
+          "member_name": "Patrick J. Geary",
+          "member_role": "Director of Security"
+        },
+        {
+          "member_name": "Jody Falvey",
+          "member_role": "Director of Small and Disadvantaged Business Utilization (acting)"
+        },
+        {
+          "member_name": "Carl Froehlich",
+          "member_role": "Director of Strategic Planning and Evaluation"
+        },
+        {
+          "member_name": "Lillian Wright",
+          "member_role": "Director of Travel and Special Events (acting)"
+        },
+        {
+          "member_name": "David A. Lingrell",
+          "member_role": "Director of Treasury Building"
+        },
+        {
+          "member_name": "Marie Bauer",
+          "member_role": "Director of Treasury Executive Institute"
+        },
+        {
+          "member_name": "Daniel F. Sturdivant",
+          "member_role": "Deputy Director of Outreach Programs"
+        },
+        {
+          "member_name": "Peter Mackey",
+          "member_role": "Deputy Director of Pensions"
+        },
+        {
+          "member_name": "John Roberts",
+          "member_role": "FMD Accounting Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE TREASURER OF THE UNITED STATES",
+      "department_members": [
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Treasurer"
+        },
+        {
+          "member_name": "Shirley L. Wheat",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Karen Duncan",
+          "member_role": "Special Assistant"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES MINT",
+      "department_members": [
+        {
+          "member_name": "Henrietta Holsman Fore",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Arnetta Cain",
+          "member_role": "Executive Assistant to the Director"
+        },
+        {
+          "member_name": "David A. Lebryk",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Pamela Carr",
+          "member_role": "Staff Assistant to the Deputy Director"
+        },
+        {
+          "member_name": "Dan Shaver",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Madelyn Simmons",
+          "member_role": "Director of Legislative and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Becky Bailey",
+          "member_role": "Director of Public Affairs"
+        },
+        {
+          "member_name": "William F. Daddio",
+          "member_role": "Associate Director (Protection Strategic Business Unit)"
+        },
+        {
+          "member_name": "Bill R. Bailey",
+          "member_role": "Deputy Director (Protection Strategic Business Unit)"
+        },
+        {
+          "member_name": "Jerry Horton",
+          "member_role": "Associate Director / Chief Information Officer"
+        },
+        {
+          "member_name": "Jay Mahanand",
+          "member_role": "Deputy Associate Director / Chief Information Officer"
+        },
+        {
+          "member_name": "Jay Weinstein",
+          "member_role": "Associate Director / Chief Financial Officer"
+        },
+        {
+          "member_name": "Mike Green",
+          "member_role": "Deputy Associate Director / Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "Gloria Eskridge",
+          "member_role": "Associate Director (Numismatic Strategic Business Unit)"
+        },
+        {
+          "member_name": "Jim Riedford",
+          "member_role": "Deputy Associate Director (Numismatic Strategic Business Unit)"
+        },
+        {
+          "member_name": "Brad Cooper",
+          "member_role": "Associate Director (Circulating Strategic Business Unit)"
+        },
+        {
+          "member_name": "Scott Myers",
+          "member_role": "Deputy Associate Director (Circulating Strategic Business Unit)"
+        }
+      ]
+    },
+    {
+      "department_name": "BUREAU OF ENGRAVING AND PRINTING",
+      "department_members": [
+        {
+          "member_name": "Thomas A. Ferguson",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Carrol H. Kinsey",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Gregory D. Carper",
+          "member_role": "Associate Director, Chief Financial Officer"
+        },
+        {
+          "member_name": "Ronald W. Falter",
+          "member_role": "Associate Director, Chief Information Officer"
+        },
+        {
+          "member_name": "William W. Wills",
+          "member_role": "Associate Director, Chief Operating Officer"
+        },
+        {
+          "member_name": "Joel C. Taub",
+          "member_role": "Associate Director for Management"
+        },
+        {
+          "member_name": "Carla F. Kidwell",
+          "member_role": "Associate Director for Technology"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE COMPTROLLER OF THE CURRENCY",
+      "department_members": [
+        {
+          "member_name": "John D. Hawke, Jr.",
+          "member_role": "Comptroller"
+        },
+        {
+          "member_name": "Mark A. Nishan",
+          "member_role": "Chief of Staff / Sr. Deputy Comptroller (Public Affairs) (acting)"
+        },
+        {
+          "member_name": "Julie L. Williams",
+          "member_role": "First Senior Deputy Comptroller / Chief Counsel"
+        },
+        {
+          "member_name": "Carolyn Z. McFarlane",
+          "member_role": "Director for Congressional Liaison"
+        },
+        {
+          "member_name": "Timothy W. Long",
+          "member_role": "Senior Deputy Comptroller of Midsize / Community Bank Supervision"
+        },
+        {
+          "member_name": "Jonathan L. Fiechter",
+          "member_role": "Senior Deputy Comptroller of International and Economic Affairs"
+        },
+        {
+          "member_name": "Edward J. Hanley",
+          "member_role": "Senior Deputy Comptroller of Management"
+        },
+        {
+          "member_name": "Douglas W. Roeder",
+          "member_role": "Senior Deputy Comptroller of Large Bank Supervision"
+        },
+        {
+          "member_name": "Emory W. Rushton",
+          "member_role": "Chief National Bank Examiner"
+        },
+        {
+          "member_name": "Samuel P. Golden",
+          "member_role": "Ombudsman"
+        },
+        {
+          "member_name": "Jackie Fletcher",
+          "member_role": "Chief Information Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "INTERNAL REVENUE SERVICE",
+      "department_members": [
+        {
+          "member_name": "Mark W. Everson",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Bob Wenzel",
+          "member_role": "Deputy Commissioner, Services and Enforcement"
+        },
+        {
+          "member_name": "Deborah Nolan",
+          "member_role": "Commissioner of Large and Mid-Size Business"
+        },
+        {
+          "member_name": "Dale Hart",
+          "member_role": "Commissioner of Small Business / Self-Employed"
+        },
+        {
+          "member_name": "Evelyn Petschek",
+          "member_role": "Commissioner of Tax Exempt and Government Entities"
+        },
+        {
+          "member_name": "Henry O. Lamar, Jr.",
+          "member_role": "Commissioner of Wage and Investment"
+        },
+        {
+          "member_name": "David B. Palmer",
+          "member_role": "Chief, Criminal Investigation"
+        },
+        {
+          "member_name": "Brien Downing",
+          "member_role": "Director, Office of Professional Responsibility"
+        },
+        {
+          "member_name": "John M. Dalrymple",
+          "member_role": "Deputy Commissioner, Operations Support"
+        },
+        {
+          "member_name": "W. Todd Grams",
+          "member_role": "Chief of Information Officer"
+        },
+        {
+          "member_name": "Bill Boswell",
+          "member_role": "Chief of Agency-Wide Shared Services"
+        },
+        {
+          "member_name": "Eileen Powell",
+          "member_role": "Chief of Financial Officer (acting)"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Chief of Human Capital Officer"
+        },
+        {
+          "member_name": "[Vacant]",
+          "member_role": "Chief of Mission Assurance"
+        },
+        {
+          "member_name": "B. John Williams, Jr.",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "David Robison",
+          "member_role": "Chief of Appeals"
+        },
+        {
+          "member_name": "Nina E. Olson",
+          "member_role": "National Taxpayer Advocate"
+        },
+        {
+          "member_name": "John M. Robinson",
+          "member_role": "Chief of EEO and Diversity"
+        },
+        {
+          "member_name": "Mark J. Mazur",
+          "member_role": "Director, Research, Analysis and Statistics"
+        },
+        {
+          "member_name": "David R. Williams",
+          "member_role": "Chief of Communications and Liaison"
+        },
+        {
+          "member_name": "Pamela J. Gardiner",
+          "member_role": "Inspector General TIGTA (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THRIFT SUPERVISION",
+      "department_members": [
+        {
+          "member_name": "James Gilleran",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Richard M. Riccobono",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Scott M. Albinson",
+          "member_role": "Managing Director, Supervision"
+        },
+        {
+          "member_name": "Carolyn J. Buck",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Kevin Petrasic",
+          "member_role": "Director of External Affairs"
+        },
+        {
+          "member_name": "Timothy T. Ward",
+          "member_role": "Director of Information Systems, Administration and Finance (CEO and CIO)"
+        }
+      ]
+    }
+  ]
+}

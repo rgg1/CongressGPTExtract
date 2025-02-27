@@ -1,0 +1,671 @@
+{
+  "cabinet": [
+    {
+      "member_name": "ANTONY J. BLINKEN",
+      "member_role": "Secretary of State"
+    }
+  ],
+  "executive_office_of_president": [
+    {
+      "office_name": "Office of Foreign Assistance",
+      "office_members": [
+        {
+          "member_name": "Tracy Carson",
+          "member_role": "Director (acting)"
+        }
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF STATE",
+      "department_members": [
+        {
+          "member_name": "ANTHONY J. BLINKEN",
+          "member_role": "Secretary of State"
+        },
+        {
+          "member_name": "WENDY R. SHERMAN",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "CAROL Z. PEREZ",
+          "member_role": "Under Secretary for Management and Resources (acting)"
+        },
+        {
+          "member_name": "MICHAEL G. KOZAK",
+          "member_role": "Ambassador-at-Large (acting)"
+        },
+        {
+          "member_name": "ASEL ROBERTS",
+          "member_role": "Chief of Protocol (acting)"
+        },
+        {
+          "member_name": "SHARON E. WEBER",
+          "member_role": "Deputy Chief of Protocol"
+        },
+        {
+          "member_name": "GREGORY B. SMITH",
+          "member_role": "Director and Chief Diversity Officer"
+        },
+        {
+          "member_name": "AUDREY B. HUON-DUMENTAT",
+          "member_role": "Deputy Director (acting)"
+        },
+        {
+          "member_name": "JOHN T. GODFREY",
+          "member_role": "Coordinator (acting)"
+        },
+        {
+          "member_name": "CHRISTOPHER LANDBERG",
+          "member_role": "Principal Deputy Coordinator (acting)"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Assistant Secretary (Bureau of Conflict and Stabilization Operations)"
+        },
+        {
+          "member_name": "PAUL F. HUEPER",
+          "member_role": "Deputy Assistant Secretary (acting, Bureau of Energy Resources)"
+        },
+        {
+          "member_name": "KAMALA S. LAKHDHIR",
+          "member_role": "Special Assistant and Executive Secretary"
+        },
+        {
+          "member_name": "TRESSA R. FINERTY",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "MARK C. JOHNSON",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "MARC L. SHAW",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "DIANA R. SHAW",
+          "member_role": "Inspector General (acting)"
+        },
+        {
+          "member_name": "KIN W. MOY",
+          "member_role": "Assistant Secretary (acting, Bureau of Intelligence and Research)"
+        },
+        {
+          "member_name": "KIN MOY",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "VICTOR RAPHAEL",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "ANNETTE REDMOND",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Legal Adviser"
+        },
+        {
+          "member_name": "RICHARD C. VISEK",
+          "member_role": "Principal Deputy Legal Adviser"
+        },
+        {
+          "member_name": "KATHLEEN HOOK",
+          "member_role": "Deputy Legal Adviser"
+        },
+        {
+          "member_name": "KATHERINE MCMANUS",
+          "member_role": "Deputy Legal Adviser"
+        },
+        {
+          "member_name": "NAZ DURAKOGLU",
+          "member_role": "Assistant Secretary (acting, Bureau of Legislative Affairs)"
+        },
+        {
+          "member_name": "DANNY STOIAN",
+          "member_role": "Deputy Assistant Secretary (Global, Regional, and Functional)"
+        },
+        {
+          "member_name": "DAVID N. BONINE",
+          "member_role": "Deputy Assistant Secretary (Senate)"
+        },
+        {
+          "member_name": "JACQUELINE QUINONES",
+          "member_role": "Deputy Assistant Secretary (House)"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Director (Policy Planning Staff)"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Principal Deputy Director (Policy Planning Staff)"
+        },
+        {
+          "member_name": "DR. DEBORAH BIRX",
+          "member_role": "Coordinator (Office of the U.S. Global AIDS Coordinator)"
+        },
+        {
+          "member_name": "MARK BROWN",
+          "member_role": "Principal Deputy U.S. Global AIDS Coordinator"
+        },
+        {
+          "member_name": "VICTORIA NULAND",
+          "member_role": "Under Secretary for Political Affairs"
+        },
+        {
+          "member_name": "ALEXANDER KASANOF",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "ROBERT GODEC",
+          "member_role": "Assistant Secretary (acting, African Affairs)"
+        },
+        {
+          "member_name": "ELIZABETH FITZSIMMONS",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "KIN MOY",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Principal Deputy Assistant Secretary (East Asian and Pacific Affairs)"
+        },
+        {
+          "member_name": "RICHARD L. BUANGAN",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MARK LAMBERT",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JUNG PAK",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "RICK WATERS",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "PHILIP T. REEKER",
+          "member_role": "Assistant Secretary (acting, European and Eurasian Affairs)"
+        },
+        {
+          "member_name": "MAUREEN E. CORMACK",
+          "member_role": "Principal Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "MATTHEW G. BOYSE",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MOLLY C. MONTGOMERY",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "GEORGE P. KENT",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MICHAEL J. MURPHY",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MATTHEW A. PALMER",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "CHRISTOPHER ROBINSON",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "YAEL LEMPERT",
+          "member_role": "Assistant Secretary (acting, Near Eastern Affairs)"
+        },
+        {
+          "member_name": "JOEY R. HOOD",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "HADY AMR",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "DANIAEL BENALM",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "AIMEE CUTRONA",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "CHRIS HODGES",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "DEAN THOMPSON",
+          "member_role": "Assistant Secretary (South and Central Asian Affairs)"
+        },
+        {
+          "member_name": "ERVIN MASSINGA",
+          "member_role": "Principal Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "RACHNA KOMONEN",
+          "member_role": "Executive Director"
+        },
+        {
+          "member_name": "JONATHAN HENICK",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "NANCY JACKSON",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "LAURA STONE",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "LES VIGUERLE",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JULIE CHUNG",
+          "member_role": "Assistant Secretary (acting, Western Hemisphere Affairs)"
+        },
+        {
+          "member_name": "HUGO RODRIGUEZ",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "KATHERINE DUEHOLM",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "LAURA LOCHMAN",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "EMILY MENDRALA",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "KEVIN M. O'REILLY",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JON PIECHOWSKI",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JAMES A. WALSH",
+          "member_role": "Assistant Secretary (acting, International Narcotics and Law Enforcement Affairs)"
+        },
+        {
+          "member_name": "JORGAN ANDREWS",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "TOBIN J. BRADLEY",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "HEIDI B. FULTON",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Assistant Secretary (International Organization Affairs)"
+        },
+        {
+          "member_name": "SABINE CROWLEY-KLAUBE",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "NERISSA J. COOK",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "ALLISON K. LOMBARDO",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "DAVID C. MCFARLAND",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JOSE W. FERNANDEZ",
+          "member_role": "Under Secretary for Economic Growth, Energy, and the Environment"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "JONATHAN D. FRITZ",
+          "member_role": "Chief Of Staff"
+        },
+        {
+          "member_name": "MANISHA SINGH",
+          "member_role": "Assistant Secretary (Economic and Business Affairs)"
+        },
+        {
+          "member_name": "PETER D. HAAS",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "ROLAND DE MARCELUS",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "DAVID MEALE",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "DAVID PEYMAN",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "ROBERT L. STRAYER",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "HUGO YON",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "BONNIE D. JENKINS",
+          "member_role": "Under Secretary for Arms Control and International Security"
+        },
+        {
+          "member_name": "HAILEY ROBBINS",
+          "member_role": "Chief Of Staff"
+        },
+        {
+          "member_name": "ELIOT KANG",
+          "member_role": "Assistant Secretary (acting, International Security and Nonproliferation)"
+        },
+        {
+          "member_name": "ANN GANZER",
+          "member_role": "Principal Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "ANTHONY WIER",
+          "member_role": "Deputy Assistant Secretary For Non-Nuclear Encounter For Proliferation"
+        },
+        {
+          "member_name": "PHILLIP DOLLIFF",
+          "member_role": "Deputy Assistant Secretary For Nonproliferation Programs (acting)"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Assistant Secretary (Political-Military Affairs)"
+        },
+        {
+          "member_name": "TIMOTHY A. BETTS",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "STANLEY L. BROWN",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MICHAEL F. MILLER",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MIRA RESNICK",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "BRUCE I. TURNER",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "ALEX BELL",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JENNIFER HALL GODFREY",
+          "member_role": "Under Secretary for Public Diplomacy and Public Affairs"
+        },
+        {
+          "member_name": "SILVIO GONZALEZ",
+          "member_role": "Chief Of Staff (acting)"
+        },
+        {
+          "member_name": "MARIE T. ROYCE",
+          "member_role": "Assistant Secretary (Educational and Cultural Affairs)"
+        },
+        {
+          "member_name": "JENNIFER Z. GALT",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "NICOLE CHULICH",
+          "member_role": "Assistant Secretary (acting, Global Public Affairs)"
+        },
+        {
+          "member_name": "MARK E. STROH",
+          "member_role": "Principal Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "NED PRICE",
+          "member_role": "Spokesperson"
+        },
+        {
+          "member_name": "MICHAEL FRIEDMANN",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "REBECCA JENKINS",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "LUKE PETERSON",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "WILLIAM RUSSO",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "CAROL Z. PEREZ",
+          "member_role": "Under Secretary for Management (acting)"
+        },
+        {
+          "member_name": "JOHN W. DINKELMAN",
+          "member_role": "Assistant Secretary (acting, Administration)"
+        },
+        {
+          "member_name": "CECILIA COATES",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "KEITH D. HANIGAN",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "ERIC F. STEIN",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "IAN G. BROWNLEE",
+          "member_role": "Assistant Secretary (acting, Consular Affairs)"
+        },
+        {
+          "member_name": "EDWARD RAMOTOWSKI",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "RACHEL M. ARNDT",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "KAREN KING",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JULIE STUFFT",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "TODD J. BROWN",
+          "member_role": "Assistant Secretary (acting, Diplomatic Security)"
+        },
+        {
+          "member_name": "JULIE CABUS",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "CORNELL CHASTEN",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JASON R. KIGHT",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "LONNIE J. PRICE",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "GREG A. SHERMAN",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MARK SULLO",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "CAROL PEREZ",
+          "member_role": "Director General of the Foreign Service and Director of Human Resources"
+        },
+        {
+          "member_name": "KENNETH MERTEN",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JEANNE JULIANO",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "PHILIPPE LUSSIER",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "MIREMBE NANTONGO",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "JULIETA V. NOYES",
+          "member_role": "Director (acting, Foreign Service Institute)"
+        },
+        {
+          "member_name": "JOAN A. POLASCHIK",
+          "member_role": "Deputy Director (acting)"
+        },
+        {
+          "member_name": "KEITH A. JONES",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "BRIAN F. MERRICK",
+          "member_role": "Deputy CIO For Operations (acting)"
+        },
+        {
+          "member_name": "JEFFREY D. JOHNSON",
+          "member_role": "Deputy CIO For Business Management And Planning"
+        },
+        {
+          "member_name": "LARRY PADGET",
+          "member_role": "Chief Medical Officer"
+        },
+        {
+          "member_name": "HENRY JARDINE",
+          "member_role": "Director (acting, Overseas Buildings Operations)"
+        },
+        {
+          "member_name": "J. KENT STIEGLER",
+          "member_role": "Principal Deputy Director (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "DEPARTMENT OF STATE",
+      "department_members": [
+        {
+          "member_name": "Uzra Zeya",
+          "member_role": "Under Secretary of State for Civilian Security, Democracy, and Human Rights"
+        },
+        {
+          "member_name": "Lisa Peterson",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Scott W. Busby",
+          "member_role": "Principal Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Marcia S. Bernicat",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Jonathan M. Moore",
+          "member_role": "Principal Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "John Thompson",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Jonathan Margolis",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Constance Arvis",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Nancy I. Jackson",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Richard A. Albright",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Sarah R. Cross",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Marta C. Youth",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Lesley C. Ziman",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Amb. Kelly Knight Craft",
+          "member_role": "Representative of the U.S. to the United Nations"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy to the Representative of the U.S. to the United Nations"
+        }
+      ]
+    }
+  ]
+}

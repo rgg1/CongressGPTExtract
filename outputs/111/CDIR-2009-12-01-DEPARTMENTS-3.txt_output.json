@@ -1,0 +1,1023 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Hillary Rodham Clinton",
+      "member_role": "Secretary of State"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF STATE",
+      "department_members": [
+        {
+          "member_name": "Hillary Rodham Clinton",
+          "member_role": "Secretary of State"
+        },
+        {
+          "member_name": "James B. Steinberg",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Jacob J. Lew",
+          "member_role": "Deputy Secretary for Management and Resources"
+        },
+        {
+          "member_name": "Joseph E. Macmanus",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Cheryl Mills",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "John C. \"Clint\" Williamson",
+          "member_role": "Ambassador-at-Large for War Crimes Issues"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of Protocol"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Chief"
+        },
+        {
+          "member_name": "John M. Robinson",
+          "member_role": "Director, Office of Civil Rights"
+        },
+        {
+          "member_name": "Gregory B. Smith",
+          "member_role": "Deputy Director, Office of Civil Rights"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Coordinator / Ambassador-at-Large, Office of Coordinator for Counterterrorism"
+        },
+        {
+          "member_name": "Ronald L. Schlicher",
+          "member_role": "Principal Deputy Coordinator, Office of Coordinator for Counterterrorism"
+        },
+        {
+          "member_name": "Amb. John Herbst",
+          "member_role": "Coordinator, Coordinator for Reconstruction and Stabilization"
+        },
+        {
+          "member_name": "Larry Sampler",
+          "member_role": "Principal Deputy Coordinator (acting), Coordinator for Reconstruction and Stabilization"
+        },
+        {
+          "member_name": "Johnathan Benton",
+          "member_role": "Deputy Coordinator (acting), Coordinator for Reconstruction and Stabilization"
+        },
+        {
+          "member_name": "Daniel B. Smith",
+          "member_role": "Special Assistant and Executive Secretary, Executive Secretariat"
+        },
+        {
+          "member_name": "Lewis Lukens",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "Kenneth H. Merten",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "Paul D. Wohlers",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "Uzra S. Zeya",
+          "member_role": "Deputy Executive Secretary"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Inspector General, Office of the Inspector General"
+        },
+        {
+          "member_name": "Harold W. Geisel",
+          "member_role": "Deputy Inspector General (acting), Office of the Inspector General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, Bureau of Intelligence and Research"
+        },
+        {
+          "member_name": "Catherine Brown",
+          "member_role": "Deputy Assistant Secretary, Bureau of Intelligence and Research"
+        },
+        {
+          "member_name": "James Buchanan",
+          "member_role": "Deputy Assistant Secretary, Bureau of Intelligence and Research"
+        },
+        {
+          "member_name": "John R. Dinger",
+          "member_role": "Deputy Assistant Secretary, Bureau of Intelligence and Research"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "The Legal Advisor, Office of Legal Adviser"
+        },
+        {
+          "member_name": "James H. Thessin",
+          "member_role": "Principal Deputy Legal Adviser, Office of Legal Adviser"
+        },
+        {
+          "member_name": "Susan Biniaz",
+          "member_role": "Deputy Legal Adviser, Office of Legal Adviser"
+        },
+        {
+          "member_name": "Jonathan B. Schwartz",
+          "member_role": "Deputy Legal Adviser, Office of Legal Adviser"
+        },
+        {
+          "member_name": "Richard R. Verma",
+          "member_role": "Assistant Secretary, Bureau of Legislative Affairs"
+        },
+        {
+          "member_name": "Michael C. Polt",
+          "member_role": "Deputy Assistant Secretary (Global, Regional and Functional), Bureau of Legislative Affairs"
+        },
+        {
+          "member_name": "Miguel Rodriguez",
+          "member_role": "Deputy Assistant Secretary (Senate), Bureau of Legislative Affairs"
+        },
+        {
+          "member_name": "David Adams",
+          "member_role": "Deputy Assistant Secretary (House), Bureau of Legislative Affairs"
+        },
+        {
+          "member_name": "Anne-Marie Slaughter",
+          "member_role": "Director, Policy Planning Staff"
+        },
+        {
+          "member_name": "Derick Challet",
+          "member_role": "Principal Deputy Director, Policy Planning Staff"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary / Chief Financial Officer, Bureau of Resource Management"
+        },
+        {
+          "member_name": "Christopher Flaggs",
+          "member_role": "Deputy Chief Financial Officer, Bureau of Resource Management"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Coordinator, Office of the U.S. Global AIDS Coordinator"
+        },
+        {
+          "member_name": "Thomas Walsh",
+          "member_role": "Deputy U.S. Global Aids Coordinator / Chief of Staff"
+        },
+        {
+          "member_name": "Michele Moloney-Kitts",
+          "member_role": "Assistant Coordinator, Office of the U.S. Global AIDS Coordinator"
+        },
+        {
+          "member_name": "Margaret Lidstone",
+          "member_role": "Director of Multilateral Outreach, Office of the U.S. Global AIDS Coordinator"
+        },
+        {
+          "member_name": "Amb. William J. Burns",
+          "member_role": "Under Secretary for Political Affairs"
+        },
+        {
+          "member_name": "Daniel A. Russell",
+          "member_role": "Executive Assistant, Under Secretary for Political Affairs"
+        },
+        {
+          "member_name": "Phillip Carter III",
+          "member_role": "Assistant Secretary, African Affairs (acting)"
+        },
+        {
+          "member_name": "Mary Jo Wells",
+          "member_role": "Principal Deputy Assistant Secretary, African Affairs"
+        },
+        {
+          "member_name": "Carl Wycoff",
+          "member_role": "Principal Deputy Assistant Secretary, African Affairs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, East Asian and Pacific Affairs"
+        },
+        {
+          "member_name": "Glyn Davies",
+          "member_role": "Principal Deputy Assistant Secretary, East Asian and Pacific Affairs"
+        },
+        {
+          "member_name": "Alex Arvizu",
+          "member_role": "Deputy Assistant Secretary, East Asian and Pacific Affairs"
+        },
+        {
+          "member_name": "Scott Marciel",
+          "member_role": "Deputy Assistant Secretary, East Asian and Pacific Affairs"
+        },
+        {
+          "member_name": "John Norris",
+          "member_role": "Deputy Assistant Secretary, East Asian and Pacific Affairs"
+        },
+        {
+          "member_name": "Daniel Fried",
+          "member_role": "Assistant Secretary, European and Eurasian Affairs"
+        },
+        {
+          "member_name": "Marcie Ries",
+          "member_role": "Principal Deputy Assistant Secretary, European and Eurasian Affairs"
+        },
+        {
+          "member_name": "Matthew Bryza",
+          "member_role": "Deputy Assistant Secretary, European and Eurasian Affairs"
+        },
+        {
+          "member_name": "Anita Friedt",
+          "member_role": "Deputy Assistant Secretary, European and Eurasian Affairs (acting)"
+        },
+        {
+          "member_name": "Judith Garber",
+          "member_role": "Deputy Assistant Secretary, European and Eurasian Affairs"
+        },
+        {
+          "member_name": "Stuart Jones",
+          "member_role": "Deputy Assistant Secretary, European and Eurasian Affairs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, Near Eastern Affairs"
+        },
+        {
+          "member_name": "Jeffrey Feltman",
+          "member_role": "Principal Deputy Assistant Secretary, Near Eastern Affairs"
+        },
+        {
+          "member_name": "David Hale",
+          "member_role": "Deputy Assistant Secretary, Near Eastern Affairs"
+        },
+        {
+          "member_name": "Bill Hudson",
+          "member_role": "Deputy Assistant Secretary, Near Eastern Affairs (acting)"
+        },
+        {
+          "member_name": "Richard Schmierer",
+          "member_role": "Deputy Assistant Secretary, Near Eastern Affairs"
+        },
+        {
+          "member_name": "Madelyn Spirnak",
+          "member_role": "Deputy Assistant Secretary, Near Eastern Affairs (acting)"
+        },
+        {
+          "member_name": "Richard Boucher",
+          "member_role": "Assistant Secretary, South and Central Asian Affairs"
+        },
+        {
+          "member_name": "Patrick Moon",
+          "member_role": "Principal Deputy Assistant Secretary, South and Central Asian Affairs"
+        },
+        {
+          "member_name": "Paul Jones",
+          "member_role": "Deputy Assistant Secretary, South and Central Asian Affairs"
+        },
+        {
+          "member_name": "George Krol",
+          "member_role": "Deputy Assistant Secretary, South and Central Asian Affairs"
+        },
+        {
+          "member_name": "Michael Owen",
+          "member_role": "Deputy Assistant Secretary, South and Central Asian Affairs"
+        },
+        {
+          "member_name": "Thomas Shannon",
+          "member_role": "Assistant Secretary, Western Hemisphere Affairs"
+        },
+        {
+          "member_name": "Craig Kelly",
+          "member_role": "Principal Deputy Assistant Secretary, Western Hemisphere Affairs"
+        },
+        {
+          "member_name": "Roberta Jacobson",
+          "member_role": "Deputy Assistant Secretary, Western Hemisphere Affairs"
+        },
+        {
+          "member_name": "Christopher McMullen",
+          "member_role": "Deputy Assistant Secretary, Western Hemisphere Affairs"
+        },
+        {
+          "member_name": "David Robinson",
+          "member_role": "Deputy Assistant Secretary, Western Hemisphere Affairs"
+        },
+        {
+          "member_name": "David T. Johnson",
+          "member_role": "Assistant Secretary, International Narcotics and Law Enforcement Affairs"
+        },
+        {
+          "member_name": "William J. McGlynn",
+          "member_role": "Principal Deputy Assistant Secretary, International Narcotics and Law Enforcement Affairs"
+        },
+        {
+          "member_name": "Charles Snyder",
+          "member_role": "Deputy Assistant Secretary, International Narcotics and Law Enforcement Affairs"
+        },
+        {
+          "member_name": "Elizabeth Verville",
+          "member_role": "Deputy Assistant Secretary, International Narcotics and Law Enforcement Affairs"
+        },
+        {
+          "member_name": "Esther Brimmer",
+          "member_role": "Assistant Secretary, International Organization Affairs"
+        },
+        {
+          "member_name": "James B. Warlick",
+          "member_role": "Principal Deputy Assistant Secretary, International Organization Affairs"
+        },
+        {
+          "member_name": "Gerald C. Anderson",
+          "member_role": "Deputy Assistant Secretary, International Organization Affairs"
+        },
+        {
+          "member_name": "Donna Roginski",
+          "member_role": "Deputy Assistant Secretary, International Organization Affairs (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Under Secretary for Economic, Business, and Agricultural Affairs"
+        },
+        {
+          "member_name": "Douglas Hengel",
+          "member_role": "Executive Assistant, Under Secretary for Economic, Business, and Agricultural Affairs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, Economic and Business Affairs"
+        },
+        {
+          "member_name": "David D. Nelson",
+          "member_role": "Principal Deputy Assistant Secretary, Economic and Business Affairs"
+        },
+        {
+          "member_name": "John Byerly",
+          "member_role": "Deputy Assistant Secretary, Economic and Business Affairs"
+        },
+        {
+          "member_name": "William Craft",
+          "member_role": "Deputy Assistant Secretary, Economic and Business Affairs (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Under Secretary for Arms Control and International Security"
+        },
+        {
+          "member_name": "Stephen A. Elliott",
+          "member_role": "Executive Assistant, Under Secretary for Arms Control and International Security"
+        },
+        {
+          "member_name": "Eliott Kang",
+          "member_role": "Head, International Security and Nonproliferation"
+        },
+        {
+          "member_name": "Patricia McNerney",
+          "member_role": "Principal Deputy Assistant Secretary, International Security and Nonproliferation"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, Political-Military Affairs"
+        },
+        {
+          "member_name": "Frank Ruggiero",
+          "member_role": "Principal Deputy Assistant Secretary, Political-Military Affairs"
+        },
+        {
+          "member_name": "Gregory T. Delawie",
+          "member_role": "Deputy Assistant Secretary, Political-Military Affairs"
+        },
+        {
+          "member_name": "Rose Gottemoeller",
+          "member_role": "Assistant Secretary, Verification, Compliance, and Implementation"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Principal Deputy Assistant Secretary, Verification, Compliance, and Implementation"
+        },
+        {
+          "member_name": "Richard Davis",
+          "member_role": "Deputy Assistant Secretary (acting), Verification, Compliance, and Implementation"
+        },
+        {
+          "member_name": "Karin Look",
+          "member_role": "Deputy Assistant Secretary, Verification, Compliance, and Implementation"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Under Secretary for Public Diplomacy and Public Affairs"
+        },
+        {
+          "member_name": "Dina Habib Powell",
+          "member_role": "Deputy Under Secretary for Public Diplomacy and Public Affairs"
+        },
+        {
+          "member_name": "Daniel B. Smith",
+          "member_role": "Executive Assistant, Under Secretary for Public Diplomacy and Public Affairs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, Educational and Cultural Affairs"
+        },
+        {
+          "member_name": "C. Miller Crouch",
+          "member_role": "Principal Deputy Assistant Secretary, Educational and Cultural Affairs"
+        },
+        {
+          "member_name": "Stanley Colvin",
+          "member_role": "Deputy Assistant Secretary, Educational and Cultural Affairs"
+        },
+        {
+          "member_name": "Alina Romanowski",
+          "member_role": "Deputy Assistant Secretary, Educational and Cultural Affairs"
+        },
+        {
+          "member_name": "Jeremy Curtin",
+          "member_role": "Coordinator, International Information Programs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, Public Affairs"
+        },
+        {
+          "member_name": "Teresa D. Fynes",
+          "member_role": "Deputy Assistant Secretary, Public Affairs"
+        },
+        {
+          "member_name": "Robert A. Wood",
+          "member_role": "Deputy Spokesman, Public Affairs"
+        },
+        {
+          "member_name": "Patrick F. Kennedy",
+          "member_role": "Under Secretary for Management"
+        },
+        {
+          "member_name": "Edward Alford",
+          "member_role": "Executive Assistant, Under Secretary for Management"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary, Administration"
+        },
+        {
+          "member_name": "Llewellyn Hedgbeth",
+          "member_role": "Deputy Assistant Secretary, Administration"
+        },
+        {
+          "member_name": "William Moser",
+          "member_role": "Deputy Assistant Secretary, Administration"
+        },
+        {
+          "member_name": "Steve Rodriguez",
+          "member_role": "Deputy Assistant Secretary, Administration"
+        },
+        {
+          "member_name": "Janice L. Jacobs",
+          "member_role": "Assistant Secretary, Consular Affairs"
+        },
+        {
+          "member_name": "Michael D. Kirby",
+          "member_role": "Principal Deputy Assistant Secretary, Consular Affairs"
+        },
+        {
+          "member_name": "Michele Bond",
+          "member_role": "Deputy Assistant Secretary, Consular Affairs"
+        },
+        {
+          "member_name": "David Donahue",
+          "member_role": "Deputy Assistant Secretary, Consular Affairs"
+        },
+        {
+          "member_name": "Brenda Sprague",
+          "member_role": "Deputy Assistant Secretary, Consular Affairs"
+        },
+        {
+          "member_name": "Eric J. Boswell",
+          "member_role": "Assistant Secretary, Diplomatic Security and Office of Foreign Missions"
+        },
+        {
+          "member_name": "Gregory B. Starr",
+          "member_role": "Principal Deputy Assistant Secretary, Diplomatic Security and Office of Foreign Missions"
+        },
+        {
+          "member_name": "Patrick Donovan",
+          "member_role": "Deputy Assistant Secretary, Diplomatic Security and Office of Foreign Missions"
+        },
+        {
+          "member_name": "Charlene R. Lamb",
+          "member_role": "Deputy Assistant Secretary, Diplomatic Security and Office of Foreign Missions"
+        },
+        {
+          "member_name": "Justine Sincavage",
+          "member_role": "Deputy Assistant Secretary, Diplomatic Security and Office of Foreign Missions"
+        },
+        {
+          "member_name": "Harry K. Thomas, Jr.",
+          "member_role": "Director General of the Foreign Service and Director of Human Resources"
+        },
+        {
+          "member_name": "Teddy Taylor",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Judy Chammas",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Linda Taglialatela",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Ruth Whiteside",
+          "member_role": "Director, Foreign Service Institute"
+        },
+        {
+          "member_name": "Rose Likins",
+          "member_role": "Deputy Director, Foreign Service Institute"
+        },
+        {
+          "member_name": "Susan Swart",
+          "member_role": "Assistant Secretary, Information Resource Management"
+        },
+        {
+          "member_name": "Charles Wisecarver",
+          "member_role": "Principal Deputy Assistant Secretary, Information Resource Management"
+        },
+        {
+          "member_name": "Janice Fedak",
+          "member_role": "Deputy Chief Information Officer, Information Resource Management"
+        },
+        {
+          "member_name": "John Streufert",
+          "member_role": "Deputy Chief Information Officer, Information Resource Management"
+        },
+        {
+          "member_name": "Thomas W. Yun",
+          "member_role": "Assistant Secretary, Medical Services"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Assistant Secretary, Medical Services"
+        },
+        {
+          "member_name": "Adam Namm",
+          "member_role": "Assistant Secretary, Overseas Building Operations (acting)"
+        },
+        {
+          "member_name": "Jay Hicks",
+          "member_role": "Managing Director, Overseas Building Operations"
+        },
+        {
+          "member_name": "Annette P. Feeley",
+          "member_role": "Executive Assistant, Overseas Building Operations"
+        }
+      ]
+    },
+    {
+      "department_name": "DEMOCRACY, HUMAN RIGHTS AND LABOR",
+      "department_members": [
+        {
+          "member_name": "Karen B. Stewart",
+          "member_role": "Principal Deputy Assistant Secretary"
+        }
+      ]
+    },
+    {
+      "department_name": "OCEANS AND INTERNATIONAL ENVIRONMENTAL AND SCIENTIFIC AFFAIRS",
+      "department_members": [
+        {
+          "member_name": "Reno L. Harnish",
+          "member_role": "Principal Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "David A. Balton",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Jeffrey A. Miotke",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Daniel Reifsnyder",
+          "member_role": "Deputy Assistant Secretary"
+        }
+      ]
+    },
+    {
+      "department_name": "POPULATION, REFUGEES AND MIGRATION",
+      "department_members": [
+        {
+          "member_name": "Samuel M. Witten",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "William Fitzgerald",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Kelly Ryan",
+          "member_role": "Deputy Assistant Secretary"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES PERMANENT REPRESENTATIVE TO THE UNITED NATIONS",
+      "department_members": [
+        {
+          "member_name": "Susan E. Rice",
+          "member_role": "U.S. Permanent Representative"
+        },
+        {
+          "member_name": "Erica Barks-Ruggles",
+          "member_role": "Deputy to the Ambassador"
+        }
+      ]
+    },
+    {
+      "department_name": "DIRECTOR OF FOREIGN ASSISTANCE",
+      "department_members": [
+        {
+          "member_name": "Richard L. Greene",
+          "member_role": "Director of U.S. Foreign Assistance / Administrator of USAID (acting)"
+        },
+        {
+          "member_name": "Nazanin Ash",
+          "member_role": "Chief of Staff"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES DIPLOMATIC OFFICES--FOREIGN SERVICE",
+      "department_members": [
+        {
+          "member_name": "Karl W. Eikenberry",
+          "member_role": "Hon. Chief of Mission to Afghanistan"
+        },
+        {
+          "member_name": "John L. Withers II",
+          "member_role": "Hon. Chief of Mission to Albania"
+        },
+        {
+          "member_name": "David D. Pearce",
+          "member_role": "Hon. Chief of Mission to Algeria"
+        },
+        {
+          "member_name": "Dan Mozena",
+          "member_role": "Hon. Chief of Mission to Angola"
+        },
+        {
+          "member_name": "Earl Anthony Wayne",
+          "member_role": "Hon. Chief of Mission to Argentina"
+        },
+        {
+          "member_name": "Marie L. Yovanovitch",
+          "member_role": "Hon. Chief of Mission to Armenia"
+        },
+        {
+          "member_name": "Joseph Adam Ereli",
+          "member_role": "Hon. Chief of Mission to Bahrain"
+        },
+        {
+          "member_name": "James Francis Moriarty",
+          "member_role": "Hon. Chief of Mission to Bangladesh"
+        },
+        {
+          "member_name": "Gayleatha Beatrice Brown",
+          "member_role": "Hon. Chief of Mission to Benin"
+        },
+        {
+          "member_name": "Charles Lewis English",
+          "member_role": "Hon. Chief of Mission to Bosnia-Herzegovina"
+        },
+        {
+          "member_name": "Stephen James Nolan",
+          "member_role": "Hon. Chief of Mission to Botswana"
+        },
+        {
+          "member_name": "Clifford M. Sobel",
+          "member_role": "Hon. Chief of Mission to Brazil"
+        },
+        {
+          "member_name": "William Edward Todd",
+          "member_role": "Hon. Chief of Mission to Brunei Darussalam"
+        },
+        {
+          "member_name": "Nancy E. McEldowney",
+          "member_role": "Hon. Chief of Mission to Bulgaria"
+        },
+        {
+          "member_name": "Jeanine E. Jackson",
+          "member_role": "Hon. Chief of Mission to Burkina Faso"
+        },
+        {
+          "member_name": "Larry M. Dinger",
+          "member_role": "Hon. Chief of Mission to Burma"
+        },
+        {
+          "member_name": "Patricia Newton Moller",
+          "member_role": "Hon. Chief of Mission to Burundi"
+        },
+        {
+          "member_name": "Carol Ann Rodley",
+          "member_role": "Hon. Chief of Mission to Cambodia"
+        },
+        {
+          "member_name": "Janet E. Garvey",
+          "member_role": "Hon. Chief of Mission to Cameroon"
+        },
+        {
+          "member_name": "William R. Brownfield",
+          "member_role": "Hon. Chief of Mission to Colombia"
+        },
+        {
+          "member_name": "Wanda L. Nesbitt",
+          "member_role": "Hon. Chief of Mission to Cote d'Ivoire"
+        },
+        {
+          "member_name": "Robert Anthony Bradtke",
+          "member_role": "Hon. Chief of Mission to Croatia"
+        },
+        {
+          "member_name": "Jonathan Farrar",
+          "member_role": "Hon. Chief of Mission to Cuba"
+        },
+        {
+          "member_name": "Timothy J. Dunn",
+          "member_role": "Hon. Chief of Mission to Curacao"
+        },
+        {
+          "member_name": "Frank Charles Urbancic",
+          "member_role": "Hon. Chief of Mission to Cyprus"
+        },
+        {
+          "member_name": "James Christopher Swan",
+          "member_role": "Hon. Chief of Mission to Djibouti"
+        },
+        {
+          "member_name": "Hans G. Klemm",
+          "member_role": "Hon. Chief of Mission to East Timor"
+        },
+        {
+          "member_name": "Heather M. Hodges",
+          "member_role": "Hon. Chief of Mission to Ecuador"
+        },
+        {
+          "member_name": "Margaret Scobey",
+          "member_role": "Hon. Chief of Mission to Egypt"
+        },
+        {
+          "member_name": "Ronald K. McMullen",
+          "member_role": "Hon. Chief of Mission to Eritrea"
+        },
+        {
+          "member_name": "Donald Y. Yamamoto",
+          "member_role": "Hon. Chief of Mission to Ethiopia"
+        },
+        {
+          "member_name": "C. Steven McGann",
+          "member_role": "Hon. Chief of Mission to Fiji Islands"
+        },
+        {
+          "member_name": "Eunice S. Reddick",
+          "member_role": "Hon. Chief of Mission to Gabon"
+        },
+        {
+          "member_name": "Barry Leon Wells",
+          "member_role": "Hon. Chief of Mission to Gambia"
+        },
+        {
+          "member_name": "John F. Tefft",
+          "member_role": "Hon. Chief of Mission to Georgia"
+        },
+        {
+          "member_name": "Donald Gene Teitelbaum",
+          "member_role": "Hon. Chief of Mission to Ghana"
+        },
+        {
+          "member_name": "Danial V. Speckhard",
+          "member_role": "Hon. Chief of Mission to Greece"
+        },
+        {
+          "member_name": "Stephen George McFarland",
+          "member_role": "Hon. Chief of Mission to Guatemala"
+        },
+        {
+          "member_name": "Marcia Stephens Bloom Bernicat",
+          "member_role": "Hon. Chief of Mission to Guinea-Bissau"
+        },
+        {
+          "member_name": "John Melvin Jones",
+          "member_role": "Hon. Chief of Mission to Guyana"
+        },
+        {
+          "member_name": "Janet Ann Sanderson",
+          "member_role": "Hon. Chief of Mission to Haiti"
+        },
+        {
+          "member_name": "Hugo Llorens",
+          "member_role": "Hon. Chief of Mission to Honduras"
+        },
+        {
+          "member_name": "Carol van Voorst",
+          "member_role": "Hon. Chief of Mission to Iceland"
+        },
+        {
+          "member_name": "Cameron R. Hume",
+          "member_role": "Hon. Chief of Mission to Indonesia"
+        },
+        {
+          "member_name": "Christopher R. Hill",
+          "member_role": "Hon. Chief of Mission to Iraq"
+        },
+        {
+          "member_name": "James B. Cunningham",
+          "member_role": "Hon. Chief of Mission to Israel"
+        },
+        {
+          "member_name": "Michele J. Sison",
+          "member_role": "Hon. Chief of Mission to Lebanon"
+        },
+        {
+          "member_name": "Robert B. Nolan",
+          "member_role": "Hon. Chief of Mission to Lesotho"
+        },
+        {
+          "member_name": "Linda Thomas-Greenfield",
+          "member_role": "Hon. Chief of Mission to Liberia"
+        },
+        {
+          "member_name": "Gene Allen Cretz",
+          "member_role": "Hon. Chief of Mission to Libya"
+        },
+        {
+          "member_name": "John A. Cloud, Jr.",
+          "member_role": "Hon. Chief of Mission to Lithuania"
+        },
+        {
+          "member_name": "Ann Louise Wagner",
+          "member_role": "Hon. Chief of Mission to Luxembourg"
+        },
+        {
+          "member_name": "Philip Thomas Reeker",
+          "member_role": "Hon. Chief of Mission to Macedonia"
+        },
+        {
+          "member_name": "R. Niels Marquardt",
+          "member_role": "Hon. Chief of Mission to Madagascar"
+        },
+        {
+          "member_name": "Peter William Bodde",
+          "member_role": "Hon. Chief of Mission to Malawi"
+        },
+        {
+          "member_name": "Robert O. Blake, Jr.",
+          "member_role": "Hon. Chief of Mission to Maldives"
+        },
+        {
+          "member_name": "Gillian Arlette Milovanovic",
+          "member_role": "Hon. Chief of Mission to Mali"
+        },
+        {
+          "member_name": "Mark M. Boulware",
+          "member_role": "Hon. Chief of Mission to Mauritania"
+        },
+        {
+          "member_name": "Miriam K. Hughes",
+          "member_role": "Hon. Chief of Mission to Micronesia"
+        },
+        {
+          "member_name": "Mark C. Minton",
+          "member_role": "Hon. Chief of Mission to Mongolia"
+        },
+        {
+          "member_name": "Roderick W. Moore",
+          "member_role": "Hon. Chief of Mission to Montenegro"
+        },
+        {
+          "member_name": "Gail Dennise Mathieu",
+          "member_role": "Hon. Chief of Mission to Namibia"
+        },
+        {
+          "member_name": "Nancy J. Powell",
+          "member_role": "Hon. Chief of Mission to Nepal"
+        },
+        {
+          "member_name": "Robert J. Callahan",
+          "member_role": "Hon. Chief of Mission to Nicaragua"
+        },
+        {
+          "member_name": "Bernadette Mary Allen",
+          "member_role": "Hon. Chief of Mission to Niger"
+        },
+        {
+          "member_name": "Robin Renee Sanders",
+          "member_role": "Hon. Chief of Mission to Nigeria"
+        },
+        {
+          "member_name": "Benson K. Whitney",
+          "member_role": "Hon. Chief of Mission to Norway"
+        },
+        {
+          "member_name": "Gary A. Grappo",
+          "member_role": "Hon. Chief of Mission to Oman"
+        },
+        {
+          "member_name": "Anne Woods Patterson",
+          "member_role": "Hon. Chief of Mission to Pakistan"
+        },
+        {
+          "member_name": "Barbara J. Stephenson",
+          "member_role": "Hon. Chief of Mission to Panama"
+        },
+        {
+          "member_name": "Leslie V. Rowe",
+          "member_role": "Hon. Chief of Mission to Papua New Guinea"
+        },
+        {
+          "member_name": "Liliana Ayalde",
+          "member_role": "Hon. Chief of Mission to Paraguay"
+        },
+        {
+          "member_name": "Peter Michael McKinley",
+          "member_role": "Hon. Chief of Mission to Peru"
+        },
+        {
+          "member_name": "Kristie A. Kenney",
+          "member_role": "Hon. Chief of Mission to Philippines"
+        },
+        {
+          "member_name": "Victor Henderson Ashe",
+          "member_role": "Hon. Chief of Mission to Poland"
+        },
+        {
+          "member_name": "Joseph Evan LeBaron",
+          "member_role": "Hon. Chief of Mission to Qatar"
+        },
+        {
+          "member_name": "John R. Beyrle",
+          "member_role": "Hon. Chief of Mission to Russian Federation"
+        },
+        {
+          "member_name": "W. Stuart Symington",
+          "member_role": "Hon. Chief of Mission to Rwanda"
+        },
+        {
+          "member_name": "Richard G. Olson",
+          "member_role": "Hon. Chief of Mission to United Arab Emirates"
+        },
+        {
+          "member_name": "William B. Taylor, Jr.",
+          "member_role": "Hon. Chief of Mission to Ukraine"
+        },
+        {
+          "member_name": "Richard Boyce Norland",
+          "member_role": "Hon. Chief of Mission to Uzbekistan"
+        },
+        {
+          "member_name": "Michael W. Michalak",
+          "member_role": "Hon. Chief of Mission to Vietnam"
+        },
+        {
+          "member_name": "Stephen A. Seche",
+          "member_role": "Hon. Chief of Mission to Yemen"
+        },
+        {
+          "member_name": "Donald E. Booth",
+          "member_role": "Hon. Chief of Mission to Zambia"
+        },
+        {
+          "member_name": "James C. McGee",
+          "member_role": "Hon. Chief of Mission to Zimbabwe"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES PERMANENT DIPLOMATIC MISSIONS TO INTERNATIONAL ORGANIZATIONS",
+      "department_members": [
+        {
+          "member_name": "Kurt Volker",
+          "member_role": "Hon. Chief of Mission to NATO"
+        },
+        {
+          "member_name": "Hector Morales, Jr.",
+          "member_role": "Hon. Chief of Mission to Organization of American States"
+        },
+        {
+          "member_name": "Susan E. Rice",
+          "member_role": "Hon. Chief of Mission to United Nations (New York)"
+        },
+        {
+          "member_name": "Gregory L. Schulte",
+          "member_role": "Hon. Chief of Mission to United Nations (Vienna)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Spencer Abraham",
+      "member_role": "Secretary of Energy"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF ENERGY",
+      "department_members": [
+        {
+          "member_name": "Spencer Abraham",
+          "member_role": "Secretary of Energy"
+        },
+        {
+          "member_name": "Kyle McSlarrow",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Robert Card",
+          "member_role": "Under Secretary for Energy, Science, and Environment"
+        },
+        {
+          "member_name": "Linton F. Brooks",
+          "member_role": "Under Secretary for Nuclear Security"
+        },
+        {
+          "member_name": "Gregory H. Friedman",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Lee Sarah Liberman Otis",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Craig R. Reed",
+          "member_role": "Secretary of Energy Advisory Board"
+        },
+        {
+          "member_name": "Shannon D. Henderson",
+          "member_role": "Assistant Secretary for Congressional and Intergovernmental Affairs (acting)"
+        },
+        {
+          "member_name": "David K. Garman",
+          "member_role": "Assistant Secretary for Energy Efficiency and Renewable Energy"
+        },
+        {
+          "member_name": "Jessie Hill Roberson",
+          "member_role": "Assistant Secretary for Environmental Management"
+        },
+        {
+          "member_name": "Beverly Cook",
+          "member_role": "Assistant Secretary for Environment, Safety and Health"
+        },
+        {
+          "member_name": "Carl M. Smith",
+          "member_role": "Assistant Secretary for Fossil Energy"
+        },
+        {
+          "member_name": "Vicky A. Bailey",
+          "member_role": "Assistant Secretary for Policy and International Affairs"
+        },
+        {
+          "member_name": "Guy F. Caruso",
+          "member_role": "Administrator for Energy Information Administration"
+        },
+        {
+          "member_name": "Bruce Carnes",
+          "member_role": "Director, Office of Management, Budget and Evaluation"
+        },
+        {
+          "member_name": "Margaret S. Y. Chu",
+          "member_role": "Director, Office of Civilian Radioactive Waste Management"
+        },
+        {
+          "member_name": "Theresa Alvillar-Speake",
+          "member_role": "Director, Office of Economic Impact and Diversity"
+        },
+        {
+          "member_name": "Edward Siskin",
+          "member_role": "Director, Office of Fissile Materials Disposition"
+        },
+        {
+          "member_name": "George B. Breznay",
+          "member_role": "Director, Office of Hearings and Appeals"
+        },
+        {
+          "member_name": "William D. Magwood IV",
+          "member_role": "Director, Office of Nuclear Energy, Science and Technology"
+        },
+        {
+          "member_name": "Dr. Raymond L. Orbach",
+          "member_role": "Director, Office of Science"
+        },
+        {
+          "member_name": "Michael W. Owen",
+          "member_role": "Director, Office of Worker and Community Transition"
+        },
+        {
+          "member_name": "Stephen W. Dillard",
+          "member_role": "Director, Office of Counterintelligence"
+        },
+        {
+          "member_name": "John Russack",
+          "member_role": "Director, Office of Intelligence"
+        },
+        {
+          "member_name": "Jeanne T. Lopatto",
+          "member_role": "Director, Office of Public Affairs"
+        },
+        {
+          "member_name": "Marvin Gunn",
+          "member_role": "Manager, Chicago Operations Office"
+        },
+        {
+          "member_name": "Elizabeth D. Sellers",
+          "member_role": "Manager, Idaho Operations Office"
+        },
+        {
+          "member_name": "Gerald Boyd",
+          "member_role": "Manager, Oak Ridge Operations Office"
+        },
+        {
+          "member_name": "Keith Klein",
+          "member_role": "Manager, Richland Operations Office"
+        },
+        {
+          "member_name": "Jeffrey Allison",
+          "member_role": "Manager, Savannah River Operations Office"
+        },
+        {
+          "member_name": "James Hirahara",
+          "member_role": "Director, Oakland Site Office"
+        },
+        {
+          "member_name": "Kathleen A. Carlson",
+          "member_role": "Manager, Nevada Site Office"
+        },
+        {
+          "member_name": "James Hirahara",
+          "member_role": "Director, Albuquerque NNSA Service Center"
+        },
+        {
+          "member_name": "John Kerston",
+          "member_role": "Manager, Golden Field Office"
+        },
+        {
+          "member_name": "Robert Warther",
+          "member_role": "Manager, Ohio Field Office"
+        },
+        {
+          "member_name": "Gene Schmitt",
+          "member_role": "Manager, Rocky Flatts Field Office"
+        },
+        {
+          "member_name": "James R. Powell",
+          "member_role": "Director, Atlanta Energy Efficiency Regional Office"
+        },
+        {
+          "member_name": "Hugh Saussy",
+          "member_role": "Director, Boston Energy Efficiency Regional Office"
+        },
+        {
+          "member_name": "Peter Dreyfuss",
+          "member_role": "Director, Chicago Energy Efficiency Regional Office"
+        },
+        {
+          "member_name": "Bill Becker",
+          "member_role": "Director, Denver Energy Efficiency Regional Office"
+        },
+        {
+          "member_name": "James M. Ferguson",
+          "member_role": "Director, Philadelphia Energy Efficiency Regional Office"
+        },
+        {
+          "member_name": "Julie A. Riel",
+          "member_role": "Director, Seattle Energy Efficiency Regional Office"
+        },
+        {
+          "member_name": "Stephen J. Wright",
+          "member_role": "Administrator, Bonneville Power Administration"
+        },
+        {
+          "member_name": "Charles A. Borchardt",
+          "member_role": "Administrator, Southeastern Area Power Administration"
+        },
+        {
+          "member_name": "Michael A. Diehl",
+          "member_role": "Administrator, Southwestern Area Power Administration"
+        },
+        {
+          "member_name": "Michael S. Hacskaylo",
+          "member_role": "Administrator, Western Area Power Administration"
+        },
+        {
+          "member_name": "Walter L. Warnick",
+          "member_role": "Director, Office of Scientific and Technical Information"
+        },
+        {
+          "member_name": "Robert Charles Morgan",
+          "member_role": "Manager, Office of Scientific and Technical Information"
+        },
+        {
+          "member_name": "Henry A. Cardinali",
+          "member_role": "Manager, Pittsburgh Naval Reactors Office"
+        },
+        {
+          "member_name": "Phil E. Salm",
+          "member_role": "Manager, Schenectady Naval Reactors Office"
+        },
+        {
+          "member_name": "W. John Arthur III",
+          "member_role": "Project Manager, Yucca Mountain Site Characterization Office"
+        },
+        {
+          "member_name": "George J. Dooley III",
+          "member_role": "Director, Albany Research Center (Oregon)"
+        },
+        {
+          "member_name": "Rita A. Bajura",
+          "member_role": "Director, National Energy Technology Lab"
+        },
+        {
+          "member_name": "William C. Gibson Jr.",
+          "member_role": "Project Manager, Strategic Petroleum Reserve Project Office"
+        },
+        {
+          "member_name": "James Curtis Killen",
+          "member_role": "Director, California Naval Petroleum Reserves"
+        },
+        {
+          "member_name": "Clarke D. Turner",
+          "member_role": "Director, Colorado, Utah, Wyoming Naval Petroleum Reserves"
+        },
+        {
+          "member_name": "Patrick Henry Wood III",
+          "member_role": "Chair, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "William L. Massey",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "Nora Mead Brownell",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "Thomas R. Herlihy",
+          "member_role": "Executive Director and Chief Financial Officer, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "Kevin Cadden",
+          "member_role": "Director, Office of External Affairs, Federal Energy Regulatory Commission"
+        }
+      ]
+    }
+  ]
+}

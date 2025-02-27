@@ -1,0 +1,2069 @@
+{
+  "government_bodies": [
+    {
+      "government_body_name": "UNITED STATES AIR FORCE ACADEMY BOARD OF VISITORS",
+      "government_body_members": [
+        {
+          "member_name": "Roel Campos",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Linda Cubero",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Benjamin Drew",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Judith Fedder",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Soudarak Hoppin",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Edward Rice",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Senator Mazie K. Hirono",
+          "member_role": "Member",
+          "member_state": "Hawaii"
+        },
+        {
+          "member_name": "Senator Jerry Moran",
+          "member_role": "Member",
+          "member_state": "Kansas"
+        },
+        {
+          "member_name": "Senator Tom Udall",
+          "member_role": "Member",
+          "member_state": "New Mexico"
+        },
+        {
+          "member_name": "Representative Jared Polis",
+          "member_role": "Member",
+          "member_state": "Colorado"
+        },
+        {
+          "member_name": "Representative Doug Lamborn",
+          "member_role": "Member",
+          "member_state": "Colorado"
+        },
+        {
+          "member_name": "Representative Martha McSally",
+          "member_role": "Member",
+          "member_state": "Arizona"
+        },
+        {
+          "member_name": "Bruce Swezey",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Senator Cory Gardner",
+          "member_role": "Member",
+          "member_state": "Colorado"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "UNITED STATES MILITARY ACADEMY BOARD OF VISITORS",
+      "government_body_members": [
+        {
+          "member_name": "Richard Burr",
+          "member_role": "Member",
+          "member_state": "North Carolina"
+        },
+        {
+          "member_name": "Kirsten E. Gillibrand",
+          "member_role": "Member",
+          "member_state": "New York"
+        },
+        {
+          "member_name": "Jerry Moran",
+          "member_role": "Member",
+          "member_state": "Kansas"
+        },
+        {
+          "member_name": "Christopher Murphy",
+          "member_role": "Member",
+          "member_state": "Connecticut"
+        },
+        {
+          "member_name": "Steve Womack",
+          "member_role": "Chair",
+          "member_state": "Arkansas"
+        },
+        {
+          "member_name": "Sean Patrick Maloney",
+          "member_role": "Member",
+          "member_state": "New York"
+        },
+        {
+          "member_name": "K. Michael Conaway",
+          "member_role": "Member",
+          "member_state": "Texas"
+        },
+        {
+          "member_name": "Stephanie N. Murphy",
+          "member_role": "Member",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Thomas J. Rooney",
+          "member_role": "Member",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Brenda Sue Fulton",
+          "member_role": "Vice Chair",
+          "member_state": "New Jersey"
+        },
+        {
+          "member_name": "Elizabeth McNally",
+          "member_role": "Member",
+          "member_state": "New York"
+        },
+        {
+          "member_name": "Frederick H. Black, Sr.",
+          "member_role": "Member",
+          "member_state": "North Carolina"
+        },
+        {
+          "member_name": "Bridget Altenburg",
+          "member_role": "Member",
+          "member_state": "Illinois"
+        },
+        {
+          "member_name": "Hon. Gerald McGowan",
+          "member_role": "Member",
+          "member_state": "Washington, DC"
+        },
+        {
+          "member_name": "Jane Holl Lute",
+          "member_role": "Member",
+          "member_state": "Virginia"
+        }
+      ]
+    },
+    {
+      "government_body_name": "UNITED STATES NAVAL ACADEMY BOARD OF VISITORS",
+      "government_body_members": [
+        {
+          "member_name": "Judge Evan Wallach",
+          "member_role": "Vice Chairman",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "CAPT E. Elliott Barker",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "LCDR Dan Cnossen",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Christine Fox",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "ADM James Winnefeld",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Matice J. Wright",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Senator Benjamin L. Cardin",
+          "member_role": "Member",
+          "member_state": "Maryland"
+        },
+        {
+          "member_name": "Senator James Lankford",
+          "member_role": "Member",
+          "member_state": "Oklahoma"
+        },
+        {
+          "member_name": "Senator Jeanne Shaheen",
+          "member_role": "Member",
+          "member_state": "New Hampshire"
+        },
+        {
+          "member_name": "Senator Dan Sullivan",
+          "member_role": "Member",
+          "member_state": "Alaska"
+        },
+        {
+          "member_name": "Representative Robert J. Wittman",
+          "member_role": "Chairman",
+          "member_state": "Virginia"
+        },
+        {
+          "member_name": "Representative Elijah E. Cummings",
+          "member_role": "Member",
+          "member_state": "Maryland"
+        },
+        {
+          "member_name": "Representative Ron DeSantis",
+          "member_role": "Member",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Representative Mike Gallagher",
+          "member_role": "Member",
+          "member_state": "Wisconsin"
+        },
+        {
+          "member_name": "Representative C. A. Dutch Ruppersberger",
+          "member_role": "Member",
+          "member_state": "Maryland"
+        }
+      ]
+    },
+    {
+      "government_body_name": "UNITED STATES COAST GUARD ACADEMY BOARD OF VISITORS",
+      "government_body_members": [
+        {
+          "member_name": "Roger F. Wicker",
+          "member_role": "Member",
+          "member_state": "Mississippi"
+        },
+        {
+          "member_name": "Richard Blumenthal",
+          "member_role": "Member",
+          "member_state": "Connecticut"
+        },
+        {
+          "member_name": "Dan Sullivan",
+          "member_role": "Member",
+          "member_state": "Alaska"
+        },
+        {
+          "member_name": "Maria Cantwell",
+          "member_role": "Member",
+          "member_state": "Washington"
+        },
+        {
+          "member_name": "Bill Shuster",
+          "member_role": "Member",
+          "member_state": "Pennsylvania"
+        },
+        {
+          "member_name": "Adrian Smith",
+          "member_role": "Member",
+          "member_state": "Nebraska"
+        }
+      ]
+    },
+    {
+      "government_body_name": "BRITISH-AMERICAN PARLIAMENTARY GROUP",
+      "government_body_members": [
+        {
+          "member_name": "Patrick J. Leahy",
+          "member_role": "Vice Chair",
+          "member_state": "Vermont"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "CANADA-UNITED STATES INTERPARLIAMENTARY GROUP",
+      "government_body_members": [
+        {
+          "member_name": "Bill Huizenga",
+          "member_role": "Chair",
+          "member_state": "Michigan"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Vice Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "CHINA-UNITED STATES INTERPARLIAMENTARY GROUP",
+      "government_body_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Vice Chair",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "KOREA-UNITED STATES INTERPARLIAMENTARY GROUP",
+      "government_body_members": [
+        {
+          "member_name": "Edward R. Royce",
+          "member_role": "Chair",
+          "member_state": "California"
+        }
+      ]
+    },
+    {
+      "government_body_name": "MEXICO-UNITED STATES INTERPARLIAMENTARY GROUP",
+      "government_body_members": [
+        {
+          "member_name": "Michael T. McCaul",
+          "member_role": "Chair",
+          "member_state": "Texas"
+        },
+        {
+          "member_name": "Sean P. Duffy",
+          "member_role": "Vice Chair",
+          "member_state": "Wisconsin"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Vice Chair",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "NATO PARLIAMENTARY ASSEMBLY",
+      "government_body_members": [
+        {
+          "member_name": "Michael R. Turner",
+          "member_role": "Chair",
+          "member_state": "Ohio"
+        },
+        {
+          "member_name": "Ted Poe",
+          "member_role": "Vice Chair",
+          "member_state": "Texas"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Vice Chair",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "COMMISSION ON CONGRESSIONAL MAILING STANDARDS",
+      "government_body_members": [
+        {
+          "member_name": "Rodney Davis",
+          "member_role": "Chair",
+          "member_state": "Illinois"
+        },
+        {
+          "member_name": "Susan A. Davis",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Robert E. Latta",
+          "member_role": "Member",
+          "member_state": "Ohio"
+        },
+        {
+          "member_name": "Brad Sherman",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Barbara Comstock",
+          "member_role": "Member",
+          "member_state": "Virginia"
+        },
+        {
+          "member_name": "A. Donald McEachin",
+          "member_role": "Member",
+          "member_state": "Virginia"
+        }
+      ]
+    },
+    {
+      "government_body_name": "COMMISSION ON SECURITY AND COOPERATION IN EUROPE",
+      "government_body_members": [
+        {
+          "member_name": "Roger F. Wicker",
+          "member_role": "Chair",
+          "member_state": "Mississippi"
+        },
+        {
+          "member_name": "Christopher H. Smith",
+          "member_role": "Co-Chair",
+          "member_state": "New Jersey"
+        }
+      ]
+    },
+    {
+      "government_body_name": "LEGISLATIVE BRANCH COMMISSIONERS",
+      "government_body_members": [
+        {
+          "member_name": "Robert B. Aderholt",
+          "member_role": "Member",
+          "member_state": "Alabama"
+        },
+        {
+          "member_name": "Alcee L. Hastings",
+          "member_role": "Member",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Michael C. Burgess",
+          "member_role": "Member",
+          "member_state": "Texas"
+        },
+        {
+          "member_name": "Steve Cohen",
+          "member_role": "Member",
+          "member_state": "Tennessee"
+        },
+        {
+          "member_name": "Randy Hultgren",
+          "member_role": "Member",
+          "member_state": "Illinois"
+        },
+        {
+          "member_name": "Sheila Jackson Lee",
+          "member_role": "Member",
+          "member_state": "Texas"
+        },
+        {
+          "member_name": "Richard Hudson",
+          "member_role": "Member",
+          "member_state": "North Carolina"
+        },
+        {
+          "member_name": "Gwen Moore",
+          "member_role": "Member",
+          "member_state": "Wisconsin"
+        },
+        {
+          "member_name": "John Boozman",
+          "member_role": "Member",
+          "member_state": "Arkansas"
+        },
+        {
+          "member_name": "Benjamin L. Cardin",
+          "member_role": "Member",
+          "member_state": "Maryland"
+        },
+        {
+          "member_name": "Cory Gardner",
+          "member_role": "Member",
+          "member_state": "Colorado"
+        },
+        {
+          "member_name": "Jeanne Shaheen",
+          "member_role": "Member",
+          "member_state": "New Hampshire"
+        },
+        {
+          "member_name": "Marco Rubio",
+          "member_role": "Member",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Tom Udall",
+          "member_role": "Member",
+          "member_state": "New Mexico"
+        },
+        {
+          "member_name": "Thom Tillis",
+          "member_role": "Member",
+          "member_state": "North Carolina"
+        },
+        {
+          "member_name": "Sheldon Whitehouse",
+          "member_role": "Member",
+          "member_state": "Rhode Island"
+        }
+      ]
+    },
+    {
+      "government_body_name": "EXECUTIVE BRANCH COMMISSIONERS",
+      "government_body_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "COMMISSION STAFF",
+      "government_body_members": [
+        {
+          "member_name": "Ambassador David T. Killion",
+          "member_role": "Chief of Staff",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mark Milosch",
+          "member_role": "House Senior Staff Person",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Scott Rauland",
+          "member_role": "Senior State Department Advisor",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Bob Hand",
+          "member_role": "Policy Advisor; Secretary of the U.S. Delegation to the OSCE Parliamentary Assembly",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Janice Helwig",
+          "member_role": "Representative of the Helsinki Commission to the USOSCE",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Everett Price",
+          "member_role": "Policy Advisor",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mischa Thompson",
+          "member_role": "Policy Advisor",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Alex Tiersky",
+          "member_role": "Policy Advisor",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Allison B. Hollabaugh",
+          "member_role": "Counsel; General Counsel (acting)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "A. Paul Massaro III",
+          "member_role": "Policy Advisor; CSCE Liaison to the Chairman's Office; Chief Administration Officer (acting)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Erika B. Schlager",
+          "member_role": "Counsel for International Law",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jordan Warlick",
+          "member_role": "Staff Associate",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "CONGRESSIONAL AWARD FOUNDATION",
+      "government_body_members": [
+        {
+          "member_name": "Paxton K. Baker",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Linda Mitchell",
+          "member_role": "Vice Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Rodney E. Slater",
+          "member_role": "Vice Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Cheryl Maddox",
+          "member_role": "Secretary",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Lee Klumpp",
+          "member_role": "Treasurer",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Cliff Akiyama",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Simeon Banister",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Ed Blansitt",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Romero Brown",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Anne Oswalt Bruce",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Nick Cannon",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Edward Cohen",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kathy Didawick",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Debbie Dingell",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mitch Draizin",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "MaryAnne Dunlap",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "David Falk",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Beverly Gilyard",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "George B. Gould",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. Lawrence Green",
+          "member_role": "Member",
+          "member_state": "Maryland"
+        },
+        {
+          "member_name": "J. Steven Hart, Esq.",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Erica Wheelan Heyse",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jesse Hill",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Richard Hudson",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "David W. Hunt, Esq.",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Johnny Isakson",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Sheila Jackson Lee",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Karlos LaSane",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Lynn Lyons",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Raul Magdaleno",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Joe Manchin III",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Lance Mangum",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kim Norman",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Steven Roberts",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Beth Ann Ruoff",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "David Schiappa",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Chris Spear",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Will Stute",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Chiling Tong",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jason Van Pelt",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Rita Vaswani",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kathryn Weeden",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Shawn Whitman",
+          "member_role": "Member",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "CONGRESSIONAL CLUB",
+      "government_body_members": [
+        {
+          "member_name": "Vera G. Davis",
+          "member_role": "President",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jennifer Messer",
+          "member_role": "Vice President (1st)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Helen Green",
+          "member_role": "Vice President (2d)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Judy Benishek",
+          "member_role": "Vice President (3d)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Patricia Garamendi",
+          "member_role": "Vice President (4th)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Billie Gingrey",
+          "member_role": "Vice President (5th)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "April McClain Delaney",
+          "member_role": "Vice President (6th)",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Martha Brooks",
+          "member_role": "Treasurer",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Sonya Horsford",
+          "member_role": "Recording Secretary",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Simone Marie Meeks",
+          "member_role": "Corresponding Secretary",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Lydia de La Vina de Foley",
+          "member_role": "Executive Director",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "CONGRESSIONAL EXECUTIVE COMMISSION ON CHINA",
+      "government_body_members": [
+        {
+          "member_name": "Marco Rubio",
+          "member_role": "Chair",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Christopher H. Smith",
+          "member_role": "Co-Chair",
+          "member_state": "New Jersey"
+        }
+      ]
+    },
+    {
+      "government_body_name": "LEGISLATIVE BRANCH COMMISSIONERS",
+      "government_body_members": [
+        {
+          "member_name": "Robert Pittenger",
+          "member_role": "Member",
+          "member_state": "North Carolina"
+        },
+        {
+          "member_name": "Timothy J. Walz",
+          "member_role": "Member",
+          "member_state": "Minnesota"
+        },
+        {
+          "member_name": "Marcy Kaptur",
+          "member_role": "Member",
+          "member_state": "Ohio"
+        },
+        {
+          "member_name": "Ted Lieu",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "EXECUTIVE BRANCH COMMISSIONERS",
+      "government_body_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "COMMISSION STAFF",
+      "government_body_members": [
+        {
+          "member_name": "Paul B. Protic",
+          "member_role": "Staff Director",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Elyse Anderson",
+          "member_role": "Deputy Staff Director",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Judy Wright",
+          "member_role": "Director of Administration, Budget, and Contracts",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jen Salen",
+          "member_role": "Senior Advisor and Prisoner Database Program Director",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Steve Andrews",
+          "member_role": "Counsel",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Andy Wong",
+          "member_role": "Counsel",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mingzhi Chen",
+          "member_role": "Research Associate",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Sophie Jen",
+          "member_role": "Research Associate",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "David Petrick",
+          "member_role": "Research Associate",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Amy Reger",
+          "member_role": "Research Associate",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Sabrina Tsai",
+          "member_role": "Research Associate",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Megan Fluker",
+          "member_role": "Research Associate and Manager of Annual Report Production",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Scott Flipse",
+          "member_role": "Director of Communications and Policy",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "HOUSE DEMOCRACY PARTNERSHIP",
+      "government_body_members": [
+        {
+          "member_name": "Peter J. Roskam",
+          "member_role": "Chair",
+          "member_state": "Illinois"
+        },
+        {
+          "member_name": "David E. Price",
+          "member_role": "Ranking Member",
+          "member_state": "North Carolina"
+        },
+        {
+          "member_name": "Jeff Fortenberry",
+          "member_role": "Member",
+          "member_state": "Nebraska"
+        },
+        {
+          "member_name": "Lucille Roybal-Allard",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Adrian Smith",
+          "member_role": "Member",
+          "member_state": "Nebraska"
+        },
+        {
+          "member_name": "Vern Buchanan",
+          "member_role": "Member",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Ted Lieu",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Jackie Walorski",
+          "member_role": "Member",
+          "member_state": "Indiana"
+        },
+        {
+          "member_name": "Norma J. Torres",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Stephen Knight",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Keith Ellison",
+          "member_role": "Member",
+          "member_state": "Minnesota"
+        },
+        {
+          "member_name": "Tom Rice",
+          "member_role": "Member",
+          "member_state": "South Carolina"
+        },
+        {
+          "member_name": "Gwen Moore",
+          "member_role": "Member",
+          "member_state": "Wisconsin"
+        },
+        {
+          "member_name": "Susan A. Davis",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Rob Woodall",
+          "member_role": "Member",
+          "member_state": "Georgia"
+        },
+        {
+          "member_name": "Dina Titus",
+          "member_role": "Member",
+          "member_state": "Nevada"
+        },
+        {
+          "member_name": "Bill Flores",
+          "member_role": "Member",
+          "member_state": "Texas"
+        },
+        {
+          "member_name": "Gerald E. Connolly",
+          "member_role": "Member",
+          "member_state": "Virginia"
+        }
+      ]
+    },
+    {
+      "government_body_name": "HOUSE OFFICE BUILDING COMMISSION",
+      "government_body_members": [
+        {
+          "member_name": "Paul D. Ryan",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kevin McCarthy",
+          "member_role": "House Majority Leader",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Nancy Pelosi",
+          "member_role": "House Minority Leader",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "JAPAN-UNITED STATES FRIENDSHIP COMMISSION",
+      "government_body_members": [
+        {
+          "member_name": "Harry A. Hill",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. Sheila Smith",
+          "member_role": "Vice-Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Paige Cottingham-Streater",
+          "member_role": "Executive Director",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Niharika C. Joe",
+          "member_role": "Assistant Executive Director",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Pamela L. Fields",
+          "member_role": "Assistant Executive Director, CULCON",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Sylvia L. Dandridge",
+          "member_role": "Executive Assistant",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Assistant Secretary of State for East Asian and Pacific Affairs",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Assistant Secretary of State for Educational and Cultural Affairs",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. Deanna Marcum",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. Patricia Maclachlan",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. Edward Lincoln",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "David Sneider",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Jane Chu",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "National Endowment for the Humanities",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Mark Takano",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. Anne Nishimura Morse",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Lisa Murkowski",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. T.J. Pempel",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dr. Leonard J. Schoppa, Jr.",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "MIGRATORY BIRD CONSERVATION COMMISSION",
+      "government_body_members": [
+        {
+          "member_name": "Ryan Zinke",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "John Boozman",
+          "member_role": "Member",
+          "member_state": "Arkansas"
+        },
+        {
+          "member_name": "Martin Heinrich",
+          "member_role": "Member",
+          "member_state": "New Mexico"
+        },
+        {
+          "member_name": "Robert J. Wittman",
+          "member_role": "Member",
+          "member_state": "Virginia"
+        },
+        {
+          "member_name": "Mike Thompson",
+          "member_role": "Member",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Sonny Perdue",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Andrew Wheeler",
+          "member_role": "Acting Administrator of Environmental Protection Agency",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "A. Eric Alvarez",
+          "member_role": "Secretary",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "PERMANENT COMMITTEE FOR THE OLIVER WENDELL HOLMES DEVISE FUND",
+      "government_body_members": [
+        {
+          "member_name": "Carla Hayden",
+          "member_role": "Chairman ex officio",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "James H. Hutson",
+          "member_role": "Administrative Officer for the Devise",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "UNITED STATES-CHINA ECONOMIC AND SECURITY REVIEW COMMISSION",
+      "government_body_members": [
+        {
+          "member_name": "Carolyn Bartholomew",
+          "member_role": "Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Dennis C. Shea",
+          "member_role": "Vice Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Robin Cleveland",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Byron L. Dorgan",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Carte P. Goodwin",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Glenn Hubbard",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Daniel M. Slane",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Jonathan N. Stivers",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. James M. Talent",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Katherine C. Tobin, Ph.D.",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Michael R. Wessel",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Larry M. Wortzel, Ph.D.",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Michael R. Danis",
+          "member_role": "Executive Director",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Leslie A. Tisdale",
+          "member_role": "Congressional Liaison and Communications Coordinator",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Christopher P. Fioravante",
+          "member_role": "Management Analyst",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Katherine E. Koleski",
+          "member_role": "Research Director and Policy Analyst, Economics and Trade",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Ethan S. Meick",
+          "member_role": "Security and Foreign Affairs Analyst",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Matthew O. Southerland",
+          "member_role": "Security and Foreign Affairs Analyst",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jordan Wilson",
+          "member_role": "Security and Foreign Affairs Analyst",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Michelle Ker",
+          "member_role": "Economics and Trade Analyst",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Sean O'Connor",
+          "member_role": "Economics and Trade Analyst",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Matthew Snyder",
+          "member_role": "Economics and Trade Analyst",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kristien T. Bergerson",
+          "member_role": "Senior Policy Analyst, Security and Foreign Affairs",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Nargiza Salidjanova",
+          "member_role": "Supervisory Senior Policy Analyst, Economics and Trade",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Caitlin E. Campbell",
+          "member_role": "Supervisory Senior Policy Analyst, Security and Foreign Affairs",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kathleen Wilson",
+          "member_role": "Finance and Operations Director",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "SENATE NATIONAL SECURITY WORKING GROUP",
+      "government_body_members": [
+        {
+          "member_name": "James E. Risch",
+          "member_role": "Administrative Co-Chair",
+          "member_state": "Idaho"
+        },
+        {
+          "member_name": "Dianne Feinstein",
+          "member_role": "Administrative Co-Chair",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Mitch McConnell",
+          "member_role": "Republican Leader",
+          "member_state": "Kentucky"
+        },
+        {
+          "member_name": "Charles E. Schumer",
+          "member_role": "Democratic Leader",
+          "member_state": "New York"
+        },
+        {
+          "member_name": "Jack Reed",
+          "member_role": "Co-Chair",
+          "member_state": "Rhode Island"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Co-Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Robert Menendez",
+          "member_role": "Co-Chair",
+          "member_state": "New Jersey"
+        },
+        {
+          "member_name": "Marco Rubio",
+          "member_role": "Co-Chair",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Lindsey Graham",
+          "member_role": "Co-Chair",
+          "member_state": "South Carolina"
+        },
+        {
+          "member_name": "James M. Inhofe",
+          "member_role": "Member",
+          "member_state": "Oklahoma"
+        },
+        {
+          "member_name": "Richard J. Durbin",
+          "member_role": "Member",
+          "member_state": "Illinois"
+        },
+        {
+          "member_name": "Bob Corker",
+          "member_role": "Member",
+          "member_state": "Tennessee"
+        },
+        {
+          "member_name": "Robert P. Casey, Jr.",
+          "member_role": "Member",
+          "member_state": "Pennsylvania"
+        },
+        {
+          "member_name": "Roy Blunt",
+          "member_role": "Member",
+          "member_state": "Missouri"
+        },
+        {
+          "member_name": "Bill Nelson",
+          "member_role": "Member",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "John McCain",
+          "member_role": "Member",
+          "member_state": "Arizona"
+        },
+        {
+          "member_name": "Heidi Heitkamp",
+          "member_role": "Member",
+          "member_state": "North Dakota"
+        },
+        {
+          "member_name": "Ben Sasse",
+          "member_role": "Member",
+          "member_state": "Nebraska"
+        },
+        {
+          "member_name": "Benjamin L. Cardin",
+          "member_role": "Member",
+          "member_state": "Maryland"
+        },
+        {
+          "member_name": "Tammy Duckworth",
+          "member_role": "Member",
+          "member_state": "Illinois"
+        },
+        {
+          "member_name": "Chris Gaspar",
+          "member_role": "Democratic Staff Director",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Chris Socha",
+          "member_role": "Republican Staff Director",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "UNITED STATES ASSOCIATION OF FORMER MEMBERS OF CONGRESS",
+      "government_body_members": [
+        {
+          "member_name": "Cliff Stearns",
+          "member_role": "President",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Martin Frost",
+          "member_role": "Vice President",
+          "member_state": "Texas"
+        },
+        {
+          "member_name": "Tim Petri",
+          "member_role": "Treasurer",
+          "member_state": "Wisconsin"
+        },
+        {
+          "member_name": "Karen Thurman",
+          "member_role": "Secretary",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Barbara Kennelly",
+          "member_role": "Immediate Past President",
+          "member_state": "Connecticut"
+        },
+        {
+          "member_name": "Norm Mineta",
+          "member_role": "Honorary Co-Chair",
+          "member_state": "California"
+        },
+        {
+          "member_name": "Peter M. Weichlein",
+          "member_role": "Chief Executive Officer",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jack Buechner",
+          "member_role": "Presidents Emeritus Council",
+          "member_state": "Missouri"
+        },
+        {
+          "member_name": "Lou Frey",
+          "member_role": "Presidents Emeritus Council",
+          "member_state": "Florida"
+        },
+        {
+          "member_name": "Dennis Hertel",
+          "member_role": "Presidents Emeritus Council",
+          "member_state": "Michigan"
+        },
+        {
+          "member_name": "Larry LaRocco",
+          "member_role": "Presidents Emeritus Council",
+          "member_state": "Idaho"
+        },
+        {
+          "member_name": "Connie Morella",
+          "member_role": "Presidents Emeritus Council",
+          "member_state": "Maryland"
+        },
+        {
+          "member_name": "Matt McHugh",
+          "member_role": "Presidents Emeritus Council",
+          "member_state": "New York"
+        },
+        {
+          "member_name": "Jim Slattery",
+          "member_role": "Presidents Emeritus Council",
+          "member_state": "Kansas"
+        }
+      ]
+    },
+    {
+      "government_body_name": "U.S. CAPITOL HISTORICAL SOCIETY",
+      "government_body_members": [
+        {
+          "member_name": "Donald G. Carlson",
+          "member_role": "Chair of the Board",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Connie Tipton",
+          "member_role": "Vice Chair of the Board",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Ron Sarasin",
+          "member_role": "President",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mitch Bainwol",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. John B. Larson",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Kenneth E. Bentsen, Jr.",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Brett Loper",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Roy Blunt",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Lorraine Miller",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jean P. Bordewich",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Edward A. Pease",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kenneth Bowling, Ph.D.",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Marc Cadin",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Cokie Roberts",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Nicholas E. Calio",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Ron Sarasin",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Sean Callinicos",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Anna Schneider",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jan Schoonmaker",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Bob Casey",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Matthew Shay",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jeanne deCervens",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Dontai Smalls",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Joseph W. Dooley",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Andrew Durant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Hon. Virginia Fox",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Connie Tipton",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mary Moore Hamrick",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Brigadier General Tim White",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mark Hopkins",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mike Zarrelli",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Laura McCulty Stepp",
+          "member_role": "Vice President of Membership and Development",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Diana E. Wailes",
+          "member_role": "Vice President of Merchandising",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Peter McGuire",
+          "member_role": "Vice President of Finance and Administration",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "William G. diGiacomantonio",
+          "member_role": "Chief Historian",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Marilyn Green",
+          "member_role": "Director of Corporate Giving",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Lauren Borchard",
+          "member_role": "Director of Historical Programs",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Steve Livengood",
+          "member_role": "Director of Public Programs and Chief Guide",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Sheri Williams",
+          "member_role": "Manager of Accounting",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Jennifer Romberg",
+          "member_role": "Manager of Development and Outreach",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Bee Barnett",
+          "member_role": "Manager of Membership and Development",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Brandi Gasser",
+          "member_role": "Manager of Public Programs",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vince Scott",
+          "member_role": "Manager of Operations",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mike Lawson",
+          "member_role": "Manager of Receiving",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Shannice Moore",
+          "member_role": "Receptionist, Merchandise Clerk",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "U.S. CAPITOL PRESERVATION COMMISSION",
+      "government_body_members": [
+        {
+          "member_name": "Paul D. Ryan",
+          "member_role": "Co-Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Orrin G. Hatch",
+          "member_role": "Co-Chair",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Mitch McConnell",
+          "member_role": "Member",
+          "member_state": "Kentucky"
+        },
+        {
+          "member_name": "Charles E. Schumer",
+          "member_role": "Member",
+          "member_state": "New York"
+        },
+        {
+          "member_name": "Richard C. Shelby",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Amy Klobuchar",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "John Hoeven",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Richard J. Durbin",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kevin McCarthy",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Nancy Pelosi",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Gregg Harper",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Robert A. Brady",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Barbara Comstock",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Marcy Kaptur",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Member",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Stephen T. Ayers",
+          "member_role": "Ex-Officio Member-Architect of the Capitol",
+          "member_state": "N/A"
+        }
+      ]
+    },
+    {
+      "government_body_name": "U.S. HOUSE OF REPRESENTATIVES FINE ARTS BOARD",
+      "government_body_members": [
+        {
+          "member_name": "Gregg Harper",
+          "member_role": "Chair",
+          "member_state": "Mississippi"
+        },
+        {
+          "member_name": "Barry Loudermilk",
+          "member_role": "Member",
+          "member_state": "Georgia"
+        },
+        {
+          "member_name": "Kevin Yoder",
+          "member_role": "Member",
+          "member_state": "Kansas"
+        },
+        {
+          "member_name": "Robert A. Brady",
+          "member_role": "Member",
+          "member_state": "Pennsylvania"
+        },
+        {
+          "member_name": "Zoe Lofgren",
+          "member_role": "Member",
+          "member_state": "California"
+        }
+      ]
+    },
+    {
+      "government_body_name": "U.S. SENATE COMMISSION ON ART",
+      "government_body_members": [
+        {
+          "member_name": "Mitch McConnell",
+          "member_role": "Chair",
+          "member_state": "Kentucky"
+        },
+        {
+          "member_name": "Charles E. Schumer",
+          "member_role": "Vice Chair",
+          "member_state": "New York"
+        },
+        {
+          "member_name": "Orrin G. Hatch",
+          "member_role": "Member",
+          "member_state": "Utah"
+        },
+        {
+          "member_name": "Richard C. Shelby",
+          "member_role": "Member",
+          "member_state": "Alabama"
+        },
+        {
+          "member_name": "Amy Klobuchar",
+          "member_role": "Member",
+          "member_state": "Minnesota"
+        },
+        {
+          "member_name": "Julie E. Adams",
+          "member_role": "Executive Secretary",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Melinda K. Smith",
+          "member_role": "Curator",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Alexander \"Sasha\" Lourie",
+          "member_role": "Associate Curator",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Scott M. Strong",
+          "member_role": "Administrator",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Kelly Steele",
+          "member_role": "Historic Preservation Officer",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Josephine Shea",
+          "member_role": "Collections Manager",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Amy Elizabeth Burton",
+          "member_role": "Assistant Curator",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Theresa Malanum",
+          "member_role": "Registrar",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Megan Hipsley",
+          "member_role": "Collections Specialist",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Richard L. Doerner",
+          "member_role": "Museum Specialist",
+          "member_state": "N/A"
+        },
+        {
+          "member_name": "Anum Mirza",
+          "member_role": "Executive Assistant",
+          "member_state": "N/A"
+        }
+      ]
+    }
+  ]
+}

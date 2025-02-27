@@ -1,0 +1,3430 @@
+{
+  "cabinet": [
+    {
+      "member_name": "ERIC H. HOLDER, JR.",
+      "member_role": "Attorney General"
+    }
+  ],
+  "executive_office_of_president": [
+    {
+      "office_name": "OFFICE OF COMMUNITY ORIENTED POLICING SERVICES",
+      "office_members": [
+        {
+          "member_name": "Timothy Quinn",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Sharon Baker",
+          "member_role": "Office Manager"
+        },
+        {
+          "member_name": "Timothy Quinn",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Timothy Quinn",
+          "member_role": "Deputy Director for Management"
+        },
+        {
+          "member_name": "Laurel Matthews",
+          "member_role": "Supervisory Management Analyst"
+        },
+        {
+          "member_name": "Robert Phillips",
+          "member_role": "Deputy Director for Operations"
+        },
+        {
+          "member_name": "Mary Hyland",
+          "member_role": "Assistant Director, Administrative Division"
+        },
+        {
+          "member_name": "Debbie Brown",
+          "member_role": "Human Capital Manager"
+        },
+        {
+          "member_name": "Cynthia Bowie",
+          "member_role": "Assistant Director, Audit Division"
+        },
+        {
+          "member_name": "David Buchanan",
+          "member_role": "Assistant Director, Communications Division"
+        },
+        {
+          "member_name": "Andy Dorr",
+          "member_role": "Assistant Director, Grants Administration Division"
+        },
+        {
+          "member_name": "John Oliphant",
+          "member_role": "Grant Regional Supervisor"
+        },
+        {
+          "member_name": "Keesha Thompson",
+          "member_role": "Grant Regional Supervisor"
+        },
+        {
+          "member_name": "Linda Gist",
+          "member_role": "Grant Regional Supervisor"
+        },
+        {
+          "member_name": "Scott McNichol",
+          "member_role": "Grant Regional Supervisor"
+        },
+        {
+          "member_name": "Marcia Samuels",
+          "member_role": "Assistant Director, Grant Monitoring Division"
+        },
+        {
+          "member_name": "Lani Lee",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Charlotte C. Grzebien",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Jenny Wu",
+          "member_role": "Associate General Counsel"
+        },
+        {
+          "member_name": "Matthew Scheider",
+          "member_role": "Assistant Director, Program / Policy Support and Evaluation"
+        },
+        {
+          "member_name": "Beverly Alford",
+          "member_role": "Assistant Director, Technical Assistance and Training Division"
+        }
+      ]
+    },
+    {
+      "office_name": "COMMUNITY RELATIONS SERVICE",
+      "office_members": [
+        {
+          "member_name": "Ondray T. Harris",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Diane Mitchum",
+          "member_role": "Deputy Associate Director"
+        },
+        {
+          "member_name": "George Henderson",
+          "member_role": "Attorney Advisor"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Media Affairs Officer"
+        }
+      ]
+    },
+    {
+      "office_name": "CRIMINAL DIVISION",
+      "office_members": [
+        {
+          "member_name": "Rita M. Glavin",
+          "member_role": "Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "Mythili Raman",
+          "member_role": "Chief of Staff (acting)"
+        },
+        {
+          "member_name": "Kenneth A. Blanco",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "David Hennessy",
+          "member_role": "Deputy Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "John C. Keeney",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "John Morton",
+          "member_role": "Deputy Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "Bruce C. Swartz",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Steven E. Fagell",
+          "member_role": "Counselor to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Stacey Luck",
+          "member_role": "Senior Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Ian McCaleb",
+          "member_role": "Senior Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "James Reynolds",
+          "member_role": "Senior Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Richard M. Rogers",
+          "member_role": "Senior Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Jonathan Wroblewski",
+          "member_role": "Senior Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Steve Parent",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Patty M. Stemler",
+          "member_role": "Section Chief / Office Director, Appellate"
+        },
+        {
+          "member_name": "Richard Weber",
+          "member_role": "Section Chief / Office Director, Asset Forfeiture and Money Laundering"
+        },
+        {
+          "member_name": "Margaret P. Griffey",
+          "member_role": "Section Chief / Office Director, Capital Case Unit"
+        },
+        {
+          "member_name": "Andrew G. Oosterbaan",
+          "member_role": "Section Chief / Office Director, Child Exploitation and Obscenity"
+        },
+        {
+          "member_name": "Michael DuBose",
+          "member_role": "Section Chief / Office Director, Computer Crime and Intellectual Property"
+        },
+        {
+          "member_name": "Teresa McHenry",
+          "member_role": "Section Chief / Office Director, Domestic Security"
+        },
+        {
+          "member_name": "Maureen Killion",
+          "member_role": "Section Chief / Office Director, Enforcement Operations"
+        },
+        {
+          "member_name": "Steven Tyrrell",
+          "member_role": "Section Chief / Office Director, Fraud"
+        },
+        {
+          "member_name": "Mary Ellen Warlow",
+          "member_role": "Section Chief / Office Director, International Affairs"
+        },
+        {
+          "member_name": "Carr Trevillian IV",
+          "member_role": "Section Chief / Office Director, International Criminal Investigative Training Assistant Program"
+        },
+        {
+          "member_name": "Paul M. O'Brien",
+          "member_role": "Section Chief / Office Director, Narcotics and Dangerous Drugs"
+        },
+        {
+          "member_name": "Carl Alexandre",
+          "member_role": "Section Chief / Office Director, Overseas Prosecutorial Development, Assistance and Training"
+        },
+        {
+          "member_name": "Bruce G. Ohr",
+          "member_role": "Section Chief / Office Director, Organized Crime and Racketeering"
+        },
+        {
+          "member_name": "Jonathan Wroblewski",
+          "member_role": "Section Chief / Office Director, Policy and Legislation"
+        },
+        {
+          "member_name": "William Welch",
+          "member_role": "Section Chief / Office Director, Public Integrity"
+        },
+        {
+          "member_name": "Eli M. Rosenbaum",
+          "member_role": "Section Chief / Office Director, Special Investigations"
+        }
+      ]
+    },
+    {
+      "office_name": "EXECUTIVE OFFICE FOR IMMIGRATION REVIEW (EOIR)",
+      "office_members": [
+        {
+          "member_name": "Thomas Snow",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Paula Nasca",
+          "member_role": "Associate Director / Chief of Staff"
+        },
+        {
+          "member_name": "Terry Samuels",
+          "member_role": "Executive Secretariat"
+        },
+        {
+          "member_name": "John Blum",
+          "member_role": "Assistant Director / General Counsel (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Lawrence M. D'Elia",
+          "member_role": "Assistant Director of Administration"
+        },
+        {
+          "member_name": "Frances A. Mooney",
+          "member_role": "Assistant Director of Management Programs"
+        },
+        {
+          "member_name": "Amy Dale",
+          "member_role": "Assistant Director of Planning, Analysis and Technology"
+        },
+        {
+          "member_name": "Juan Osuna",
+          "member_role": "Chairman, Board of Immigration Appeals"
+        },
+        {
+          "member_name": "Michael J. Creppy",
+          "member_role": "Chief, Office of the Chief Administrative Hearing Officer"
+        },
+        {
+          "member_name": "Michael C. McGoings",
+          "member_role": "Chief Judge, Office of the Chief Immigration Judge (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Chief Immigration Judge"
+        },
+        {
+          "member_name": "Annette Thomas",
+          "member_role": "Telephone Directory Coordinator"
+        }
+      ]
+    },
+    {
+      "office_name": "EXECUTIVE OFFICE FOR UNITED STATES ATTORNEYS (EOUSA)",
+      "office_members": [
+        {
+          "member_name": "H. Marshall Jarrett",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Terry Derden",
+          "member_role": "Deputy Director / Chief of Staff"
+        },
+        {
+          "member_name": "Paul Suddes",
+          "member_role": "Administrative Officer (acting)"
+        },
+        {
+          "member_name": "Jay Macklin",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Michael Bailie",
+          "member_role": "Director, Office of Legal Education"
+        },
+        {
+          "member_name": "Rita Sampson",
+          "member_role": "Assistant Director, Equal Employment Opportunity Staff"
+        },
+        {
+          "member_name": "Chris Barnes",
+          "member_role": "Assistant Director, Evaluation and Review Staff"
+        },
+        {
+          "member_name": "Garry Stewart",
+          "member_role": "Assistant Director, FOIA and Privacy Act Staff"
+        },
+        {
+          "member_name": "David Downs",
+          "member_role": "Assistant Director / Senior Advisor for Management and Operations, District Management and Assistance Program"
+        },
+        {
+          "member_name": "Frank Shults",
+          "member_role": "Senior Counsel for Strategic Planning and Communications"
+        },
+        {
+          "member_name": "Judith Beeman",
+          "member_role": "Executive Assistant / Attorney Generals Advisory Committee Liaison"
+        },
+        {
+          "member_name": "Norman Wong",
+          "member_role": "Deputy Director / Counsel to the Director"
+        },
+        {
+          "member_name": "Dan Villegas",
+          "member_role": "Counsel for Legal Programs"
+        },
+        {
+          "member_name": "Laurie Levin",
+          "member_role": "Assistant Director, Financial Litigation Unit"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Director, LECC / Victim Witness"
+        },
+        {
+          "member_name": "Virginia Howard",
+          "member_role": "Assistant Director, Programs"
+        },
+        {
+          "member_name": "David Smith",
+          "member_role": "Counsel for Legal Initiatives"
+        },
+        {
+          "member_name": "Michelle Slusher",
+          "member_role": "Assistant Director, Data Analysis Staff"
+        },
+        {
+          "member_name": "Lisa Bevels",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Andrew Katsaros",
+          "member_role": "Assistant Director, Audits"
+        },
+        {
+          "member_name": "Mary Ellen Kline",
+          "member_role": "Assistant Director, Budget Execution"
+        },
+        {
+          "member_name": "Kevin Fick",
+          "member_role": "Assistant Director, Budget Formulation"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Director, Financial Systems"
+        },
+        {
+          "member_name": "Mark Fleshman",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Joe Welsh",
+          "member_role": "Assistant Director, Case Management Staff"
+        },
+        {
+          "member_name": "Ted Shelkey",
+          "member_role": "Assistant Director, Information Security Staff"
+        },
+        {
+          "member_name": "Anne Callaghan",
+          "member_role": "Assistant Director, Office Automation Staff (acting)"
+        },
+        {
+          "member_name": "Kevin Shaw",
+          "member_role": "Assistant Director, Office Automation Staff (acting)"
+        },
+        {
+          "member_name": "Denny Ko",
+          "member_role": "Assistant Director, Telecommunications and Technology Development Staff"
+        },
+        {
+          "member_name": "Paul Suddes",
+          "member_role": "Chief Operating Officer (acting)"
+        },
+        {
+          "member_name": "Gail Ratliffe",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "Janis Harrington",
+          "member_role": "Assistant Director, Acquisitions Staff"
+        },
+        {
+          "member_name": "Ed Neunlist",
+          "member_role": "Assistant Director, Employee Assistance Staff"
+        },
+        {
+          "member_name": "Ana Indovina",
+          "member_role": "Assistant Director, Facilities / Support Services Staff"
+        },
+        {
+          "member_name": "Jean Dunn",
+          "member_role": "Assistant Director, Personnel Staff"
+        },
+        {
+          "member_name": "Tim George",
+          "member_role": "Assistant Director, Security Programs Staff"
+        },
+        {
+          "member_name": "Marie O'Rourke",
+          "member_role": "Victims Rights Ombudsman"
+        },
+        {
+          "member_name": "Tracy Toulou",
+          "member_role": "Office of Tribal Justice"
+        }
+      ]
+    },
+    {
+      "office_name": "EXECUTIVE OFFICE FOR UNITED STATES TRUSTEES",
+      "office_members": [
+        {
+          "member_name": "Clifford J. White III",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Mark A. Redmiles",
+          "member_role": "Principal Deputy Director"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Jeffrey M. Miller",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "Ramona Elliott",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Monique K. Bourque",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Santal Manos",
+          "member_role": "Assistant Director, Office of Administration"
+        },
+        {
+          "member_name": "Philip Crewson",
+          "member_role": "Assistant Director, Office of Research and Planning"
+        },
+        {
+          "member_name": "Doreen Solomon",
+          "member_role": "Assistant Director, Office of Review and Oversight"
+        }
+      ]
+    },
+    {
+      "office_name": "BUREAU OF ALCOHOL, TOBACCO, FIREARMS, AND EXPLOSIVES (ATF)",
+      "office_members": [
+        {
+          "member_name": "Kenneth Melson",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Stephen R. Rubenstein",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Teresa Ficaretta",
+          "member_role": "Deputy Chief Counsel"
+        },
+        {
+          "member_name": "Carson Carroll",
+          "member_role": "Assistant Director, Office of Enforcement Programs and Services"
+        },
+        {
+          "member_name": "Audrey Stucko",
+          "member_role": "Deputy Assistant Director, Office of Enforcement Programs and Services"
+        },
+        {
+          "member_name": "Stacie Brockman",
+          "member_role": "Executive Assistant, Office of Equal Opportunity"
+        },
+        {
+          "member_name": "Dora Silas",
+          "member_role": "Deputy Executive Assistant, Office of Equal Opportunity"
+        },
+        {
+          "member_name": "William J. Hoover",
+          "member_role": "Assistant Director, Office of Field Operations"
+        },
+        {
+          "member_name": "Mark Chait",
+          "member_role": "Deputy Assistant Director for Central, Office of Field Operations"
+        },
+        {
+          "member_name": "Julie Torres",
+          "member_role": "Deputy Assistant Director for East, Office of Field Operations"
+        },
+        {
+          "member_name": "William McMahon",
+          "member_role": "Deputy Assistant Director for West, Office of Field Operations"
+        },
+        {
+          "member_name": "James A. Zamillo, Sr.",
+          "member_role": "Deputy Assistant Director for Industry Operations, Office of Field Operations"
+        },
+        {
+          "member_name": "Melanie Stinnett",
+          "member_role": "Assistant Director / Chief Financial Officer, Office of Management/CFO"
+        },
+        {
+          "member_name": "Vivian Michalic",
+          "member_role": "Deputy Assistant Director, Office of Management/CFO"
+        },
+        {
+          "member_name": "Marianne Ketels",
+          "member_role": "Ombudsman, Office of Ombudsman"
+        },
+        {
+          "member_name": "Kelvin Crenshaw",
+          "member_role": "Assistant Director, Office of Professional Responsibility and Security Operations"
+        },
+        {
+          "member_name": "Kenneth Massey",
+          "member_role": "Deputy Assistant Director, Office of Professional Responsibility and Security Operations"
+        }
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF JUSTICE",
+      "department_members": [
+        {
+          "member_name": "ERIC H. HOLDER, JR.",
+          "member_role": "Attorney General"
+        },
+        {
+          "member_name": "KEVIN A. OHLSON",
+          "member_role": "Chief of Staff and Counselor to the Attorney General"
+        },
+        {
+          "member_name": "JAMES GARLAND",
+          "member_role": "Deputy Chief of Staff and Counselor to the Attorney General"
+        },
+        {
+          "member_name": "ANNIE BRADLEY",
+          "member_role": "Confidential Assistant to the Attorney General"
+        },
+        {
+          "member_name": "JOHN BIES",
+          "member_role": "Counselor to the Attorney General"
+        },
+        {
+          "member_name": "AMY JEFFRESS",
+          "member_role": "Counselor to the Attorney General"
+        },
+        {
+          "member_name": "AARON LEWIS",
+          "member_role": "Counselor to the Attorney General"
+        },
+        {
+          "member_name": "MONTY WILKINSON",
+          "member_role": "Counselor to the Attorney General"
+        },
+        {
+          "member_name": "MARGARET RICHARDSON",
+          "member_role": "Counselor to the Attorney for Executive Branch Relations"
+        },
+        {
+          "member_name": "PAIGE FITZGERALD",
+          "member_role": "Director of Scheduling"
+        },
+        {
+          "member_name": "DAVID W. OGDEN",
+          "member_role": "Deputy Attorney General"
+        },
+        {
+          "member_name": "KATHRYN H. RUEMMLER",
+          "member_role": "Principal Associate Deputy Attorney General"
+        },
+        {
+          "member_name": "STUART F. DELERY",
+          "member_role": "Chief of Staff and Counselor"
+        },
+        {
+          "member_name": "NEIL H. MACBRIDE",
+          "member_role": "Associate Deputy Attorney General"
+        },
+        {
+          "member_name": "DAVID MARGOLIS",
+          "member_role": "Associate Deputy Attorney General"
+        },
+        {
+          "member_name": "LISA MONACO",
+          "member_role": "Associate Deputy Attorney General"
+        },
+        {
+          "member_name": "SCOTT N. SCHOOLS",
+          "member_role": "Associate Deputy Attorney General"
+        },
+        {
+          "member_name": "DONALD B. VERRILLI, JR.",
+          "member_role": "Associate Deputy Attorney General"
+        },
+        {
+          "member_name": "STUART NASH",
+          "member_role": "Associate Deputy Attorney General and Director, OCDETF"
+        },
+        {
+          "member_name": "JENNIFER SHASKY CALVERY",
+          "member_role": "Senior Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "ERIC R. COLUMBUS",
+          "member_role": "Senior Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "EDWARD N. SISKEL",
+          "member_role": "Senior Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "JASON C. CHIPMAN",
+          "member_role": "Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "CHAD GOLDER",
+          "member_role": "Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "STEPHANIE K. PELL",
+          "member_role": "Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "DAPHNA RENAN",
+          "member_role": "Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "BRADLEY T. SMITH",
+          "member_role": "Counsel to the Deputy Attorney General"
+        },
+        {
+          "member_name": "MARK E. MICHALIC",
+          "member_role": "Special Assistant to the Deputy Attorney General"
+        },
+        {
+          "member_name": "LINDA E. LONG",
+          "member_role": "Confidential Assistant to the Deputy Attorney General"
+        },
+        {
+          "member_name": "THOMAS J. PERRELLI",
+          "member_role": "Associate Attorney General"
+        },
+        {
+          "member_name": "JOSEPH R. GUERRA",
+          "member_role": "Principal Deputy Associate Attorney General"
+        },
+        {
+          "member_name": "HELAINE GREENFELD",
+          "member_role": "Deputy Associate Attorney General"
+        },
+        {
+          "member_name": "SAMUEL HIRSCH",
+          "member_role": "Deputy Associate Attorney General"
+        },
+        {
+          "member_name": "BRIAN HAUCK",
+          "member_role": "Counsel to the Associate Attorney General"
+        },
+        {
+          "member_name": "CURRIE GUNN",
+          "member_role": "Confidential Assistant"
+        },
+        {
+          "member_name": "ELENA KAGAN",
+          "member_role": "Solicitor General"
+        },
+        {
+          "member_name": "NEAL K. KATYAL",
+          "member_role": "Principal Deputy Solicitor General"
+        },
+        {
+          "member_name": "MICHAEL R. DREEBEN",
+          "member_role": "Deputy Solicitor General"
+        },
+        {
+          "member_name": "EDWIN S. KNEEDLER",
+          "member_role": "Deputy Solicitor General"
+        },
+        {
+          "member_name": "MALCOLM L. STEWART",
+          "member_role": "Deputy Solicitor General"
+        },
+        {
+          "member_name": "WILLIAM J. DZIWURA",
+          "member_role": "Executive Officer (acting)"
+        },
+        {
+          "member_name": "EMILY C. SPADONI",
+          "member_role": "Supervisory Case Management Specialist"
+        },
+        {
+          "member_name": "PATRICIA STANCZAK-KRAUS",
+          "member_role": "Chief, Research and Publications Section"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Assistant Attorney General"
+        },
+        {
+          "member_name": "SCOTT M. HAMMOND",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "CARL SHAPIRO",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "MARC SIEGEL",
+          "member_role": "Director of Criminal Enforcement"
+        },
+        {
+          "member_name": "KENNETH HEYER",
+          "member_role": "Director of Economics Enforcement"
+        },
+        {
+          "member_name": "ROBERT J. KRAMER",
+          "member_role": "Director of Operations"
+        },
+        {
+          "member_name": "SUEANN SLATES",
+          "member_role": "Freedom of Information Act Officer"
+        },
+        {
+          "member_name": "THOMAS D. KING",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "CATHERINE G. O'SULLIVAN",
+          "member_role": "Section Chief, Appellate"
+        },
+        {
+          "member_name": "ROBERT MAJURE",
+          "member_role": "Section Chief, Competition Policy (acting)"
+        },
+        {
+          "member_name": "NORMAN FAMILANT",
+          "member_role": "Section Chief, Economic Litigation"
+        },
+        {
+          "member_name": "DANIEL O'BRIEN",
+          "member_role": "Section Chief, Economic Regulatory"
+        },
+        {
+          "member_name": "EDWARD T. HAND",
+          "member_role": "Section Chief, Foreign Commerce"
+        },
+        {
+          "member_name": "ROBERT A. POTTER",
+          "member_role": "Section Chief, Legal Policy"
+        },
+        {
+          "member_name": "MARK J. BOTTI",
+          "member_role": "Section Chief, Litigation I"
+        },
+        {
+          "member_name": "MARIBETH PETRIZZI",
+          "member_role": "Section Chief, Litigation II"
+        },
+        {
+          "member_name": "JOHN R. READ",
+          "member_role": "Section Chief, Litigation III"
+        },
+        {
+          "member_name": "LISA M. PHELAN",
+          "member_role": "Section Chief, National Criminal Enforcement"
+        },
+        {
+          "member_name": "JAMES TIERNEY",
+          "member_role": "Section Chief, Networks and Technology"
+        },
+        {
+          "member_name": "NANCY M. GOODMAN",
+          "member_role": "Section Chief, Telecommunications and Media"
+        },
+        {
+          "member_name": "DONNA KOOPERSTEIN",
+          "member_role": "Section Chief, Transportation, Energy, and Agriculture"
+        },
+        {
+          "member_name": "PHILLIP H. WARREN",
+          "member_role": "Field Office Head, California"
+        },
+        {
+          "member_name": "NEZIDA S. DAVIS",
+          "member_role": "Field Office Head, Georgia"
+        },
+        {
+          "member_name": "MARVIN N. PRICE, JR.",
+          "member_role": "Field Office Head, Illinois"
+        },
+        {
+          "member_name": "RALPH T. GIORDANO",
+          "member_role": "Field Office Head, New York"
+        },
+        {
+          "member_name": "SCOTT M. WATSON",
+          "member_role": "Field Office Head, Ohio"
+        },
+        {
+          "member_name": "ROBERT E. CONNOLLY",
+          "member_role": "Field Office Head, Pennsylvania"
+        },
+        {
+          "member_name": "DUNCAN S. CURRIE",
+          "member_role": "Field Office Head, Texas"
+        },
+        {
+          "member_name": "MICHAEL F. HERTZ",
+          "member_role": "Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Principal Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "ROBERT E. KOPP",
+          "member_role": "Director, Appellate Staff"
+        },
+        {
+          "member_name": "WILLIAM KANTER",
+          "member_role": "Deputy Director, Appellate Staff"
+        },
+        {
+          "member_name": "STUART E. SCHIFFER",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "DAVID M. COHEN",
+          "member_role": "Director, Commercial Litigation Branch"
+        },
+        {
+          "member_name": "JOHN N. FARGO",
+          "member_role": "Director, Commercial Litigation Branch"
+        },
+        {
+          "member_name": "MICHAEL F. HERTZ",
+          "member_role": "Director, Commercial Litigation Branch"
+        },
+        {
+          "member_name": "J. CHRISTOPHER KOHN",
+          "member_role": "Director, Commercial Litigation Branch"
+        },
+        {
+          "member_name": "ROBERT HOLLIS",
+          "member_role": "Office of Foreign Litigation Director"
+        },
+        {
+          "member_name": "JOYCE R. BRANDA",
+          "member_role": "Deputy Director, Office of Foreign Litigation"
+        },
+        {
+          "member_name": "JEANNE DAVIDSON",
+          "member_role": "Deputy Director, Office of Foreign Litigation"
+        },
+        {
+          "member_name": "DONNA C. MAIZEL",
+          "member_role": "Legal Officer, Office of Foreign Litigation"
+        },
+        {
+          "member_name": "BARBARA WILLIAMS",
+          "member_role": "Attorney-in-Charge, Office of Foreign Litigation"
+        },
+        {
+          "member_name": "EUGENE M. THIROLF",
+          "member_role": "Director, Consumer Litigation"
+        },
+        {
+          "member_name": "KENNETH L. ZWICK",
+          "member_role": "Director, Management Programs"
+        },
+        {
+          "member_name": "SHIRLEY LLOYD",
+          "member_role": "Director, Office of Administration"
+        },
+        {
+          "member_name": "LINDA S. LINER",
+          "member_role": "Director, Office of Planning, Budget, and Evaluation"
+        },
+        {
+          "member_name": "DOROTHY BAHR",
+          "member_role": "Director, Office of Management Information"
+        },
+        {
+          "member_name": "CLARISSE ABRAMIDIS",
+          "member_role": "Director, Office of Litigation Support"
+        },
+        {
+          "member_name": "KEVIN BURKET",
+          "member_role": "Director, Office of Policy and Management Operations"
+        },
+        {
+          "member_name": "PETER FROST",
+          "member_role": "Director, Torts Branch"
+        },
+        {
+          "member_name": "TIMOTHY P. GARREN",
+          "member_role": "Director, Torts Branch"
+        },
+        {
+          "member_name": "J. PATRICK GLYNN",
+          "member_role": "Director, Torts Branch"
+        },
+        {
+          "member_name": "PHYLLIS J. PYLES",
+          "member_role": "Director, Torts Branch"
+        },
+        {
+          "member_name": "JOANN J. BORDEAUX",
+          "member_role": "Deputy Director, Torts Branch"
+        },
+        {
+          "member_name": "PAUL F. FIGLEY",
+          "member_role": "Deputy Director, Torts Branch"
+        },
+        {
+          "member_name": "LORETTA KING",
+          "member_role": "Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "STEVEN ROSENBAUM",
+          "member_role": "Deputy Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "JOHN WODATCH",
+          "member_role": "Deputy Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "OLEGARIO CANTOS VII",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "JOHN RICHMOND",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "KAREN STEVENS",
+          "member_role": "Counsel to the Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "ERIC TREENE",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "PAMELA BARRON",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "DAVID K. FLYNN",
+          "member_role": "Section Chief, Appellate"
+        },
+        {
+          "member_name": "MERRILY A. FRIEDLANDER",
+          "member_role": "Section Chief, Coordination and Review"
+        },
+        {
+          "member_name": "MARK KAPPELHOFF",
+          "member_role": "Section Chief, Criminal"
+        },
+        {
+          "member_name": "RENEE WOHLENHAUS",
+          "member_role": "Section Chief, Disability Rights (acting)"
+        },
+        {
+          "member_name": "JEREMIAH GLASSMAN",
+          "member_role": "Section Chief, Educational Opportunities"
+        },
+        {
+          "member_name": "JOHN GADZICHOWSKI",
+          "member_role": "Section Chief, Employment Litigation (acting)"
+        },
+        {
+          "member_name": "DONNA MURPHY",
+          "member_role": "Section Chief, Housing and Civil Enforcement (acting)"
+        },
+        {
+          "member_name": "SHANETTA BROWN CUTLER",
+          "member_role": "Section Chief, Special Litigation"
+        },
+        {
+          "member_name": "JOHN K. TANNER",
+          "member_role": "Section Chief, Voting"
+        },
+        {
+          "member_name": "KATHERINE BALDWIN",
+          "member_role": "Deputy Chief, Special Counsel Office"
+        },
+        {
+          "member_name": "VACANT",
+          "member_role": "Special Counsel for Immigration Related Unfair Employment Practices"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF DISPUTE RESOLUTION",
+      "department_members": [
+        {
+          "member_name": "Joanna M. Jacobs",
+          "member_role": "Director / Senior Counsel (acting)"
+        },
+        {
+          "member_name": "Krista van der Horst",
+          "member_role": "Dispute Resolution Support Specialist"
+        }
+      ]
+    },
+    {
+      "department_name": "DRUG ENFORCEMENT ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Michele M. Leonhart",
+          "member_role": "Administrator (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Michele M. Leonhart",
+          "member_role": "Deputy Administrator"
+        },
+        {
+          "member_name": "Oliver C. Allen",
+          "member_role": "Equal Employment Opportunity Officer"
+        },
+        {
+          "member_name": "Robert S. Brisolari",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Christopher D. Evans",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "Mary Irene Cooper",
+          "member_role": "Chief, Congressional and Public Affairs"
+        },
+        {
+          "member_name": "Kevin D. Whaley",
+          "member_role": "Chief, Executive Policy and Strategic Planning"
+        },
+        {
+          "member_name": "Sheldon Shoemaker",
+          "member_role": "Section Chief, Congressional Affairs"
+        },
+        {
+          "member_name": "Eric Akers",
+          "member_role": "Section Chief, Demand Reduction"
+        },
+        {
+          "member_name": "Donald E. Joseph",
+          "member_role": "Section Chief, Information Services"
+        },
+        {
+          "member_name": "Garrison K. Courtney",
+          "member_role": "Section Chief, Public Affairs (acting)"
+        },
+        {
+          "member_name": "Wendy H. Goggin",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Robert C. Gleason",
+          "member_role": "Deputy Chief Counsel"
+        },
+        {
+          "member_name": "Mary Ellen Bittner",
+          "member_role": "Chief, Office of Administrative Law Judges"
+        },
+        {
+          "member_name": "Frank M. Kalder",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Christinia K. Sisk",
+          "member_role": "Deputy Assistant Administrator for Acquisition Management"
+        },
+        {
+          "member_name": "John Osterday",
+          "member_role": "Deputy Assistant Administrator for Finance"
+        },
+        {
+          "member_name": "Charlotte A. Saunders",
+          "member_role": "Deputy Assistant Administrator for Resource Management"
+        },
+        {
+          "member_name": "Angel Perez",
+          "member_role": "Section Chief, Acquisition Management"
+        },
+        {
+          "member_name": "Brian Parks",
+          "member_role": "Section Chief, Controls and Coordination"
+        },
+        {
+          "member_name": "Donna Wilson",
+          "member_role": "Section Chief, Evaluations and Planning"
+        },
+        {
+          "member_name": "Bradley J. Honkus",
+          "member_role": "Section Chief, Financial Integrity"
+        },
+        {
+          "member_name": "Tammy Balas",
+          "member_role": "Section Chief, Financial Operations"
+        },
+        {
+          "member_name": "Sherri Woodle",
+          "member_role": "Section Chief, Financial Reports"
+        },
+        {
+          "member_name": "Daniel G. Gillette",
+          "member_role": "Section Chief, Financial Systems"
+        },
+        {
+          "member_name": "Donna Ciccolella",
+          "member_role": "Section Chief, Organization and Staffing Management"
+        },
+        {
+          "member_name": "Beverly Hobbs",
+          "member_role": "Section Chief, Policy and Transportation"
+        },
+        {
+          "member_name": "Brian Horn",
+          "member_role": "Section Chief, Program Liaison and Analysis"
+        },
+        {
+          "member_name": "James Tauber",
+          "member_role": "Section Chief, Statistical Services"
+        },
+        {
+          "member_name": "Raymond Pagliarini",
+          "member_role": "Assistant Administrator, Human Resources Division"
+        },
+        {
+          "member_name": "Glenda A. Rollins",
+          "member_role": "Section Chief, Administrative Management"
+        },
+        {
+          "member_name": "Margie Aira",
+          "member_role": "Section Chief, Recruitment and Placement"
+        },
+        {
+          "member_name": "Karen Marrero",
+          "member_role": "Career Board Executive Secretary"
+        },
+        {
+          "member_name": "Patrick T. Dunn",
+          "member_role": "Chairman, Board of Professional Conduct"
+        },
+        {
+          "member_name": "John R. McCarty",
+          "member_role": "Special Agent-in-Charge, Office of Training"
+        },
+        {
+          "member_name": "William Faiella",
+          "member_role": "Assistant Special Agent-in-Charge, Domestic Training Section 1"
+        },
+        {
+          "member_name": "Robin Dinlocker",
+          "member_role": "Assistant Special Agent-in-Charge, Domestic Training Section 2"
+        },
+        {
+          "member_name": "James T. Farnsworth",
+          "member_role": "Assistant Special Agent-in-Charge, International Training Section"
+        },
+        {
+          "member_name": "James Kasson",
+          "member_role": "Chief Inspector, Inspections Division"
+        },
+        {
+          "member_name": "Kevin M. Foley",
+          "member_role": "Deputy Chief Inspector, Inspections Division (acting)"
+        },
+        {
+          "member_name": "Karl C. Colder",
+          "member_role": "Deputy Chief Inspector, Professional Responsibility"
+        },
+        {
+          "member_name": "Barbara M. Roach",
+          "member_role": "Deputy Chief Inspector, Security Programs"
+        },
+        {
+          "member_name": "Anthony P. Pacido",
+          "member_role": "Assistant Administrator, Intelligence Division (acting)"
+        },
+        {
+          "member_name": "Arthur Doty",
+          "member_role": "Special Agent in Charge, El Paso Intelligence Center"
+        },
+        {
+          "member_name": "Judith E. Bertini",
+          "member_role": "Deputy Associate Administrator, Office of Intelligence"
+        },
+        {
+          "member_name": "Karen D. Smith",
+          "member_role": "Executive Assistant, Office of Intelligence"
+        },
+        {
+          "member_name": "Jeffrey T. Walsh",
+          "member_role": "Special Assistant, Office of Intelligence"
+        },
+        {
+          "member_name": "John Riley",
+          "member_role": "Deputy Assistant Administrator, Office of Fusion Center"
+        },
+        {
+          "member_name": "Doug Poole",
+          "member_role": "Deputy Assistant Administrator, Office of National Security Intelligence"
+        },
+        {
+          "member_name": "Ava A. Cooper-Davis",
+          "member_role": "Deputy Assistant Administrator, Office of Special Intelligence"
+        },
+        {
+          "member_name": "Barry Zulauf",
+          "member_role": "Section Chief, Associate National Security"
+        },
+        {
+          "member_name": "Virginia Hoh",
+          "member_role": "Section Chief, Data Management"
+        },
+        {
+          "member_name": "Cheryl Hooper",
+          "member_role": "Section Chief, Indications/Warnings"
+        },
+        {
+          "member_name": "Lourdes Border",
+          "member_role": "Section Chief, Investigative Intelligence"
+        },
+        {
+          "member_name": "Marilyn Wankel",
+          "member_role": "Section Chief, Investigative Support"
+        },
+        {
+          "member_name": "James A. Curtin",
+          "member_role": "Section Chief, Management and Production Section"
+        },
+        {
+          "member_name": "Benjamin J. Sanborn",
+          "member_role": "Section Chief, Operational Support"
+        },
+        {
+          "member_name": "Pat Lowery",
+          "member_role": "Section Chief, Policy Liaison"
+        },
+        {
+          "member_name": "Thomas Neal",
+          "member_role": "Section Chief, Requirements/Production"
+        },
+        {
+          "member_name": "Sallie Castro",
+          "member_role": "Section Chief, Strategic Intelligence"
+        },
+        {
+          "member_name": "Gisele Gatjanis",
+          "member_role": "Section Chief, Technical Support"
+        },
+        {
+          "member_name": "Thomas G. Harrigan",
+          "member_role": "Chief of Operations"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of Enforcement/Administrative Support"
+        },
+        {
+          "member_name": "John Arvanitis",
+          "member_role": "Chief of Financial Operations"
+        },
+        {
+          "member_name": "Thomas M. Harrigan",
+          "member_role": "Chief of Global Enforcement Operations"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of International Programs"
+        },
+        {
+          "member_name": "David Dongilli",
+          "member_role": "Chief of Operations Management"
+        },
+        {
+          "member_name": "Frankie Shroyer",
+          "member_role": "Chief of Special Projects"
+        },
+        {
+          "member_name": "Joseph T. Rannazzisi",
+          "member_role": "Deputy Assistant Administrator, Office of Diversion Control"
+        },
+        {
+          "member_name": "William C. Brown",
+          "member_role": "Special Agent in Charge, Aviation Division"
+        },
+        {
+          "member_name": "Derek S. Maltz",
+          "member_role": "Special Agent in Charge, Special Operations Division"
+        },
+        {
+          "member_name": "Preston Grubbs",
+          "member_role": "Assistant Administrator, Operational Support Division"
+        },
+        {
+          "member_name": "Mary E. Colarusso",
+          "member_role": "Deputy Assistant Administrator, Office of Administration (acting)"
+        },
+        {
+          "member_name": "Thomas J. Janovsky",
+          "member_role": "Deputy Assistant Administrator, Office of Forensic Sciences"
+        },
+        {
+          "member_name": "Dennis R. McCrary",
+          "member_role": "Deputy Assistant Administrator, Office of Information Systems"
+        },
+        {
+          "member_name": "Fred Ganem",
+          "member_role": "Deputy Assistant Administrator, Office of Investigative Technology"
+        },
+        {
+          "member_name": "Janet Gates",
+          "member_role": "Section Chief, Administrative Operations (acting)"
+        },
+        {
+          "member_name": "Millie Tyler",
+          "member_role": "Section Chief, Concord Program Management"
+        },
+        {
+          "member_name": "William A. Kopitz",
+          "member_role": "Section Chief, Facilities and Finance"
+        },
+        {
+          "member_name": "John Patrick",
+          "member_role": "Section Chief, Hazardous Waste Disposal"
+        },
+        {
+          "member_name": "Venita Phillips",
+          "member_role": "Section Chief, Integration and Management"
+        },
+        {
+          "member_name": "Bradley Campbell",
+          "member_role": "Section Chief, Laboratory Operations"
+        },
+        {
+          "member_name": "Richard P. Meyers",
+          "member_role": "Section Chief, Laboratory Support"
+        },
+        {
+          "member_name": "Barry Smallwood",
+          "member_role": "Section Chief, Operations and Support"
+        },
+        {
+          "member_name": "Maria Hughes",
+          "member_role": "Section Chief, Program Planning and Control Staff"
+        },
+        {
+          "member_name": "Ruth Torres",
+          "member_role": "Section Chief, Software Development"
+        },
+        {
+          "member_name": "Albert Laurita",
+          "member_role": "Section Chief, Surveillance Support"
+        },
+        {
+          "member_name": "Mark Shafernich",
+          "member_role": "Section Chief, Technology Officer"
+        },
+        {
+          "member_name": "Earl W. Hewitt",
+          "member_role": "Section Chief, Telecommunications/Intercept Support"
+        },
+        {
+          "member_name": "Julie Jones",
+          "member_role": "Associate Deputy Assistant Administrator, Office of Information Systems"
+        },
+        {
+          "member_name": "Nelson A. Santos",
+          "member_role": "Associate Deputy Assistant Administrator, Office of Forensic Sciences"
+        },
+        {
+          "member_name": "Steven M. Sottolano",
+          "member_role": "Associate Deputy Assistant Administrator, Office of Forensic Sciences"
+        },
+        {
+          "member_name": "Rodney Benson",
+          "member_role": "Special Agent-in-Charge, Atlanta Division"
+        },
+        {
+          "member_name": "Steven W. Derr",
+          "member_role": "Special Agent-in-Charge, Boston Division"
+        },
+        {
+          "member_name": "Javier Pena",
+          "member_role": "Special Agent-in-Charge, Caribbean Division"
+        },
+        {
+          "member_name": "Gary G. Olenkiewicz",
+          "member_role": "Special Agent-in-Charge, Chicago Division"
+        },
+        {
+          "member_name": "James L. Capra",
+          "member_role": "Special Agent-in-Charge, Dallas Division"
+        },
+        {
+          "member_name": "Jeffrey D. Sweetin",
+          "member_role": "Special Agent-in-Charge, Denver Division"
+        },
+        {
+          "member_name": "Robert L. Corso",
+          "member_role": "Special Agent-in-Charge, Detroit Division"
+        },
+        {
+          "member_name": "Joseph Arabit",
+          "member_role": "Special Agent-in-Charge, El Paso Division"
+        },
+        {
+          "member_name": "Zoran B. Yankovich",
+          "member_role": "Special Agent-in-Charge, Houston Division"
+        },
+        {
+          "member_name": "Timothy J. Landrum",
+          "member_role": "Special Agent-in-Charge, Los Angeles Division"
+        },
+        {
+          "member_name": "Mark Trouville",
+          "member_role": "Special Agent-in-Charge, Miami Division"
+        },
+        {
+          "member_name": "Gerald P. McAleer",
+          "member_role": "Special Agent-in-Charge, Newark Division"
+        },
+        {
+          "member_name": "Jimmy S. Fox III",
+          "member_role": "Special Agent-in-Charge, New Orleans Division"
+        },
+        {
+          "member_name": "John P. Gilbride",
+          "member_role": "Special Agent-in-Charge, New York Division"
+        },
+        {
+          "member_name": "Joseph Bryfonski",
+          "member_role": "Special Agent-in-Charge, Philadelphia Division"
+        },
+        {
+          "member_name": "Elizabeth W. Kempshall",
+          "member_role": "Special Agent-in-Charge, Phoenix Division"
+        },
+        {
+          "member_name": "Ralph W. Partridge",
+          "member_role": "Special Agent-in-Charge, San Diego Division"
+        },
+        {
+          "member_name": "Anthony D. Williams",
+          "member_role": "Special Agent-in-Charge, San Francisco Division"
+        },
+        {
+          "member_name": "Arnold R. Moorin",
+          "member_role": "Special Agent-in-Charge, Seattle Division"
+        },
+        {
+          "member_name": "Harry Sommers",
+          "member_role": "Special Agent-in-Charge, St. Louis Division"
+        },
+        {
+          "member_name": "Ava Cooper-Davis",
+          "member_role": "Special Agent-in-Charge, Washington, DC Division"
+        },
+        {
+          "member_name": "Arthur A. Doty",
+          "member_role": "Special Agent-in-Charge, El Paso Intelligence Center"
+        },
+        {
+          "member_name": "William C. Brown",
+          "member_role": "Special Agent-in-Charge, Aviation Operations Division"
+        },
+        {
+          "member_name": "Derek S. Maltz",
+          "member_role": "Special Agent-in-Charge, Special Operations Division"
+        },
+        {
+          "member_name": "William Faiella",
+          "member_role": "Special Agent-in-Charge, Office of Training (acting)"
+        },
+        {
+          "member_name": "John C. Cruden",
+          "member_role": "Assistant Attorney General, Environment and Natural Resources Division (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Principal Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "John C. Cruden",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Eileen Sobeck",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Robert L. Bruffy",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "James C. Kilbourne",
+          "member_role": "Section Chief, Appellate"
+        },
+        {
+          "member_name": "Stacey H. Mitchell",
+          "member_role": "Section Chief, Environmental Crimes"
+        },
+        {
+          "member_name": "Letitia J. Grishaw",
+          "member_role": "Section Chief, Environmental Defense"
+        },
+        {
+          "member_name": "Bruce Gelber",
+          "member_role": "Section Chief, Environmental Enforcement"
+        },
+        {
+          "member_name": "K. Jack Haugrud",
+          "member_role": "Section Chief, General Litigation"
+        },
+        {
+          "member_name": "Craig Alexander",
+          "member_role": "Section Chief, Indian Resources"
+        },
+        {
+          "member_name": "Virginia P. Butler",
+          "member_role": "Section Chief, Land Acquisition"
+        },
+        {
+          "member_name": "Pauline M. Milius",
+          "member_role": "Section Chief, Policy, Legislation, and Special Litigation"
+        },
+        {
+          "member_name": "Jean E. Williams",
+          "member_role": "Section Chief, Wildlife and Marine Resources"
+        },
+        {
+          "member_name": "Regina Belt",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Dean Dunsmore",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Stephen Macfarlane",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Charles Shockey",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "David Glazer",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Robert Mullaney",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Bradley O'Brien",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Angela O'Connell",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Judith Rabinowitz",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Mark Rigau",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "David Askman",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Bruce Bernard",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Bradley Bridgewater",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Dave Carson",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Jerry Ellington",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Robert Foster",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Jim Freeman",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Dave Gehlert",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Alan Greenberg",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "David Harder",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Robert Homiak",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Lee Leininger",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "John Moscato",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Mark Nitcynski",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Terry Petrie",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Daniel Pinkston",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Susan Schneider",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "David Negri",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Ronald Sutcliffe",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Catherine Fiske",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Donald Frankel",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Robert Anderson",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Kristine Tardiff",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Andrew Smith",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Jim Nicholl",
+          "member_role": "Trial Attorney"
+        },
+        {
+          "member_name": "Mike Zevenbergen",
+          "member_role": "Trial Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF PUBLIC AND GOVERNMENTAL AFFAIRS",
+      "department_members": [
+        {
+          "member_name": "W. Larry Ford",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Arthur Herbert",
+          "member_role": "Deputy Assistant Director"
+        },
+        {
+          "member_name": "Henry Lescault",
+          "member_role": "Chief of Legislative Affairs Division"
+        },
+        {
+          "member_name": "Scott Thomasson",
+          "member_role": "Chief of Public Affairs Division"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF SCIENCE AND TECHNOLOGY/CIO",
+      "department_members": [
+        {
+          "member_name": "W. Larry Bell",
+          "member_role": "Assistant Director / Chief Information Officer (acting)"
+        },
+        {
+          "member_name": "Francis Frande",
+          "member_role": "Deputy Assistant Director (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF STRATEGIC INTELLIGENCE AND INFORMATION",
+      "department_members": [
+        {
+          "member_name": "James E. McDermond",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Steve Martin",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF TRAINING AND PROFESSIONAL DEVELOPMENT",
+      "department_members": [
+        {
+          "member_name": "Mark Logan",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Valerie Goddard",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL BUREAU OF INVESTIGATION",
+      "department_members": [
+        {
+          "member_name": "Robert S. Mueller III",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "John S. Pistole",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Timothy Murphy",
+          "member_role": "Associate Deputy Director"
+        },
+        {
+          "member_name": "W. Lee Rawls",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Valerie E. Caproni",
+          "member_role": "Office of the General Counsel"
+        },
+        {
+          "member_name": "John Miller",
+          "member_role": "Office of Public Affairs"
+        },
+        {
+          "member_name": "Richard Powers",
+          "member_role": "Office of Congressional Affairs"
+        },
+        {
+          "member_name": "Candice M. Will",
+          "member_role": "Office of Professional Responsibility"
+        },
+        {
+          "member_name": "Veronica Venture",
+          "member_role": "Office of Equal Employment Opportunity Affairs"
+        },
+        {
+          "member_name": "Sarah Zeigler",
+          "member_role": "Office of the Ombudsman"
+        },
+        {
+          "member_name": "Kevin Perkins",
+          "member_role": "Inspection Division"
+        },
+        {
+          "member_name": "Patrick G. Findlay",
+          "member_role": "Facilities and Logistics Services Division"
+        },
+        {
+          "member_name": "Richard Haley II",
+          "member_role": "Finance Division"
+        },
+        {
+          "member_name": "William L. Hooton",
+          "member_role": "Records Management Division"
+        },
+        {
+          "member_name": "Roland Corvington, Jr.",
+          "member_role": "Security Division"
+        },
+        {
+          "member_name": "Chad Fulgham",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Louis J. Blazy III",
+          "member_role": "Assistant Director of Information Technology Operations Division"
+        },
+        {
+          "member_name": "Carlo Lucchesi",
+          "member_role": "Assistant Director of IT Policy and Planning Office"
+        },
+        {
+          "member_name": "John M. Hope",
+          "member_role": "Assistant Director of IT Program Management Office"
+        },
+        {
+          "member_name": "Jerome W. Israel",
+          "member_role": "Office of the Chief Technology Officer"
+        },
+        {
+          "member_name": "Thomas Harrington",
+          "member_role": "Executive Assistant Director of Criminal Investigations Branch"
+        },
+        {
+          "member_name": "Kenneth Kaiser, Jr.",
+          "member_role": "Assistant Director of Criminal Investigative Division"
+        },
+        {
+          "member_name": "Robert Blecksmith",
+          "member_role": "Assistant Director of Critical Incident Response Group"
+        },
+        {
+          "member_name": "Shawn Henry",
+          "member_role": "Assistant Director of Cyber Division"
+        },
+        {
+          "member_name": "Sean Joyce",
+          "member_role": "Assistant Director of Office of International Operations (acting)"
+        },
+        {
+          "member_name": "Ronald Ruecker",
+          "member_role": "Assistant Director of Law Enforcement Coordination Office"
+        },
+        {
+          "member_name": "Donald E. Packham",
+          "member_role": "Executive Assistant Director of Human Resources Branch"
+        },
+        {
+          "member_name": "John Raucci",
+          "member_role": "Assistant Director of Human Resources Division"
+        },
+        {
+          "member_name": "Brian Lamkin",
+          "member_role": "Assistant Director of Training and Development Division"
+        },
+        {
+          "member_name": "Arthur Cummings",
+          "member_role": "Executive Assistant Director of National Security Branch"
+        },
+        {
+          "member_name": "Daniel Cloyd",
+          "member_role": "Assistant Director of Counterintelligence Division"
+        },
+        {
+          "member_name": "Michael Heimbach, Jr.",
+          "member_role": "Assistant Director of Counterterrorism Division"
+        },
+        {
+          "member_name": "Kevin Favreau",
+          "member_role": "Assistant Director of Directorate of Intelligence"
+        },
+        {
+          "member_name": "Dr. Vahid Majidi",
+          "member_role": "Assistant Director of Weapons of Mass Destruction Directorate"
+        },
+        {
+          "member_name": "Louis Grever",
+          "member_role": "Executive Assistant Director of Science and Technology Branch"
+        },
+        {
+          "member_name": "Jerome Pender III",
+          "member_role": "Assistant Director of Criminal Justice Information Services Division"
+        },
+        {
+          "member_name": "D. Christian Hassell",
+          "member_role": "Assistant Director of Laboratory Division"
+        },
+        {
+          "member_name": "Marcus C. Thomas",
+          "member_role": "Assistant Director of Operational Technology Division (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL BUREAU OF PRISONS (BOP)",
+      "department_members": [
+        {
+          "member_name": "Harley G. Lappin",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Morris L. Thigpen, Sr.",
+          "member_role": "Director, National Institute of Corrections"
+        },
+        {
+          "member_name": "William Dalius",
+          "member_role": "Assistant Director of Administration"
+        },
+        {
+          "member_name": "Joyce Conley",
+          "member_role": "Assistant Director of Correctional Programs"
+        },
+        {
+          "member_name": "Kathleen M. Kenney",
+          "member_role": "Assistant Director of General Counsel"
+        },
+        {
+          "member_name": "Newton Kendig, M.D.",
+          "member_role": "Assistant Director of Health Services"
+        },
+        {
+          "member_name": "Whitney LeBlanc",
+          "member_role": "Assistant Director of Human Resources Management"
+        },
+        {
+          "member_name": "Paul Laird",
+          "member_role": "Assistant Director of Industries, Education, and Vocational Training"
+        },
+        {
+          "member_name": "Thomas R. Kane, Ph.D.",
+          "member_role": "Assistant Director of Information, Policy and Public Affairs"
+        },
+        {
+          "member_name": "Kim White",
+          "member_role": "Regional Director for Mid-Atlantic"
+        },
+        {
+          "member_name": "Michael K. Nalley",
+          "member_role": "Regional Director for North Central"
+        },
+        {
+          "member_name": "Scott Dodrill",
+          "member_role": "Regional Director for Northeast"
+        },
+        {
+          "member_name": "Gerardo Maldonado",
+          "member_role": "Regional Director for South Central"
+        },
+        {
+          "member_name": "Ray Holt",
+          "member_role": "Regional Director for Southeast"
+        },
+        {
+          "member_name": "Robert McFadden",
+          "member_role": "Regional Director for Western"
+        },
+        {
+          "member_name": "Marla Clayton",
+          "member_role": "Telephone Directory Coordinator"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE FEDERAL DETENTION TRUSTEE",
+      "department_members": [
+        {
+          "member_name": "Stacia A. Hylton",
+          "member_role": "Trustee"
+        },
+        {
+          "member_name": "David F. Musel",
+          "member_role": "Deputy Trustee"
+        }
+      ]
+    },
+    {
+      "department_name": "FOREIGN CLAIMS SETTLEMENT COMMISSION",
+      "department_members": [
+        {
+          "member_name": "Mauricio J. Tamargo",
+          "member_role": "Chair"
+        },
+        {
+          "member_name": "Stephen C. King",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Rafael E. Martinez",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Jaleh F. Barrett",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Emily B. Hollenberg",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "Judith H. Lock",
+          "member_role": "Executive Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF INFORMATION POLICY",
+      "department_members": [
+        {
+          "member_name": "Melanie Ann Pustay",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Carmen L. Mallon",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Janice Galli McLeod",
+          "member_role": "Associate Director"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE INSPECTOR GENERAL",
+      "department_members": [
+        {
+          "member_name": "Glenn A. Fine",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Paul K. Martin",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "Cynthia A. Schnedar",
+          "member_role": "Counselor to the Inspector General"
+        },
+        {
+          "member_name": "William Blier",
+          "member_role": "Senior Counsel"
+        },
+        {
+          "member_name": "Gail A. Robinson",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Caryn Marske",
+          "member_role": "Assistant Inspector General for Audit"
+        },
+        {
+          "member_name": "Mike Gulledge",
+          "member_role": "Assistant Inspector General for Evaluations and Inspections"
+        },
+        {
+          "member_name": "Thomas F. McLaughlin",
+          "member_role": "Assistant Inspector General for Investigations"
+        },
+        {
+          "member_name": "Gregory T. Peters",
+          "member_role": "Assistant Inspector General for Management and Planning"
+        },
+        {
+          "member_name": "Carol F. Ochoa",
+          "member_role": "Assistant Inspector General for Oversight and Review"
+        }
+      ]
+    },
+    {
+      "department_name": "REGIONAL AUDIT OFFICES",
+      "department_members": [
+        {
+          "member_name": "Ferris B. Polk",
+          "member_role": "Regional Audit Office Director, Atlanta"
+        },
+        {
+          "member_name": "Carol S. Taraszka",
+          "member_role": "Regional Audit Office Director, Chicago"
+        },
+        {
+          "member_name": "Robert J. Kaufman",
+          "member_role": "Regional Audit Office Director, Dallas"
+        },
+        {
+          "member_name": "David M. Sheeren",
+          "member_role": "Regional Audit Office Director, Denver"
+        },
+        {
+          "member_name": "Thomas O. Puerzer",
+          "member_role": "Regional Audit Office Director, Philadelphia"
+        },
+        {
+          "member_name": "David J. Gaschke",
+          "member_role": "Regional Audit Office Director, San Francisco"
+        },
+        {
+          "member_name": "Troy M. Meyer",
+          "member_role": "Regional Audit Office Director, Washington"
+        },
+        {
+          "member_name": "Norman Hammonds",
+          "member_role": "Computer Security and Information Technology Audit Office Director"
+        },
+        {
+          "member_name": "Marilyn A. Kessinger",
+          "member_role": "Financial Statement Audit Office Director"
+        }
+      ]
+    },
+    {
+      "department_name": "REGIONAL INVESTIGATIONS OFFICES",
+      "department_members": [
+        {
+          "member_name": "Eddie D. Davis",
+          "member_role": "Regional Investigations Office Director, Atlanta"
+        },
+        {
+          "member_name": "Thomas M. Hopkins",
+          "member_role": "Regional Investigations Office Director, Boston"
+        },
+        {
+          "member_name": "John F. Oleskowicz",
+          "member_role": "Regional Investigations Office Director, Chicago"
+        },
+        {
+          "member_name": "Norman K. Lau",
+          "member_role": "Regional Investigations Office Director, Denver"
+        },
+        {
+          "member_name": "James H. Mahon",
+          "member_role": "Regional Investigations Office Director, Dallas"
+        },
+        {
+          "member_name": "Nicholas V. Candela",
+          "member_role": "Regional Investigations Office Director, Detroit"
+        },
+        {
+          "member_name": "Eric Benn",
+          "member_role": "Regional Investigations Office Director, El Paso"
+        },
+        {
+          "member_name": "Carlos Capano",
+          "member_role": "Regional Investigations Office Director, Houston"
+        },
+        {
+          "member_name": "Kenneth R. Strange, Jr.",
+          "member_role": "Regional Investigations Office Director, Los Angeles"
+        },
+        {
+          "member_name": "Wayne D. Beaman",
+          "member_role": "Regional Investigations Office Director, McAllen"
+        },
+        {
+          "member_name": "Teresa M. Gulotta Powers",
+          "member_role": "Regional Investigations Office Director, Miami"
+        },
+        {
+          "member_name": "Ralph F. Paige",
+          "member_role": "Regional Investigations Office Director, New York"
+        },
+        {
+          "member_name": "Kenneth R. Connaughton, Jr.",
+          "member_role": "Regional Investigations Office Director, Philadelphia"
+        },
+        {
+          "member_name": "Michael Barranti",
+          "member_role": "Regional Investigations Office Director, San Francisco"
+        },
+        {
+          "member_name": "Wayne Hawney",
+          "member_role": "Regional Investigations Office Director, Seattle"
+        },
+        {
+          "member_name": "Joseph V. Cuffari",
+          "member_role": "Regional Investigations Office Director, Tucson"
+        },
+        {
+          "member_name": "Gene E. Morrison",
+          "member_role": "Regional Investigations Office Director, Washington"
+        },
+        {
+          "member_name": "David R. Glendinning",
+          "member_role": "Fraud Detection Office Director"
+        }
+      ]
+    },
+    {
+      "department_name": "INTERPOL--U.S. NATIONAL CENTRAL BUREAU",
+      "department_members": [
+        {
+          "member_name": "Martin Renkiewicz",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Timothy A. Williams",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Wayne Towson",
+          "member_role": "Information Technology"
+        },
+        {
+          "member_name": "Kevin Smith",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Joanne Fitzgerald",
+          "member_role": "Assistant Director, Administrative Services"
+        },
+        {
+          "member_name": "Lydia Blakey",
+          "member_role": "Assistant Director, Alien / Fugitive"
+        },
+        {
+          "member_name": "Jose Baeza",
+          "member_role": "Assistant Director, Drug"
+        },
+        {
+          "member_name": "Gary Hyde",
+          "member_role": "Assistant Director, Economic Crimes"
+        },
+        {
+          "member_name": "Michael D. Muth",
+          "member_role": "Assistant Director, State and Local Liaison"
+        },
+        {
+          "member_name": "Michael Bukovac",
+          "member_role": "Assistant Director, Terrorism and Violent Crimes"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF INTERGOVERNMENTAL AND PUBLIC LIAISON",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Associate Director"
+        }
+      ]
+    },
+    {
+      "department_name": "JUSTICE MANAGEMENT DIVISION",
+      "department_members": [
+        {
+          "member_name": "Lee J. Lofthus",
+          "member_role": "Assistant Attorney General for Administration"
+        },
+        {
+          "member_name": "Michael H. Allen",
+          "member_role": "Deputy Assistant Attorney General / Policy, Management and Planning"
+        },
+        {
+          "member_name": "Janice Rodgers",
+          "member_role": "Staff Director, Department Ethics Office"
+        },
+        {
+          "member_name": "Stuart Frisch",
+          "member_role": "Staff Director, General Counsel Office"
+        },
+        {
+          "member_name": "Neil Ryder",
+          "member_role": "Staff Director, Internal Review and Evaluation Office"
+        },
+        {
+          "member_name": "David Orr",
+          "member_role": "Staff Director, Management and Planning"
+        },
+        {
+          "member_name": "Michael H. Allen",
+          "member_role": "Staff Director, Procurement Executive"
+        },
+        {
+          "member_name": "Jeanette Plante",
+          "member_role": "Staff Director, Records Management Policy Office"
+        },
+        {
+          "member_name": "David Sutton",
+          "member_role": "Staff Director, Small and Disadvantaged Business Utilization Office"
+        },
+        {
+          "member_name": "Jolene Lauria-Sullens",
+          "member_role": "Deputy Assistant Attorney General / Controller"
+        },
+        {
+          "member_name": "Candace Olds",
+          "member_role": "Staff Director, Asset Forfeiture Management"
+        },
+        {
+          "member_name": "Karin O'Leary",
+          "member_role": "Staff Director, Budget"
+        },
+        {
+          "member_name": "Kathleen Haggerty",
+          "member_role": "Staff Director, Debt Collection Management"
+        },
+        {
+          "member_name": "Melinda Morgan",
+          "member_role": "Staff Director, Finance"
+        },
+        {
+          "member_name": "James Johnston",
+          "member_role": "Staff Director, Procurement Services"
+        },
+        {
+          "member_name": "Kay Clarey",
+          "member_role": "Staff Director, Unified Financial System Project Management Office"
+        },
+        {
+          "member_name": "Mari Santangelo",
+          "member_role": "Deputy Assistant Attorney General, Human Resources / Administration"
+        },
+        {
+          "member_name": "Louis DeFalaise",
+          "member_role": "Staff Director, Attorney Recruitment and Management Office"
+        },
+        {
+          "member_name": "Cyntoria Carter",
+          "member_role": "Staff Director, Consolidated Executive Office"
+        },
+        {
+          "member_name": "Dana Paige",
+          "member_role": "Staff Director, DOJ Executive Secretariat"
+        },
+        {
+          "member_name": "Vontell Tucker",
+          "member_role": "Staff Director, Equal Employment Opportunity"
+        },
+        {
+          "member_name": "Edward A. Hamilton",
+          "member_role": "Staff Director, Facilities and Administrative Services"
+        },
+        {
+          "member_name": "Blaine Dessy",
+          "member_role": "Staff Director, Library"
+        },
+        {
+          "member_name": "Rodney Markham",
+          "member_role": "Staff Director, Personnel"
+        },
+        {
+          "member_name": "James Dunlap",
+          "member_role": "Staff Director, Security and Emergency Planning"
+        },
+        {
+          "member_name": "Vance Hitch",
+          "member_role": "Deputy Assistant Attorney General / Information Resources Management and CIO"
+        },
+        {
+          "member_name": "Eric Olson",
+          "member_role": "Staff Director, E-Government Services"
+        },
+        {
+          "member_name": "John Murray",
+          "member_role": "Staff Director, Enterprise Solutions"
+        },
+        {
+          "member_name": "Kevin Deeley",
+          "member_role": "Staff Director, IT Security"
+        },
+        {
+          "member_name": "Roger Beasley",
+          "member_role": "Staff Director, Operation Services"
+        },
+        {
+          "member_name": "Kent Holgrewe",
+          "member_role": "Staff Director, Policy and Planning"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF JUSTICE PROGRAMS (OJP)",
+      "department_members": [
+        {
+          "member_name": "Laurie O. Robinson",
+          "member_role": "Assistant Attorney General"
+        },
+        {
+          "member_name": "Beth McGarry",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Tonya Yarborough",
+          "member_role": "Manager, Equal Employment Opportunity"
+        }
+      ]
+    },
+    {
+      "department_name": "BUREAU OF JUSTICE ASSISTANCE",
+      "department_members": [
+        {
+          "member_name": "James Burch III",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "James H. Burch II",
+          "member_role": "Deputy Director, Policy"
+        },
+        {
+          "member_name": "Eileen Garry",
+          "member_role": "Deputy Director, Programs"
+        }
+      ]
+    },
+    {
+      "department_name": "BUREAU OF JUSTICE STATISTICS",
+      "department_members": [
+        {
+          "member_name": "Michael Sinclair",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Michael Sinclair",
+          "member_role": "Deputy Director, Statistical Collections and Analysis"
+        },
+        {
+          "member_name": "Gerard Ramker",
+          "member_role": "Deputy Director, Statistical Planning, Policy and Operations"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL INSTITUTE OF JUSTICE",
+      "department_members": [
+        {
+          "member_name": "Kristina Rose",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Margaret Zahn",
+          "member_role": "Deputy Director, Research and Evaluation"
+        },
+        {
+          "member_name": "John Morgan",
+          "member_role": "Deputy Director, Science and Technology"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF JUVENILE JUSTICE AND DELINQUENCY PREVENTION",
+      "department_members": [
+        {
+          "member_name": "Jeff Slowikowski",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Nancy Ayers",
+          "member_role": "Deputy Administrator"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE FOR VICTIMS OF CRIME",
+      "department_members": [
+        {
+          "member_name": "Joye E. Frost",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Barbara Walker",
+          "member_role": "Deputy Director"
+        }
+      ]
+    },
+    {
+      "department_name": "COMMUNITY CAPACITY DEVELOPMENT OFFICE",
+      "department_members": [
+        {
+          "member_name": "Dennis Greenhouse",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Denise Viera",
+          "member_role": "Deputy Director"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Phillip Merkle",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Eldred Jackson",
+          "member_role": "Deputy Director, Acquisition Management"
+        },
+        {
+          "member_name": "Jennifer McCarthy",
+          "member_role": "Deputy Director, Human Resources"
+        },
+        {
+          "member_name": "Cornelius Holmes",
+          "member_role": "Deputy Director, Support Services"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE CHIEF FINANCIAL OFFICER",
+      "department_members": [
+        {
+          "member_name": "Marcia Paull",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Leigh Benda",
+          "member_role": "Deputy Chief Financial Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE CHIEF INFORMATION OFFICER",
+      "department_members": [
+        {
+          "member_name": "Walter Iwanow",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Angel Santa",
+          "member_role": "Deputy Chief Information Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE FOR CIVIL RIGHTS",
+      "department_members": [
+        {
+          "member_name": "Michael Alston",
+          "member_role": "Director"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF COMMUNICATIONS",
+      "department_members": [
+        {
+          "member_name": "Kim M. Lowry",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Summer Duncan",
+          "member_role": "Deputy Director"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE GENERAL COUNSEL",
+      "department_members": [
+        {
+          "member_name": "Rafael A. Madan",
+          "member_role": "General Counsel"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF LEGAL COUNSEL",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Attorney General"
+        },
+        {
+          "member_name": "Marty Lederman",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Daniel Koffsky",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "David Barron",
+          "member_role": "Principal Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Paul P. Colborn",
+          "member_role": "Special Counsel"
+        },
+        {
+          "member_name": "Rosemary Hart",
+          "member_role": "Special Counsel"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF LEGAL POLICY",
+      "department_members": [
+        {
+          "member_name": "Kevin R. Jones",
+          "member_role": "Assistant Attorney General"
+        },
+        {
+          "member_name": "Spencer A. Overton",
+          "member_role": "Principal Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Rajesh De",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Larry Rothenberg",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Robyn Thiemann",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Paul Almanza",
+          "member_role": "Chief of Staff"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF LEGISLATIVE AFFAIRS",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Attorney General"
+        },
+        {
+          "member_name": "M. Faith Burton",
+          "member_role": "Special Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Assistant Attorney General"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL DRUG INTELLIGENCE CENTER (NDIC)",
+      "department_members": [
+        {
+          "member_name": "Michael F. Walther",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Irene S. Hernandez",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Steven R. Frank",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Kevin M. Walker",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Bruce D. Shannon",
+          "member_role": "Assistant Director for Intelligence Division"
+        },
+        {
+          "member_name": "David J. Mrozowski",
+          "member_role": "Assistant Director for Intelligence Support Division"
+        },
+        {
+          "member_name": "Joseph E. Donovan",
+          "member_role": "Assistant Director for Policy and Interagency Affairs"
+        },
+        {
+          "member_name": "Pamela F. Warchola",
+          "member_role": "Telephone Directory Coordinator"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL SECURITY DIVISION",
+      "department_members": [
+        {
+          "member_name": "David S. Kris",
+          "member_role": "Assistant Attorney General"
+        },
+        {
+          "member_name": "Todd Hinnen",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Brad Wiegmann",
+          "member_role": "Deputy Assistant Attorney General"
+        },
+        {
+          "member_name": "Brad Wiegmann",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Donald Vieira",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "James Reynolds",
+          "member_role": "Senior Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "George Z. Toscas",
+          "member_role": "Senior Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Leonard Bailey",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Virginia Vander Jagt",
+          "member_role": "Counsel to the Assistant Attorney General"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Special Assistant to the Assistant Attorney General"
+        }
+      ]
+    },
+    {
+      "department_name": "COUNTERESPIONAGE SECTION",
+      "department_members": [
+        {
+          "member_name": "John Dion",
+          "member_role": "Chief"
+        },
+        {
+          "member_name": "Steve Pelak",
+          "member_role": "Deputy Chief"
+        }
+      ]
+    },
+    {
+      "department_name": "COUNTERTERRORISM SECTION",
+      "department_members": [
+        {
+          "member_name": "Michael J. Mullaney",
+          "member_role": "Chief"
+        },
+        {
+          "member_name": "Sharon Lever",
+          "member_role": "Deputy Chief for International Terrorism Unit I"
+        },
+        {
+          "member_name": "Jennifer Smith",
+          "member_role": "Deputy Chief for International Terrorism Unit II"
+        },
+        {
+          "member_name": "Scott Glick",
+          "member_role": "Deputy Chief for Policy, Legislation, and Planning Unit"
+        },
+        {
+          "member_name": "Michael Taxay",
+          "member_role": "Deputy Chief for Terrorist Financing Unit"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF INTELLIGENCE",
+      "department_members": [
+        {
+          "member_name": "James A. Baker",
+          "member_role": "Counsel for Intelligence Policy"
+        },
+        {
+          "member_name": "Nancy Newcomb",
+          "member_role": "Section Chief for Litigation"
+        },
+        {
+          "member_name": "Tashina Gauhar",
+          "member_role": "Section Chief for Operations"
+        },
+        {
+          "member_name": "Mark A. Bradley",
+          "member_role": "Section Chief for Oversight"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF JUSTICE FOR VICTIMS OF OVERSEAS TERRORISM",
+      "department_members": [
+        {
+          "member_name": "Heather Cartwright",
+          "member_role": "Director"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE PARDON ATTORNEY",
+      "department_members": [
+        {
+          "member_name": "Ronald L. Rodgers",
+          "member_role": "Pardon Attorney"
+        },
+        {
+          "member_name": "Helen M. Bollwerk",
+          "member_role": "Deputy Pardon Attorney"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF PROFESSIONAL RESPONSIBILITY",
+      "department_members": [
+        {
+          "member_name": "H. Marshall Jarrett",
+          "member_role": "Counsel"
+        },
+        {
+          "member_name": "Judith B. Wish",
+          "member_role": "Deputy Counsel"
+        },
+        {
+          "member_name": "William J. Birney",
+          "member_role": "Associate Counsel"
+        },
+        {
+          "member_name": "Paul L. Colby",
+          "member_role": "Associate Counsel"
+        },
+        {
+          "member_name": "James G. Duncan",
+          "member_role": "Associate Counsel"
+        },
+        {
+          "member_name": "Mary Anne Hoopes",
+          "member_role": "Associate Counsel"
+        },
+        {
+          "member_name": "Neil C. Hurley",
+          "member_role": "Senior Assistant Counsel"
+        },
+        {
+          "member_name": "Tamara Kessler",
+          "member_role": "Senior Assistant Counsel"
+        },
+        {
+          "member_name": "Carolyn Adams",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Mary Aubry",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Kathleen Brandon",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "William Causey",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Terry Derden",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Mark G. Fraase",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Greg Gonzalez",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Amy Goldfrank",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Lyn A. Hardy",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Lisa Howard",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Tamara J. Kessler",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Frederick C. Leiner",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Margaret S. McCarty",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Noreen McCarthy",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Oliver McDaniel",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Ruth Plagenhoef",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Trini Ross",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "John Tavana",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Robert Thomson",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "James Vargasor",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Marlene M. Wahowiak",
+          "member_role": "Assistant Counsel"
+        },
+        {
+          "member_name": "Barbara L. Ward",
+          "member_role": "Assistant Counsel"
+        }
+      ]
+    },
+    {
+      "department_name": "PROFESSIONAL RESPONSIBILITY ADVISORY OFFICE",
+      "department_members": [
+        {
+          "member_name": "Jerri Dunston",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Stacy Ludwig",
+          "member_role": "Deputy Director"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF PUBLIC AFFAIRS",
+      "department_members": [
+        {
+          "member_name": "Matthew A. Miller",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Tracy Schmaler",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Gina M. Talamona",
+          "member_role": "Deputy Director"
+        }
+      ]
+    },
+    {
+      "department_name": "TAX DIVISION",
+      "department_members": [
+        {
+          "member_name": "John A. DiCicco",
+          "member_role": "Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "Ronald A. Cimino",
+          "member_role": "Deputy Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "D. Patrick Mullarkey",
+          "member_role": "Deputy Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "Gilbert S. Rothenberg",
+          "member_role": "Deputy Assistant Attorney General (acting)"
+        },
+        {
+          "member_name": "Eileen M. Shatz",
+          "member_role": "Senior Legislative Counsel"
+        },
+        {
+          "member_name": "Seth Heald",
+          "member_role": "Civil Trial Section Chief, Central Region"
+        },
+        {
+          "member_name": "David A. Hubbert",
+          "member_role": "Civil Trial Section Chief, Eastern Region"
+        },
+        {
+          "member_name": "D. Patrick Mullarkey",
+          "member_role": "Civil Trial Section Chief, Northern Region"
+        },
+        {
+          "member_name": "Michael Kearns",
+          "member_role": "Civil Trial Section Chief, Southern Region"
+        },
+        {
+          "member_name": "Louise P. Hytken",
+          "member_role": "Civil Trial Section Chief, Southwestern Region"
+        },
+        {
+          "member_name": "Richard R. Ward",
+          "member_role": "Civil Trial Section Chief, Western Region"
+        },
+        {
+          "member_name": "Rosemary E. Paguni",
+          "member_role": "Criminal Enforcement Section Chief, Northern Region"
+        },
+        {
+          "member_name": "Bruce Salad",
+          "member_role": "Criminal Enforcement Section Chief, Southern Region"
+        },
+        {
+          "member_name": "Mitchell J. Ballweg",
+          "member_role": "Criminal Enforcement Section Chief, Western Region (acting)"
+        },
+        {
+          "member_name": "David I. Pincus",
+          "member_role": "Section Chief, Appellate (acting)"
+        },
+        {
+          "member_name": "Steven I. Fraham",
+          "member_role": "Section Chief, Court of Federal Claims"
+        },
+        {
+          "member_name": "Alan Hechtkopf",
+          "member_role": "Section Chief, Criminal Appeals and Tax Enforcement Policy"
+        },
+        {
+          "member_name": "Deborah Meland",
+          "member_role": "Section Chief, Office of Review"
+        },
+        {
+          "member_name": "Joseph E. Young",
+          "member_role": "Executive Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES MARSHALS SERVICE (USMS)",
+      "department_members": [
+        {
+          "member_name": "John F. Clark",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Sean Fahey",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Chris Dudley",
+          "member_role": "Associate Director for Administration"
+        },
+        {
+          "member_name": "Robert J. Finan II",
+          "member_role": "Associate Director for Operations"
+        },
+        {
+          "member_name": "Doug Disrud",
+          "member_role": "Chief, Congressional Affairs"
+        },
+        {
+          "member_name": "Alexis Fooshe",
+          "member_role": "Deputy Chief, Congressional Affairs"
+        },
+        {
+          "member_name": "Jeff Carter",
+          "member_role": "Chief, Public Affairs"
+        },
+        {
+          "member_name": "Steve Blando",
+          "member_role": "Deputy Chief, Public Affairs"
+        }
+      ]
+    },
+    {
+      "department_name": "EQUAL EMPLOYMENT OPPORTUNITY (EEO)",
+      "department_members": [
+        {
+          "member_name": "Joann Grady",
+          "member_role": "Chief"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF THE GENERAL COUNSEL (OGC)",
+      "department_members": [
+        {
+          "member_name": "Gerald M. Auerbach",
+          "member_role": "Chief"
+        },
+        {
+          "member_name": "Lisa Dickinson",
+          "member_role": "Principal Deputy General Counsel"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF INSPECTION (OI)",
+      "department_members": [
+        {
+          "member_name": "Herman Brewer, Jr.",
+          "member_role": "Chief"
+        }
+      ]
+    },
+    {
+      "department_name": "ASSET FORFEITURE DIVISION (AFD)",
+      "department_members": [
+        {
+          "member_name": "Michael A. Pearson",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Eben Morales",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "FINANCIAL SERVICES DIVISION (FSD)",
+      "department_members": [
+        {
+          "member_name": "Edward Dolan",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Jim Murphy",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "HUMAN RESOURCES DIVISION (HRD)",
+      "department_members": [
+        {
+          "member_name": "Darla K. Callaghan",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Cheryl Jacobs",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "INFORMATION TECHNOLOGY DIVISION (ITD)",
+      "department_members": [
+        {
+          "member_name": "Lisa Davis",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Judd Nicholson",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "MANAGEMENT SUPPORT DIVISION (MSD)",
+      "department_members": [
+        {
+          "member_name": "Donald Donovan",
+          "member_role": "Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "TRAINING DIVISION",
+      "department_members": [
+        {
+          "member_name": "Marc A. Farmer",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Vernon Johnson",
+          "member_role": "Deputy Assistant Director (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "INVESTIGATIVE OPERATIONS DIVISION (IOD)",
+      "department_members": [
+        {
+          "member_name": "T. Michael Earp",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Geoff Shank",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "JUSTICE PRISONER AND ALIEN TRANSPORTATION SYSTEM (JPATS)",
+      "department_members": [
+        {
+          "member_name": "Scott C. Rolstad",
+          "member_role": "Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "JUDICIAL SECURITY DIVISION (JSD)",
+      "department_members": [
+        {
+          "member_name": "Michael J. Prouot",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Robert Fagan",
+          "member_role": "Deputy Assistant Director, Judicial Operations"
+        },
+        {
+          "member_name": "Steven Conboy",
+          "member_role": "Deputy Assistant Director, Judicial Services"
+        }
+      ]
+    },
+    {
+      "department_name": "PRISONER OPERATIONS DIVISION (POD)",
+      "department_members": [
+        {
+          "member_name": "Candra S. Symonds",
+          "member_role": "Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "TACTICAL OPERATIONS DIVISION (TOD)",
+      "department_members": [
+        {
+          "member_name": "William Snelson",
+          "member_role": "Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "WITNESS SECURITY DIVISION (WSD)",
+      "department_members": [
+        {
+          "member_name": "Sylvester E. Jones",
+          "member_role": "Assistant Director"
+        },
+        {
+          "member_name": "Tom Wight",
+          "member_role": "Deputy Assistant Director"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. PAROLE COMMISSION",
+      "department_members": [
+        {
+          "member_name": "Edward F. Reilly, Jr.",
+          "member_role": "Chairman"
+        },
+        {
+          "member_name": "Cranston J. Mitchell",
+          "member_role": "Vice Chairman"
+        },
+        {
+          "member_name": "Patricia A. Cushwa",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Isaac Fulwood, Jr.",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Thomas W. Hutchison",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Stephen J. Husk",
+          "member_role": "Case Operations Administrator"
+        },
+        {
+          "member_name": "Deirdre M. Jackson",
+          "member_role": "Case Service Administrator"
+        },
+        {
+          "member_name": "Rockne J. Chickinell",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Judy I. Carter",
+          "member_role": "Executive Officer"
+        },
+        {
+          "member_name": "Patricia W. Moore",
+          "member_role": "Staff Assistant to the Chairman"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE ON VIOLENCE AGAINST WOMEN",
+      "department_members": [
+        {
+          "member_name": "Catherine Pierce",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Lorraine Edmo",
+          "member_role": "Deputy Tribal Director"
+        },
+        {
+          "member_name": "Anna Martinez",
+          "member_role": "Senior Policy Advisor"
+        },
+        {
+          "member_name": "Ellen Williams",
+          "member_role": "Special Assistant to the Director"
+        },
+        {
+          "member_name": "Darlene Johnson",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "Lauren Nassikas",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "Nadine Neufville",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "Susan Williams",
+          "member_role": "Associate Director"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2375 @@
+{
+  "cabinet": [
+    {
+      "member_name": "GARY LOCKE",
+      "member_role": "Secretary of Commerce"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF COMMERCE",
+      "department_members": [
+        {
+          "member_name": "GARY LOCKE",
+          "member_role": "Secretary of Commerce"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "ELLEN MORAN",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "RICK WADE",
+          "member_role": "Senior Advisor and Deputy Chief of Staff"
+        },
+        {
+          "member_name": "JAY REICH",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "ROGER LAU",
+          "member_role": "Chief Protocol Officer"
+        },
+        {
+          "member_name": "ANNE OLAIMEY",
+          "member_role": "Director, Office of Business Liaison"
+        },
+        {
+          "member_name": "TENE DOLPHIN",
+          "member_role": "Director, Office of Executive Secretariat"
+        },
+        {
+          "member_name": "TRAVIS SULLIVAN",
+          "member_role": "Director, Office of Policy and Strategic Planning"
+        },
+        {
+          "member_name": "KEVIN GRIFFIS",
+          "member_role": "Director, Office of Public Affairs"
+        },
+        {
+          "member_name": "ROGER FISK",
+          "member_role": "Director, Office of Scheduling and Advance"
+        },
+        {
+          "member_name": "RICK SIGER",
+          "member_role": "Director, Office of White House Liaison"
+        },
+        {
+          "member_name": "CAMERON F. KERRY",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "NICOLE LAMB-HALE",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "APRIL BOYD",
+          "member_role": "Assistant Secretary for Legislative and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "DARAKA SATCHER",
+          "member_role": "Deputy Assistant Secretary for Legislative and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "WILLIAM RAMOS",
+          "member_role": "Director for Intergovernmental Affairs"
+        },
+        {
+          "member_name": "COURTNEY GREGOIRE",
+          "member_role": "Director for Legislative Affairs"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief Financial Officer and Assistant Secretary"
+        },
+        {
+          "member_name": "JOHN F. CHARLES",
+          "member_role": "Deputy Assistant Secretary for Administration"
+        },
+        {
+          "member_name": "LISA CASIAS",
+          "member_role": "Deputy Chief Financial Officer / Director for Financial Management"
+        },
+        {
+          "member_name": "HELEN M. HURCOMBE",
+          "member_role": "Director for Acquisition Management"
+        },
+        {
+          "member_name": "FRED FANNING",
+          "member_role": "Director for Administrative Services"
+        },
+        {
+          "member_name": "NEIL SHAPIRO",
+          "member_role": "Director for Budget"
+        },
+        {
+          "member_name": "SUZAN J. ARAMAKI",
+          "member_role": "Director for Civil Rights"
+        },
+        {
+          "member_name": "DEBORAH A. JEFFERSON",
+          "member_role": "Director for Human Resources Management"
+        },
+        {
+          "member_name": "JOHN J. PHELAN III",
+          "member_role": "Director for Management and Organization"
+        },
+        {
+          "member_name": "ALFRED BROADBENT",
+          "member_role": "Director for Security"
+        },
+        {
+          "member_name": "LAJUENE DESMUKES",
+          "member_role": "Director for Small and Disadvantaged Business Utilization"
+        },
+        {
+          "member_name": "SUZANNE HILDING",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Chief Information Officer"
+        },
+        {
+          "member_name": "JERRY HARPER",
+          "member_role": "Chief of Office of Computer Systems (acting)"
+        },
+        {
+          "member_name": "DIANA HYNEK",
+          "member_role": "Chief of Office of IT Policy and Planning (acting)"
+        },
+        {
+          "member_name": "EARL NEAL",
+          "member_role": "Chief of Office of IT Security, Infrastructure and Technology"
+        },
+        {
+          "member_name": "WAYNE BLACKWOOD",
+          "member_role": "Chief of Office of Networking and Telecommunications"
+        },
+        {
+          "member_name": "IZELLA DORNELL",
+          "member_role": "Chief of Office of Systems Development and Support (acting)"
+        },
+        {
+          "member_name": "TODD J. ZINSER",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "EDWARD BLANSITT",
+          "member_role": "Deputy Inspector General"
+        },
+        {
+          "member_name": "LISA ALLEN",
+          "member_role": "Chief of Staff, Inspector General"
+        },
+        {
+          "member_name": "WADE GREEN, JR.",
+          "member_role": "Counsel to Inspector General"
+        },
+        {
+          "member_name": "JUDITH GORDON",
+          "member_role": "Principal Assistant Inspector General Audit and Evaluation"
+        },
+        {
+          "member_name": "BRETT BAKER",
+          "member_role": "Assistant Inspector General, Office of Auditing"
+        },
+        {
+          "member_name": "RON PREVOST",
+          "member_role": "Assistant Inspector General, Office of Economic and Statistical Program Assessment"
+        },
+        {
+          "member_name": "ALLEN CRAWLEY",
+          "member_role": "Assistant Inspector General, Office of Systems Acquisition and IT Security"
+        },
+        {
+          "member_name": "SCOTT BERENBERG",
+          "member_role": "Assistant Inspector General, Office of Investigations"
+        },
+        {
+          "member_name": "REBECCA BLANK",
+          "member_role": "Under Secretary for Economic Affairs"
+        },
+        {
+          "member_name": "ROXIE JAMISON JONES",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief Economist"
+        },
+        {
+          "member_name": "JOANNE CALDWELL",
+          "member_role": "Associate Under Secretary for Communications (acting)"
+        },
+        {
+          "member_name": "JANE A. CALLEN",
+          "member_role": "Associate Under Secretary for Economic Information Officer"
+        },
+        {
+          "member_name": "JAMES K. WHITE",
+          "member_role": "Associate Under Secretary for Management"
+        },
+        {
+          "member_name": "CARL E. COX",
+          "member_role": "Director, Office of Economic Conditions"
+        },
+        {
+          "member_name": "JANE MOLLOY",
+          "member_role": "Director, Office of Policy Development"
+        },
+        {
+          "member_name": "FRANCINE KRASOWSKA",
+          "member_role": "Director, Office of STAT-USA"
+        },
+        {
+          "member_name": "JOANNE BUENZLI-CRANE",
+          "member_role": "Deputy Chief Financial Officer, Finance and Administration"
+        },
+        {
+          "member_name": "J. STEVEN LANDEFELD",
+          "member_role": "Director, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "ROSEMARY MARCUS",
+          "member_role": "Deputy Director, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "ANA AIZCORBE",
+          "member_role": "Chief Economist, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "BRIAN CALLAHAN",
+          "member_role": "Chief Information Officer, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "DENNIS J. FIXLER",
+          "member_role": "Chief Statistician, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "BRIAN MOYER",
+          "member_role": "Associate Director for Industry, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "OBIE WHICHARD",
+          "member_role": "Associate Director for International Economics, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "BRENT R. MOULTON",
+          "member_role": "Associate Director for National Economic Accounts, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "JOEL PLATT",
+          "member_role": "Associate Director for Regional Economics, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "C. BRIAN GROVE",
+          "member_role": "Division Chief for Administrative Services, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "ROBERT YUSKAVAGE",
+          "member_role": "Division Chief for Balance of Payments, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "DOROTHY ANDRAKE",
+          "member_role": "Division Chief for Communications, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Division Chief for Current Industry Analysis, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "PAMELA KELLY",
+          "member_role": "Division Chief for Government, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "ERICH STRASSNER",
+          "member_role": "Division Chief for Industry Benchmark, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "OBIE G. WICHARD",
+          "member_role": "Division Chief for International Investment, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "CAROL E. MOYLAN",
+          "member_role": "Division Chief for National Income and Wealth, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "IAN MEAD",
+          "member_role": "Division Chief for Regional Economic Analysis, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "ROBERT L. BROWN",
+          "member_role": "Division Chief for Regional Economic Measurement, Bureau of Economic Analysis"
+        },
+        {
+          "member_name": "THOMAS MESENBOURG",
+          "member_role": "Director, Bureau of the Census (acting)"
+        },
+        {
+          "member_name": "THOMAS MESENBOURG",
+          "member_role": "Deputy Director and Chief Operating Officer, Bureau of the Census"
+        },
+        {
+          "member_name": "THEODORE A. JOHNSON",
+          "member_role": "Associate Director for Administration and Chief Financial Officer, Bureau of the Census"
+        },
+        {
+          "member_name": "STEVEN JOST",
+          "member_role": "Associate Director for Communications, Bureau of the Census"
+        },
+        {
+          "member_name": "ANDREW H. MOXAM",
+          "member_role": "Associate Director for Comptroller, Bureau of the Census"
+        },
+        {
+          "member_name": "ARNOLD JACKSON",
+          "member_role": "Associate Director for Decennial Census, Bureau of the Census"
+        },
+        {
+          "member_name": "HOWARD HOGAN",
+          "member_role": "Associate Director for Demographic Programs, Bureau of the Census"
+        },
+        {
+          "member_name": "HARVEY MONK",
+          "member_role": "Associate Director for Economic Programs, Bureau of the Census"
+        },
+        {
+          "member_name": "MARILIA MATOS",
+          "member_role": "Associate Director for Field Operations, Bureau of the Census"
+        },
+        {
+          "member_name": "BRIAN MCGRATH",
+          "member_role": "Associate Director for Information Technology and CIO, Bureau of the Census"
+        },
+        {
+          "member_name": "NANCY M. GORDON",
+          "member_role": "Associate Director for Strategic Planning and Innovation, Bureau of the Census"
+        },
+        {
+          "member_name": "BURTON REIST",
+          "member_role": "Assistant to the Associate Director for Communications, Bureau of the Census"
+        },
+        {
+          "member_name": "THOMAS MEERHOLTZ",
+          "member_role": "Special Assistant to the Associate Director Information Technology, Bureau of the Census"
+        },
+        {
+          "member_name": "MICHAEL L. PALENSKY",
+          "member_role": "Assistant Director for Acquisition Division, Bureau of the Census"
+        },
+        {
+          "member_name": "DANIEL WEINBERG",
+          "member_role": "Assistant Director for Decennial Census and American Community Survey, Bureau of the Census"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Director for Economic Programs, Bureau of the Census"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Director for Information Technology, Bureau of the Census"
+        },
+        {
+          "member_name": "F. GRAILAND HALL",
+          "member_role": "Division Chief for Administrative and Customer Services, Bureau of the Census"
+        },
+        {
+          "member_name": "JAMES AIKMAN",
+          "member_role": "Division Chief for Administrative and Management Systems Division, Bureau of the Census"
+        },
+        {
+          "member_name": "JERI GREEN",
+          "member_role": "Division Chief for Advisory Committee Office, Bureau of the Census"
+        },
+        {
+          "member_name": "SUSAN SCHECHTER",
+          "member_role": "Division Chief for American Community Survey Office, Bureau of the Census"
+        },
+        {
+          "member_name": "KATHLEEN STYLES",
+          "member_role": "Division Chief for Analysis and Executive Support, Bureau of the Census"
+        },
+        {
+          "member_name": "JAMES TYLER",
+          "member_role": "Division Chief for Budget Division, Bureau of the Census"
+        },
+        {
+          "member_name": "TASHA BOONE",
+          "member_role": "Division Chief for Census 2010 Publicity Office (acting), Bureau of the Census"
+        },
+        {
+          "member_name": "RON JARMIN",
+          "member_role": "Division Chief for Center for Economic Studies, Bureau of the Census"
+        },
+        {
+          "member_name": "EWEN M. WILSON",
+          "member_role": "Division Chief for Company Statistics Division, Bureau of the Census"
+        },
+        {
+          "member_name": "JEFFERY MAYER",
+          "member_role": "Division Chief for Computer Services Division, Bureau of the Census"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Division Chief for Congressional Affairs Office, Bureau of the Census"
+        },
+        {
+          "member_name": "BARBARA HARRIS",
+          "member_role": "Division Chief for Customer Liaison and Marketing Services Office, Bureau of the Census"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Division Chief for Data Integration Division, Bureau of the Census"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Division Chief for Decennial Automation Contract Management Office, Bureau of the Census"
+        },
+        {
+          "member_name": "FRANK VITRANO",
+          "member_role": "Division Chief for Decennial Management Division, Bureau of the Census"
+        },
+        {
+          "member_name": "DAVID WHITFORD",
+          "member_role": "Division Chief for Decennial Statistical Studies Division, Bureau of the Census"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Division Chief for Decennial Systems and Contract Management Office, Bureau of the Census"
+        },
+        {
+          "member_name": "RUTH ANN KILLION",
+          "member_role": "Division Chief for Demographic Statistical Methods Division, Bureau of the Census"
+        },
+        {
+          "member_name": "CHERYL LANDMAN",
+          "member_role": "Division Chief for Demographic Surveys Division, Bureau of the Census"
+        },
+        {
+          "member_name": "SHIRIN A. AHMED",
+          "member_role": "Division Chief for Economic Planning and Coordination Division, Bureau of the Census"
+        },
+        {
+          "member_name": "SAMUEL JONES",
+          "member_role": "Division Chief for Economic Statistical Methods and Programming Division, Bureau of the Census"
+        },
+        {
+          "member_name": "ROY P. CASTRO",
+          "member_role": "Division Chief for Equal Employment Opportunity Office, Bureau of the Census"
+        },
+        {
+          "member_name": "BRIAN MONAGHAN",
+          "member_role": "Division Chief for Field Division, Bureau of the Census"
+        },
+        {
+          "member_name": "JOAN SIMMS",
+          "member_role": "Division Chief for Finance Division, Bureau of the Census"
+        },
+        {
+          "member_name": "WILLIAM BOSTIC, JR.",
+          "member_role": "Division Chief for Foreign Trade Division, Bureau of the Census"
+        },
+        {
+          "member_name": "TIMOTHY TRAINOR",
+          "member_role": "Division Chief for Geography Division, Bureau of the Census"
+        },
+        {
+          "member_name": "LISA BLUMERMAN",
+          "member_role": "Division Chief for Governments Division, Bureau of the Census"
+        },
+        {
+          "member_name": "DAVID JOHNSON",
+          "member_role": "Division Chief for Housing and Household Economic Statistics, Bureau of the Census"
+        },
+        {
+          "member_name": "TYRA DENT SMITH",
+          "member_role": "Division Chief for Human Resources Division, Bureau of the Census"
+        },
+        {
+          "member_name": "JOHN LEIDICH",
+          "member_role": "Division Chief for Information Systems Support and Review Office (acting), Bureau of the Census"
+        },
+        {
+          "member_name": "TIMOTHY P. RULAND",
+          "member_role": "Division Chief for Information Technology Security Office, Bureau of the Census"
+        },
+        {
+          "member_name": "CAROLE POPOFF",
+          "member_role": "Division Chief for International Relations Office, Bureau of the Census"
+        },
+        {
+          "member_name": "THOMAS ZABELSKY, JR.",
+          "member_role": "Division Chief for Manufacturing and Construction, Bureau of the Census"
+        },
+        {
+          "member_name": "DAVID HACKBARTH",
+          "member_role": "Division Chief for National Processing Center, Bureau of the Census"
+        },
+        {
+          "member_name": "ENRIQUE LAMAS",
+          "member_role": "Division Chief for Population, Bureau of the Census"
+        },
+        {
+          "member_name": "MARY FRAZIER",
+          "member_role": "Division Chief for Privacy Office, Bureau of the Census"
+        },
+        {
+          "member_name": "KENNETH C. MEYER",
+          "member_role": "Division Chief for Public Information Office, Bureau of the Census"
+        },
+        {
+          "member_name": "HAROLD L. WASHINGTON, JR.",
+          "member_role": "Division Chief for Security Office, Bureau of the Census"
+        },
+        {
+          "member_name": "MARK E. WALLACE",
+          "member_role": "Division Chief for Service Sector Statistics, Bureau of the Census"
+        },
+        {
+          "member_name": "TOMMY WRIGHT",
+          "member_role": "Division Chief for Statistical Research Division, Bureau of the Census"
+        },
+        {
+          "member_name": "NORA BEA PARKER",
+          "member_role": "Division Chief for Systems Support, Bureau of the Census"
+        },
+        {
+          "member_name": "BARBARA M. LOPRESTI",
+          "member_role": "Division Chief for Technologies Management Office, Bureau of the Census"
+        },
+        {
+          "member_name": "SCOTT WILLIAMS",
+          "member_role": "Division Chief for Telecommunications Office, Bureau of the Census"
+        }
+      ]
+    },
+    {
+      "department_name": "BUREAU OF INDUSTRY AND SECURITY",
+      "department_members": [
+        {
+          "member_name": "Daniel O. Hill",
+          "member_role": "Under Secretary (acting)"
+        },
+        {
+          "member_name": "Daniel O. Hill",
+          "member_role": "Deputy Under Secretary"
+        },
+        {
+          "member_name": "John Masterson",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Eugene Cottilli",
+          "member_role": "Office of Congressional and Public Affairs (acting)"
+        },
+        {
+          "member_name": "Gay Shrum",
+          "member_role": "Director, Office of Administration"
+        },
+        {
+          "member_name": "Dawn Leaf",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Matthew Borman",
+          "member_role": "Assistant Secretary for Export Administration (acting)"
+        },
+        {
+          "member_name": "Matthew Borman",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Operating Committee Chair"
+        },
+        {
+          "member_name": "Bernard Kritzer",
+          "member_role": "Office of Exporter Services"
+        },
+        {
+          "member_name": "Eileen M. Albanese",
+          "member_role": "Office of National Security and Technology Transfer Controls"
+        },
+        {
+          "member_name": "Alexander Lopes",
+          "member_role": "Office of Nonproliferation and Treaty Compliance"
+        },
+        {
+          "member_name": "Michael Vaccaro",
+          "member_role": "Office of Strategic Industries and Economic Security"
+        },
+        {
+          "member_name": "Kevin Kurland",
+          "member_role": "Office of Technology Evaluation"
+        },
+        {
+          "member_name": "Kevin Delli-Colli",
+          "member_role": "Assistant Secretary for Export Enforcement (acting)"
+        },
+        {
+          "member_name": "Kevin Delli-Colli",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Edward Weant",
+          "member_role": "Office of Antiboycott Compliance"
+        },
+        {
+          "member_name": "Glenn Krizay",
+          "member_role": "Office of Enforcement Analysis"
+        },
+        {
+          "member_name": "Tom Madigan",
+          "member_role": "Office of Export Enforcement"
+        }
+      ]
+    },
+    {
+      "department_name": "ECONOMIC DEVELOPMENT ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Sandra R. Walters",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Dennis Alvord",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Barry Bird",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Darice Ahrnsbrak",
+          "member_role": "Chief Information Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF EXECUTIVE SECRETARIAT AND EXTERNAL AFFAIRS (OESEA)",
+      "department_members": [
+        {
+          "member_name": "Brian Borlik",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Angela Ewell-Madison",
+          "member_role": "Director, Division of Legislative Affairs (acting)"
+        },
+        {
+          "member_name": "Brian Borlik",
+          "member_role": "Director, Division of Public Affairs (acting)"
+        },
+        {
+          "member_name": "Brian Borlik",
+          "member_role": "Director, Executive Secretariat (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF FINANCE AND MANAGEMENT SERVICES",
+      "department_members": [
+        {
+          "member_name": "Sandra R. Walters",
+          "member_role": "Chief Financial Officer / Chief Administrative Officer"
+        },
+        {
+          "member_name": "Ted Wolfgang",
+          "member_role": "Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "Errol Stewart",
+          "member_role": "Director, Budget Division"
+        }
+      ]
+    },
+    {
+      "department_name": "INTERNATIONAL TRADE ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Michelle O'Neill",
+          "member_role": "Under Secretary (acting)"
+        },
+        {
+          "member_name": "Michelle O'Neill",
+          "member_role": "Deputy Under Secretary"
+        },
+        {
+          "member_name": "Theodore Johnston",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Erin Mewhirter",
+          "member_role": "Legislative and Intergovernmental Affairs (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Public Affairs"
+        }
+      ]
+    },
+    {
+      "department_name": "ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "David Robinson",
+          "member_role": "Director and Chief Financial Officer"
+        },
+        {
+          "member_name": "Jim Donahue",
+          "member_role": "Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "Ronald Glaser",
+          "member_role": "Director, Office of Human Resources Management"
+        },
+        {
+          "member_name": "Mary Ann McFate",
+          "member_role": "Director, Office of Organization and Management Support"
+        },
+        {
+          "member_name": "Renee Macklin",
+          "member_role": "Chief Information Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "TRADE PROMOTION AND U.S. AND FOREIGN COMMERCIAL SERVICE",
+      "department_members": [
+        {
+          "member_name": "Rochelle Lipsitz",
+          "member_role": "Assistant Secretary for Trade Promotion and Director General of the Commercial Service (acting)"
+        },
+        {
+          "member_name": "Rochelle Lipsitz",
+          "member_role": "Deputy Director General"
+        },
+        {
+          "member_name": "Rebecca Mann",
+          "member_role": "Career Development and Assignment"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Assistant Secretary for Domestic Operations"
+        },
+        {
+          "member_name": "William Zarit",
+          "member_role": "Deputy Assistant Secretary for International Operations"
+        },
+        {
+          "member_name": "Stacey Silva",
+          "member_role": "Office of Global Trade Program"
+        },
+        {
+          "member_name": "Christian Reed",
+          "member_role": "Director for Africa, Near East and South Asia"
+        },
+        {
+          "member_name": "Patrick Santillo",
+          "member_role": "Director for East Asia and Pacific"
+        },
+        {
+          "member_name": "Reginald Miller",
+          "member_role": "Director for Europe"
+        },
+        {
+          "member_name": "Judy Reinke",
+          "member_role": "Director for Western Hemisphere"
+        },
+        {
+          "member_name": "Pat Kirwan",
+          "member_role": "Trade Promotion Coordinating Committee"
+        }
+      ]
+    },
+    {
+      "department_name": "ASSISTANT SECRETARY FOR IMPORT ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Ronald Lorentzen",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Ronald Lorentzen",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "John D. McInerney",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Neal Halper",
+          "member_role": "Director for Office of Accounting"
+        },
+        {
+          "member_name": "Kelly Parkhill",
+          "member_role": "Director for Office of Policy (acting)"
+        },
+        {
+          "member_name": "Faye Robinson",
+          "member_role": "Director for Statutory Import Programs Staff"
+        },
+        {
+          "member_name": "John Anderson",
+          "member_role": "Deputy Assistant Secretary for Antidumping Countervailing Duty Operations (acting)"
+        },
+        {
+          "member_name": "Carole Showers",
+          "member_role": "Deputy Assistant Secretary for Antidumping Countervailing Duty Policy and Negotiations (acting)"
+        },
+        {
+          "member_name": "Janet Heinzen",
+          "member_role": "Deputy Assistant Secretary for Textiles and Apparel (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "ASSISTANT SECRETARY FOR MARKET ACCESS AND COMPLIANCE",
+      "department_members": [
+        {
+          "member_name": "Stephen Jacobs",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Stephen Jacobs",
+          "member_role": "Deputy Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Ira Kasoff",
+          "member_role": "Deputy Assistant Secretary for Asia (acting)"
+        },
+        {
+          "member_name": "Skip Jones",
+          "member_role": "Deputy Assistant Secretary for Trade Agreements Compliance"
+        },
+        {
+          "member_name": "Jay Burgess",
+          "member_role": "Deputy Assistant Secretary for Europe (acting)"
+        },
+        {
+          "member_name": "Holly Vineyard",
+          "member_role": "Deputy Assistant Secretary for Africa, the Middle East and South Asia (acting)"
+        },
+        {
+          "member_name": "Walter Bastian",
+          "member_role": "Deputy Assistant Secretary for Western Hemisphere (acting)"
+        },
+        {
+          "member_name": "Kevin Boyd",
+          "member_role": "Director, Office of Africa"
+        },
+        {
+          "member_name": "Brenda Fisher",
+          "member_role": "Director, Office of APEC Affairs"
+        },
+        {
+          "member_name": "Jay Burgess",
+          "member_role": "Director, Office of European Country Affairs"
+        },
+        {
+          "member_name": "Nicole Melcher",
+          "member_role": "Director, Office of Japan"
+        },
+        {
+          "member_name": "John Anderson",
+          "member_role": "Director, Office of Latin America and the Caribbean"
+        },
+        {
+          "member_name": "Cherie Loustanau",
+          "member_role": "Director, Office of Middle East and North Africa"
+        },
+        {
+          "member_name": "Steward L. \"Skip\" Jones, Jr.",
+          "member_role": "Director, Office of Multilateral Affairs"
+        },
+        {
+          "member_name": "Caratina Alston",
+          "member_role": "Director, Office of NAFTA Secretariat"
+        },
+        {
+          "member_name": "Andrew Rudman",
+          "member_role": "Director, Office of North American Free Trade Agreement and Inter-American Affairs"
+        },
+        {
+          "member_name": "Jack Brougher",
+          "member_role": "Director, Office of Russia, Ukraine, and Eurasia"
+        }
+      ]
+    },
+    {
+      "department_name": "ASSISTANT SECRETARY FOR MANUFACTURING",
+      "department_members": [
+        {
+          "member_name": "Mary Saunders",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Mary Saunders",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Praveen Dixit",
+          "member_role": "Deputy Assistant Secretary for Industry Analysis"
+        },
+        {
+          "member_name": "Henry Misisco",
+          "member_role": "Deputy Assistant Secretary for Manufacturing (acting)"
+        },
+        {
+          "member_name": "Joel Secundy",
+          "member_role": "Deputy Assistant Secretary for Services"
+        }
+      ]
+    },
+    {
+      "department_name": "PRESIDENT'S EXPORT COUNCIL",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Executive Director, Under Secretary of International Trade"
+        },
+        {
+          "member_name": "Mark Chittum",
+          "member_role": "Executive Secretary"
+        }
+      ]
+    },
+    {
+      "department_name": "MINORITY BUSINESS DEVELOPMENT AGENCY",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Edith McCloud",
+          "member_role": "Associate Director"
+        },
+        {
+          "member_name": "Efrain Gonzalez",
+          "member_role": "Chief of Business Development"
+        },
+        {
+          "member_name": "Ronald Marin",
+          "member_role": "Chief of Financial Management Officer"
+        },
+        {
+          "member_name": "Bridget Gonzales",
+          "member_role": "Chief of Legislative, Educational and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "Jedd Vertman",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Yolanda Whitley",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Shirley Dean",
+          "member_role": "Deputy Chief Information Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Jane Lubchenco, Ph.D.",
+          "member_role": "Under Secretary for Oceans and Atmosphere"
+        },
+        {
+          "member_name": "Mary M. Glackin",
+          "member_role": "Deputy Under Secretary"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary / Deputy Administrator"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Assistant Secretary for Oceans and Atmosphere"
+        },
+        {
+          "member_name": "Dr. James Turner",
+          "member_role": "Deputy Assistant Secretary for International Affairs"
+        },
+        {
+          "member_name": "Scott Smullen",
+          "member_role": "Director, Office of Communications (acting)"
+        },
+        {
+          "member_name": "Louisa Koch",
+          "member_role": "Director, Office of Education"
+        },
+        {
+          "member_name": "Brook Davis",
+          "member_role": "Director, Office of Legislative Affairs (acting)"
+        },
+        {
+          "member_name": "RADM Jonathan W. Bailey, Jr.",
+          "member_role": "Director, Office of Marine and Aviation Operations"
+        },
+        {
+          "member_name": "Steve Austin",
+          "member_role": "Director, Office of Program Analysis and Evaluation"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Maureen Wylie",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "William \"Bill\" Broglie",
+          "member_role": "Chief Administrative Officer"
+        },
+        {
+          "member_name": "Joseph Klimavicz",
+          "member_role": "Chief Information Officer, High Performance Computing and Communications"
+        },
+        {
+          "member_name": "Jane Chalmers",
+          "member_role": "General Counsel (acting)"
+        },
+        {
+          "member_name": "Mitchell Ross",
+          "member_role": "Acquisition and Grants"
+        },
+        {
+          "member_name": "Kelly L. Quickle",
+          "member_role": "Decision Coordination and Executive Secretariat"
+        },
+        {
+          "member_name": "Samuel P. Williamson",
+          "member_role": "Federal Coordinator for Meteorology"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Program Coordination"
+        },
+        {
+          "member_name": "Eduardo Ribas",
+          "member_role": "Workforce Management"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL MARINE FISHERIES SERVICE",
+      "department_members": [
+        {
+          "member_name": "James W. Balsiger, Ph.D.",
+          "member_role": "Assistant Administrator (acting)"
+        },
+        {
+          "member_name": "John Oliver",
+          "member_role": "Deputy Assistant Administrator for Operations"
+        },
+        {
+          "member_name": "Samuel Rauch",
+          "member_role": "Deputy Assistant Administrator for Regulatory Programs"
+        },
+        {
+          "member_name": "Patricia Montanio",
+          "member_role": "Director, Office of Habitat Conservation"
+        },
+        {
+          "member_name": "Rebecca Lent, Ph.D.",
+          "member_role": "Director, Office of International Affairs"
+        },
+        {
+          "member_name": "Dale Jones",
+          "member_role": "Director, Office of Law Enforcement"
+        },
+        {
+          "member_name": "Gary Reisner",
+          "member_role": "Director, Office of Management and Budget"
+        },
+        {
+          "member_name": "Jim Lecky",
+          "member_role": "Director, Office of Protected Resources"
+        },
+        {
+          "member_name": "Ned Cyr, Ph.D.",
+          "member_role": "Director, Office of Science and Technology"
+        },
+        {
+          "member_name": "Steven Murawski, Ph.D.",
+          "member_role": "Director, Office of Scientific Programs and Chief Science Advisor"
+        },
+        {
+          "member_name": "Tim Hansen",
+          "member_role": "Director, Office of Seafood Inspection Program"
+        },
+        {
+          "member_name": "Alan Risenhoover",
+          "member_role": "Director, Office of Sustainable Fisheries"
+        },
+        {
+          "member_name": "Larry Tyminski",
+          "member_role": "Chief Information Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL OCEAN SERVICE",
+      "department_members": [
+        {
+          "member_name": "John H. Dunnigan",
+          "member_role": "Assistant Administrator"
+        },
+        {
+          "member_name": "Dr. William Corso",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Michael Szabados",
+          "member_role": "Director, Office of Operational Oceanographic Products and Services"
+        },
+        {
+          "member_name": "Rick Edwing",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Elizabeth Scheffler",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "CAPT Steve Barnum",
+          "member_role": "Director, Office of Coast Survey"
+        },
+        {
+          "member_name": "Clement Lewsey",
+          "member_role": "Director, Office of International Programs"
+        },
+        {
+          "member_name": "Gary C. Matlock",
+          "member_role": "Director, Office of National Centers for Coastal Ocean Science"
+        },
+        {
+          "member_name": "David Zilkoski",
+          "member_role": "Director, Office of National Geodetic Survey"
+        },
+        {
+          "member_name": "Margaret A. Davidson",
+          "member_role": "Director, Office of NOAA Coastal Services"
+        },
+        {
+          "member_name": "David Kennety",
+          "member_role": "Director, Office of Ocean and Coastal Resource Management"
+        },
+        {
+          "member_name": "Ken Barton",
+          "member_role": "Director, Office of Response and Restoration (acting)"
+        },
+        {
+          "member_name": "Daniel Farrow",
+          "member_role": "Director, Office of Special Projects"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL ENVIRONMENTAL SATELLITE, DATA AND INFORMATION SERVICE",
+      "department_members": [
+        {
+          "member_name": "Mary E. Kicza",
+          "member_role": "Assistant Administrator"
+        },
+        {
+          "member_name": "Charles S. Baker",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Abigail Harper",
+          "member_role": "Deputy Assistant Administrator, Systems"
+        },
+        {
+          "member_name": "Zachary Goldstein",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Michael H. Abreu",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Cherish Johnson",
+          "member_role": "Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "D. Brent Smith",
+          "member_role": "International and Interagency Affairs Chief"
+        },
+        {
+          "member_name": "Jane D'Aguanno",
+          "member_role": "Director, Office of Commercial Remote Sensing Regulatory Affairs"
+        },
+        {
+          "member_name": "Wayne Wilmot",
+          "member_role": "Director, Office of Coastal Ocean Laboratory"
+        },
+        {
+          "member_name": "Ida Hakkarinen",
+          "member_role": "Director, Office of Environmental Information Services"
+        },
+        {
+          "member_name": "Gregory A. Mandt",
+          "member_role": "Director, Office of GOES-R Program"
+        },
+        {
+          "member_name": "Christine Carpino",
+          "member_role": "Director, Office of Management Operations and Analysis"
+        },
+        {
+          "member_name": "Sharon LeDuc",
+          "member_role": "Director, Office of National Climatic Data Center (acting)"
+        },
+        {
+          "member_name": "Christopher Fox",
+          "member_role": "Director, Office of National Geophysical Data Center"
+        },
+        {
+          "member_name": "Margarita Gregg",
+          "member_role": "Director, Office of National Oceanographic Data Center"
+        },
+        {
+          "member_name": "Ed Phillips",
+          "member_role": "Director, Office of National Polar Orbiting Operational Environmental Satellite System Integrated Program Office"
+        },
+        {
+          "member_name": "Al Powell",
+          "member_role": "Director, Office of Satellite Applications and Research"
+        },
+        {
+          "member_name": "Kathleen A. Kelly",
+          "member_role": "Director, Office of Satellite Data Processing and Distribution (acting)"
+        },
+        {
+          "member_name": "Kathleen A. Kelly",
+          "member_role": "Director, Office of Satellite Operations"
+        },
+        {
+          "member_name": "Charles S. Baker",
+          "member_role": "Director, Office of Space Commercialization (acting)"
+        },
+        {
+          "member_name": "Gary K. Davis",
+          "member_role": "Director, Office of Systems Development"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL WEATHER SERVICE",
+      "department_members": [
+        {
+          "member_name": "David L. Johnson",
+          "member_role": "Assistant Administrator"
+        },
+        {
+          "member_name": "John E. Jones, Jr.",
+          "member_role": "Deputy Assistant Administrator"
+        },
+        {
+          "member_name": "Robert J. Byrd",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "John Potts",
+          "member_role": "Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "Larry Curran",
+          "member_role": "Chief Information Officer (acting)"
+        },
+        {
+          "member_name": "Dennis H. McCarthy",
+          "member_role": "Director, Office of Climate, Water and Weather Services (acting)"
+        },
+        {
+          "member_name": "Gary M. Carter",
+          "member_role": "Director, Office of Hydrologic Development"
+        },
+        {
+          "member_name": "Louis W. Uccellini",
+          "member_role": "Director, Office of National Centers for Environmental Prediction"
+        },
+        {
+          "member_name": "John McNulty",
+          "member_role": "Director, Office of Operational Systems"
+        },
+        {
+          "member_name": "Gregory A. Mandt",
+          "member_role": "Director, Office of Science and Technology"
+        }
+      ]
+    },
+    {
+      "department_name": "OCEANIC AND ATMOSPHERIC RESEARCH",
+      "department_members": [
+        {
+          "member_name": "Richard W. Spinrad, Ph.D.",
+          "member_role": "Assistant Administrator"
+        },
+        {
+          "member_name": "Alexander MacDonald, Ph.D.",
+          "member_role": "Deputy Assistant Administrator for Labs and Cooperative Institutes"
+        },
+        {
+          "member_name": "Craig McLean",
+          "member_role": "Deputy Assistant Administrator for Programs and Administration"
+        },
+        {
+          "member_name": "Alexander MacDonald, Ph.D.",
+          "member_role": "Director of Earth System Research Laboratory"
+        },
+        {
+          "member_name": "A.R. \"Ravi\" Ravishankara, Ph.D.",
+          "member_role": "Division of Chemical Sciences"
+        },
+        {
+          "member_name": "Jim Butler, Ph.D.",
+          "member_role": "Division of Global Monitoring"
+        },
+        {
+          "member_name": "Steve Koch, Ph.D.",
+          "member_role": "Division of Global Systems"
+        },
+        {
+          "member_name": "William Neff, Ph.D.",
+          "member_role": "Division of Physical Science"
+        },
+        {
+          "member_name": "Steven Fine, Ph.D.",
+          "member_role": "Director of Air Resources Laboratory"
+        },
+        {
+          "member_name": "Robert Atlas",
+          "member_role": "Director of Atlantic Oceanographic and Meteorological Laboratory"
+        },
+        {
+          "member_name": "Ram Ramaswamy, Ph.D.",
+          "member_role": "Director of Geophysical Fluid Dynamics Laboratory"
+        },
+        {
+          "member_name": "Mare Colton, Ph.D.",
+          "member_role": "Director of Great Lakes Environmental Research Laboratory"
+        },
+        {
+          "member_name": "Leon Cammen",
+          "member_role": "Director of National Sea Grant College Program"
+        },
+        {
+          "member_name": "James Kimpel, Ph.D.",
+          "member_role": "Director of National Severe Storms Laboratory"
+        },
+        {
+          "member_name": "Eddie N. Bernard, Ph.D.",
+          "member_role": "Director of Pacific Marine Environmental Laboratory"
+        },
+        {
+          "member_name": "John Calder",
+          "member_role": "Director, Office of Arctic Research"
+        },
+        {
+          "member_name": "Chester Koblinsky",
+          "member_role": "Director, Office of Climate Program"
+        },
+        {
+          "member_name": "CAPT Harris Halverson",
+          "member_role": "Director, Office of Oceanic Exploration and Research (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "PROGRAM, PLANNING AND INTEGRATION",
+      "department_members": [
+        {
+          "member_name": "Laura K. Furgione",
+          "member_role": "Assistant Administrator"
+        },
+        {
+          "member_name": "Paul N. Doremus",
+          "member_role": "Deputy Assistant Administrator"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES PATENT AND TRADEMARK OFFICE",
+      "department_members": [
+        {
+          "member_name": "John J. Doll",
+          "member_role": "Under Secretary of Commerce for Intellectual Property and Director of U.S. Patent and Trademark Office (acting)"
+        },
+        {
+          "member_name": "John J. Doll",
+          "member_role": "Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the U.S. Patent and Trademark Office"
+        },
+        {
+          "member_name": "Eleanor Meltzer",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Elizabeth Dougherty",
+          "member_role": "Senior Legal Advisor"
+        },
+        {
+          "member_name": "Jennifer Rankin Byrne",
+          "member_role": "Director of Public Affairs"
+        }
+      ]
+    },
+    {
+      "department_name": "COMMISSIONER FOR PATENTS",
+      "department_members": [
+        {
+          "member_name": "Margaret A. Focarino",
+          "member_role": "Commissioner (acting)"
+        },
+        {
+          "member_name": "Andrew Hirshfeld",
+          "member_role": "Deputy Commissioner for Patent Examination Policy (acting)"
+        },
+        {
+          "member_name": "Charles A. Pearson",
+          "member_role": "Director, Office of Patent Cooperation Treaty Legal Administration"
+        },
+        {
+          "member_name": "Robert A. Clarke",
+          "member_role": "Director, Office of Patent Legal Administration"
+        },
+        {
+          "member_name": "Margaret A. Focarino",
+          "member_role": "Deputy Commissioner for Patent Operations"
+        },
+        {
+          "member_name": "Bruce Kisliuk",
+          "member_role": "Assistant Deputy Commissioner for Patent Operations, Chemical Discipline"
+        },
+        {
+          "member_name": "James Dwyer",
+          "member_role": "Assistant Deputy Commissioner for Patent Operations, Electrical I Discipline"
+        },
+        {
+          "member_name": "Andrew Faile",
+          "member_role": "Assistant Deputy Commissioner for Patent Operations, Electrical II Discipline"
+        },
+        {
+          "member_name": "Robert Oberleitner",
+          "member_role": "Assistant Deputy Commissioner for Patent Operations, Mechanical Discipline"
+        },
+        {
+          "member_name": "George Elliott",
+          "member_role": "Patent Examining Group Director, Technology Center 1600"
+        },
+        {
+          "member_name": "John LeGuyader",
+          "member_role": "Patent Examining Group Director, Technology Center 1600"
+        },
+        {
+          "member_name": "Irem Yucel",
+          "member_role": "Patent Examining Group Director, Technology Center 1600"
+        },
+        {
+          "member_name": "Jasemine Chambers",
+          "member_role": "Patent Examining Group Director, Technology Center 1700 / 2900"
+        },
+        {
+          "member_name": "Sharon Gibson",
+          "member_role": "Patent Examining Group Director, Technology Center 1700 / 2900"
+        },
+        {
+          "member_name": "Gary Jones",
+          "member_role": "Patent Examining Group Director, Technology Center 1700 / 2900"
+        },
+        {
+          "member_name": "Jacqueline Stone",
+          "member_role": "Patent Examining Group Director, Technology Center 1700 / 2900"
+        },
+        {
+          "member_name": "Timothy Callahan",
+          "member_role": "Patent Examining Group Director, Technology Center 2400"
+        },
+        {
+          "member_name": "Jack Harvey",
+          "member_role": "Patent Examining Group Director, Technology Center 2400"
+        },
+        {
+          "member_name": "Valencia Martin-Wallace",
+          "member_role": "Patent Examining Group Director, Technology Center 2400"
+        },
+        {
+          "member_name": "Mark R. Powell",
+          "member_role": "Patent Examining Group Director, Technology Center 2600"
+        },
+        {
+          "member_name": "Wanda Walker",
+          "member_role": "Patent Examining Group Director, Technology Center 2600"
+        },
+        {
+          "member_name": "John Cabeca",
+          "member_role": "Patent Examining Group Director, Technology Center 2800"
+        },
+        {
+          "member_name": "Richard Seidel",
+          "member_role": "Patent Examining Group Director, Technology Center 2800"
+        },
+        {
+          "member_name": "Wynn Coggins",
+          "member_role": "Patent Examining Group Director, Technology Center 3600"
+        },
+        {
+          "member_name": "Katherine Matecki",
+          "member_role": "Patent Examining Group Director, Technology Center 3600"
+        },
+        {
+          "member_name": "Fred Schmidt",
+          "member_role": "Patent Examining Group Director, Technology Center 3600"
+        },
+        {
+          "member_name": "Donald Hajec",
+          "member_role": "Patent Examining Group Director, Technology Center 3700"
+        },
+        {
+          "member_name": "Robert Olszewski",
+          "member_role": "Patent Examining Group Director, Technology Center 3700"
+        },
+        {
+          "member_name": "Karen Young",
+          "member_role": "Patent Examining Group Director, Technology Center 3700"
+        },
+        {
+          "member_name": "Gregory Morse",
+          "member_role": "Director, Office of Central Reexamination Unit"
+        },
+        {
+          "member_name": "Deborah Stephens",
+          "member_role": "Director, Office of Data Management (PUBS)"
+        },
+        {
+          "member_name": "Charles Pearson",
+          "member_role": "Director, Office of Legal Administration and Petitions (PCT)"
+        },
+        {
+          "member_name": "Robert Olszewski",
+          "member_role": "Director, Office of Oversees South Tower Operations"
+        },
+        {
+          "member_name": "Kevin Little",
+          "member_role": "Director, Office of Patent Application Processing (PCT Operations) (acting)"
+        },
+        {
+          "member_name": "Olik Chaudhuri",
+          "member_role": "Director, Office of Patent Classification (acting)"
+        },
+        {
+          "member_name": "John Buie",
+          "member_role": "Director, Office of Patent Financial Management"
+        },
+        {
+          "member_name": "Robert A. Clarke",
+          "member_role": "Director, Office of Patent Legal Administration"
+        },
+        {
+          "member_name": "Thomas Koontz",
+          "member_role": "Director, Office of Patent Processing Services (OIPE)"
+        },
+        {
+          "member_name": "Jin Ng",
+          "member_role": "Director, Office of Patent Training"
+        },
+        {
+          "member_name": "Paula Hutzell",
+          "member_role": "Director, Office of Patent Quality Assurance"
+        },
+        {
+          "member_name": "John Mielcarek",
+          "member_role": "Administrator, Office of Patent Resources Administration"
+        },
+        {
+          "member_name": "David Talbott",
+          "member_role": "Administrator, Office of Search and Information Resources Administration"
+        }
+      ]
+    },
+    {
+      "department_name": "COMMISSIONER FOR TRADEMARKS",
+      "department_members": [
+        {
+          "member_name": "Lynne Beresford",
+          "member_role": "Commissioner"
+        },
+        {
+          "member_name": "Deborah Cohn",
+          "member_role": "Deputy Commissioner for Trademark Operations"
+        },
+        {
+          "member_name": "Ron Sussman",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 101"
+        },
+        {
+          "member_name": "Karen Strzyz",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 102"
+        },
+        {
+          "member_name": "Michael Hamilton",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 103"
+        },
+        {
+          "member_name": "Chris Doninger",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 104"
+        },
+        {
+          "member_name": "Thomas G. Howell",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 105"
+        },
+        {
+          "member_name": "Mary Sparrow",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 106"
+        },
+        {
+          "member_name": "Leslie Bishop",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 107"
+        },
+        {
+          "member_name": "Andrew Lawrence",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 108"
+        },
+        {
+          "member_name": "Dan Vavonese",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 109"
+        },
+        {
+          "member_name": "Chris Pedersen",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 110"
+        },
+        {
+          "member_name": "Craig Taylor",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 111"
+        },
+        {
+          "member_name": "Angela Wilson",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 112"
+        },
+        {
+          "member_name": "Odette Bonnet",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 113"
+        },
+        {
+          "member_name": "Margaret Le",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 114"
+        },
+        {
+          "member_name": "Thomas Vlcek",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 115"
+        },
+        {
+          "member_name": "Michael Baird",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 116"
+        },
+        {
+          "member_name": "Loretta Beck",
+          "member_role": "Trademark Examination Law Office Managing Attorney, Law Office 117"
+        },
+        {
+          "member_name": "Betty Andrews",
+          "member_role": "Director, Office of Trademark Program Control"
+        },
+        {
+          "member_name": "Sharon Marsh",
+          "member_role": "Deputy Commissioner for Trademark Examination Policy"
+        },
+        {
+          "member_name": "Kevin Peska",
+          "member_role": "Director, Office of Trademark Quality Review"
+        }
+      ]
+    },
+    {
+      "department_name": "ADMINISTRATOR FOR EXTERNAL AFFAIRS",
+      "department_members": [
+        {
+          "member_name": "John J. Doll",
+          "member_role": "Administrator for External Affairs (acting)"
+        },
+        {
+          "member_name": "Jefferson D. Taylor",
+          "member_role": "Director, Office of Governmental Affairs"
+        },
+        {
+          "member_name": "Lois Boland",
+          "member_role": "Director, Office of Intellectual Property Policy and Enforcement"
+        },
+        {
+          "member_name": "Robert L. Stoll",
+          "member_role": "Dean of Training and Education"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF FINANCIAL OFFICER",
+      "department_members": [
+        {
+          "member_name": "Mark J. Olechowski",
+          "member_role": "Chief Financial Officer (acting)"
+        },
+        {
+          "member_name": "Michelle Picard",
+          "member_role": "Deputy Chief Financial Officer (acting)"
+        },
+        {
+          "member_name": "Janice Lambert",
+          "member_role": "Senior Financial Manager"
+        },
+        {
+          "member_name": "Brendan Hourigan",
+          "member_role": "Director of Corporate Planning (acting)"
+        },
+        {
+          "member_name": "Mark Krieger",
+          "member_role": "Director of Finance"
+        },
+        {
+          "member_name": "Gita Zoks",
+          "member_role": "Director of Financial Management Systems"
+        },
+        {
+          "member_name": "Katherine Kudrewicz",
+          "member_role": "Director of Procurement"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF ADMINISTRATIVE OFFICER",
+      "department_members": [
+        {
+          "member_name": "Stephen Smith",
+          "member_role": "Chief Administrative Officer"
+        },
+        {
+          "member_name": "John Hassett",
+          "member_role": "Director of Corporate Services"
+        },
+        {
+          "member_name": "Bismarck Myrick",
+          "member_role": "Director of Civil Rights"
+        },
+        {
+          "member_name": "Karen Karlinchak",
+          "member_role": "Director of Human Resources"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF GENERAL COUNSEL",
+      "department_members": [
+        {
+          "member_name": "James A. Toupin",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "William Covey",
+          "member_role": "Deputy General Counsel for General Law"
+        },
+        {
+          "member_name": "Raymond Chen",
+          "member_role": "Deputy General Counsel for Intellectual Property Law and Solicitor"
+        },
+        {
+          "member_name": "Michael R. Fleming",
+          "member_role": "Chief Administrative Patent Judge, Board of Patent Appeals and Interferences"
+        },
+        {
+          "member_name": "James T. Moore",
+          "member_role": "Vice Chief Administrative Patent Judge"
+        },
+        {
+          "member_name": "J. David Sams",
+          "member_role": "Chief Administrative Trademark Judge, Trademark Trial and Appeal Board"
+        },
+        {
+          "member_name": "Harry I. Moatz",
+          "member_role": "Director, Office of Enrollment and Discipline"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF INFORMATION OFFICER",
+      "department_members": [
+        {
+          "member_name": "John B. Owens II",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "John S. \"Scott\" Williams",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Deborah Diaz",
+          "member_role": "Deputy Chief Information Officer"
+        },
+        {
+          "member_name": "James P. \"Jim\" Flanagan",
+          "member_role": "Chief Technology Officer / Director of Infrastructure Engineering and Operations"
+        },
+        {
+          "member_name": "Toby D. Bennett",
+          "member_role": "Director of Administrative Management"
+        },
+        {
+          "member_name": "Keith M. Vanderbrink",
+          "member_role": "Director of Budget and Finance"
+        },
+        {
+          "member_name": "Kay Melvin",
+          "member_role": "Director of Program Administration Organization"
+        },
+        {
+          "member_name": "Ted L. Parr",
+          "member_role": "Director of Customer Information Services"
+        },
+        {
+          "member_name": "Lyn Donaldson",
+          "member_role": "Manager, Office of Electronic Information Products"
+        },
+        {
+          "member_name": "Martha Sneed",
+          "member_role": "Manager, Office of Public Information Services"
+        },
+        {
+          "member_name": "Ted L. Parr",
+          "member_role": "Manager, Office of Public Records Division (acting)"
+        },
+        {
+          "member_name": "Pam H. Kitchens",
+          "member_role": "Manager, Office of Customer Support Services"
+        },
+        {
+          "member_name": "Carol R. Eakins",
+          "member_role": "Manager, Office of Enterprise Systems Services"
+        },
+        {
+          "member_name": "Rod W. Turk",
+          "member_role": "Director of Organizational Policy and Governance"
+        },
+        {
+          "member_name": "James \"Buck\" Buchanan",
+          "member_role": "Director of Network and Telecommunications (acting)"
+        },
+        {
+          "member_name": "Chris S. Niedermayer",
+          "member_role": "Director of Information Management Services"
+        },
+        {
+          "member_name": "Brain R. Jones",
+          "member_role": "Manager of Quality Management"
+        },
+        {
+          "member_name": "David C. Conley",
+          "member_role": "Manager of Systems Development and Maintenance"
+        }
+      ]
+    },
+    {
+      "department_name": "CHIEF PERFORMANCE IMPROVEMENT OFFICER",
+      "department_members": [
+        {
+          "member_name": "Barry K. Hudson",
+          "member_role": "Chief Performance Improvement Officer (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY",
+      "department_members": [
+        {
+          "member_name": "Dr. Patrick Gallagher",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Dr. Patrick Gallagher",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Dr. Richard Kayser",
+          "member_role": "Chief Scientist"
+        },
+        {
+          "member_name": "Dr. Harry S. Hertz",
+          "member_role": "Baldrige National Quality Program"
+        },
+        {
+          "member_name": "Dr. Claire M. Saundry",
+          "member_role": "International and Academic Affairs"
+        },
+        {
+          "member_name": "Dr. Kent Rochford",
+          "member_role": "NIST / Boulder Laboratories"
+        },
+        {
+          "member_name": "Kevin Kimball",
+          "member_role": "Chief of Staff (acting)"
+        },
+        {
+          "member_name": "Jim Schufreider",
+          "member_role": "Congressional and Legislative Affairs"
+        },
+        {
+          "member_name": "Dr. Jason Boehm",
+          "member_role": "Program Office"
+        },
+        {
+          "member_name": "Gail J. Porter",
+          "member_role": "Public and Business Affairs"
+        },
+        {
+          "member_name": "Todd Grams",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Thomas P. Klausing",
+          "member_role": "Budget"
+        },
+        {
+          "member_name": "Fred Lehnhoff",
+          "member_role": "Business Systems"
+        },
+        {
+          "member_name": "Marvin Washington",
+          "member_role": "Finance"
+        },
+        {
+          "member_name": "Laura Cesario",
+          "member_role": "Grants and Agreements Management"
+        },
+        {
+          "member_name": "Essex Brown",
+          "member_role": "Chief Human Capital Officer (acting)"
+        },
+        {
+          "member_name": "Essex Brown",
+          "member_role": "Human Resources Management"
+        },
+        {
+          "member_name": "Catherine S. Fletcher",
+          "member_role": "Management and Organization"
+        },
+        {
+          "member_name": "Rosamond A. Rutledge-Burns",
+          "member_role": "Safety, Health and Environment"
+        },
+        {
+          "member_name": "Mirta-Marie M. Keys",
+          "member_role": "Civil Rights and Diversity Office"
+        },
+        {
+          "member_name": "Dr. Simon Szykman",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "L. Dale Little",
+          "member_role": "Applications Systems"
+        },
+        {
+          "member_name": "Tim Halton",
+          "member_role": "Customer Access and Support"
+        },
+        {
+          "member_name": "James E. Fowler",
+          "member_role": "Enterprise Systems"
+        },
+        {
+          "member_name": "Robert Glenn",
+          "member_role": "Information Technology Security and Networking"
+        },
+        {
+          "member_name": "Bruce Rosen",
+          "member_role": "Telecommunications and CIO Support"
+        },
+        {
+          "member_name": "Stella Fiotes",
+          "member_role": "Chief Facilities Management Officer"
+        },
+        {
+          "member_name": "David T. Henry",
+          "member_role": "Administrative Services"
+        },
+        {
+          "member_name": "Dr. Benjamin Overbey",
+          "member_role": "Emergency Services"
+        },
+        {
+          "member_name": "Stephen S. Salber",
+          "member_role": "Engineering, Maintenance and Support Services"
+        },
+        {
+          "member_name": "John Bollinger",
+          "member_role": "Plant"
+        },
+        {
+          "member_name": "Dr. Belinda L. Collins",
+          "member_role": "Director, Technology Services"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Mary-Deirdre Coraggio",
+          "member_role": "Information Services"
+        },
+        {
+          "member_name": "Robert L. Watters, Jr.",
+          "member_role": "Measurement Services"
+        },
+        {
+          "member_name": "Dave Alderman",
+          "member_role": "Standards Services"
+        },
+        {
+          "member_name": "Carol Hockert",
+          "member_role": "Weights and Measures"
+        },
+        {
+          "member_name": "Marc G. Stanley",
+          "member_role": "Director, Technology Innovation Program"
+        },
+        {
+          "member_name": "Dr. Lorel Wisniewski",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Linda Beth Schilling",
+          "member_role": "Project Management Office"
+        },
+        {
+          "member_name": "Thomas Wiggins",
+          "member_role": "Selection Management Office"
+        },
+        {
+          "member_name": "Roger D. Kilmer",
+          "member_role": "Director, Hollings Manufacturing Extension Partnership Program"
+        },
+        {
+          "member_name": "Aimee Dobrzeniecki",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Stephen J. Thompson",
+          "member_role": "Program Development Office"
+        },
+        {
+          "member_name": "Michael J. Simpson",
+          "member_role": "Systems Operations Office"
+        },
+        {
+          "member_name": "Dr. Kent Rochford",
+          "member_role": "Director, Electronics and Electrical Engineering Laboratory (acting)"
+        },
+        {
+          "member_name": "Dr. James Otthoff",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Dr. Peter Wilson",
+          "member_role": "Electromagnetics (acting)"
+        },
+        {
+          "member_name": "Dr. Robert Hickernell",
+          "member_role": "Optoelectronics (acting)"
+        },
+        {
+          "member_name": "Dr. Michael Kelley",
+          "member_role": "Quantum Electrical Metrology"
+        },
+        {
+          "member_name": "Dr. David G. Seiler",
+          "member_role": "Semiconductor Electronics"
+        },
+        {
+          "member_name": "Dr. Robert Celotta",
+          "member_role": "Director, Center for Nanoscale Science and Technology"
+        },
+        {
+          "member_name": "Dr. Howard Harary",
+          "member_role": "Director, Manufacturing Engineering Laboratory (acting)"
+        },
+        {
+          "member_name": "Dr. Al Wavering",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Mark E. Luce",
+          "member_role": "Fabrication Technology"
+        },
+        {
+          "member_name": "Elena Messina",
+          "member_role": "Intelligent Systems"
+        },
+        {
+          "member_name": "Kevin K. Jurrens",
+          "member_role": "Manufacturing Metrology (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Manufacturing Systems Integration"
+        },
+        {
+          "member_name": "Dr. Michael Postek",
+          "member_role": "Precision Engineering"
+        },
+        {
+          "member_name": "Dr. Willie E. May",
+          "member_role": "Director, Chemical Science and Technology Laboratory"
+        },
+        {
+          "member_name": "Dr. Richard Cavanagh",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Dr. Stephen A. Wise",
+          "member_role": "Analytical Chemistry"
+        },
+        {
+          "member_name": "Dr. Laurie E. Locascio",
+          "member_role": "Biochemical Science"
+        },
+        {
+          "member_name": "Dr. James R. Whetstone",
+          "member_role": "Process Measurements"
+        },
+        {
+          "member_name": "Dr. John Small",
+          "member_role": "Surface and Microanalysis Science"
+        },
+        {
+          "member_name": "Dr. Daniel G. Friend",
+          "member_role": "Thermophysical Properties"
+        },
+        {
+          "member_name": "Dr. Katharine B. Gebbie",
+          "member_role": "Director, Physical Laboratory"
+        },
+        {
+          "member_name": "Dr. William R. Ott",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Dr. Carl J. Williams",
+          "member_role": "Atomic Physics"
+        },
+        {
+          "member_name": "Dr. Charles W. Clark",
+          "member_role": "Electron and Optical Physics"
+        },
+        {
+          "member_name": "Dr. Lisa R. Karam",
+          "member_role": "Ionizing Radiation"
+        },
+        {
+          "member_name": "Dr. Gerald Fraser",
+          "member_role": "Optical Technology"
+        },
+        {
+          "member_name": "Dr. Steven T. Cundiff",
+          "member_role": "Quantum Physics"
+        },
+        {
+          "member_name": "Dr. Thomas R. O'Brian",
+          "member_role": "Time and Frequency"
+        },
+        {
+          "member_name": "Dr. Eric J. Amis",
+          "member_role": "Director, Materials Science and Engineering Laboratory (acting)"
+        },
+        {
+          "member_name": "Dr. Eric J. Amis",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Dr. Debra L. Kaiser",
+          "member_role": "Ceramics"
+        },
+        {
+          "member_name": "Dr. Stephanie Hooker",
+          "member_role": "Materials Reliability"
+        },
+        {
+          "member_name": "Dr. Frank W. Gayle",
+          "member_role": "Metallurgy"
+        },
+        {
+          "member_name": "Dr. Eric Lin",
+          "member_role": "Polymers (acting)"
+        },
+        {
+          "member_name": "Dr. Robert Dimeo",
+          "member_role": "Director, NIST Center for Neutron Research (acting)"
+        },
+        {
+          "member_name": "Dr. S. Shyam-Sunder",
+          "member_role": "Director, Building and Fire Research Laboratory"
+        },
+        {
+          "member_name": "Dr. William L. Grosshandler",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Dr. Hunter Fanney",
+          "member_role": "Building Environment"
+        },
+        {
+          "member_name": "Dr. Anthony Hamins",
+          "member_role": "Fire Research"
+        },
+        {
+          "member_name": "Dr. Jonathan W. Martin",
+          "member_role": "Materials and Construction Research"
+        },
+        {
+          "member_name": "Cita M. Furlani",
+          "member_role": "Director, Information Technology Laboratory"
+        },
+        {
+          "member_name": "James A. St. Pierre",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Dr. David Su",
+          "member_role": "Advanced Network Technologies"
+        },
+        {
+          "member_name": "William Curt Barker",
+          "member_role": "Computer Security"
+        },
+        {
+          "member_name": "Dr. Martin Herman",
+          "member_role": "Information Access"
+        },
+        {
+          "member_name": "Dr. Ronald F. Boisvert",
+          "member_role": "Mathematical and Computational Sciences"
+        },
+        {
+          "member_name": "Kathleen Roberts",
+          "member_role": "Software Diagnostics and Conformance Testing"
+        },
+        {
+          "member_name": "Dr. Antonio Possolo",
+          "member_role": "Statistical Engineering (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL TECHNICAL INFORMATION SERVICE",
+      "department_members": [
+        {
+          "member_name": "Ellen Herbst",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Bruce Borzino",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Vicki Buttram",
+          "member_role": "Administration"
+        },
+        {
+          "member_name": "Bruce Borzino",
+          "member_role": "Business Operations"
+        },
+        {
+          "member_name": "Keith Sinner",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Jon Birdsall",
+          "member_role": "Customer Relations"
+        },
+        {
+          "member_name": "Mary Houff",
+          "member_role": "Finance"
+        },
+        {
+          "member_name": "Steven Needle",
+          "member_role": "Policy"
+        }
+      ]
+    },
+    {
+      "department_name": "NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION",
+      "department_members": [
+        {
+          "member_name": "Vacant",
+          "member_role": "Assistant Secretary and Administrator"
+        },
+        {
+          "member_name": "Anna M. Gomez",
+          "member_role": "Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Thomas Power",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Larry Atlas",
+          "member_role": "Senior Advisor"
+        },
+        {
+          "member_name": "Mark G. Seifert",
+          "member_role": "Senior Advisor (acting)"
+        },
+        {
+          "member_name": "Angela Simpson",
+          "member_role": "Advisor"
+        },
+        {
+          "member_name": "Rochelle Cohen",
+          "member_role": "Advisor, Communications"
+        },
+        {
+          "member_name": "Edward \"Smitty\" Smith",
+          "member_role": "Special Advisor"
+        },
+        {
+          "member_name": "Kathy Smith",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Daniel Hurley",
+          "member_role": "Communications and Information Infrastructure Assurance"
+        },
+        {
+          "member_name": "Jim Wasilewski",
+          "member_role": "Congressional Affairs"
+        },
+        {
+          "member_name": "Al Vincent",
+          "member_role": "Institute for Telecommunication Sciences"
+        },
+        {
+          "member_name": "Fiona Alexander",
+          "member_role": "International Affairs"
+        },
+        {
+          "member_name": "Tim Sloan",
+          "member_role": "Policy Analysis and Development (acting)"
+        },
+        {
+          "member_name": "Karl Nebbia",
+          "member_role": "Spectrum Management"
+        },
+        {
+          "member_name": "Bernadette McGuire-Rivera",
+          "member_role": "Telecommunications and Information Applications"
+        }
+      ]
+    }
+  ]
+}
