@@ -43,14 +43,13 @@ jobs:
           echo "Using existing test_validator.py"
           # Make sure the file is properly encoded for Windows
           (Get-Content -Path "test_validator.py" -Raw) | Set-Content -Path "test_validator.py" -Encoding UTF8
+          
+          # Copy test validator
+          Copy-Item -Path "test_validator.py" -Destination "dist\" -Force
         } else {
-          echo "WARNING: No test_validator.py found in repository. Creating a basic version."
-          # The existing code that creates test_validator.py would go here
-          # (I'm omitting it since you already have a better version)
+          echo "ERROR: No test_validator.py found in repository. The workflow requires this file."
+          exit 1
         }
-        
-        # Copy test validator
-        Copy-Item -Path "test_validator.py" -Destination "dist\" -Force
     
     - name: Prepare test environment
       run: |
@@ -110,6 +109,9 @@ jobs:
           echo "❌ Test failed: Executable did not generate valid output"
           exit 1
         }
+
+        # Clean up sensitive files after testing
+        Remove-Item -Path ".env" -Force -ErrorAction SilentlyContinue
     
     - name: Create distribution package
       if: success()
@@ -168,4 +170,3 @@ jobs:
         path: |
           dist\outputs\
           dist\congressional_directory_files\
-          .env
