@@ -33,7 +33,9 @@ jobs:
     - name: Build executable
       run: |
         # Build using the existing file
-        pyinstaller --onefile --name congressional_extractor --add-data "gpt_parsing_files;gpt_parsing_files" run_exe.py
+        pyinstaller --onefile --name congressional_extractor --add-data "gpt_parsing_files;gpt_parsing_files" --clean --strip --exclude matplotlib --exclude numpy --exclude pandas --exclude PIL --exclude tkinter --exclude IPython --exclude scipy --exclude pytest run_exe.py
+        $exeSize = (Get-Item "dist\congressional_extractor.exe").Length / 1MB
+        echo "Executable size: $([math]::Round($exeSize, 2)) MB"
         echo "Build successful: Executable created"
     
     - name: Copy test validator
@@ -118,30 +120,29 @@ jobs:
         cd dist
         
         echo "Running as executable..."
+        $startExe = Get-Date
         .\congressional_extractor.exe --congress 117 --processors diplomatic_offices
+        $endExe = Get-Date
+        $exeTime = ($endExe - $startExe).TotalSeconds
         
         echo "Running as interpreter..."
-        python ..\run_interpreter_test.py
-        
-        # Compare performance
-        $exe_time = Get-Content -Path "executable_performance.txt"
-        $int_time = Get-Content -Path "interpreter_performance.txt"
+        $startInt = Get-Date
+        python -c "import os, sys, openai; from dotenv import load_dotenv; sys.path.insert(0, '.'); from gpt_parsing_files.diplomatic_offices import process_diplomatic_offices_file_for_congress; load_dotenv(); client = openai.OpenAI(api_key=os.environ.get('OPENAI_API_KEY')); process_diplomatic_offices_file_for_congress('117', client, '.')"
+        $endInt = Get-Date
+        $intTime = ($endInt - $startInt).TotalSeconds
         
         echo "Performance comparison:"
-        echo "Executable time: $exe_time seconds"
-        echo "Interpreter time: $int_time seconds"
+        echo "Executable time: $exeTime seconds"
+        echo "Interpreter time: $intTime seconds"
         
         # Calculate percentage difference
-        $exe_time = [double]$exe_time
-        $int_time = [double]$int_time
-        
-        if ($int_time -gt 0) {
-          $diff_percent = [Math]::Round((($exe_time - $int_time) / $int_time) * 100, 2)
+        if ($intTime -gt 0) {
+          $diff_percent = [Math]::Round((($exeTime - $intTime) / $intTime) * 100, 2)
           echo "Difference: $diff_percent% ($( if($diff_percent -lt 0) { 'executable is faster' } else { 'interpreter is faster' } ))"
         } else {
           echo "Could not calculate percentage difference (division by zero)"
         }
-    
+
     - name: Create distribution package
       if: success()
       run: |
