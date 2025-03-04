@@ -33,7 +33,7 @@ jobs:
     - name: Build executable
       run: |
         # Build using the existing file
-        pyinstaller --onefile --name congressional_extractor --add-data "gpt_parsing_files;gpt_parsing_files" run_exe.py
+        pyinstaller --onefile --name congressional_extractor --add-data "gpt_parsing_files;gpt_parsing_files" --clean --hidden-import openai --hidden-import dotenv --hidden-import gpt_parsing_files.diplomatic_offices run_exe.py
         
         $exeSize = (Get-Item "dist\congressional_extractor.exe").Length / 1MB
         echo "Executable size: $([math]::Round($exeSize, 2)) MB"
