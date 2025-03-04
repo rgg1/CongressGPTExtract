@@ -112,6 +112,35 @@ jobs:
 
         # Clean up sensitive files after testing
         Remove-Item -Path ".env" -Force -ErrorAction SilentlyContinue
+
+    - name: Performance comparison
+      run: |
+        cd dist
+        
+        echo "Running as executable..."
+        .\congressional_extractor.exe --congress 117 --processors diplomatic_offices
+        
+        echo "Running as interpreter..."
+        python ..\run_interpreter_test.py
+        
+        # Compare performance
+        $exe_time = Get-Content -Path "executable_performance.txt"
+        $int_time = Get-Content -Path "interpreter_performance.txt"
+        
+        echo "Performance comparison:"
+        echo "Executable time: $exe_time seconds"
+        echo "Interpreter time: $int_time seconds"
+        
+        # Calculate percentage difference
+        $exe_time = [double]$exe_time
+        $int_time = [double]$int_time
+        
+        if ($int_time -gt 0) {
+          $diff_percent = [Math]::Round((($exe_time - $int_time) / $int_time) * 100, 2)
+          echo "Difference: $diff_percent% ($( if($diff_percent -lt 0) { 'executable is faster' } else { 'interpreter is faster' } ))"
+        } else {
+          echo "Could not calculate percentage difference (division by zero)"
+        }
     
     - name: Create distribution package
       if: success()

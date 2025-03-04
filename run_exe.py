@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
+import time
 import argparse
 from dotenv import load_dotenv
 import openai
@@ -54,6 +55,9 @@ def main():
     print(f"Base directory: {base_directory}")
     print(f"Processing for Congress: {args.congress}")
 
+    # Measure performance
+    start_time = time.time()
+
     # For CI testing, we only run diplomatic_offices
     if args.processors and "diplomatic_offices" in args.processors:
         print(f"Processing diplomatic_offices for Congress {args.congress}")
@@ -61,6 +65,16 @@ def main():
     else:
         print("This build supports the diplomatic_offices processor")
         process_diplomatic_offices_file_for_congress(args.congress, client, base_directory)
+
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+
+    print(f"\nPerformance metrics:")
+    print(f"Execution time (executable): {elapsed_time:.4f} seconds")
+
+    # Create a file to store the performance metrics (for GitHub Actions to read)
+    with open("executable_performance.txt", "w") as f:
+        f.write(f"{elapsed_time:.4f}")
 
 if __name__ == "__main__":
     main()
