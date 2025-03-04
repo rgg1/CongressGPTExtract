@@ -1,13 +1,17 @@
 """
 Adds Thomas IDs to committee data based on a CSV file containing mappings between committee names
-and Thomas IDs.
+and Thomas IDs. Accepts either a specific JSON file or processes all committee files for a
+Congress number.
 """
 import os
 import json
 import csv
 import copy
+import sys
+import glob
 from collections import defaultdict
 import string
+import argparse
 
 def clean_committee_name(name: str) -> str:
     """
@@ -228,65 +232,146 @@ def update_committees_with_thomas_ids(
 
     return updated_data, unmatched, matched
 
-def main():
+def add_thomas_ids_to_file(
+        input_file: str,
+        committee_csv_file: str,
+        output_file: str = None
+    ) -> tuple:
     """
-    Main function to add Thomas IDs to committee data based on a CSV file containing mappings.
-    When run, this script will process all JSON files in the specified directory and output
-    updated JSON files with Thomas IDs.
+    Add Thomas IDs to a specific committee JSON file.
+
+    Args:
+        input_file: Path to the input JSON file.
+        committee_csv_file: Path to the committee mappings CSV file.
+        output_file: Path to the output JSON file (optional).
+
+    Returns: The updated data, unmatched committees, and matched committees.
     """
-    # Get the root directory of the project
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    root_dir = os.path.dirname(script_dir)
-    
-    # Define paths relative to root directory
-    outputs_dir = os.path.join(root_dir, "outputs/117")
-    csv_file = os.path.join(root_dir, "committee_names.csv")
-    
-    # Find all HOUSECOMMITTEES files
-    json_files = [
-        os.path.join(outputs_dir, f)
-        for f in os.listdir(outputs_dir)
-        if "HOUSECOMMITTEES.txt" in f
-    ]
+    try:
+        with open(input_file, "r") as f:
+            committee_data = json.load(f)
 
-    for json_file in json_files:
-        output_file = os.path.join(root_dir, os.path.basename(json_file).replace(".json", "_with_thomas_ids.json"))
-        try:
-            with open(json_file, "r") as f:
-                committee_data = json.load(f)
+        mappings, _ = load_committee_mappings(committee_csv_file)
 
-            # Load mappings with validation info
-            mappings, original_to_cleaned = load_committee_mappings(csv_file)
+        updated_data, unmatched, matched = update_committees_with_thomas_ids(
+            committee_data, mappings
+        )
 
-            # Update data and get unmatched/matched committees
-            updated_data, unmatched, _ = update_committees_with_thomas_ids(
-                committee_data, mappings
-            )
-
-            # Write updated data
+        if output_file:
             with open(output_file, "w") as f:
                 json.dump(updated_data, f, indent=2)
-
             print(f"Successfully updated committee data and saved to {output_file}")
 
-            if unmatched:
-                print(
-                    "\nWarning: The following committees/subcommittees could not be matched:"
-                )
-                for item in unmatched:
-                    print(f"{item}")
+        # Print statistics
+        print("\nThomas ID Mapping Statistics:")
+        print("=" * 80)
+        print(f"Total committees and subcommittees matched: {len(matched)}")
+        print(f"Total committees and subcommittees unmatched: {len(unmatched)}")
 
-                print("\nAvailable mappings for reference:")
-                for orig, cleaned in original_to_cleaned.items():
-                    print(f"Original: {orig}")
-                    print(f"Cleaned variations: {cleaned}\n")
+        if unmatched:
+            print("\nExample unmatched committees/subcommittees:")
+            for item in unmatched[:5]:
+                print(f"• {item}")
+            if len(unmatched) > 5:
+                print(f"... and {len(unmatched) - 5} more")
 
+        if matched:
+            print("\nExample matched committees/subcommittees:")
+            for item in matched[:5]:
+                print(f"• {item}")
+            if len(matched) > 5:
+                print(f"... and {len(matched) - 5} more")
+
+        return updated_data, unmatched, matched
+
+    except FileNotFoundError as e:
+        print(f"Error: Could not find file - {e}")
+        return None, None, None
+    except json.JSONDecodeError as e:
+        print(f"Error: Invalid JSON format - {e}")
+        return None, None, None
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        return None, None, None
+
+def add_thomas_ids_for_congress(congress_number: int, committee_csv_file: str = None) -> None:
+    """
+    Add Thomas IDs to all committee files for the specified Congress number.
+
+    Args:
+        congress_number: Congress number to process
+        committee_csv_file: Path to the committee mappings CSV file (optional)
+    """
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(script_dir)
+
+    if committee_csv_file is None:
+        committee_csv_file = os.path.join(root_dir, "committee_names.csv")
+
+    output_dir = os.path.join(root_dir, "outputs", str(congress_number))
+
+    if not os.path.exists(output_dir):
+        print(f"Error: Output directory for Congress {congress_number} not found: {output_dir}")
+        return
+
+    if not os.path.exists(committee_csv_file):
+        print(f"Error: Committee names file not found: {committee_csv_file}")
+        return
+
+    committee_files = []
+    for file in glob.glob(os.path.join(output_dir, "*COMMITTEES*.json")):
+        committee_files.append(file)
+
+    if not committee_files:
+        print(f"No committee files found for Congress {congress_number} in {output_dir}")
+        return
+
+    print(f"Adding Thomas IDs to {len(committee_files)} committee files for Congress {congress_number}...")
+    for file in committee_files:
+        output_file = file.replace('.json', '_with_thomas_ids.json')
+        print(f"Processing {os.path.basename(file)}...")
+        add_thomas_ids_to_file(file, committee_csv_file, output_file)
+
+    print("Completed adding Thomas IDs to all committee files.")
+
+def main():
+    """
+    Main function that processes either a specific file or all files for a congress number.
+    Can be called in three ways:
+    1. No arguments: Process the default House committees file from 117th Congress (testing)
+    2. With a specific file path: Process that file
+    3. With --congress argument: Process all committee files for that congress
+    """
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(script_dir)
+
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description="Add Thomas IDs to committee JSON files")
+    parser.add_argument("input_file", nargs="?", help="Input JSON file to process (optional)")
+    parser.add_argument("--congress", type=str,
+                        help="Process all committee files for this Congress number")
+    parser.add_argument("--committee-csv", help="Path to committee names CSV file (optional)")
+    args = parser.parse_args()
+
+    committee_csv_file = args.committee_csv or os.path.join(root_dir, "committee_names.csv")
+
+    # Process based on arguments
+    if args.congress:
+        add_thomas_ids_for_congress(args.congress, committee_csv_file)
+    elif args.input_file:
+        output_file = args.input_file.replace('.json', '_with_thomas_ids.json')
+        add_thomas_ids_to_file(args.input_file, committee_csv_file, output_file)
+    else:
+        json_file = os.path.join(root_dir,
+                                 "outputs/117/CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json")
+        output_file = os.path.join(root_dir,
+                                "CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_thomas_ids.json")
+        try:
+            add_thomas_ids_to_file(json_file, committee_csv_file, output_file)
         except FileNotFoundError as e:
-            print(f"Error: Could not find file - {e}")
-        except json.JSONDecodeError as e:
-            print(f"Error: Invalid JSON format - {e}")
-        except Exception as e:
-            print(f"An unexpected error occurred: {e}")
+            print(f"Error: {e}")
+            print("Default file not found. Please specify an input file or use --congress option.")
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()
