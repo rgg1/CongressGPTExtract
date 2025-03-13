@@ -1,4 +1,4 @@
-name: Build and Test Windows Executable
+name: Build and Test Windows and macOS Executables
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
   workflow_dispatch:  # For manual triggering
 
 jobs:
-  build-and-test:
+  build-and-test-windows:
     runs-on: windows-latest
     
     steps:
@@ -201,3 +201,209 @@ jobs:
         path: |
           dist\outputs\
           dist\congressional_directory_files\
+
+build-and-test-macos:
+    runs-on: macos-latest
+    
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pyinstaller
+      
+    - name: Create .env file with API key
+      run: |
+        echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" > .env
+      
+    - name: Build macOS application
+      run: |
+        # Build using the existing file
+        pyinstaller --onefile --windowed --name congressional_extractor --add-data "gpt_parsing_files:gpt_parsing_files" --clean --hidden-import openai --hidden-import dotenv --hidden-import gpt_parsing_files.diplomatic_offices run_exe.py
+        
+        # Check application info
+        ls -la dist
+        du -sh dist/congressional_extractor.app
+        echo "Build successful: macOS application created"
+    
+    - name: Copy test validator
+      run: |
+        # Make sure the file exists
+        if [ -f "test_validator.py" ]; then
+          echo "Using existing test_validator.py"
+          # Copy test validator
+          cp test_validator.py dist/
+        else
+          echo "ERROR: No test_validator.py found in repository. The workflow requires this file."
+          exit 1
+        fi
+    
+    - name: Prepare test environment
+      run: |
+        # Create the necessary directories for test
+        mkdir -p dist/outputs/117
+        mkdir -p dist/congressional_directory_files/congress_117/txt
+        
+        # Create gpt_parsing_files directory structure in dist
+        mkdir -p dist/gpt_parsing_files
+        
+        # Copy all Python files from gpt_parsing_files to dist/gpt_parsing_files
+        cp gpt_parsing_files/*.py dist/gpt_parsing_files/
+        
+        # Create an __init__.py file in the gpt_parsing_files directory
+        touch dist/gpt_parsing_files/__init__.py
+        
+        # Copy .env file to dist folder
+        cp .env dist/
+        
+        # Create test data for diplomatic offices processor
+        echo "Creating sample test file for diplomatic offices processor"
+        cat > \
+          dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt \
+          << EOF
+DIPLOMATIC OFFICES
+AFGHANISTAN
+Jane Smith, Ambassador Extraordinary and Plenipotentiary
+CANADA
+John Doe, Minister Counselor
+EOF
+
+    - name: Test application
+      run: |
+        cd dist
+        
+        # For debugging
+        echo "Current directory structure:"
+        find . -type f | sort
+        
+        echo "Running diplomatic_offices processor for 117th Congress..."
+        ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress 117 --processors diplomatic_offices
+        
+        echo "Checking output files:"
+        find outputs -type f
+        
+        echo "Validating output..."
+        python test_validator.py 117
+        
+        if [ $? -eq 0 ]; then
+          echo "✅ Test passed: Application generated valid output"
+        else
+          echo "❌ Test failed: Application did not generate valid output"
+          exit 1
+        fi
+
+    - name: Create distribution package
+      if: success()
+      run: |
+        # Create package directory
+        mkdir -p package_mac
+        
+        # Copy application
+        cp -R dist/congressional_extractor.app package_mac/
+        
+        # Copy existing README
+        cp README.md package_mac/
+        
+        # Copy .env template
+        cp .env.template package_mac/
+        
+        # Create directory structure
+        mkdir -p package_mac/congressional_directory_files
+        mkdir -p package_mac/outputs
+        
+        # Add a sample directory structure
+        mkdir -p package_mac/congressional_directory_files/congress_sample/txt
+        
+        # Create sample README
+        cat > package_mac/congressional_directory_files/congress_sample/txt/README.txt << EOF
+This is a sample text file showing the directory structure.
+Actual congressional document text files should be placed here.
+File naming format: CDIR-YYYY-MM-DD-SECTION.txt
+Examples: CDIR-2022-10-26-DIPLOMATICOFFICES.txt, CDIR-2022-10-26-JUDICIARY.txt
+EOF
+        
+        # Create a macOS shell script to run the app
+        cat > package_mac/run_extractor.command << EOF
+#!/bin/bash
+cd "\$(dirname "\$0")"
+
+# Check if .env file exists
+if [ ! -f .env ]; then
+  echo "WARNING: No .env file found with OpenAI API key"
+  echo "You can either:"
+  echo "  1. Create a .env file with your OpenAI API key (OPENAI_API_KEY=your_key_here)"
+  echo "  2. Enter your API key in the prompt below"
+  echo ""
+  
+  read -p "Enter your OpenAI API key (leave blank to exit): " api_key
+  if [ -z "\$api_key" ]; then
+    echo "No API key provided. Exiting."
+    exit
+  fi
+fi
+
+read -p "Enter Congress range (e.g., 117 or 114-117): " congress
+if [ -z "\$congress" ]; then
+  echo "No Congress number provided. Exiting."
+  exit
+fi
+
+echo "Available processors:"
+echo "  - diplomatic_offices"
+echo "  - judiciary"
+echo "  - international_organizations"
+echo "  - independent_agencies"
+echo "  - house_senate_committees"
+echo "  - departments"
+echo "  - boards_and_commissions"
+echo ""
+read -p "Enter processors to run (leave blank for all, or space-separated list): " processors
+
+echo ""
+echo "Starting extraction process..."
+echo ""
+
+# Check if we should pass the API key
+if [ ! -z "\$api_key" ]; then
+  if [ -z "\$processors" ]; then
+    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress" --api_key "\$api_key"
+  else
+    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress" --processors \$processors --api_key "\$api_key"
+  fi
+else
+  if [ -z "\$processors" ]; then
+    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress"
+  else
+    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress" --processors \$processors
+  fi
+fi
+
+echo ""
+echo "Process completed."
+echo "Output files can be found in the 'outputs/\$congress' directory."
+echo ""
+
+echo "Press any key to exit."
+read -n 1
+EOF
+        chmod +x package_mac/run_extractor.command
+    
+    - name: Upload package artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: congressional-data-extraction-tool-mac
+        path: package_mac/
+        
+    - name: Upload macOS app only
+      uses: actions/upload-artifact@v4
+      with:
+        name: congressional-extractor-mac
+        path: dist/congressional_extractor.app/
