@@ -26,7 +26,7 @@ class BoardsAndCommissions(BaseModel):
     government_bodies: list[GovernmentBody]
 
 
-def extract_boards_and_commissions_info(text_chunk: str, client: openai.OpenAI) -> str:
+def extract_boards_and_commissions_info(text_chunk: str, client: openai.OpenAI) -> str | None:
     """
     Uses OpenAI's API to extract government bodies (boards and commissions), member names,
     and roles from the given text. Returns the information in JSON format as specified by

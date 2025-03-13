@@ -59,7 +59,7 @@ def get_project_root():
     # If running as script
     return Path(os.path.dirname(os.path.abspath(__file__)))
 
-def load_sample_text(file_path: str, max_lines: int = 100) -> str:
+def load_sample_text(file_path: str | Path, max_lines: int = 100) -> str:
     """
     Load a sample from the original text file to demonstrate input format.
 
@@ -115,7 +115,7 @@ def extract_prompts() -> dict:
 
     return prompts
 
-def sample_json_output(json_file: str) -> str:
+def sample_json_output(json_file: str | Path) -> str:
     """
     Create a sample of the JSON output, approximately 100 lines.
 

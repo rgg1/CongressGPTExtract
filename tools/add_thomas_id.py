@@ -235,7 +235,7 @@ def update_committees_with_thomas_ids(
 def add_thomas_ids_to_file(
         input_file: str,
         committee_csv_file: str,
-        output_file: str = None
+        output_file: str | None = None
     ) -> bool:
     """
     Add Thomas IDs to a specific committee JSON file.
@@ -294,7 +294,7 @@ def add_thomas_ids_to_file(
         print(f"An unexpected error occurred: {e}")
         return False
 
-def add_thomas_ids_for_congress(congress_number: int, committee_csv_file: str = None) -> None:
+def add_thomas_ids_for_congress(congress_number: int, committee_csv_file: str | None = None) -> None:
     """
     Add Thomas IDs to all committee files for the specified Congress number.
 

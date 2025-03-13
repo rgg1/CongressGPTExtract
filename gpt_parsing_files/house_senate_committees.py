@@ -218,7 +218,7 @@ class Committee(BaseModel):
 class CommitteesJsonSchema(BaseModel):
     committees: list[Committee]
 
-def extract_committee_info(text_chunk: str, client: openai.OpenAI) -> str:
+def extract_committee_info(text_chunk: str, client: openai.OpenAI) -> str | None:
     """
     Uses OpenAI's API to extract committees, subcommittees, staff, member names, and roles from the
     given text. Returns the information in JSON format as specified by the implementation.

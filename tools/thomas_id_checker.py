@@ -11,7 +11,7 @@ import argparse
 
 def analyze_committee_coverage(
     json_file: str,
-) -> Tuple[Dict[str, int], List[str], List[Tuple[str, str]]]:
+) -> Tuple[Dict[str, int] | None, List[str], List[Tuple[str, str]]]:
     """
     Analyze the coverage of Thomas IDs in the committee JSON file.
 

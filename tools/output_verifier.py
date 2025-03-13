@@ -9,7 +9,7 @@ import collections
 import glob
 import argparse
 
-def extract_names(data: dict, role: str = "unknown") -> list:
+def extract_names(data: dict | list, role: str = "unknown") -> list:
     """
     Extract people's names from the JSON data based on the JSON structure with role 
     information.
@@ -379,7 +379,7 @@ def extract_names(data: dict, role: str = "unknown") -> list:
 
     return names
 
-def analyze_names_in_json_file(json_file: str) -> dict:
+def analyze_names_in_json_file(json_file: str) -> dict | None:
     """
     Analyze names in a specific JSON file for quality and characteristics.
 
@@ -496,7 +496,7 @@ def analyze_names_in_json_file(json_file: str) -> dict:
 
     return result
 
-def analyze_member_staff_overlap(json_file: str) -> dict:
+def analyze_member_staff_overlap(json_file: str) -> dict | None:
     """
     Analyze if people appear as both members and staff in a House or Senate committee file.
 
@@ -833,7 +833,7 @@ def verify_output_file(json_file: str) -> dict:
 
     return results
 
-def verify_output_files_for_congress(congress_number: int) -> list:
+def verify_output_files_for_congress(congress_number: int | str) -> list:
     """
     Verify all JSON output files for the specified Congress number.
 

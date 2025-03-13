@@ -17,7 +17,7 @@ class DiplomaticRepresentative(BaseModel):
 class DiplomaticRepresentativesSchema(BaseModel):
     diplomatic_representatives: list[DiplomaticRepresentative]
 
-def extract_diplomatic_offices_info(text_chunk: str, client: openai.OpenAI) -> str:
+def extract_diplomatic_offices_info(text_chunk: str, client: openai.OpenAI) -> str | None:
     """
     Uses OpenAI's API to extract diplomatic offices, representatives, and their roles from the given
     text. Returns the information in JSON format as specified by the implementation.

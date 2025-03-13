@@ -335,7 +335,7 @@ def count_existing_bioguide_ids(data: dict) -> int:
 def add_bioguide_ids_to_file(
         input_file: str,
         legislators_file: str,
-        output_file: str = None
+        output_file: str | None = None
     ) -> bool:
     """
     Add BioGuide IDs to a specific JSON file.
@@ -436,7 +436,7 @@ def detect_file_type(file_path: str) -> str:
         print(f"Error accessing file {os.path.basename(file_path)}: {str(e)}")
         return "invalid"
 
-def add_bioguide_ids_for_congress(congress_number: int, legislators_file: str = None) -> None:
+def add_bioguide_ids_for_congress(congress_number: int, legislators_file: str | None = None) -> None:
     """
     Add BioGuide IDs to all committee files for the specified Congress number.
     Args:

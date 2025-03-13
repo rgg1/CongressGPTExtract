@@ -183,7 +183,7 @@ class Agency(BaseModel):
 class AgenciesJsonSchema(BaseModel):
     agencies: list[Agency]
 
-def extract_independent_agencies_info(text_chunk: str, client: openai.OpenAI) -> str:
+def extract_independent_agencies_info(text_chunk: str, client: openai.OpenAI) -> str | None:
     """
     Uses OpenAI's API to extract agencies, member names, and roles from the given text.
     Returns the information in JSON format as specified by the implementation.

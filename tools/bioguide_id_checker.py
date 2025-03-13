@@ -186,7 +186,7 @@ def print_stats(stats: dict) -> None:
     print(f"  Subcommittee Members: {stats['subcommittee_members']['multi_match']}")
     print(f"  Subcommittee Staff: {stats['subcommittee_staff']['multi_match']}")
 
-def check_bioguide_matches(json_file: str) -> dict:
+def check_bioguide_matches(json_file: str) -> dict | None:
     """
     Check BioGuide ID matches for a specific JSON file.
 

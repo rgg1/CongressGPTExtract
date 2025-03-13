@@ -26,7 +26,7 @@ class Organization(BaseModel):
 class OrganizationsJsonSchema(BaseModel):
     organizations: list[Organization]
 
-def extract_international_organizations_info(text_chunk: str, client: openai.OpenAI) -> str:
+def extract_international_organizations_info(text_chunk: str, client: openai.OpenAI) -> str | None:
     """
     Uses OpenAI's API to extract international organizations, departments, and personnel
     information from the given text. Returns the information in JSON format as specified

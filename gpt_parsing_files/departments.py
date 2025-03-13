@@ -30,7 +30,7 @@ class DepartmentsJsonSchema(BaseModel):
     executive_office_of_president: list[ExecutiveOfficeOfPresident]
     departments: list[Department]
 
-def extract_departments_info(text_chunk: str, client: openai.OpenAI) -> str:
+def extract_departments_info(text_chunk: str, client: openai.OpenAI) -> str | None:
     """
     Uses OpenAI's API to extract department/cabinet/office of the president, member names, and roles
     from the given text. Returns the information in JSON format as specified by the implementation.

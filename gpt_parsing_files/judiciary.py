@@ -26,7 +26,7 @@ class Court(BaseModel):
 class CourtsJsonSchema(BaseModel):
     courts: list[Court]
 
-def extract_judiciary_courts_info(text_chunk: str, client: openai.OpenAI) -> str:
+def extract_judiciary_courts_info(text_chunk: str, client: openai.OpenAI) -> str | None:
     """
     Uses OpenAI's API to extract courts, circuits/divisions, and all personnel information from the
     given text.
