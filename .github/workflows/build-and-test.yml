@@ -284,8 +284,16 @@ jobs:
         echo "Current directory structure:"
         find . -type f | sort
         
+        # Copy the files to where the application is looking for them
+        mkdir -p congressional_extractor.app/Contents/MacOS/congressional_directory_files/congress_117/txt/
+        mkdir -p congressional_extractor.app/Contents/MacOS/outputs/117
+        cp -R congressional_directory_files/* congressional_extractor.app/Contents/MacOS/congressional_directory_files/
+        
         echo "Running diplomatic_offices processor for 117th Congress..."
         ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress 117 --processors diplomatic_offices
+        
+        # Copy the output files back to where the validator expects them
+        cp -R congressional_extractor.app/Contents/MacOS/outputs/* outputs/
         
         echo "Checking output files:"
         find outputs -type f
