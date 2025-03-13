@@ -46,13 +46,13 @@ echo "OPENAI_API_KEY=your_key_here" > .env
 
 ```bash
 # Process all sections for the 117th Congress
-python run.py --congress 117
+python  gpt_parsing_files/orchestrator.py --congress 117
 
 # Process only judiciary and departments for multiple congresses
-python run.py --congress 114-117 --processors judiciary departments
+python gpt_parsing_files/orchestrator.py --congress 114-117 --processors judiciary departments
 
 # Use a specific API key
-python run.py --congress 116 --api_key sk-your-key-here
+python gpt_parsing_files/orchestrator.py --congress 116 --api_key sk-your-key-here
 ```
 
 ### Data Enrichment Tools
