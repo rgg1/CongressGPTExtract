@@ -1,0 +1,882 @@
+
+================================================================================
+CONGRESSIONAL DATA EXTRACTION - VERTICAL SLICE
+================================================================================
+All output is being saved to: vertical_slice_output.txt
+
+================================================================================
+VERTICAL SLICE: HOUSE COMMITTEES
+================================================================================
+
+================================================================================
+STEP 1: SAMPLE INPUT TEXT (HOUSE COMMITTEES)
+================================================================================
+
+
+Congressional Directory for the 117th Congress (2021-2022), October 2022. - 
+
+
+Congressional Directory for the 117th Congress (2021-2022), October 2022.
+[Pages 405-461]
+[From the U.S. Government Publishing Office, www.gpo.gov]
+
+
+                     STANDING COMMITTEES OF THE HOUSE
+
+  [Democrats in roman; Republicans in italic; Resident Commissioner and 
+                         Delegates in  boldface]
+
+   [Room numbers beginning with H are in the Capitol, with CHOB in the 
+ Cannon House Office Building, with LHOB in the Longworth House Office 
+  Building, with RHOB in the Rayburn House Office Building, with H1 in 
+  O'Neill House Office Building, and with H2 in the Ford House Office 
+                                Building]
+
+                               Agriculture
+
+           1301 Longworth House Office Building, phone 225-2171
+
+                       https://agriculture.house.gov
+
+                      David Scott, of Georgia, Chair
+
+               Alma S. Adams, of North Carolina, Vice Chair
+
+ Jim Costa, of California.            Glenn Thompson, of Pennsylvania.
+ James P. McGovern, of                Austin Scott, of Georgia.
+        Massachusetts.                Eric A. ``Rick'' Crawford, of 
+ Abigail Davis Spanberger, of            Arkansas.
+        Virginia.                     Scott DesJarlais, of Tennessee.
+ Jahana Hayes, of Connecticut.        Vicky Hartzler, of Missouri.
+ Shontel M. Brown, of Ohio.           Doug LaMalfa, of California.
+ Bobby L. Rush, of Illinois.          Rodney Davis, of Illinois.
+ Chellie Pingree, of Maine.           Rick W. Allen, of Georgia.
+  Gregorio Kilili Camacho Sablan,     David Rouzer, of North Carolina.
+        of Northern Mariana           Trent Kelly, of Mississippi.
+        Islands.                      Don Bacon, of Nebraska.
+ Ann M. Kuster, of New Hampshire.     Dusty Johnson, of South Dakota.
+ Cheri Bustos, of Illinois.           James R. Baird, of Indiana.
+ Sean Patrick Maloney, of New York.   Chris Jacobs, of New York.
+  Stacey E. Plaskett, of Virgin       Troy Balderson, of Ohio.
+        Islands.                      Michael Cloud, of Texas.
+ Tom O'Halleran, of Arizona.          Tracey Mann, of Kansas.
+ Salud O. Carbajal, of California.    Randy Feenstra, of Iowa.
+ Ro Khanna, of California.            Mary E. Miller, of Illinois.
+ Al Lawson, of Florida.               Barry Moore, of Alabama.
+ J. Luis Correa, of California.       Kat Cammack, of Florida.
+ Angie Craig, of Minnesota.           Michelle Fischbach, of Minnesota.
+ Josh Harder, of California.          Mayra Flores, of Texas.
+ Cynthia Axne, of Iowa.               Brad Finstad, of Minnesota.
+ Kim Schrier, of Washington.
+ Jimmy Panetta, of California.
+ Sanford D. Bishop, Jr., of 
+        Georgia.
+ Marcy Kaptur, of Ohio.
+ Sharice Davids, of Kansas.
+ Joseph D. Morelle, of New York.
+
+
+[[Page 406]]
+
+
+
+                              SUBCOMMITTEES
+
+ [The chair and ranking minority member are ex officio (voting) members 
+            of all subcommittees on which they do not serve.]
+
+                 Biotechnology, Horticulture, and Research
+
+               Stacey E. Plaskett, of Virgin Islands, Chair
+
+ Shontel M. Brown, of Ohio.           James R. Baird, of Indiana.
+ Kim Schrier, of Washington.          Austin Scott, of Georgia.
+ Jimmy Panetta, of California.        Eric A. ``Rick'' Crawford, of 
+ Chellie Pingree, of Maine.              Arkansas.
+ Sean Patrick Maloney, of New York.   Rodney Davis, of Illinois.
+ Salud O. Carbajal, of California.    Don Bacon, of Nebraska.
+ Al Lawson, Jr., of Florida.          Chris Jacobs, of New York.
+ Josh Harder, of California.          Troy Balderson, of Ohio.
+ J. Luis Correa, of California.       Michelle Fischbach, of Minnesota.
+ Vacant.                              Mayra Flores, of Texas.
+                                      Brad Finstad, of Minnesota.
+
+                  Commodity Exchanges, Energy, and Credit
+
+                              Vacant, Chair
+
+ Sean Patrick Maloney, of New York.   Michelle Fischbach, of Minnesota.
+  Stacey E. Plaskett, of Virgin       Austin Scott, of Georgia.
+        Islands.                      Doug LaMalfa, of California.
+ Ro Khanna, of California.            Rodney Davis, of Illinois.
+ Cynthia Axne, of Iowa.               Chris Jacobs, of New York.
+ Bobby L. Rush, of Illinois.          Troy Balderson, of Ohio.
+
+[...truncated...]
+
+================================================================================
+STEP 2: GPT PROMPT TEMPLATE FOR HOUSE COMMITTEES
+================================================================================
+Extract committees, subcommittees, member information, and staff information from this text into JSON format.
+                    Be thorough in extracting all relevant information (don't miss any names).
+                    For each committee:
+                    1. Find the committee name
+                    2. IMPORTANT: First process the main committee members and staff (all members and staff listed BEFORE any subcommittee section)
+                    - Create a subcommittee with the same name as the committee
+                    - Include all members and staff listed at the start of the committee section
+
+                    STAFF PROCESSING INSTRUCTIONS:
+                    - Look for major staff sections marked by 'STAFF', 'Majority Staff', 'Minority Staff', or similar headers
+                    - Process ALL staff hierarchically - Director level, Deputy level, Professional Staff, Administrative Staff, etc.
+                    - Pay special attention to indented staff listings which indicate reporting relationships
+                    - Look for staff listings in office-specific sections (e.g., "Clerk's Office:", "Communications:", etc.)
+                    - Process ALL contact information sections as they often contain additional staff listings
+                    - Watch for staff sections that continue across multiple pages
+
+                    For lines with two-column formats:
+                    * Process both the left and right sides of the line
+                    * Look for names separated by multiple spaces or tabs
+                    * Each side typically ends with a state and period
+
+                    For names that are split across lines with state information:
+                    * Check for entries where the state appears indented on the next line
+                    * Combine name and state information even when split by line breaks
+
+                    3. Then process any subcommittee section if it exists
+                    4. For committees with NO subcommittees, use the committee name as the subcommittee name
+                    5. Include everything until the next committee name appears
+                    6. After processing main sections, check for:
+                    - Additional staff listings at the end of committee sections
+                    - Staff listings in footnotes or supplementary sections
+                    - Professional staff members listed under special sections
+
+
+                    For each committee/subcommittee, record:
+                    - Members and their roles (Chair, Vice Chair, etc., use 'Member' if no explicit role listed)
+                    - States for members (use 'N/A' if no state listed)
+                    - Staff (names listed under 'STAFF' sections) and their roles (use 'Staff' if no explicit role listed)
+                    - States for staff (use 'N/A' if no state listed)
+
+                    Important details:
+                    - Include each name in every committee/subcommittee they appear in
+                    - Process BOTH columns when lines are formatted in two columns
+                    - Look for multiple names per line (separated by commas, periods, or large spaces)
+                    - Check if entries continue on next line
+                    - Keep line indentation in mind when grouping information
+                    - Remember that the main committee members and staff come BEFORE any subcommittee listings
+                    - For two-column layouts, process right column with same care as left column
+                    - DON'T FORGET TO INCLUDE THE STAFF, most committees/subcommittees have staff listed under 'STAFF' sections
+
+                    Output the results in the existing JSON structure provided.
+
+================================================================================
+STEP 3: SAMPLE JSON OUTPUT FROM GPT
+================================================================================
+{
+  "committees": [
+    {
+      "committee_name": "Agriculture",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Agriculture",
+          "subcommittee_members": [
+            {
+              "member_name": "David Scott",
+              "member_role": "Chair",
+              "member_state": "Georgia"
+            },
+            {
+              "member_name": "Alma S. Adams",
+              "member_role": "Vice Chair",
+              "member_state": "North Carolina"
+            },
+            {
+              "member_name": "Jim Costa",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "James P. McGovern",
+              "member_role": "Member",
+              "member_state": "Massachusetts"
+            },
+            {
+              "member_name": "Abigail Davis Spanberger",
+              "member_role": "Member",
+              "member_state": "Virginia"
+            },
+            {
+              "member_name": "Jahana Hayes",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "Shontel M. Brown",
+              "member_role": "Member",
+              "member_state": "Ohio"
+            },
+            {
+              "member_name": "Bobby L. Rush",
+              "member_role": "Member",
+              "member_state": "Illinois"
+            },
+            {
+              "member_name": "Chellie Pingree",
+              "member_role": "Member",
+              "member_state": "Maine"
+            },
+            {
+              "member_name": "Gregorio Kilili Camacho Sablan",
+              "member_role": "Member",
+              "member_state": "Northern Mariana Islands"
+            },
+            {
+              "member_name": "Ann M. Kuster",
+              "member_role": "Member",
+              "member_state": "New Hampshire"
+            },
+            {
+              "member_name": "Sean Patrick Maloney",
+              "member_role": "Member",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "Stacey E. Plaskett",
+              "member_role": "Member",
+              "member_state": "Virgin Islands"
+            },
+            {
+              "member_name": "Tom O'Halleran",
+              "member_role": "Member",
+              "member_state": "Arizona"
+            },
+            {
+              "member_name": "Salud O. Carbajal",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Ro Khanna",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Al Lawson",
+              "member_role": "Member",
+              "member_state": "Florida"
+            },
+            {
+              "member_name": "J. Luis Correa",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Angie Craig",
+...
+[...truncated 13465 more lines...]
+
+================================================================================
+STEP 4: OUTPUT VERIFICATION
+================================================================================
+Verifying file: /Users/rodri/Desktop/UROP Home/CongressGPTExtract/outputs/117/CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json
+
+JSON File Verification Results
+================================================================================
+
+File: CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json
+Size: 397.87 KB
+
+Content Type: committees
+Number of Entries: 44
+
+Name Quality Analysis:
+--------------------------------------------------
+Total unique names: 408
+Total name occurrences: 1600
+
+Single-word names: 23
+  • "Vacant"
+  • "Vacant"
+  • "Vacant"
+  • "Vacant"
+  • "Vacant"
+  ... and 18 more
+
+Names with special characters: 35
+  • "Eric A. "Rick" Crawford"
+  • "Eric A. "Rick" Crawford"
+  • "Charles J. "Chuck" Fleischmann"
+  • "Charles J. "Chuck" Fleischmann"
+  • "Charles J. "Chuck" Fleischmann"
+  ... and 30 more
+
+Special characters found:
+  '"': 30 occurrences
+  '`': 5 occurrences
+
+Duplicate names found: 347
+  • "Vacant": 23 occurrences
+  • "Steve Cohen": 12 occurrences
+  • "Salud O. Carbajal": 11 occurrences
+  • "Donald Norcross": 10 occurrences
+  • "Sharice Davids": 9 occurrences
+  ... and 342 more duplicates
+
+Most frequent names:
+  • "Vacant": 23 occurrences
+  • "Steve Cohen": 12 occurrences
+  • "Salud O. Carbajal": 11 occurrences
+  • "Donald Norcross": 10 occurrences
+  • "Sharice Davids": 9 occurrences
+
+Member and Staff Role Analysis:
+--------------------------------------------------
+Total people found: 502
+People with both member and staff roles: 0
+Percentage with dual roles: 0.00%
+
+================================================================================
+STEP 5: ADD AND VERIFY BIOGUIDE IDs
+================================================================================
+Updated data saved to /Users/rodri/Desktop/UROP Home/CongressGPTExtract/CDIR-2022-10-26-HOUSECOMMITTEES.txt_with_bioguide.json
+
+BioGuide ID Matching Statistics:
+================================================================================
+Total people processed: 2569
+Successfully matched: 1546
+Multiple matches found: 10
+Match rate: 60.2%
+
+Multiple Matches Found:
+================================================================================
+• Subcommittee 'Armed Services' of 'Armed Services' member: Mike Rogers -> ['R000572', 'R000575']
+• Committee 'Education and Labor' staff: John Martin -> ['M000186', 'M000185', 'M000189', 'M000187', 'M000188']
+• Committee 'Energy and Commerce' staff: Daniel Miller -> ['M000721', 'M000722']
+• Committee 'Energy and Commerce' staff: James Johnson -> ['J000142', 'J000143', 'J000148', 'J000144', 'J000147', 'J000145', 'J000146']
+• Committee 'Financial Services' staff: William Barry -> ['B000193', 'B000192', 'B000191']
+... and 5 more
+
+Unmatched People Examples:
+================================================================================
+• Committee 'Agriculture' staff: Anne Simmons
+• Committee 'Agriculture' staff: Troy Phillips
+• Committee 'Agriculture' staff: Kellie Adesina
+• Committee 'Agriculture' staff: Matthew MacKenzie
+• Committee 'Agriculture' staff: Prescott Martin III
+... and 1018 more
+
+BioGuide ID Matching Statistics
+==================================================
+
+MEMBERS:
+Committee Members:
+  Total: 0
+  Matched: 0 
+
+Subcommittee Members:
+  Total: 1577
+  Matched: 1536 (97.4%)
+
+All Members Combined:
+  Total: 1577
+  Matched: 1536 (97.4%)
+
+STAFF:
+Committee Staff:
+  Total: 875
+  Matched: 9 (1.0%)
+
+Subcommittee Staff:
+  Total: 94
+  Matched: 1 (1.1%)
+
+All Staff Combined:
+  Total: 969
+  Matched: 10 (1.0%)
+
+MULTIPLE MATCHES:
+Total instances: 10
+  Committee Members: 0
+  Committee Staff: 5
+  Subcommittee Members: 4
+  Subcommittee Staff: 1
+
+================================================================================
+STEP 6: ADD AND VERIFY THOMAS IDs
+================================================================================
+Successfully updated committee data and saved to /Users/rodri/Desktop/UROP Home/CongressGPTExtract/CDIR-2022-10-26-HOUSECOMMITTEES.txt_with_thomas_ids.json
+
+Thomas ID Mapping Statistics:
+================================================================================
+Total committees and subcommittees matched: 127
+Total committees and subcommittees unmatched: 0
+
+Example matched committees/subcommittees:
+• Main Committee: Agriculture -> AG
+• Subcommittee: Agriculture -> AG
+• Subcommittee: Biotechnology, Horticulture, and Research -> HSAG14
+• Subcommittee: Commodity Exchanges, Energy, and Credit -> HSAG22
+• Subcommittee: Conservation and Forestry -> HSAG15
+... and 122 more
+
+Committee Mapping Statistics:
+================================================================================
+Main Committees:
+  Total: 44
+  Mapped: 44
+  Coverage: 100.0%
+
+Subcommittees:
+  Total: 83
+  Mapped: 83
+  Coverage: 100.0%
+
+Overall:
+  Total Entities: 127
+  Total Mapped: 127
+  Overall Coverage: 100.0%
+
+Unmapped Committees Examples:
+================================================================================
+  All committees were successfully mapped!
+
+Unmapped Subcommittees Examples:
+================================================================================
+  All subcommittees were successfully mapped!
+
+================================================================================
+STEP 7: SAMPLE OF ENRICHED OUTPUT
+================================================================================
+{
+  "committees": [
+    {
+      "committee_name": "Agriculture",
+      "subcommittees": [
+        {
+          "subcommittee_name": "Agriculture",
+          "subcommittee_members": [
+            {
+              "member_name": "David Scott",
+              "member_role": "Chair",
+              "member_state": "Georgia"
+            },
+            {
+              "member_name": "Alma S. Adams",
+              "member_role": "Vice Chair",
+              "member_state": "North Carolina"
+            },
+            {
+              "member_name": "Jim Costa",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "James P. McGovern",
+              "member_role": "Member",
+              "member_state": "Massachusetts"
+            },
+            {
+              "member_name": "Abigail Davis Spanberger",
+              "member_role": "Member",
+              "member_state": "Virginia"
+            },
+            {
+              "member_name": "Jahana Hayes",
+              "member_role": "Member",
+              "member_state": "Connecticut"
+            },
+            {
+              "member_name": "Shontel M. Brown",
+              "member_role": "Member",
+              "member_state": "Ohio"
+            },
+            {
+              "member_name": "Bobby L. Rush",
+              "member_role": "Member",
+              "member_state": "Illinois"
+            },
+            {
+              "member_name": "Chellie Pingree",
+              "member_role": "Member",
+              "member_state": "Maine"
+            },
+            {
+              "member_name": "Gregorio Kilili Camacho Sablan",
+              "member_role": "Member",
+              "member_state": "Northern Mariana Islands"
+            },
+            {
+              "member_name": "Ann M. Kuster",
+              "member_role": "Member",
+              "member_state": "New Hampshire"
+            },
+            {
+              "member_name": "Sean Patrick Maloney",
+              "member_role": "Member",
+              "member_state": "New York"
+            },
+            {
+              "member_name": "Stacey E. Plaskett",
+              "member_role": "Member",
+              "member_state": "Virgin Islands"
+            },
+            {
+              "member_name": "Tom O'Halleran",
+              "member_role": "Member",
+              "member_state": "Arizona"
+            },
+            {
+              "member_name": "Salud O. Carbajal",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Ro Khanna",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Al Lawson",
+              "member_role": "Member",
+              "member_state": "Florida"
+            },
+            {
+              "member_name": "J. Luis Correa",
+              "member_role": "Member",
+              "member_state": "California"
+            },
+            {
+              "member_name": "Angie Craig",
+...
+[...truncated 13592 more lines...]
+
+================================================================================
+VERTICAL SLICE: DIPLOMATIC OFFICES
+================================================================================
+
+================================================================================
+STEP 1: SAMPLE INPUT TEXT (DIPLOMATIC OFFICES)
+================================================================================
+
+
+Congressional Directory for the 117th Congress (2021-2022), October 2022. - 
+
+
+Congressional Directory for the 117th Congress (2021-2022), October 2022.
+[Pages 963-980]
+[From the U.S. Government Publishing Office, www.gpo.gov]
+
+
+                 FOREIGN DIPLOMATIC OFFICES IN THE UNITED STATES
+
+
+
+
+
+AFGHANISTAN
+Embassy of Afghanistan
+2341 Wyoming Avenue, NW., Washington, DC 20008
+phone (202) 483-6410, fax 483-6488
+Her Excellency Adela Raz
+Ambassador Extraordinary and Plenipotentiary Consular Offices:
+California, Los Angeles New York, New York
+
+AFRICAN UNION
+Delegation of the African Union Mission
+1640 Wisconsin Avenue, NW., Washington, DC 20007
+phone (202) 342-1100, fax 342-1101
+Mr. Tarek Ben Youssef Counselor (Charge� d�Affaires)
+
+ALBANIA
+Embassy of the Republic of Albania
+2100 S Street, NW., Washington, DC 20008 phone (202) 223-4942, fax 628-7342
+Her Excellency Floreta Faber
+Ambassador Extraordinary and Plenipotentiary Consular Offices:
+Connecticut, Stamford Georgia, Avondale Estates Louisiana, New Orleans Michigan, West Bloomfield 
+New York, New York North Carolina, Pinehurst Ohio, Cleveland
+Texas, Houston
+
+ALGERIA
+Embassy of the Democratic and Popular Republic of Algeria
+2118 Kalorama Road, NW., Washington, DC 20008 phone (202) 265-2800
+His Excellency Madjid Bougerra
+Ambassador Extraordinary and Plenipotentiary Consular Office: New York, New York
+
+ANDORRA
+Embassy of the Principality of Andorra
+2 United Nations Plaza, 27th Floor, New York,
+NY 10017
+phone (212) 750-8064, fax 750-6630
+Her Excellency Elisenda Vives Balman-a
+Ambassador Extraordinary and Plenipotentiary
+
+ANGOLA
+Embassy of the Republic of Angola
+2108 16th Street, NW., Washington, DC 20009 phone (202) 785-1156, fax 822-9049
+His Excellency Joaquim do Esp�irito Santo
+Ambassador Extraordinary and Plenipotentiary Consular Offices:
+New York, New York Texas, Houston
+
+ANTIGUA AND BARBUDA
+Embassy of Antigua and Barbuda
+3234 Prospect Street, NW., Washington, DC 20007 phone (202) 362-5122, fax 362-5225
+His Excellency Ronald Sanders
+Ambassador Extraordinary and Plenipotentiary Consular Offices:
+Florida, Miami
+New York, New York
+
+ARGENTINA
+Embassy of the Argentine Republic
+1600 New Hampshire Avenue, NW., Washington,
+DC 20009
+phone (202) 238-6400, fax 332-3171
+His Excellency Jorge Martin Arturo Argu�ello Ambassador Extraordinary and Plenipotentiary Consular 
+Offices:
+California, Los Angeles Florida, Miami Georgia, Atlanta Illinois, Chicago
+New York, New York Texas, Houston
+
+ARMENIA
+Embassy of the Republic of Armenia
+2225 R Street, NW., Washington, DC 20008 phone (202) 319-1976, fax 319-2982
+Her Excellency Lilit Makunts
+Ambassador Extraordinary and Plenipotentiary Consular Office: California, Glendale
+
+AUSTRALIA
+Embassy of the Commonwealth of Australia
+1601 Massachusetts Avenue, NW., Washington, DC 20036
+phone (202) 797-3000, fax 797-3168
+His Excellency Arthur Sinodinos
+
+
+
+[[Page 964]]
+
+
+
+
+
+          Congressional Directory
+
+
+[...truncated...]
+
+================================================================================
+STEP 2: GPT PROMPT TEMPLATE FOR DIPLOMATIC OFFICES
+================================================================================
+Extract diplomatic office information and representatives from this text into JSON format. Be thorough in extracting all relevant information (don't miss any names). For each diplomatic office:
+
+                    1. Find the diplomatic office name (in ALL CAPS, e.g., "AFGHANISTAN", "ALBANIA", etc.)
+
+                    2. For each diplomatic office section:
+                    - Process everything until the next ALL CAPS office name appears
+                    - Watch for office sections that continue across multiple pages
+
+                    3. For each diplomatic office, extract:
+                    - Primary representatives with official titles like:
+                        * Ambassador Extraordinary and Plenipotentiary
+                        * Chargé d'Affaires
+                        * Minister
+                        * Counselor
+                        * First Secretary
+                    - Look for standard prefixes/honorifics:
+                        * His Excellency
+                        * Her Excellency
+                        * Mr.
+                        * Ms.
+                        * Dr.
+
+                    4. Name processing rules:
+                    - Look for names following honorifics
+                    - Process both given names and surnames
+                    - Handle compound names and special characters (accents, hyphens, etc.)
+                    - Watch for names that may be split across lines
+                    - Include middle names/initials when present
+
+                    5. Role processing rules:
+                    - Capture the complete official title
+                    - If no explicit role is listed, use 'N/A'
+                    - Include acting or temporary roles (e.g., "Chargé d'Affaires ad interim")
+                    - Preserve the full diplomatic rank when provided
+
+                    6. Country processing rules:
+                    - Record the country associated with each representative
+                    - Use the country name in ALL CAPS
+                    - If the role isn't specific to a country, use 'N/A'
+
+                    7. Special attention areas:
+                    - Check for transitional or temporary appointments
+                    - Watch for "Vacant" positions (if name is not provided just don't include the entry)
+                    - Process names in consular office sections if they appear
+                    - Handle cases where multiple representatives are listed (should each be a separate entry)
+                    - Note when positions are filled by the same person (should each be a separate entry)
+
+                    Important details:
+                    - EVERY name that appears in the text must be included in the JSON
+                    - Each diplomatic representative should be linked to their office
+                    - Process ALL names even if they appear in subsidiary sections
+                    - Maintain the connection between names and their diplomatic office
+                    - Don't skip names just because they're in consular office sections
+                    - Handle special cases like "protecting powers" listings at the end
+                    - Check for continuation of titles/roles after page breaks
+                    - Verify complete extraction when content spans page boundaries
+                    - Process non-country diplomatic offices (e.g., African Union, European Union)
+
+                    Output the results in the existing JSON structure provided.
+
+================================================================================
+STEP 3: SAMPLE JSON OUTPUT FROM GPT
+================================================================================
+{
+  "diplomatic_representatives": [
+    {
+      "name": "Adela Raz",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AFGHANISTAN"
+    },
+    {
+      "name": "Tarek Ben Youssef",
+      "role": "Counselor (Charge d'Affaires)",
+      "country": "AFRICAN UNION"
+    },
+    {
+      "name": "Floreta Faber",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ALBANIA"
+    },
+    {
+      "name": "Madjid Bougerra",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ALGERIA"
+    },
+    {
+      "name": "Elisenda Vives Balman-a",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANDORRA"
+    },
+    {
+      "name": "Joaquim do Esp\ufffdirito Santo",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANGOLA"
+    },
+    {
+      "name": "Ronald Sanders",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ANTIGUA AND BARBUDA"
+    },
+    {
+      "name": "Jorge Martin Arturo Argu\ufffdello",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ARGENTINA"
+    },
+    {
+      "name": "Lilit Makunts",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "ARMENIA"
+    },
+    {
+      "name": "Arthur Sinodinos",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AUSTRALIA"
+    },
+    {
+      "name": "Martin Weiss",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AUSTRIA"
+    },
+    {
+      "name": "Khazar Ibrahim",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "AZERBAIJAN"
+    },
+    {
+      "name": "Sidney Stanley Collie",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BAHAMAS"
+    },
+    {
+      "name": "Abdulla Rashed Abdulla Alkhalifa",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BAHRAIN"
+    },
+    {
+      "name": "M. Shahidul Islam",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BANGLADESH"
+    },
+    {
+      "name": "Noel Anderson Lynch",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BARBADOS"
+    },
+    {
+      "name": "Dmitry Basik",
+      "role": "Counselor (Charge d'Affaires)",
+      "country": "BELARUS"
+    },
+    {
+      "name": "Jean-Arthur Re\ufffdgibeau",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BELGIUM"
+    },
+    {
+      "name": "Lynn Raymond Young",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+      "country": "BELIZE"
+    },
+    {
+      "name": "Jean-Claude Fe\ufffdlix do Rego",
+      "role": "Ambassador Extraordinary and Plenipotentiary",
+...
+[...truncated 834 more lines...]
+
+================================================================================
+STEP 4: OUTPUT VERIFICATION
+================================================================================
+Verifying file: /Users/rodri/Desktop/UROP Home/CongressGPTExtract/outputs/117/CDIR-2022-10-26-DIPLOMATICOFFICES.txt_output.json
+
+JSON File Verification Results
+================================================================================
+
+File: CDIR-2022-10-26-DIPLOMATICOFFICES.txt_output.json
+Size: 26.24 KB
+
+Content Type: diplomatic_representatives
+Number of Entries: 186
+
+Name Quality Analysis:
+--------------------------------------------------
+Total unique names: 186
+Total name occurrences: 186
+
+Names with special characters: 12
+  • "Joaquim do Esp�irito Santo"
+  • "Jorge Martin Arturo Argu�ello"
+  • "Jean-Arthur Re�gibeau"
+  • "Jean-Claude Fe�lix do Rego"
+  • "Bojan Vujic�"
+  ... and 7 more
+
+Special characters found:
+  '�': 9 occurrences
+  '?': 1 occurrences
+  'í': 1 occurrences
+  '́': 1 occurrences
+
+Names with many words: 15
+  • "Alejandro Roberto Bilbao La Vieja Ruiz"
+  • "Jose Luis do Livramento Monteiro Alves de Brito"
+  • "Ivonne Leila Juez de a Baki"
+  • "His Excellency Francisco Obadiah Campbell Hooker"
+  • "Her Excellency Moosa Hamdan Moosa Al Tai"
+  ... and 10 more
+
+Most frequent names:
+  • "Adela Raz": 1 occurrences
+  • "Tarek Ben Youssef": 1 occurrences
+  • "Floreta Faber": 1 occurrences
+  • "Madjid Bougerra": 1 occurrences
+  • "Elisenda Vives Balman-a": 1 occurrences
+
+================================================================================
+VERTICAL SLICE COMPLETE
+================================================================================

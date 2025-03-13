@@ -6,22 +6,7 @@ import argparse
 from dotenv import load_dotenv
 import openai
 
-# Import only diplomatic_offices for testing
 from gpt_parsing_files.diplomatic_offices import process_diplomatic_offices_file_for_congress
-
-# Add the current directory to the Python path
-if getattr(sys, "frozen", False):
-    # Running as executable
-    base_path = os.path.dirname(sys.executable)
-else:
-    # Running as script
-    base_path = os.path.dirname(os.path.abspath(__file__))
-
-# Make sure gpt_parsing_files is in the path
-gpt_path = os.path.join(base_path, "gpt_parsing_files")
-if gpt_path not in sys.path:
-    sys.path.insert(0, gpt_path)
-    sys.path.insert(0, base_path)
 
 def get_base_directory():
     """Get the base directory of the project."""
@@ -37,7 +22,6 @@ def main():
     parser.add_argument('--api_key', help='OpenAI API key. If not provided, will check the .env file.')
     args = parser.parse_args()
 
-    # Initialize environment
     load_dotenv()
 
     # Get the API key
@@ -46,10 +30,8 @@ def main():
         print("ERROR: OpenAI API key not found. Please provide it via --api_key or set OPENAI_API_KEY environment variable.")
         sys.exit(1)
 
-    # Initialize client
     client = openai.OpenAI(api_key=api_key)
 
-    # Get base directory
     base_directory = get_base_directory()
 
     print(f"Base directory: {base_directory}")
@@ -64,4 +46,18 @@ def main():
         process_diplomatic_offices_file_for_congress(args.congress, client, base_directory)
 
 if __name__ == "__main__":
+    # Add the current directory to the Python path
+    if getattr(sys, "frozen", False):
+        # Running as executable
+        base_path = os.path.dirname(sys.executable)
+    else:
+        # Running as script
+        base_path = os.path.dirname(os.path.abspath(__file__))
+
+    # Make sure gpt_parsing_files is in the path
+    gpt_path = os.path.join(base_path, "gpt_parsing_files")
+    if gpt_path not in sys.path:
+        sys.path.insert(0, gpt_path)
+        sys.path.insert(0, base_path)
+
     main()

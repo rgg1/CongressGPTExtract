@@ -18,12 +18,10 @@ def validate_output(congress: str) -> bool:
     """
     output_dir = os.path.join("outputs", congress)
 
-    # Check if directory exists
     if not os.path.exists(output_dir):
         print("ERROR: Output directory does not exist")
         return False
 
-    # List files in directory
     files = os.listdir(output_dir)
     json_files = [f for f in files if f.endswith(".json")]
 
