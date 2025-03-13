@@ -130,7 +130,7 @@ def sample_json_output(json_file: str) -> str:
 
         formatted_json = json.dumps(data, indent=2)
         lines = formatted_json.split('\n')
-        
+
         # Truncate
         if len(lines) > 100:
             sample_lines = lines[:100]

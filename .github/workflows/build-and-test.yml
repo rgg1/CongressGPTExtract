@@ -41,13 +41,12 @@ jobs:
     
     - name: Copy test validator
       run: |
-        # Use existing test_validator.py instead of creating a new one
+        # Use existing test_validator.py
         if (Test-Path "test_validator.py") {
           echo "Using existing test_validator.py"
           # Make sure the file is properly encoded for Windows
           (Get-Content -Path "test_validator.py" -Raw) | Set-Content -Path "test_validator.py" -Encoding UTF8
           
-          # Copy test validator
           Copy-Item -Path "test_validator.py" -Destination "dist\" -Force
         } else {
           echo "ERROR: No test_validator.py found in repository. The workflow requires this file."
@@ -76,7 +75,6 @@ jobs:
         if (-not (Test-Path "congressional_directory_files\congress_117\txt\CDIR-*-DIPLOMATICOFFICES.txt")) {
           echo "Creating sample test file for diplomatic offices processor"
           
-          # Create a test file directly with Set-Content
           Set-Content -Path "dist\congressional_directory_files\congress_117\txt\CDIR-2022-10-26-DIPLOMATICOFFICES.txt" -Value "DIPLOMATIC OFFICES`r`n`r`nAFGHANISTAN`r`n`r`nJane Smith, Ambassador Extraordinary and Plenipotentiary`r`n`r`nCANADA`r`n`r`nJohn Doe, Minister Counselor"
         } else {
           # Copy real data for testing
@@ -86,7 +84,6 @@ jobs:
           }
         }
         
-        # Copy test validator
         Copy-Item -Path "test_validator.py" -Destination "dist\" -Force
       
     - name: Test executable

@@ -236,7 +236,7 @@ def add_thomas_ids_to_file(
         input_file: str,
         committee_csv_file: str,
         output_file: str = None
-    ) -> tuple:
+    ) -> bool:
     """
     Add Thomas IDs to a specific committee JSON file.
 
@@ -245,7 +245,7 @@ def add_thomas_ids_to_file(
         committee_csv_file: Path to the committee mappings CSV file.
         output_file: Path to the output JSON file (optional).
 
-    Returns: The updated data, unmatched committees, and matched committees.
+    Returns: True if successful, False otherwise.
     """
     try:
         with open(input_file, "r") as f:
@@ -282,17 +282,17 @@ def add_thomas_ids_to_file(
             if len(matched) > 5:
                 print(f"... and {len(matched) - 5} more")
 
-        return updated_data, unmatched, matched
+        return True
 
     except FileNotFoundError as e:
         print(f"Error: Could not find file - {e}")
-        return None, None, None
+        return False
     except json.JSONDecodeError as e:
         print(f"Error: Invalid JSON format - {e}")
-        return None, None, None
+        return False
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
-        return None, None, None
+        return False
 
 def add_thomas_ids_for_congress(congress_number: int, committee_csv_file: str = None) -> None:
     """

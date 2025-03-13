@@ -5743,11 +5743,11 @@
           "staff_role": "Workforce Policy Counsel",
           "staff_state": "N/A",
           "bioguide_id": [
-            "M000187",
             "M000188",
-            "M000186",
+            "M000189",
+            "M000187",
             "M000185",
-            "M000189"
+            "M000186"
           ]
         },
         {
@@ -6258,11 +6258,11 @@
           "bioguide_id": [
             "J000143",
             "J000147",
-            "J000145",
             "J000142",
+            "J000144",
+            "J000145",
             "J000146",
-            "J000148",
-            "J000144"
+            "J000148"
           ]
         },
         {
@@ -7659,9 +7659,9 @@
           "staff_role": "Press Assistant",
           "staff_state": "N/A",
           "bioguide_id": [
-            "B000192",
             "B000191",
-            "B000193"
+            "B000193",
+            "B000192"
           ]
         },
         {
@@ -8198,8 +8198,8 @@
           "staff_role": "Professional Staff Member",
           "staff_state": "N/A",
           "bioguide_id": [
-            "W000098",
-            "W000099"
+            "W000099",
+            "W000098"
           ]
         },
         {
@@ -8542,9 +8542,9 @@
               "staff_role": "Security Director",
               "staff_state": "N/A",
               "bioguide_id": [
+                "C000442",
                 "C000443",
-                "C000441",
-                "C000442"
+                "C000441"
               ]
             },
             {

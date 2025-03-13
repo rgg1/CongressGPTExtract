@@ -27,7 +27,7 @@ def get_base_directory():
 
 class ProcessingOrchestrator:
     """Orchestrator for running multiple processors on congressional data."""
-    def __init__(self, api_key: str = None):
+    def __init__(self, api_key = None):
         # Initialize OpenAI client
         load_dotenv()
         # self.client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))

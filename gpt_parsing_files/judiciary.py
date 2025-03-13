@@ -185,9 +185,7 @@ def chunk_judiciary_text(text: str, max_chunk_size: int = 15000) -> list[str]:
         """Find the index of the next major court or circuit boundary"""
         for i in range(start_idx + 1, len(lines)):
             next_line = next((line for line in lines[i + 1 :] if line.strip()), "")
-            if is_major_court_header(lines[i], next_line) or is_subcourt_header(
-                lines[i]
-            ):
+            if is_major_court_header(lines[i]) or is_subcourt_header(lines[i]):
                 return i
         return len(lines)
 
