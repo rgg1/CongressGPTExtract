@@ -202,7 +202,7 @@ jobs:
           dist\outputs\
           dist\congressional_directory_files\
 
-build-and-test-macos:
+  build-and-test-macos:
     runs-on: macos-latest
     
     steps:
@@ -266,15 +266,15 @@ build-and-test-macos:
         
         # Create test data for diplomatic offices processor
         echo "Creating sample test file for diplomatic offices processor"
-        cat > \
-          dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt \
-          << EOF
-DIPLOMATIC OFFICES
-AFGHANISTAN
-Jane Smith, Ambassador Extraordinary and Plenipotentiary
-CANADA
-John Doe, Minister Counselor
-EOF
+        echo "DIPLOMATIC OFFICES" > dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "AFGHANISTAN" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "Jane Smith, Ambassador Extraordinary and Plenipotentiary" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "CANADA" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
+        echo "John Doe, Minister Counselor" >> dist/congressional_directory_files/congress_117/txt/CDIR-2022-10-26-DIPLOMATICOFFICES.txt
 
     - name: Test application
       run: |
@@ -323,77 +323,73 @@ EOF
         mkdir -p package_mac/congressional_directory_files/congress_sample/txt
         
         # Create sample README
-        cat > package_mac/congressional_directory_files/congress_sample/txt/README.txt << EOF
-This is a sample text file showing the directory structure.
-Actual congressional document text files should be placed here.
-File naming format: CDIR-YYYY-MM-DD-SECTION.txt
-Examples: CDIR-2022-10-26-DIPLOMATICOFFICES.txt, CDIR-2022-10-26-JUDICIARY.txt
-EOF
+        echo "This is a sample text file showing the directory structure." > package_mac/congressional_directory_files/congress_sample/txt/README.txt
+        echo "Actual congressional document text files should be placed here." >> package_mac/congressional_directory_files/congress_sample/txt/README.txt
+        echo "File naming format: CDIR-YYYY-MM-DD-SECTION.txt" >> package_mac/congressional_directory_files/congress_sample/txt/README.txt
+        echo "Examples: CDIR-2022-10-26-DIPLOMATICOFFICES.txt, CDIR-2022-10-26-JUDICIARY.txt" >> package_mac/congressional_directory_files/congress_sample/txt/README.txt
         
         # Create a macOS shell script to run the app
-        cat > package_mac/run_extractor.command << EOF
-#!/bin/bash
-cd "\$(dirname "\$0")"
-
-# Check if .env file exists
-if [ ! -f .env ]; then
-  echo "WARNING: No .env file found with OpenAI API key"
-  echo "You can either:"
-  echo "  1. Create a .env file with your OpenAI API key (OPENAI_API_KEY=your_key_here)"
-  echo "  2. Enter your API key in the prompt below"
-  echo ""
-  
-  read -p "Enter your OpenAI API key (leave blank to exit): " api_key
-  if [ -z "\$api_key" ]; then
-    echo "No API key provided. Exiting."
-    exit
-  fi
-fi
-
-read -p "Enter Congress range (e.g., 117 or 114-117): " congress
-if [ -z "\$congress" ]; then
-  echo "No Congress number provided. Exiting."
-  exit
-fi
-
-echo "Available processors:"
-echo "  - diplomatic_offices"
-echo "  - judiciary"
-echo "  - international_organizations"
-echo "  - independent_agencies"
-echo "  - house_senate_committees"
-echo "  - departments"
-echo "  - boards_and_commissions"
-echo ""
-read -p "Enter processors to run (leave blank for all, or space-separated list): " processors
-
-echo ""
-echo "Starting extraction process..."
-echo ""
-
-# Check if we should pass the API key
-if [ ! -z "\$api_key" ]; then
-  if [ -z "\$processors" ]; then
-    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress" --api_key "\$api_key"
-  else
-    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress" --processors \$processors --api_key "\$api_key"
-  fi
-else
-  if [ -z "\$processors" ]; then
-    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress"
-  else
-    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "\$congress" --processors \$processors
-  fi
-fi
-
-echo ""
-echo "Process completed."
-echo "Output files can be found in the 'outputs/\$congress' directory."
-echo ""
-
-echo "Press any key to exit."
-read -n 1
-EOF
+        echo '#!/bin/bash' > package_mac/run_extractor.command
+        echo 'cd "$(dirname "$0")"' >> package_mac/run_extractor.command
+        echo '' >> package_mac/run_extractor.command
+        echo '# Check if .env file exists' >> package_mac/run_extractor.command
+        echo 'if [ ! -f .env ]; then' >> package_mac/run_extractor.command
+        echo '  echo "WARNING: No .env file found with OpenAI API key"' >> package_mac/run_extractor.command
+        echo '  echo "You can either:"' >> package_mac/run_extractor.command
+        echo '  echo "  1. Create a .env file with your OpenAI API key (OPENAI_API_KEY=your_key_here)"' >> package_mac/run_extractor.command
+        echo '  echo "  2. Enter your API key in the prompt below"' >> package_mac/run_extractor.command
+        echo '  echo ""' >> package_mac/run_extractor.command
+        echo '  ' >> package_mac/run_extractor.command
+        echo '  read -p "Enter your OpenAI API key (leave blank to exit): " api_key' >> package_mac/run_extractor.command
+        echo '  if [ -z "$api_key" ]; then' >> package_mac/run_extractor.command
+        echo '    echo "No API key provided. Exiting."' >> package_mac/run_extractor.command
+        echo '    exit' >> package_mac/run_extractor.command
+        echo '  fi' >> package_mac/run_extractor.command
+        echo 'fi' >> package_mac/run_extractor.command
+        echo '' >> package_mac/run_extractor.command
+        echo 'read -p "Enter Congress range (e.g., 117 or 114-117): " congress' >> package_mac/run_extractor.command
+        echo 'if [ -z "$congress" ]; then' >> package_mac/run_extractor.command
+        echo '  echo "No Congress number provided. Exiting."' >> package_mac/run_extractor.command
+        echo '  exit' >> package_mac/run_extractor.command
+        echo 'fi' >> package_mac/run_extractor.command
+        echo '' >> package_mac/run_extractor.command
+        echo 'echo "Available processors:"' >> package_mac/run_extractor.command
+        echo 'echo "  - diplomatic_offices"' >> package_mac/run_extractor.command
+        echo 'echo "  - judiciary"' >> package_mac/run_extractor.command
+        echo 'echo "  - international_organizations"' >> package_mac/run_extractor.command
+        echo 'echo "  - independent_agencies"' >> package_mac/run_extractor.command
+        echo 'echo "  - house_senate_committees"' >> package_mac/run_extractor.command
+        echo 'echo "  - departments"' >> package_mac/run_extractor.command
+        echo 'echo "  - boards_and_commissions"' >> package_mac/run_extractor.command
+        echo 'echo ""' >> package_mac/run_extractor.command
+        echo 'read -p "Enter processors to run (leave blank for all, or space-separated list): " processors' >> package_mac/run_extractor.command
+        echo '' >> package_mac/run_extractor.command
+        echo 'echo ""' >> package_mac/run_extractor.command
+        echo 'echo "Starting extraction process..."' >> package_mac/run_extractor.command
+        echo 'echo ""' >> package_mac/run_extractor.command
+        echo '' >> package_mac/run_extractor.command
+        echo '# Check if we should pass the API key' >> package_mac/run_extractor.command
+        echo 'if [ ! -z "$api_key" ]; then' >> package_mac/run_extractor.command
+        echo '  if [ -z "$processors" ]; then' >> package_mac/run_extractor.command
+        echo '    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "$congress" --api_key "$api_key"' >> package_mac/run_extractor.command
+        echo '  else' >> package_mac/run_extractor.command
+        echo '    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "$congress" --processors $processors --api_key "$api_key"' >> package_mac/run_extractor.command
+        echo '  fi' >> package_mac/run_extractor.command
+        echo 'else' >> package_mac/run_extractor.command
+        echo '  if [ -z "$processors" ]; then' >> package_mac/run_extractor.command
+        echo '    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "$congress"' >> package_mac/run_extractor.command
+        echo '  else' >> package_mac/run_extractor.command
+        echo '    ./congressional_extractor.app/Contents/MacOS/congressional_extractor --congress "$congress" --processors $processors' >> package_mac/run_extractor.command
+        echo '  fi' >> package_mac/run_extractor.command
+        echo 'fi' >> package_mac/run_extractor.command
+        echo '' >> package_mac/run_extractor.command
+        echo 'echo ""' >> package_mac/run_extractor.command
+        echo 'echo "Process completed."' >> package_mac/run_extractor.command
+        echo 'echo "Output files can be found in the \"outputs/$congress\" directory."' >> package_mac/run_extractor.command
+        echo 'echo ""' >> package_mac/run_extractor.command
+        echo '' >> package_mac/run_extractor.command
+        echo 'echo "Press any key to exit."' >> package_mac/run_extractor.command
+        echo 'read -n 1' >> package_mac/run_extractor.command
         chmod +x package_mac/run_extractor.command
     
     - name: Upload package artifact
