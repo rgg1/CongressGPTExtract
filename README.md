@@ -1,15 +1,15 @@
 # Congressional Directory Data Extraction Tool
 
-A tool that uses GPT-4o-mini to extract structured data from United States Congressional Directory text files, converting unstructured information about personnel and organizations into searchable JSON datasets.
+A tool that uses GPT-4o-mini to extract structured data from United States Congressional Directory text files, converting unstructured information into searchable JSON files.
 
 ## Overview
 
-The Congressional Directory is a comprehensive publication containing information about the personnel and structures of the U.S. federal government. This tool:
+The Congressional Directory is a comprehensive set of text files containing information about the personnel of the U.S. federal government. This tool:
 
 1. Processes raw `.txt` files extracted from Congressional Directory PDFs
 2. Uses OpenAI's GPT-4o-mini to identify and extract structured information
-3. Outputs standardized JSON data files with details about individuals and organizations
-4. Provides utilities to enhance data with BioGuide IDs and Thomas IDs for research integration
+3. Outputs standardized JSON files with details about individuals and organizations
+4. Provides utilities to enhance data with BioGuide IDs and Thomas IDs
 
 ## Features
 
@@ -53,21 +53,53 @@ python run.py --congress 114-117 --processors judiciary departments
 
 # Use a specific API key
 python run.py --congress 116 --api_key sk-your-key-here
+```
 
-# Add BioGuide IDs to committee data
-python tools/add_bioguide_id.py
+### Data Enrichment Tools
 
-# Add Thomas IDs to committee data
-python tools/add_thomas_id.py
+The `tools/` directory contains utilities for data enrichment, verification, and analysis:
 
-# Verify BioGuide ID matching statistics
-python tools/bioguide_id_checker.py
+```bash
+# Add BioGuide IDs to a specific JSON file or all committee files for a Congress
+python tools/add_bioguide_id.py [input_file]
+python tools/add_bioguide_id.py --congress 117
 
-# Verify Thomas ID matching statistics
-python tools/thomas_id_checker.py
+# Add Thomas IDs to a specific JSON file or all committee files for a Congress
+python tools/add_thomas_id.py [input_file]
+python tools/add_thomas_id.py --congress 117
 
-# Run output verification tool
-python tools/output_verifier.py [congress_number]
+# Verify BioGuide ID matching statistics for a file or Congress
+python tools/bioguide_id_checker.py [json_file]
+python tools/bioguide_id_checker.py --congress 117
+
+# Verify Thomas ID matching statistics for a file or Congress
+python tools/thomas_id_checker.py [json_file]
+python tools/thomas_id_checker.py --congress 117
+
+# Run output verification tool on a file or all files for a Congress
+python tools/output_verifier.py [json_file]
+python tools/output_verifier.py --congress 117
+
+# Enrich data with both BioGuide and Thomas IDs in one step
+python tools/enrich_data.py --congress 117 
+python tools/enrich_data.py --congress 117 --skip-bioguide # Skip BioGuide ID enrichment
+python tools/enrich_data.py --congress 117 --skip-thomas # Skip Thomas ID enrichment
+```
+
+### Vertical Slice Demonstration
+
+The vertical slice script demonstrates the complete data extraction and processing pipeline:
+
+```bash
+# Run the complete pipeline demonstration for both House Committees and Diplomatic Offices
+python vertical_slice.py
+
+# Run for only House Committees or Diplomatic Offices
+python vertical_slice.py --type house
+python vertical_slice.py --type diplomatic
+
+# Specify a custom output file
+python vertical_slice.py --output custom_output.txt
 ```
 
 ### Windows Executable
@@ -78,11 +110,11 @@ For Windows users, the included batch file provides an interactive experience:
 run_extractor.bat
 ```
 
-The executable is built and tested via GitHub Actions to ensure functionality.
+The executable is built and tested via GitHub Actions.
 
 ## Output Structure
 
-The tool produces JSON files in the `outputs/<congress_number>/` directory. Each file follows a standardized schema for its section type:
+The tool produces JSON files in the `outputs/<congress_number>/` directory. Each file follows a standardized schema for its file type.
 
 ## Project Structure
 
@@ -92,6 +124,8 @@ The repository is organized as follows:
 - `congressional_directory_files/`: Source text files organized by congress
 - `outputs/`: JSON output files organized by congress
 - Root: Main entry points and configuration files
+
+Output sample:
 
 ```json
 {
@@ -110,10 +144,5 @@ The repository is organized as follows:
 ## GitHub Actions Integration
 
 This repository includes a CI/CD workflow that:
-- Builds a Windows executable
-- Tests the executable using `test_validator.py`
-- Creates a distributable package
-
-## License
-
-This project is licensed under the MIT License.
+- Builds a Windows executable and a macOS .app file
+- Tests the executable and .app file using `test_validator.py`

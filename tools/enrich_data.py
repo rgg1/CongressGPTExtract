@@ -169,14 +169,14 @@ def main():
     parser.add_argument(
         "--congress", required=True, help="Congress number to process (e.g., '117')"
     )
-    parser.add_argument("--output-dir", help="Directory to save enriched files")
-    parser.add_argument("--legislators", help="Path to legislators CSV file")
-    parser.add_argument("--committees", help="Path to committee names CSV file")
+    parser.add_argument("--output-dir", help="Directory to save enriched files (optional, default: outputs/{congress_num}_enriched)")
+    parser.add_argument("--legislators", help="Path to legislators CSV file (optional, default: legislators.csv)")
+    parser.add_argument("--committees", help="Path to committee names CSV file (optional, default: committee_names.csv)")
     parser.add_argument(
-        "--skip-bioguide", action="store_true", help="Skip adding BioGuide IDs"
+        "--skip-bioguide", action="store_true", help="Skip adding BioGuide IDs (optional, defaults to not skipping)"
     )
     parser.add_argument(
-        "--skip-thomas", action="store_true", help="Skip adding Thomas IDs"
+        "--skip-thomas", action="store_true", help="Skip adding Thomas IDs (optional, defaults to not skipping)"
     )
 
     args = parser.parse_args()

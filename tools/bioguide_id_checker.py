@@ -271,7 +271,7 @@ def main():
         description="Check BioGuide ID matches in committee JSON files"
     )
     parser.add_argument(
-        "json_file", nargs="?", help="JSON file with BioGuide IDs to check (optional)"
+        "json_file", nargs="?", help="JSON file with BioGuide IDs to check (optional, default: CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_bioguide.json)"
     )
     parser.add_argument(
         "--congress",

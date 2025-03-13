@@ -89,7 +89,11 @@ def process_person(person: dict, role: str, name_mappings: dict, stats: dict) ->
     elif "name" in person:
         name = person["name"]
     
-    if not name or name.lower() in ["vacant", "n/a", "[vacant]"]:
+    if (not name or 
+        name.lower() in ["vacant", "n/a", "[vacant]"] or
+        "vacant" in name.lower() or
+        "pending" in name.lower() or
+        "appointment" in name.lower()):
         return
     
     stats["total_people"] += 1
@@ -102,6 +106,9 @@ def process_person(person: dict, role: str, name_mappings: dict, stats: dict) ->
     
     # Try to match with bioguide id
     cleaned_name = clean_name(name)
+    if not cleaned_name or cleaned_name.isspace():
+        stats["unmatched_people"].append(f"{role}: {name} (cleaned to empty string)")
+        return
     if cleaned_name in name_mappings:
         bioguide_ids = name_mappings[cleaned_name]
         if len(bioguide_ids) == 1:
@@ -479,9 +486,9 @@ def main() -> None:
     root_dir = os.path.dirname(script_dir)
     # Set up argument parser
     parser = argparse.ArgumentParser(description="Add BioGuide IDs to committee JSON files")
-    parser.add_argument("input_file", nargs="?", help="Input JSON file to process (optional)")
+    parser.add_argument("input_file", nargs="?", help="Input JSON file to process (optional, default: outputs/117/CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json)")
     parser.add_argument("--congress", type=str, help="Process all committee files for this Congress number")
-    parser.add_argument("--legislators", help="Path to legislators CSV file (optional)")
+    parser.add_argument("--legislators", help="Path to legislators CSV file (optional, default: legislators.csv)")
     args = parser.parse_args()
     legislators_file = args.legislators or os.path.join(root_dir, "legislators.csv")
     # Process based on arguments

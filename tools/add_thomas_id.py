@@ -98,6 +98,9 @@ def clean_committee_name(name: str) -> str:
     # Standardize whitespace
     name = " ".join(name.split())
 
+    if not name or name.isspace():
+        return ""
+
     # Handle specific edge cases
     if "indigenous peoples" in name:
         name = "indigenous peoples"
@@ -187,6 +190,8 @@ def update_committees_with_thomas_ids(
 
     for committee in updated_data["committees"]:
         committee_name = clean_committee_name(committee["committee_name"])
+        if not committee_name:
+            continue
         original_name = committee["committee_name"]
 
         if committee_name in mappings:
@@ -347,10 +352,10 @@ def main():
 
     # Set up argument parser
     parser = argparse.ArgumentParser(description="Add Thomas IDs to committee JSON files")
-    parser.add_argument("input_file", nargs="?", help="Input JSON file to process (optional)")
+    parser.add_argument("input_file", nargs="?", help="Input JSON file to process (optional, default: outputs/117/CDIR-2022-10-26-HOUSECOMMITTEES.txt_output.json)")
     parser.add_argument("--congress", type=str,
                         help="Process all committee files for this Congress number")
-    parser.add_argument("--committee-csv", help="Path to committee names CSV file (optional)")
+    parser.add_argument("--committee-csv", help="Path to committee names CSV file (optional, default: committee_names.csv)")
     args = parser.parse_args()
 
     committee_csv_file = args.committee_csv or os.path.join(root_dir, "committee_names.csv")

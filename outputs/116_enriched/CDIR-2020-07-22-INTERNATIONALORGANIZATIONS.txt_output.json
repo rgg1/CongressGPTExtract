@@ -1,0 +1,5255 @@
+{
+  "organizations": [
+    {
+      "organization_name": "EUROPEAN SPACE AGENCY (E.S.A.)",
+      "organization_personnel": [
+        {
+          "name": "Johann-Dietrich Woerner",
+          "role": "Director General"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "EUROPEAN SPACE AGENCY (E.S.A.)",
+          "department_personnel": [
+            {
+              "name": "Johann-Dietrich Woerner",
+              "role": "Director General"
+            }
+          ]
+        },
+        {
+          "department_name": "European Space Operations Center (ESOC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "European Space Research and Technology Center (ESTEC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "European Space Research Institute (ESRIN)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "European Space Astronomy Centre (ESAC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "European Astronaut Centre (EAC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "European Centre for Space Applications and Telecommunications (ECSAT)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "European Space Security and Education Centre (ESEC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "European Space Agency Washington Office (EWO)",
+          "department_personnel": [
+            {
+              "name": "Micheline Tabache",
+              "role": "Head of Office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTER-AMERICAN DEFENSE BOARD",
+      "organization_personnel": [
+        {
+          "name": "General de Division Luciano Jose Penna",
+          "role": "Chairman"
+        },
+        {
+          "name": "General de Brigada Carlos Humberto Castaneda Nassi",
+          "role": "Vice Chairman"
+        },
+        {
+          "name": "Coronel Julio Cesar Belaguarda Nagy de Oliveira",
+          "role": "Chairman's Chefe de Cabinet"
+        },
+        {
+          "name": "General de Brigada Juan Jose Gomez Ruiz",
+          "role": "Director General"
+        },
+        {
+          "name": "Coronel Darren Dodd Lynn",
+          "role": "Deputy Secretary for Administration"
+        },
+        {
+          "name": "Capitan de Navio Valinei Ciola",
+          "role": "Director Conferences"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "CHIEFS OF DELEGATION",
+          "department_personnel": [
+            {
+              "name": "Guilliam Ingrid Joseph",
+              "role": "Representative from Antigua and Barbuda"
+            },
+            {
+              "name": "Enrique Antonio Balbi",
+              "role": "Representative from Argentina"
+            },
+            {
+              "name": "Noel Anderson Lynch",
+              "role": "Representative from Barbados"
+            },
+            {
+              "name": "Francisco Daniel Gutierez",
+              "role": "Representative from Belize"
+            },
+            {
+              "name": "Ramiro Hugo Mojica Aparicio",
+              "role": "Representative from Bolivia"
+            },
+            {
+              "name": "Nelson Nunes da Rosa",
+              "role": "Representative from Brazil"
+            },
+            {
+              "name": "Paul Ormsby",
+              "role": "Representative from Canada"
+            },
+            {
+              "name": "Luis Claudio Weber Orellana",
+              "role": "Representative from Chile"
+            },
+            {
+              "name": "Ricardo Roque",
+              "role": "Representative from Colombia"
+            },
+            {
+              "name": "Pedro Rene Valenzuela Quiroz",
+              "role": "Representative from Dominican Republic"
+            },
+            {
+              "name": "Diego Hernandez Guijarro",
+              "role": "Representative from Ecuador"
+            },
+            {
+              "name": "Walter Jacobo Lovato Villatoro",
+              "role": "Representative from El Salvador"
+            },
+            {
+              "name": "Michael Francois",
+              "role": "Representative from Grenada"
+            },
+            {
+              "name": "Vacant",
+              "role": "Representative from Guatemala"
+            },
+            {
+              "name": "Trevor E. Bowman",
+              "role": "Representative from Guyana"
+            },
+            {
+              "name": "Leon Charles",
+              "role": "Representative from Haiti"
+            },
+            {
+              "name": "Jose Munguia Diaz",
+              "role": "Representative from Honduras"
+            },
+            {
+              "name": "Audrey P. Marks",
+              "role": "Representative from Jamaica"
+            },
+            {
+              "name": "Guillermo Almazan Bertotto",
+              "role": "Representative from Mexico"
+            },
+            {
+              "name": "Mario Alberto Miranda Jaime",
+              "role": "Representative from Nicaragua"
+            },
+            {
+              "name": "Maximo Emilio Ruiz Pena",
+              "role": "Representative from Panama"
+            },
+            {
+              "name": "Mario Osvaldo Centurion Marecos",
+              "role": "Representative from Paraguay"
+            },
+            {
+              "name": "Luis Alberto Gonzalez Buttgenbach",
+              "role": "Representative from Peru"
+            },
+            {
+              "name": "Everson Hull",
+              "role": "Representative from Saint Kitts and Nevis"
+            },
+            {
+              "name": "Vacant",
+              "role": "Representative from Suriname"
+            },
+            {
+              "name": "Roger Glen Carter",
+              "role": "Representative from Trinidad and Tobago"
+            },
+            {
+              "name": "Richard Heitkamp",
+              "role": "Representative from United States"
+            },
+            {
+              "name": "Gerardo Daniel Fregossi Alvarez",
+              "role": "Representative from Uruguay"
+            },
+            {
+              "name": "Vacant",
+              "role": "Representative from Venezuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTER-AMERICAN DEFENSE COLLEGE",
+      "organization_personnel": [
+        {
+          "name": "Major General James E. Taylor",
+          "role": "Director"
+        },
+        {
+          "name": "Contra-Almirante Silvio Luis dos Santos",
+          "role": "Vice Director"
+        },
+        {
+          "name": "General de Brigada Ruben Dario Diaz Esparza",
+          "role": "Chief of Studies"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "INTER-AMERICAN DEVELOPMENT BANK",
+      "organization_personnel": [
+        {
+          "name": "Luis Alberto Moreno",
+          "role": "President"
+        },
+        {
+          "name": "Luis Alberto Giorgio",
+          "role": "Chief of Staff, Office of the President"
+        },
+        {
+          "name": "John Scott",
+          "role": "Executive Vice President (a.i.)",
+          "bioguide_id": [
+            "S000176",
+            "S000177",
+            "S000175",
+            "S000180",
+            "S000178"
+          ]
+        },
+        {
+          "name": "Jose Jorge Seligmann-Silva",
+          "role": "Chief Advisor of the Office of the Executive Vice President"
+        },
+        {
+          "name": "Alberto Rivera-Fournier",
+          "role": "Ethics Officer"
+        },
+        {
+          "name": "Eric Parrado Herrera",
+          "role": "Chief Economist and General Manager of the Research Department"
+        },
+        {
+          "name": "Jorge Da Silva",
+          "role": "Executive Auditor"
+        },
+        {
+          "name": "Martin Bes",
+          "role": "Secretary of the Bank"
+        },
+        {
+          "name": "Bernardo Guillamon",
+          "role": "Manager, Office of Outreach and Partnerships"
+        },
+        {
+          "name": "Federico Galizia",
+          "role": "Chief Risk Officer"
+        },
+        {
+          "name": "Irene Arias Hofman",
+          "role": "Chief Executive Officer, IDB Lab"
+        },
+        {
+          "name": "Luis Miguel Castilla Rubio",
+          "role": "Manager, Office of Strategic Planning and Development Effectiveness"
+        },
+        {
+          "name": "Laura Profeta",
+          "role": "Chief, Office of Institutional Integrity"
+        },
+        {
+          "name": "Alexandre Meira da Rosa",
+          "role": "Vice-President for Countries"
+        },
+        {
+          "name": "Rafael de la Cruz",
+          "role": "Manager, Andean Country Group"
+        },
+        {
+          "name": "Therese Turner-Jones",
+          "role": "General Manager, Country Department Caribbean Group"
+        },
+        {
+          "name": "Veronica Zavala",
+          "role": "Manager, Central America, Haiti, Mexico, Panama, and Dominican Republic and Country Representative in Panama"
+        },
+        {
+          "name": "Jose Luis Lupo",
+          "role": "Manager, Southern Cone Country Department"
+        },
+        {
+          "name": "Ana Maria Rodriguez-Ortiz",
+          "role": "Vice President for Sectors and Knowledge"
+        },
+        {
+          "name": "Juan Pablo Bonilla",
+          "role": "Manager of Climate Change and Sustainable Development Sector"
+        },
+        {
+          "name": "Federico Basanes",
+          "role": "Manager of Knowledge, Innovation and Communication Sector"
+        },
+        {
+          "name": "Jose Agustin Aguerre",
+          "role": "Manager of Infrastructure and Energy Sector"
+        },
+        {
+          "name": "Moises J. Schwartz",
+          "role": "Manager of Institutions for Development"
+        },
+        {
+          "name": "Fabrizio Opertti",
+          "role": "Manager of Integration and Trade Sector"
+        },
+        {
+          "name": "Marcelo Cabrol",
+          "role": "Manager of Social Sector"
+        },
+        {
+          "name": "Claudia Bock-Valotta",
+          "role": "Vice President for Finance and Administration"
+        },
+        {
+          "name": "Diego Murguiondo",
+          "role": "General Manager, Budget and Administrative Services Department"
+        },
+        {
+          "name": "Gustavo De Rosa",
+          "role": "General Manager, Finance Department and Chief Financial Officer"
+        },
+        {
+          "name": "Carolina Serra",
+          "role": "General Manager, Human Resources Department"
+        },
+        {
+          "name": "Nuria Simo Vila",
+          "role": "Chief Information Officer and General Manager, Department of Information Technology"
+        },
+        {
+          "name": "Diego Buchara",
+          "role": "General Counsel and General Manager, Legal Department (a.i.)"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "IDB INVEST",
+          "department_personnel": [
+            {
+              "name": "James P. Scriven",
+              "role": "Chief Executive Officer"
+            },
+            {
+              "name": "Gema Sacristan",
+              "role": "Chief Investment Officer"
+            },
+            {
+              "name": "Orlando Ferreira",
+              "role": "Chief Strategy Officer and Chief Finance and Administration Officer (a.i.)"
+            },
+            {
+              "name": "H. Rosemary Jeronimides",
+              "role": "General Counsel"
+            },
+            {
+              "name": "Rachel Robboy",
+              "role": "Chief Risk Officer"
+            }
+          ]
+        },
+        {
+          "department_name": "MULTILATERAL INVESTMENT FUND",
+          "department_personnel": [
+            {
+              "name": "Brigit Helms",
+              "role": "General Manager"
+            }
+          ]
+        },
+        {
+          "department_name": "BOARD OF EXECUTIVE DIRECTORS",
+          "department_personnel": [
+            {
+              "name": "Guillermo Alberto Francos",
+              "role": "Representative from Argentina and Haiti"
+            },
+            {
+              "name": "Jorge Eduardo Srur",
+              "role": "Alternate"
+            },
+            {
+              "name": "Alicia Montalvo Santamaria",
+              "role": "Representative from Austria, Denmark, Finland, France, Norway, Spain, and Sweden"
+            },
+            {
+              "name": "Patrick Jean Herve",
+              "role": "Alternate"
+            },
+            {
+              "name": "Selwin Charles Hart",
+              "role": "Representative from Bahamas, Barbados, Guyana, Jamaica, and Trinidad and Tobago"
+            },
+            {
+              "name": "Vacant",
+              "role": "Alternate"
+            },
+            {
+              "name": "Christine Elisabeth Bogemann-Hagedorn",
+              "role": "Representative from Belgium, China, Germany, Israel, Italy, The Netherlands, and Switzerland"
+            },
+            {
+              "name": "Adolfo Di Carluccio",
+              "role": "Alternate"
+            },
+            {
+              "name": "Francisco Jose Mayorga Balladares",
+              "role": "Representative from Belize, Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua"
+            },
+            {
+              "name": "Edna Gabriela Camacho",
+              "role": "Alternate"
+            },
+            {
+              "name": "German Hugo Rojas Irigoyen",
+              "role": "Representative from Bolivia, Paraguay, and Uruguay"
+            },
+            {
+              "name": "Marcelo Bisogno",
+              "role": "Alternate"
+            },
+            {
+              "name": "Jose Gullherme Amelda dos Reis",
+              "role": "Representative from Brazil and Suriname"
+            },
+            {
+              "name": "Sergio Savino Portugal",
+              "role": "Alternate"
+            },
+            {
+              "name": "Donald John Boblash",
+              "role": "Representative from Canada"
+            },
+            {
+              "name": "Eric Daniel Madueno",
+              "role": "Alternate"
+            },
+            {
+              "name": "Alex Foxley",
+              "role": "Representative from Chile and Ecuador"
+            },
+            {
+              "name": "Bernardo Acosta",
+              "role": "Alternate"
+            },
+            {
+              "name": "Gerardo M. Corrochano",
+              "role": "Representative from Colombia and Peru"
+            },
+            {
+              "name": "Sergio Diaz Granados",
+              "role": "Alternate"
+            },
+            {
+              "name": "Toshiyuki Yasui",
+              "role": "Representative from Croatia, Japan, Korea, Portugal, Slovenia, and United Kingdom"
+            },
+            {
+              "name": "Malcolm Geere",
+              "role": "Alternate"
+            },
+            {
+              "name": "Juan Bosco Marti Ascencio",
+              "role": "Representative from Dominican Republic and Mexico"
+            },
+            {
+              "name": "Carlos Augusto Pared Vidal",
+              "role": "Alternate"
+            },
+            {
+              "name": "Gina Montiel",
+              "role": "Representative from Panama and Venezuela"
+            },
+            {
+              "name": "Fernando Ernesto de Leon de Alba",
+              "role": "Alternate"
+            },
+            {
+              "name": "Elliot Pedrosa",
+              "role": "Representative from United States of America"
+            },
+            {
+              "name": "Vacant",
+              "role": "Alternate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTER-AMERICAN TROPICAL TUNA COMMISSION",
+      "organization_personnel": [
+        {
+          "name": "Guillermo A. Compean",
+          "role": "Director"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "Belize",
+          "department_personnel": [
+            {
+              "name": "Valerie Lanza",
+              "role": "Member"
+            },
+            {
+              "name": "Delice Pinkard",
+              "role": "Member"
+            },
+            {
+              "name": "Robert Robinson",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Canada",
+          "department_personnel": [
+            {
+              "name": "Estelle Couture",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "China",
+          "department_personnel": [
+            {
+              "name": "Liming Liu",
+              "role": "Member"
+            },
+            {
+              "name": "Zhao Liling",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Colombia",
+          "department_personnel": [
+            {
+              "name": "Elsa Ardila",
+              "role": "Member"
+            },
+            {
+              "name": "Luis Humberto Guzman Vergara",
+              "role": "Member"
+            },
+            {
+              "name": "Andrea Ramirez Martinez",
+              "role": "Member"
+            },
+            {
+              "name": "Carolina Diaz Acosta",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Costa Rica",
+          "department_personnel": [
+            {
+              "name": "Bernardo Antonio Jaen Hernandez",
+              "role": "Member"
+            },
+            {
+              "name": "Daniel Carrasco",
+              "role": "Member"
+            },
+            {
+              "name": "Marco Antonio Quesada Alpizar",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Ecuador",
+          "department_personnel": [
+            {
+              "name": "Ricardo Perdomo",
+              "role": "Member"
+            },
+            {
+              "name": "Nicolas Brando",
+              "role": "Member"
+            },
+            {
+              "name": "Roberto Viteri",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "El Salvador",
+          "department_personnel": [
+            {
+              "name": "Juan Osorio",
+              "role": "Member"
+            },
+            {
+              "name": "Rigoberto Soto",
+              "role": "Member"
+            },
+            {
+              "name": "Norma Lobo",
+              "role": "Member"
+            },
+            {
+              "name": "Numa Rafael Hernandez Rodriguez",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "European Union",
+          "department_personnel": [
+            {
+              "name": "Angela Martini",
+              "role": "Member"
+            },
+            {
+              "name": "Luis Molledo",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "France",
+          "department_personnel": [
+            {
+              "name": "Marie-Sophie Dufau-Richet",
+              "role": "Member"
+            },
+            {
+              "name": "Christiane Laurent-Monpetit",
+              "role": "Member"
+            },
+            {
+              "name": "Anne-France Mattlet",
+              "role": "Member"
+            },
+            {
+              "name": "Michel Sallenave",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Guatemala",
+          "department_personnel": [
+            {
+              "name": "Byron Omar Acevedo Cordon",
+              "role": "Member"
+            },
+            {
+              "name": "Daniel Harold Vasquez Lainez",
+              "role": "Member"
+            },
+            {
+              "name": "Nancy Yezenia Sandoval Reyes",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Japan",
+          "department_personnel": [
+            {
+              "name": "Tatsuo Hirayama",
+              "role": "Member"
+            },
+            {
+              "name": "Takumi Fukuda",
+              "role": "Member"
+            },
+            {
+              "name": "Jun Yamashita",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Kiribati",
+          "department_personnel": [
+            {
+              "name": "Naomi Biribo",
+              "role": "Member"
+            },
+            {
+              "name": "Aketa Tanga",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Korea",
+          "department_personnel": [
+            {
+              "name": "Anna Jo",
+              "role": "Member"
+            },
+            {
+              "name": "Dongyeob Yang",
+              "role": "Member"
+            },
+            {
+              "name": "Hyuntae Kim",
+              "role": "Member"
+            },
+            {
+              "name": "Seung Lyong Kim",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Mexico",
+          "department_personnel": [
+            {
+              "name": "Raul de Jesus Elenes Angulo",
+              "role": "Member"
+            },
+            {
+              "name": "Pablo Roberto Arenas Fuentes",
+              "role": "Member"
+            },
+            {
+              "name": "Bernardino Jesus Munoz Resendez",
+              "role": "Member"
+            },
+            {
+              "name": "Luis Fleischer",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Nicaragua",
+          "department_personnel": [
+            {
+              "name": "Julio Cesar Guevara",
+              "role": "Member"
+            },
+            {
+              "name": "Edward Jackson",
+              "role": "Member",
+              "bioguide_id": "J000010"
+            },
+            {
+              "name": "Armando Segura Espinoza",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Panama",
+          "department_personnel": [
+            {
+              "name": "Raul Delgado",
+              "role": "Member"
+            },
+            {
+              "name": "Arnulfo Franco",
+              "role": "Member"
+            },
+            {
+              "name": "Lucas Pacheco",
+              "role": "Member"
+            },
+            {
+              "name": "Zuleika Pinzon",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Peru",
+          "department_personnel": [
+            {
+              "name": "Gladys Cardenas",
+              "role": "Member"
+            },
+            {
+              "name": "Rossy Yesenia Chumbe Cedeno",
+              "role": "Member"
+            },
+            {
+              "name": "Andres Martin Garrido Sanchez",
+              "role": "Member"
+            },
+            {
+              "name": "Omar Ricardo Rios Bravo de Rueda",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "Chinese Taipei",
+          "department_personnel": [
+            {
+              "name": "Hong-Yen Huang",
+              "role": "Member"
+            },
+            {
+              "name": "Chi-Chao Liu",
+              "role": "Member"
+            },
+            {
+              "name": "Ted Tien-Hsiang Tsai",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "USA",
+          "department_personnel": [
+            {
+              "name": "William Fox",
+              "role": "U.S. Commissioner-IATTC"
+            },
+            {
+              "name": "Drew Lawler",
+              "role": "NOAA / National Marine Fisheries Service"
+            },
+            {
+              "name": "Barry Thom",
+              "role": "NOAA / National Marine Fisheries Service"
+            },
+            {
+              "name": "Michael Thompson",
+              "role": "U.S. Commissioner-IATTC"
+            }
+          ]
+        },
+        {
+          "department_name": "Vanuatu",
+          "department_personnel": [
+            {
+              "name": "Christophe Emelee",
+              "role": "Member"
+            },
+            {
+              "name": "Roy M. Joy",
+              "role": "Member"
+            },
+            {
+              "name": "Dimitri Malvirlani",
+              "role": "Vanuatu IATTC Commissioner"
+            },
+            {
+              "name": "Laurent Parente",
+              "role": "Vanuatu IATTC Commissioner"
+            }
+          ]
+        },
+        {
+          "department_name": "Venezuela",
+          "department_personnel": [
+            {
+              "name": "Alvin Delgado Martinez",
+              "role": "Member"
+            },
+            {
+              "name": "Dante Rivas",
+              "role": "Member"
+            },
+            {
+              "name": "Miguel Carpio",
+              "role": "Member"
+            },
+            {
+              "name": "Rodger Gutierrez",
+              "role": "Member"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL BOUNDARY AND WATER COMMISSION",
+      "organization_personnel": [
+        {
+          "name": "Jayne Harkins",
+          "role": "Commissioner"
+        },
+        {
+          "name": "Sally Spencer",
+          "role": "Foreign Affairs Secretary"
+        },
+        {
+          "name": "Jose Nunez",
+          "role": "Principal Engineer"
+        },
+        {
+          "name": "Fred Graf",
+          "role": "Human Resources Director"
+        },
+        {
+          "name": "Matt Myers",
+          "role": "General Counsel / Legal Advisor"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNITED STATES SECTION",
+          "department_personnel": []
+        },
+        {
+          "department_name": "MEXICAN SECTION",
+          "department_personnel": [
+            {
+              "name": "Roberto F. Salmon Castello",
+              "role": "Commissioner"
+            },
+            {
+              "name": "Jose de Jesus Luevano Grano",
+              "role": "Foreign Affairs Secretary"
+            },
+            {
+              "name": "Gilberto Elizalde Hernandez",
+              "role": "Principal Engineer"
+            },
+            {
+              "name": "L. Antonio Rascon Mendoza",
+              "role": "Principal Engineer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL BOUNDARY COMMISSION",
+      "organization_personnel": [
+        {
+          "name": "Kyle K. Hipsley",
+          "role": "Commissioner"
+        },
+        {
+          "name": "John T. Moore, Jr.",
+          "role": "Deputy Commissioner"
+        },
+        {
+          "name": "Tracy Morris",
+          "role": "Administrative Officer"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNITED STATES SECTION",
+          "department_personnel": []
+        },
+        {
+          "department_name": "CANADIAN SECTION",
+          "department_personnel": [
+            {
+              "name": "Jean Gagnon",
+              "role": "Commissioner"
+            },
+            {
+              "name": "Vacant",
+              "role": "Deputy Commissioner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL COTTON ADVISORY COMMITTEE",
+      "organization_personnel": [
+        {
+          "name": "Kai Hughes",
+          "role": "Executive Director"
+        },
+        {
+          "name": "Lihan Wei",
+          "role": "Statistician"
+        },
+        {
+          "name": "Andrei Guitchounts",
+          "role": "Director of Trade Analysis"
+        },
+        {
+          "name": "Lorena Ruiz",
+          "role": "Economist"
+        },
+        {
+          "name": "Keshava Raj Kranthi",
+          "role": "Head of Technical Information Section"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "MEMBER COUNTRIES",
+          "department_personnel": [
+            {
+              "name": "Argentina",
+              "role": "Member"
+            },
+            {
+              "name": "Australia",
+              "role": "Member"
+            },
+            {
+              "name": "Bangladesh",
+              "role": "Member"
+            },
+            {
+              "name": "Brazil",
+              "role": "Member"
+            },
+            {
+              "name": "Burkina Faso",
+              "role": "Member"
+            },
+            {
+              "name": "Cameroon",
+              "role": "Member"
+            },
+            {
+              "name": "Chad",
+              "role": "Member"
+            },
+            {
+              "name": "Cote d'Ivoire",
+              "role": "Member"
+            },
+            {
+              "name": "Egypt",
+              "role": "Member"
+            },
+            {
+              "name": "European Union",
+              "role": "Member"
+            },
+            {
+              "name": "India",
+              "role": "Member"
+            },
+            {
+              "name": "Kazakhstan",
+              "role": "Member"
+            },
+            {
+              "name": "Kenya",
+              "role": "Member"
+            },
+            {
+              "name": "Korea, Republic of",
+              "role": "Member"
+            },
+            {
+              "name": "Mali",
+              "role": "Member"
+            },
+            {
+              "name": "Mozambique",
+              "role": "Member"
+            },
+            {
+              "name": "Nigeria",
+              "role": "Member"
+            },
+            {
+              "name": "Pakistan",
+              "role": "Member"
+            },
+            {
+              "name": "Russia",
+              "role": "Member"
+            },
+            {
+              "name": "South Africa",
+              "role": "Member"
+            },
+            {
+              "name": "Sudan",
+              "role": "Member"
+            },
+            {
+              "name": "Switzerland",
+              "role": "Member"
+            },
+            {
+              "name": "Taiwan",
+              "role": "Member"
+            },
+            {
+              "name": "Togo",
+              "role": "Member"
+            },
+            {
+              "name": "Turkey",
+              "role": "Member"
+            },
+            {
+              "name": "Uganda",
+              "role": "Member"
+            },
+            {
+              "name": "United States",
+              "role": "Member"
+            },
+            {
+              "name": "Uzbekistan",
+              "role": "Member"
+            },
+            {
+              "name": "Zimbabwe",
+              "role": "Member"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL JOINT COMMISSION",
+      "organization_personnel": [
+        {
+          "name": "Jane Corwin",
+          "role": "Chair"
+        },
+        {
+          "name": "Robert Sisson",
+          "role": "Commissioner"
+        },
+        {
+          "name": "Lance Yohe",
+          "role": "Commissioner"
+        },
+        {
+          "name": "Charles A. Lawson",
+          "role": "Secretary"
+        },
+        {
+          "name": "Susan Daniel",
+          "role": "Legal Advisor"
+        },
+        {
+          "name": "Mark Colosimo",
+          "role": "Engineering Advisor"
+        },
+        {
+          "name": "Mark Gabriel",
+          "role": "Engineering Advisor"
+        },
+        {
+          "name": "Frank Bevacqua",
+          "role": "Public Information Officer"
+        },
+        {
+          "name": "Victor Serveiss",
+          "role": "Ecologist"
+        },
+        {
+          "name": "Michael Laitta",
+          "role": "GIS Coordinator"
+        },
+        {
+          "name": "Caron Demars",
+          "role": "Senior Advisor"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNITED STATES SECTION",
+          "department_personnel": []
+        },
+        {
+          "department_name": "CANADIAN SECTION",
+          "department_personnel": [
+            {
+              "name": "Pierre Beland",
+              "role": "Chairman"
+            },
+            {
+              "name": "Henry Lickers",
+              "role": "Commissioner"
+            },
+            {
+              "name": "Merrell-Ann Phare",
+              "role": "Commissioner"
+            },
+            {
+              "name": "Camille Mageau",
+              "role": "Secretary"
+            },
+            {
+              "name": "Christine Blanchet",
+              "role": "Legal Advisor"
+            },
+            {
+              "name": "Shane Zurbrigg",
+              "role": "Legal Advisor"
+            },
+            {
+              "name": "Sarah Lobrichon",
+              "role": "Public Affairs Advisor"
+            },
+            {
+              "name": "Pierre Yves Caux",
+              "role": "Director, Science and Engineering"
+            },
+            {
+              "name": "David Fay",
+              "role": "Engineering Advisor"
+            },
+            {
+              "name": "Wayne Jenkinson",
+              "role": "Engineering Advisor"
+            },
+            {
+              "name": "Erika Klyszejko",
+              "role": "Engineering Advisor"
+            },
+            {
+              "name": "Robert Phillips",
+              "role": "Ecosystem Advisor"
+            },
+            {
+              "name": "Catherine Lee-Johnston",
+              "role": "Environmental Officer"
+            },
+            {
+              "name": "Paul Allen",
+              "role": "Director, Policy and Programs"
+            },
+            {
+              "name": "Michele D'Amours",
+              "role": "Senior Communications Advisor"
+            }
+          ]
+        },
+        {
+          "department_name": "GREAT LAKES REGIONAL OFFICE",
+          "department_personnel": [
+            {
+              "name": "David Burden",
+              "role": "Director"
+            },
+            {
+              "name": "Sally Cole-Misch",
+              "role": "Public Affairs Officer"
+            },
+            {
+              "name": "Antonette Arvai",
+              "role": "Physical Scientist"
+            },
+            {
+              "name": "Raj Bejankiwar",
+              "role": "Physical Scientist"
+            },
+            {
+              "name": "Jennifer Boehme",
+              "role": "Physical Scientist"
+            },
+            {
+              "name": "Mark Burrows",
+              "role": "Physical Scientist"
+            },
+            {
+              "name": "Matthew Child",
+              "role": "Physical Scientist"
+            },
+            {
+              "name": "Lizhu Wang",
+              "role": "Physical Scientist"
+            },
+            {
+              "name": "John E. Wilson",
+              "role": "Physical Scientist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL LABOR ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Guy Ryder",
+          "role": "Director-General"
+        },
+        {
+          "name": "Kevin Cassidy",
+          "role": "Director"
+        },
+        {
+          "name": "Vinicius Pinheiro",
+          "role": "Director"
+        },
+        {
+          "name": "Vacant",
+          "role": "Deputy Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "INTERNATIONAL MONETARY FUND",
+      "organization_personnel": [
+        {
+          "name": "Kristalina Georgieva",
+          "role": "Managing Director"
+        },
+        {
+          "name": "David Lipton",
+          "role": "First Deputy Managing Director"
+        },
+        {
+          "name": "Carla Grasso",
+          "role": "Deputy Managing Director and Chief Administrative Officer"
+        },
+        {
+          "name": "Mitsuhiro Furusawa",
+          "role": "Deputy Managing Director"
+        },
+        {
+          "name": "Tao Zhang",
+          "role": "Deputy Managing Director"
+        },
+        {
+          "name": "Gita Gopinath",
+          "role": "Economic Counselor"
+        },
+        {
+          "name": "Tobias Adrian",
+          "role": "Financial Counselor"
+        },
+        {
+          "name": "Rhoda Weeks-Brown",
+          "role": "Legal Department General Counsel"
+        },
+        {
+          "name": "Abebe Aemro Selassie",
+          "role": "Departmental Director, African"
+        },
+        {
+          "name": "Changyong Rhee",
+          "role": "Departmental Director, Asia and Pacific"
+        },
+        {
+          "name": "Daniel Citrin",
+          "role": "Departmental Director, Budget and Planning"
+        },
+        {
+          "name": "Poul Mathias Thomsen",
+          "role": "Departmental Director, European"
+        },
+        {
+          "name": "Gerard T. Rice",
+          "role": "Departmental Director, Communications"
+        },
+        {
+          "name": "Andrew Tweedie",
+          "role": "Departmental Director, Finance"
+        },
+        {
+          "name": "Vitor Gaspar",
+          "role": "Departmental Director, Fiscal Affairs"
+        },
+        {
+          "name": "Kalpana Kochhar",
+          "role": "Departmental Director, Human Resources"
+        },
+        {
+          "name": "Nancy Onyango",
+          "role": "Departmental Director, Internal Audit and Inspection"
+        },
+        {
+          "name": "Jihad Azour",
+          "role": "Departmental Director, Middle East and Central Asia"
+        },
+        {
+          "name": "Tobias Adrian",
+          "role": "Departmental Director, Monetary and Capital Markets"
+        },
+        {
+          "name": "Martin Muhleisen",
+          "role": "Departmental Director, Strategy, Policy, and Review"
+        },
+        {
+          "name": "Gita Gopinath",
+          "role": "Departmental Director, Research"
+        },
+        {
+          "name": "Jianhai Lin",
+          "role": "Secretary"
+        },
+        {
+          "name": "Louis Marc Ducharme",
+          "role": "Departmental Director, Statistics"
+        },
+        {
+          "name": "Ed Anderson",
+          "role": "Departmental Director, Information Technology"
+        },
+        {
+          "name": "Alejandro Werner",
+          "role": "Departmental Director, Western Hemisphere"
+        },
+        {
+          "name": "Chikahisa Sumi",
+          "role": "Director, Regional Office for Asia and the Pacific"
+        },
+        {
+          "name": "Jeffrey Franks",
+          "role": "Director, Europe Offices"
+        },
+        {
+          "name": "Chris Lane",
+          "role": "Director and Special Representative to the United Nations"
+        },
+        {
+          "name": "Charles Collyns",
+          "role": "Independent Evaluations Office"
+        },
+        {
+          "name": "Sharmini A. Coorey",
+          "role": "Institute for Capacity Development"
+        },
+        {
+          "name": "Rhoda Weeks-Brown",
+          "role": "Legal and General Counsel"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "EXECUTIVE DIRECTORS AND ALTERNATES",
+          "department_personnel": [
+            {
+              "name": "Maher Mouminah",
+              "role": "Executive Director, represents Saudi Arabia"
+            },
+            {
+              "name": "Herve M. Jodon de Villeroche",
+              "role": "Executive Director, represents France"
+            },
+            {
+              "name": "Thomas Ostros",
+              "role": "Executive Director, represents Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Sweden"
+            },
+            {
+              "name": "Bruno Saraiva",
+              "role": "Executive Director, represents Brazil, Cabo Verde, Dominican Republic, Ecuador, Guyana, Haiti, Nicaragua, Panama, Suriname, Timor-Leste, Trinidad and Tobago"
+            },
+            {
+              "name": "Louise Levonian",
+              "role": "Executive Director, represents Antigua and Barbuda, the Bahamas, Barbados, Belize, Canada, Dominica, Grenada, Ireland, Jamaica, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines"
+            },
+            {
+              "name": "Dumisani Herbert Mahlinza",
+              "role": "Executive Director, represents Angola, Botswana, Burundi, Eritrea, Ethiopia, The Gambia, Kenya, Lesotho, Liberia, Malawi, Mozambique, Namibia, Nigeria, Sierra Leone, Somalia, South Africa, South Sudan (Republic of), Sudan, Eswantini, Tanzania, Uganda, Zambia, Zimbabwe"
+            },
+            {
+              "name": "Mahinda Siriwardana",
+              "role": "Executive Director, represents Bangladesh, Bhutan, India, Sri Lanka"
+            },
+            {
+              "name": "Alisara Mahasandana",
+              "role": "Executive Director, represents Brunei Darussalam, Cambodia, Fiji, Indonesia, Lao People's Democratic Republic, Malaysia, Myanmar, Nepal, Philippines, Singapore, Thailand, Tonga, Vietnam"
+            },
+            {
+              "name": "Paul Inderbinen",
+              "role": "Executive Director, represents Azerbaijan, Kazakhstan, Kyrgyz Republic, Poland, Serbia, Switzerland, Tajikistan, Turkmenistan, and Uzbekistan"
+            },
+            {
+              "name": "Leonardo Villar",
+              "role": "Executive Director, represents Colombia, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Spain, Venezuela (Republica Bolivariana de Venezuela)"
+            },
+            {
+              "name": "Raci Kaya",
+              "role": "Executive Director, represents Austria, Belarus, Czech Republic, Hungary, Kosovo, Slovak Republic, Slovenia, Turkey"
+            },
+            {
+              "name": "Mohamed-Lemine Raghani",
+              "role": "Executive Director, represents Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Comoros, Congo (Democratic Republic of), Congo (Republic of), Cote d'Ivoire, Djibouti, Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Niger, Rwanda, Sao Tome and Principe, Senegal, Togo"
+            },
+            {
+              "name": "Domenico Fanizza",
+              "role": "Executive Director, represents Albania, Greece, Italy, Malta, Portugal, San Marino"
+            },
+            {
+              "name": "Mark Rosen",
+              "role": "Executive Director, represents United States"
+            },
+            {
+              "name": "Takuji Tanaka",
+              "role": "Executive Director, represents Japan"
+            },
+            {
+              "name": "Jafar Mojarrad",
+              "role": "Executive Director, represents Afghanistan (Islamic Republic of), Algeria, Ghana, Iran (Islamic Republic of), Morocco, Pakistan, Tunisia"
+            },
+            {
+              "name": "Gabriel Lopetegui",
+              "role": "Executive Director, represents Argentina, Bolivia, Chile, Paraguay, Peru, Uruguay"
+            },
+            {
+              "name": "Ruediger von Kleist",
+              "role": "Executive Director, represents Germany"
+            },
+            {
+              "name": "Hazem Beblawi Elbeblawi",
+              "role": "Executive Director, represents Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Maldives, Oman, Qatar, Syrian Arab Republic, United Arab Emirates, Yemen (Republic of)"
+            },
+            {
+              "name": "Aleksei V. Mozhin",
+              "role": "Executive Director, represents Russian Federation"
+            },
+            {
+              "name": "Nigel Ray",
+              "role": "Executive Director, represents Australia, Kiribati, Korea, Marshall Islands, Micronesia (Federated States of), Mongolia, Nauru, New Zealand, Palau, Papua New Guinea, Samoa, Seychelles, Solomon Islands, Tuvalu, and Vanuatu"
+            },
+            {
+              "name": "Anthony De Lannoy",
+              "role": "Executive Director, represents Armenia, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Georgia, Israel, Luxembourg, Macedonia (former Yugoslav Republic of), Moldova, Republic of North Montenegro, Netherlands, Romania, Ukraine"
+            },
+            {
+              "name": "Zhongxia Jin",
+              "role": "Executive Director, represents China"
+            },
+            {
+              "name": "Shona Riach",
+              "role": "Executive Director, represents United Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL ORGANIZATION FOR MIGRATION",
+      "organization_personnel": [
+        {
+          "name": "Antonio Vitorino",
+          "role": "Director General"
+        },
+        {
+          "name": "Laura Thompson",
+          "role": "Deputy Director General"
+        },
+        {
+          "name": "Luca Dall'Oglio",
+          "role": "Washington Chief of Mission"
+        },
+        {
+          "name": "Ashraf El Nour",
+          "role": "Director of Office to the United Nations"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "MEMBER STATES",
+          "department_personnel": [
+            {
+              "name": "Afghanistan",
+              "role": "Member"
+            },
+            {
+              "name": "Albania",
+              "role": "Member"
+            },
+            {
+              "name": "Algeria",
+              "role": "Member"
+            },
+            {
+              "name": "Angola",
+              "role": "Member"
+            },
+            {
+              "name": "Antigua and Barbuda",
+              "role": "Member"
+            },
+            {
+              "name": "Argentina",
+              "role": "Member"
+            },
+            {
+              "name": "Armenia",
+              "role": "Member"
+            },
+            {
+              "name": "Australia",
+              "role": "Member"
+            },
+            {
+              "name": "Austria",
+              "role": "Member"
+            },
+            {
+              "name": "Azerbaijan",
+              "role": "Member"
+            },
+            {
+              "name": "Bahamas",
+              "role": "Member"
+            },
+            {
+              "name": "Bangladesh",
+              "role": "Member"
+            },
+            {
+              "name": "Belarus",
+              "role": "Member"
+            },
+            {
+              "name": "Belgium",
+              "role": "Member"
+            },
+            {
+              "name": "Belize",
+              "role": "Member"
+            },
+            {
+              "name": "Benin",
+              "role": "Member"
+            },
+            {
+              "name": "Bolivia (Plurinational State of)",
+              "role": "Member"
+            },
+            {
+              "name": "Bosnia and Herzegovina",
+              "role": "Member"
+            },
+            {
+              "name": "Botswana",
+              "role": "Member"
+            },
+            {
+              "name": "Brazil",
+              "role": "Member"
+            },
+            {
+              "name": "Bulgaria",
+              "role": "Member"
+            },
+            {
+              "name": "Burkina Faso",
+              "role": "Member"
+            },
+            {
+              "name": "Burundi",
+              "role": "Member"
+            },
+            {
+              "name": "Cabo Verde",
+              "role": "Member"
+            },
+            {
+              "name": "Cambodia",
+              "role": "Member"
+            },
+            {
+              "name": "Cameroon",
+              "role": "Member"
+            },
+            {
+              "name": "Canada",
+              "role": "Member"
+            },
+            {
+              "name": "Central African Republic",
+              "role": "Member"
+            },
+            {
+              "name": "Chad",
+              "role": "Member"
+            },
+            {
+              "name": "Chile",
+              "role": "Member"
+            },
+            {
+              "name": "China",
+              "role": "Member"
+            },
+            {
+              "name": "Colombia",
+              "role": "Member"
+            },
+            {
+              "name": "Comoros",
+              "role": "Member"
+            },
+            {
+              "name": "Congo",
+              "role": "Member"
+            },
+            {
+              "name": "Cook Islands",
+              "role": "Member"
+            },
+            {
+              "name": "Costa Rica",
+              "role": "Member"
+            },
+            {
+              "name": "Cote d'Ivoire",
+              "role": "Member"
+            },
+            {
+              "name": "Croatia",
+              "role": "Member"
+            },
+            {
+              "name": "Cuba",
+              "role": "Member"
+            },
+            {
+              "name": "Cyprus",
+              "role": "Member"
+            },
+            {
+              "name": "Czech Republic",
+              "role": "Member"
+            },
+            {
+              "name": "Democratic Republic of the Congo",
+              "role": "Member"
+            },
+            {
+              "name": "Denmark",
+              "role": "Member"
+            },
+            {
+              "name": "Djibouti",
+              "role": "Member"
+            },
+            {
+              "name": "Dominica",
+              "role": "Member"
+            },
+            {
+              "name": "Dominican Republic",
+              "role": "Member"
+            },
+            {
+              "name": "Ecuador",
+              "role": "Member"
+            },
+            {
+              "name": "Egypt",
+              "role": "Member"
+            },
+            {
+              "name": "El Salvador",
+              "role": "Member"
+            },
+            {
+              "name": "Eritrea",
+              "role": "Member"
+            },
+            {
+              "name": "Estonia",
+              "role": "Member"
+            },
+            {
+              "name": "Eswatini",
+              "role": "Member"
+            },
+            {
+              "name": "Ethiopia",
+              "role": "Member"
+            },
+            {
+              "name": "Fiji",
+              "role": "Member"
+            },
+            {
+              "name": "Finland",
+              "role": "Member"
+            },
+            {
+              "name": "France",
+              "role": "Member"
+            },
+            {
+              "name": "Gabon",
+              "role": "Member"
+            },
+            {
+              "name": "Gambia",
+              "role": "Member"
+            },
+            {
+              "name": "Georgia",
+              "role": "Member"
+            },
+            {
+              "name": "Germany",
+              "role": "Member"
+            },
+            {
+              "name": "Ghana",
+              "role": "Member"
+            },
+            {
+              "name": "Greece",
+              "role": "Member"
+            },
+            {
+              "name": "Grenada",
+              "role": "Member"
+            },
+            {
+              "name": "Guatemala",
+              "role": "Member"
+            },
+            {
+              "name": "Guinea",
+              "role": "Member"
+            },
+            {
+              "name": "Guinea-Bissau",
+              "role": "Member"
+            },
+            {
+              "name": "Guyana",
+              "role": "Member"
+            },
+            {
+              "name": "Haiti",
+              "role": "Member"
+            },
+            {
+              "name": "Holy See",
+              "role": "Member"
+            },
+            {
+              "name": "Honduras",
+              "role": "Member"
+            },
+            {
+              "name": "Hungary",
+              "role": "Member"
+            },
+            {
+              "name": "Iceland",
+              "role": "Member"
+            },
+            {
+              "name": "India",
+              "role": "Member"
+            },
+            {
+              "name": "Iran (Islamic Republic of)",
+              "role": "Member"
+            },
+            {
+              "name": "Ireland",
+              "role": "Member"
+            },
+            {
+              "name": "Israel",
+              "role": "Member"
+            },
+            {
+              "name": "Italy",
+              "role": "Member"
+            },
+            {
+              "name": "Jamaica",
+              "role": "Member"
+            },
+            {
+              "name": "Japan",
+              "role": "Member"
+            },
+            {
+              "name": "Jordan",
+              "role": "Member"
+            },
+            {
+              "name": "Kazakhstan",
+              "role": "Member"
+            },
+            {
+              "name": "Kenya",
+              "role": "Member"
+            },
+            {
+              "name": "Kiribati",
+              "role": "Member"
+            },
+            {
+              "name": "Kyrgyzstan",
+              "role": "Member"
+            },
+            {
+              "name": "Lao People's Democratic Republic",
+              "role": "Member"
+            },
+            {
+              "name": "Latvia",
+              "role": "Member"
+            },
+            {
+              "name": "Lesotho",
+              "role": "Member"
+            },
+            {
+              "name": "Liberia",
+              "role": "Member"
+            },
+            {
+              "name": "Libya",
+              "role": "Member"
+            },
+            {
+              "name": "Lithuania",
+              "role": "Member"
+            },
+            {
+              "name": "Luxembourg",
+              "role": "Member"
+            },
+            {
+              "name": "Madagascar",
+              "role": "Member"
+            },
+            {
+              "name": "Malawi",
+              "role": "Member"
+            },
+            {
+              "name": "Maldives",
+              "role": "Member"
+            },
+            {
+              "name": "Mali",
+              "role": "Member"
+            },
+            {
+              "name": "Malta",
+              "role": "Member"
+            },
+            {
+              "name": "Marshall Islands",
+              "role": "Member"
+            },
+            {
+              "name": "Mauritania",
+              "role": "Member"
+            },
+            {
+              "name": "Mauritius",
+              "role": "Member"
+            },
+            {
+              "name": "Mexico",
+              "role": "Member"
+            },
+            {
+              "name": "Micronesia (Federated States of)",
+              "role": "Member"
+            },
+            {
+              "name": "Mongolia",
+              "role": "Member"
+            },
+            {
+              "name": "Montenegro",
+              "role": "Member"
+            },
+            {
+              "name": "Morocco",
+              "role": "Member"
+            },
+            {
+              "name": "Mozambique",
+              "role": "Member"
+            },
+            {
+              "name": "Myanmar",
+              "role": "Member"
+            },
+            {
+              "name": "Namibia",
+              "role": "Member"
+            },
+            {
+              "name": "Nauru",
+              "role": "Member"
+            },
+            {
+              "name": "Nepal",
+              "role": "Member"
+            },
+            {
+              "name": "Netherlands",
+              "role": "Member"
+            },
+            {
+              "name": "New Zealand",
+              "role": "Member"
+            },
+            {
+              "name": "Nicaragua",
+              "role": "Member"
+            },
+            {
+              "name": "Niger",
+              "role": "Member"
+            },
+            {
+              "name": "Nigeria",
+              "role": "Member"
+            },
+            {
+              "name": "North Macedonia",
+              "role": "Member"
+            },
+            {
+              "name": "Norway",
+              "role": "Member"
+            },
+            {
+              "name": "Pakistan",
+              "role": "Member"
+            },
+            {
+              "name": "Palau",
+              "role": "Member"
+            },
+            {
+              "name": "Panama",
+              "role": "Member"
+            },
+            {
+              "name": "Papua New Guinea",
+              "role": "Member"
+            },
+            {
+              "name": "Paraguay",
+              "role": "Member"
+            },
+            {
+              "name": "Peru",
+              "role": "Member"
+            },
+            {
+              "name": "Philippines",
+              "role": "Member"
+            },
+            {
+              "name": "Poland",
+              "role": "Member"
+            },
+            {
+              "name": "Portugal",
+              "role": "Member"
+            },
+            {
+              "name": "Republic of Korea",
+              "role": "Member"
+            },
+            {
+              "name": "Republic of Moldova",
+              "role": "Member"
+            },
+            {
+              "name": "Romania",
+              "role": "Member"
+            },
+            {
+              "name": "Rwanda",
+              "role": "Member"
+            },
+            {
+              "name": "Saint Kitts and Nevis",
+              "role": "Member"
+            },
+            {
+              "name": "Saint Lucia",
+              "role": "Member"
+            },
+            {
+              "name": "Saint Vincent and the Grenadines",
+              "role": "Member"
+            },
+            {
+              "name": "Samoa",
+              "role": "Member"
+            },
+            {
+              "name": "Sao Tome and Principe",
+              "role": "Member"
+            },
+            {
+              "name": "Senegal",
+              "role": "Member"
+            },
+            {
+              "name": "Serbia",
+              "role": "Member"
+            },
+            {
+              "name": "Seychelles",
+              "role": "Member"
+            },
+            {
+              "name": "Sierra Leone",
+              "role": "Member"
+            },
+            {
+              "name": "Slovakia",
+              "role": "Member"
+            },
+            {
+              "name": "Slovenia",
+              "role": "Member"
+            },
+            {
+              "name": "Solomon Islands",
+              "role": "Member"
+            },
+            {
+              "name": "Somalia",
+              "role": "Member"
+            },
+            {
+              "name": "South Africa",
+              "role": "Member"
+            },
+            {
+              "name": "South Sudan",
+              "role": "Member"
+            },
+            {
+              "name": "Spain",
+              "role": "Member"
+            },
+            {
+              "name": "Sri Lanka",
+              "role": "Member"
+            },
+            {
+              "name": "Sudan",
+              "role": "Member"
+            },
+            {
+              "name": "Suriname",
+              "role": "Member"
+            },
+            {
+              "name": "Sweden",
+              "role": "Member"
+            },
+            {
+              "name": "Switzerland",
+              "role": "Member"
+            },
+            {
+              "name": "Tajikistan",
+              "role": "Member"
+            },
+            {
+              "name": "Thailand",
+              "role": "Member"
+            },
+            {
+              "name": "Timor-Leste",
+              "role": "Member"
+            },
+            {
+              "name": "Togo",
+              "role": "Member"
+            },
+            {
+              "name": "Tonga",
+              "role": "Member"
+            },
+            {
+              "name": "Trinidad and Tobago",
+              "role": "Member"
+            },
+            {
+              "name": "Tunisia",
+              "role": "Member"
+            },
+            {
+              "name": "Turkey",
+              "role": "Member"
+            },
+            {
+              "name": "Turkmenistan",
+              "role": "Member"
+            },
+            {
+              "name": "Tuvalu",
+              "role": "Member"
+            },
+            {
+              "name": "Uganda",
+              "role": "Member"
+            },
+            {
+              "name": "Ukraine",
+              "role": "Member"
+            },
+            {
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "role": "Member"
+            },
+            {
+              "name": "United Republic of Tanzania",
+              "role": "Member"
+            },
+            {
+              "name": "United States of America",
+              "role": "Member"
+            },
+            {
+              "name": "Uruguay",
+              "role": "Member"
+            },
+            {
+              "name": "Uzbekistan",
+              "role": "Member"
+            },
+            {
+              "name": "Vanuatu",
+              "role": "Member"
+            },
+            {
+              "name": "Venezuela (Bolivarian Republic of)",
+              "role": "Member"
+            },
+            {
+              "name": "Viet Nam",
+              "role": "Member"
+            },
+            {
+              "name": "Yemen",
+              "role": "Member"
+            },
+            {
+              "name": "Zambia",
+              "role": "Member"
+            },
+            {
+              "name": "Zimbabwe",
+              "role": "Member"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "UNITED NATIONS",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "Economic and Social Commission for Asia and the Pacific (ESCAP)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Economic Commission for Africa (ECA)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Economic Commission for Latin America and the Caribbean (ECLAC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Food and Agriculture Organization of the United Nations (FAO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "International Labour Organization (ILO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "International Maritime Organization (IMO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Office for the Coordination of Humanitarian Affairs (OCHA)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Office of the United Nations High Commissioner for Human Rights (OHCHR)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Office of the United Nations High Commissioner for Refugees (UNHCR)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Children's Fund (UNICEF)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Conference on Trade and Development (UNCTAD)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Development Programme (UNDP)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Entity for Gender Equality and the Empowerment of Women (UN-WOMEN)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Environment Programme (UNEP)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Human Settlements Programme (UN-HABITAT)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Industrial Development Organization (UNIDO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Population Fund (UNFPA)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "United Nations Research Institute for Social Development (UNRISD)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Universal Postal Union (UPU)",
+          "department_personnel": []
+        }
+      ]
+    },
+    {
+      "organization_name": "WORLD BANK",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "World Food Programme (WFP)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "World Health Organization (WHO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "World Intellectual Property Organization (WIPO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "World Meteorological Organization (WMO)",
+          "department_personnel": []
+        }
+      ]
+    },
+    {
+      "organization_name": "AFRICAN UNION",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "African, Caribbean and Pacific Group of States (ACP Group)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Asian-African Legal Consultative Organization (AALCO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Common Market for Eastern and Southern Africa (COMESA)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Community of Portuguese Speaking Countries (CPLP)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Community of Sahel-Saharan States (CEN-SAD)",
+          "department_personnel": []
+        }
+      ]
+    },
+    {
+      "organization_name": "COUNCIL OF EUROPE",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "East African Community (EAC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Economic Community of Central African States (ECCAS)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Economic Community of West African States Commission (ECOWAS)",
+          "department_personnel": []
+        }
+      ]
+    },
+    {
+      "organization_name": "EUROPEAN UNION (EU)",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "Ibero-American General Secretariat (SEGIB)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Inter-American Development Bank (IADB)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Intergovernmental Authority on Development (IGAD)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "International Centre for Migration Policy Development (ICMPD)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "International Committee of the Red Cross",
+          "department_personnel": []
+        },
+        {
+          "department_name": "International Federation of Red Cross and Red Crescent Societies",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Islamic Educational, Scientific and Cultural Organization (ISESCO)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Italian-Latin American Institute",
+          "department_personnel": []
+        }
+      ]
+    },
+    {
+      "organization_name": "LEAGUE OF ARAB STATES",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "Organisation internationale de la Francophonie",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Organization for Economic Co-operation and Development",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Organization of American States",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Organization of the Islamic Cooperation",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Parliamentary Assembly of the Union for the Mediterranean",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Sovereign Order of Malta",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Southeast European Cooperative Initiative (SECI) - Regional Center for Combating Transborder Crime",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Southern African Development Community Secretariat (SADC)",
+          "department_personnel": []
+        },
+        {
+          "department_name": "Union du Maghreb Arabe (UMA)",
+          "department_personnel": []
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL PACIFIC HALIBUT COMMISSION",
+      "organization_personnel": [
+        {
+          "name": "Robert Alverson",
+          "role": "American Commissioner, Fishing Vessel Owners' Association"
+        },
+        {
+          "name": "Chris Oliver",
+          "role": "American Commissioner, NOAA Fisheries"
+        },
+        {
+          "name": "Richard Yamada",
+          "role": "American Commissioner"
+        },
+        {
+          "name": "Paul Ryall",
+          "role": "Canadian Commissioner, Fisheries and Oceans Canada"
+        },
+        {
+          "name": "Neil Davis",
+          "role": "Canadian Commissioner, Fisheries and Oceans Canada"
+        },
+        {
+          "name": "Peter DeGreef",
+          "role": "Canadian Commissioner"
+        },
+        {
+          "name": "Dr. David Wilson",
+          "role": "Director and Secretary (ex officio)"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "ORGANIZATION OF AMERICAN STATES",
+      "organization_personnel": [
+        {
+          "name": "Luis Almagro",
+          "role": "Secretary General"
+        },
+        {
+          "name": "Gonzalo Koncke",
+          "role": "Chief of Staff to the Secretary General"
+        },
+        {
+          "name": "Nestor Mendez",
+          "role": "Assistant Secretary General"
+        },
+        {
+          "name": "Ambassador La Celia Prince",
+          "role": "Chief of Staff to the Assistant Secretary General"
+        },
+        {
+          "name": "Kim Hurtault-Osborne",
+          "role": "Executive Secretary for Integral Development"
+        },
+        {
+          "name": "Paulo Abrao",
+          "role": "Executive Secretary for Inter-American Commission on Human Rights"
+        },
+        {
+          "name": "Charles H. Grover",
+          "role": "Secretary for Administration and Finance"
+        },
+        {
+          "name": "Farah Diva Urrutia",
+          "role": "Secretary for Multidimensional Security"
+        },
+        {
+          "name": "Francisco Guerrero",
+          "role": "Secretary for Strengthening Democracy"
+        },
+        {
+          "name": "Gastao Alves de Toledo",
+          "role": "Secretary for Access to Rights and Equity"
+        },
+        {
+          "name": "James M. Lambert",
+          "role": "Secretary for Hemispheric Affairs"
+        },
+        {
+          "name": "Jean Michel Arrighi",
+          "role": "Secretary for Legal Affairs"
+        },
+        {
+          "name": "(Appointment pending)",
+          "role": "Director for Summits Secretariat"
+        },
+        {
+          "name": "Gonzalo Espariz",
+          "role": "Director for Press and Communications (acting)"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "PERMANENT MISSIONS TO THE OAS",
+          "department_personnel": [
+            {
+              "name": "Sir Ronald Sanders",
+              "role": "Ambassador, Permanent Representative from Antigua and Barbuda"
+            },
+            {
+              "name": "Paula Maria Bertol",
+              "role": "Ambassador, Permanent Representative from Argentina"
+            },
+            {
+              "name": "Sydnie Stanley Collie",
+              "role": "Ambassador, Permanent Representative from The Bahamas"
+            },
+            {
+              "name": "Noel Anderson Lynch",
+              "role": "Ambassador, Permanent Representative from Barbados"
+            },
+            {
+              "name": "Francisco Daniel Gutierez",
+              "role": "Ambassador, Permanent Representative from Belize"
+            },
+            {
+              "name": "Jose Alberto Gonzales",
+              "role": "Ambassador, Permanent Representative from Bolivia"
+            },
+            {
+              "name": "Fernando Simas Magalhaes",
+              "role": "Ambassador, Permanent Representative from Brazil"
+            },
+            {
+              "name": "Francois Jubinville",
+              "role": "Mr., Interim Representative from Canada"
+            },
+            {
+              "name": "Hernan Salinas Burgos",
+              "role": "Ambassador, Permanent Representative from Chile"
+            },
+            {
+              "name": "Alejandro Ordonez Maldonado",
+              "role": "Ambassador, Permanent Representative from Colombia"
+            },
+            {
+              "name": "Montserrat Solano Carboni",
+              "role": "Ambassador, Permanent Representative from Costa Rica"
+            },
+            {
+              "name": "Dr. Vince Henderson",
+              "role": "Ambassador, Permanent Representative from Dominica"
+            },
+            {
+              "name": "Gedeon Santos",
+              "role": "Ambassador, Permanent Representative from Dominican Republic"
+            },
+            {
+              "name": "Carlos Alberto Jativa Naranjo",
+              "role": "Ambassador, Permanent Representative from Ecuador"
+            },
+            {
+              "name": "Wendy Acevedo Castillo",
+              "role": "Ambassador, Interim Representative from El Salvador"
+            },
+            {
+              "name": "Yoland Yvonne Smith",
+              "role": "Ambassador, Permanent Representative from Grenada"
+            },
+            {
+              "name": "Rita Claverie de Sciolli",
+              "role": "Ambassador, Permanent Representative from Guatemala"
+            },
+            {
+              "name": "Dr. Riyad Insanally",
+              "role": "Ambassador, Permanent Representative from Guyana"
+            },
+            {
+              "name": "Leon Charles",
+              "role": "Ambassador, Interim Representative from Haiti"
+            },
+            {
+              "name": "Leonidas Rosa Bautista",
+              "role": "Ambassador, Permanent Representative from Honduras"
+            },
+            {
+              "name": "Audrey Marks",
+              "role": "Ambassador, Permanent Representative from Jamaica"
+            },
+            {
+              "name": "Luz Elena Banos Rivas",
+              "role": "Ambassador, Permanent Representative from Mexico"
+            },
+            {
+              "name": "Denis Ronaldo Moncada Colindres",
+              "role": "Ambassador, Permanent Representative from Nicaragua"
+            },
+            {
+              "name": "Juana de Dios Mudarra de Morales",
+              "role": "Mrs., Interim Representative from Panama"
+            },
+            {
+              "name": "Elisa Ruiz Diaz Bareiro",
+              "role": "Ambassador, Permanent Representative from Paraguay"
+            },
+            {
+              "name": "Jose Manuel Boza Orozco",
+              "role": "Ambassador, Permanent Representative from Peru"
+            },
+            {
+              "name": "Dr. Everson Hull",
+              "role": "Ambassador, Permanent Representative from Saint Kitts and Nevis"
+            },
+            {
+              "name": "Anton E. Edmunds",
+              "role": "Ambassador, Permanent Representative from Saint Lucia"
+            },
+            {
+              "name": "Lou-Anne Gaylene Christ",
+              "role": "Ambassador, Permanent Representative from Saint Vincent and The Grenadines"
+            },
+            {
+              "name": "Niermala Badrising",
+              "role": "Ambassador, Permanent Representative from Suriname"
+            },
+            {
+              "name": "Anthony Phillips-Spencer",
+              "role": "Ambassador, Permanent Representative from Trinidad and Tobago"
+            },
+            {
+              "name": "Carlos Trujillo",
+              "role": "Ambassador, Permanent Representative from United States of America"
+            },
+            {
+              "name": "Hugo Cayrus",
+              "role": "Ambassador, Permanent Representative from Uruguay"
+            },
+            {
+              "name": "Gustavo Tarre Briceno",
+              "role": "Ambassador, National Assembly's designated Permanent Representative from Venezuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "ORGANIZATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT",
+      "organization_personnel": [
+        {
+          "name": "Angel Gurria",
+          "role": "Secretary-General"
+        },
+        {
+          "name": "Masamichi Kono",
+          "role": "Deputy Secretary-General"
+        },
+        {
+          "name": "Ulrick Vestergaard Knudsen",
+          "role": "Deputy Secretary-General"
+        },
+        {
+          "name": "Jeffrey Schlangenhauf",
+          "role": "Deputy Secretary-General"
+        },
+        {
+          "name": "Ludger Schuknecht",
+          "role": "Deputy Secretary-General"
+        },
+        {
+          "name": "Laurence Boone",
+          "role": "Chief Economist"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "PARIS HEADQUARTERS",
+          "department_personnel": []
+        },
+        {
+          "department_name": "WASHINGTON CENTER",
+          "department_personnel": [
+            {
+              "name": "Will Davis",
+              "role": "Head of Center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "WORLD HEALTH ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Dr. Carissa F. Etienne",
+          "role": "Director"
+        },
+        {
+          "name": "Dr. Isabella Danel",
+          "role": "Deputy Director"
+        },
+        {
+          "name": "Dr. Jarbas Barbosa",
+          "role": "Assistant Director"
+        },
+        {
+          "name": "Gerald Anderson",
+          "role": "Director of Administration"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "REGIONAL OFFICE OF THE WORLD HEALTH ORGANIZATION",
+          "department_personnel": []
+        },
+        {
+          "department_name": "PAHO / WHO FIELD OFFICES",
+          "department_personnel": [
+            {
+              "name": "Dr. Jean Marie Rwangabwoba",
+              "role": "Representative for Barbados and Eastern Caribbean Countries"
+            },
+            {
+              "name": "Mrs. Jessie Schutt-Aine",
+              "role": "Caribbean Program Coordinator"
+            },
+            {
+              "name": "Dra. Maureen Birmingham",
+              "role": "Representative from Argentina"
+            },
+            {
+              "name": "Dr. Esther de Gourville",
+              "role": "Representative from Bahamas"
+            },
+            {
+              "name": "Dr. Noreen Jack",
+              "role": "Representative from Belize"
+            },
+            {
+              "name": "Dr. Alfonso Tenorio Gnecco",
+              "role": "Representative from Bolivia"
+            },
+            {
+              "name": "Dr. Socorro Gross",
+              "role": "Representative from Brazil"
+            },
+            {
+              "name": "Dr. Fernando Leanes",
+              "role": "Representative from Chile"
+            },
+            {
+              "name": "Dra. Gina Tambini",
+              "role": "Representative from Colombia"
+            },
+            {
+              "name": "Dra. Maria Dolores Perez-Rosales",
+              "role": "Representative from Costa Rica"
+            },
+            {
+              "name": "Dr. Jose Moya",
+              "role": "Representative from Cuba"
+            },
+            {
+              "name": "Dra. Alma Morales",
+              "role": "Representative from Dominican Republic"
+            },
+            {
+              "name": "Dra. Gina Watson",
+              "role": "Representative from Ecuador"
+            },
+            {
+              "name": "Dr. Carlos Garzon",
+              "role": "Representative from El Salvador"
+            },
+            {
+              "name": "Dr. Oscar Barreneche",
+              "role": "Representative from Guatemala"
+            },
+            {
+              "name": "Dr. William Adu-Know",
+              "role": "Representative from Guyana"
+            },
+            {
+              "name": "Dr. Luis Codina",
+              "role": "Representative from Haiti"
+            },
+            {
+              "name": "Mrs. Piedad Huerta",
+              "role": "Representative from Honduras"
+            },
+            {
+              "name": "Dr. Bernadette Theodore-Gandi",
+              "role": "Representative from Jamaica"
+            },
+            {
+              "name": "Econ. Christian Morales",
+              "role": "Representative from Mexico"
+            },
+            {
+              "name": "Ing. Ana Solis-Ortega Treasure",
+              "role": "Representative from Nicaragua"
+            },
+            {
+              "name": "Dr. Gerardo Alfaro",
+              "role": "Representative from Panama"
+            },
+            {
+              "name": "Dr. Luis Roberto Escoto",
+              "role": "Representative from Paraguay"
+            },
+            {
+              "name": "Dr. Ruben Mayorga-Sagastume",
+              "role": "Representative from Peru"
+            },
+            {
+              "name": "Dr. Raul Castellanos Bran",
+              "role": "Representative from Puerto Rico"
+            },
+            {
+              "name": "Dr. Yitades Gebre",
+              "role": "Representative from Suriname"
+            },
+            {
+              "name": "Dr. Erica Wheeler",
+              "role": "Representative from Trinidad and Tobago"
+            },
+            {
+              "name": "Dr. Giovanni Escalante",
+              "role": "Representative from Uruguay"
+            },
+            {
+              "name": "Dr. Gerardo De Cosio",
+              "role": "Representative from Venezuela"
+            }
+          ]
+        },
+        {
+          "department_name": "CENTERS",
+          "department_personnel": [
+            {
+              "name": "Dr. Diego Gonzalez",
+              "role": "Director of BIREME"
+            },
+            {
+              "name": "Dr. Suzanne Jacob Serruya",
+              "role": "Director of CLAP"
+            },
+            {
+              "name": "Dr. Ottorino Cosivi",
+              "role": "Director of PANAFTOSA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "PERMANENT JOINT BOARD ON DEFENSE, CANADA-UNITED STATES",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "CANADIAN SECTION",
+          "department_personnel": [
+            {
+              "name": "Hon. Laurie Hawn",
+              "role": "Canadian Co-Chairman"
+            },
+            {
+              "name": "Cmdre Bob Auchterlonie",
+              "role": "Director of Military Policy"
+            },
+            {
+              "name": "Gordon Venner",
+              "role": "Assistant Deputy Minister of Defence Policy"
+            },
+            {
+              "name": "David Drake",
+              "role": "Director General of Foreign Affairs"
+            },
+            {
+              "name": "MGen Charles Lamarre",
+              "role": "Director of Canada Strategic Joint Staff"
+            },
+            {
+              "name": "LGen Pierre St-Amand",
+              "role": "Deputy Commander NORAD"
+            },
+            {
+              "name": "Megan Nichols",
+              "role": "Director General of Public Safety"
+            },
+            {
+              "name": "LCol Michael Ward",
+              "role": "Military Secretary"
+            },
+            {
+              "name": "Yasemin Heinbecker",
+              "role": "Political Secretary"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED STATES SECTION",
+          "department_personnel": [
+            {
+              "name": "Elissa Slotkin",
+              "role": "U.S. Co-Chair",
+              "bioguide_id": "S001208"
+            },
+            {
+              "name": "BG Joseph Whitlock",
+              "role": "Deputy Director for Military Policy"
+            },
+            {
+              "name": "Dr. Rebecca Chavez",
+              "role": "Deputy Assistant Secretary of Defense for Western Hemisphere"
+            },
+            {
+              "name": "Karen Choe-Fichte",
+              "role": "Deputy Director of State Department"
+            },
+            {
+              "name": "Denison Offutt",
+              "role": "Director of National Security Council"
+            },
+            {
+              "name": "RADM Richard P. Snyder",
+              "role": "Director of USNORTHCOM"
+            },
+            {
+              "name": "RDML Joanna Nunan",
+              "role": "Military Advisor to DHS"
+            },
+            {
+              "name": "Maj. Francis Marino",
+              "role": "Military Secretary"
+            },
+            {
+              "name": "Keith Gilges",
+              "role": "Political Secretary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "SECRETARIAT OF THE PACIFIC COMMUNITY",
+      "organization_personnel": [
+        {
+          "name": "Dr. Stuart Minchin",
+          "role": "Director-General"
+        },
+        {
+          "name": "Cameron Diver",
+          "role": "Deputy Director General (Noumea)"
+        },
+        {
+          "name": "Dr. Audrey Aumua",
+          "role": "Deputy Director General (Suva)"
+        },
+        {
+          "name": "Dr. Paula Vivili",
+          "role": "Director of Public Health Division"
+        },
+        {
+          "name": "Neville Smith",
+          "role": "Director of Fisheries, Aquaculture, and Marine Ecosystems Division"
+        },
+        {
+          "name": "Jan Helsen",
+          "role": "Director of Land Resources Division"
+        },
+        {
+          "name": "Dr. Andrew Jones",
+          "role": "Director of Geoscience, Energy and Maritime Division"
+        },
+        {
+          "name": "Leituala Kuiniselani Toelupe Tago-Elisara",
+          "role": "Director of Social Development Programme"
+        },
+        {
+          "name": "Miles Young",
+          "role": "Director of Regional Rights Resource Team (Human Rights Programme)"
+        },
+        {
+          "name": "Epeli Waqavonovono",
+          "role": "Director of Statistics for Development Division"
+        },
+        {
+          "name": "Emily Sharp",
+          "role": "Director of Strategy, Performance and Learning"
+        },
+        {
+          "name": "Peter Foster",
+          "role": "Director of Communications"
+        },
+        {
+          "name": "Craig Parker",
+          "role": "Director of Human Resources"
+        },
+        {
+          "name": "Subhash Gupta",
+          "role": "Director of Finance"
+        },
+        {
+          "name": "Sylvie Goyet",
+          "role": "Director of Climate Change and Environmental Sustainability"
+        },
+        {
+          "name": "Michelle Belisle",
+          "role": "Director of Educational Quality and Assessment Programme"
+        },
+        {
+          "name": "Johan Sebastiaan \"Bas\" Berghoef",
+          "role": "Director of Information Service"
+        },
+        {
+          "name": "Mia Rimon",
+          "role": "Director of Melanesia Region"
+        },
+        {
+          "name": "Lara Studzinski",
+          "role": "Director of Micronesia (Pohnpei) Region"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "SECRETARIAT OF THE PACIFIC REGIONAL ENVIRONMENT PROGRAMME",
+      "organization_personnel": [
+        {
+          "name": "Kosi Latu",
+          "role": "Director General"
+        },
+        {
+          "name": "Roger Cornforth",
+          "role": "Deputy Director"
+        },
+        {
+          "name": "Stuart Chape",
+          "role": "Director of Island and Ocean Ecosystems"
+        },
+        {
+          "name": "Tagaloa Cooper-Halo",
+          "role": "Director of Climate Change Resilience"
+        },
+        {
+          "name": "Easter Galuvao",
+          "role": "Director of Environmental Monitoring and Governance"
+        },
+        {
+          "name": "Vicki Hall",
+          "role": "Director of Waste Management and Pollution Control"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNITED NATIONS",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "GENERAL ASSEMBLY",
+          "department_personnel": []
+        },
+        {
+          "department_name": "SECURITY COUNCIL",
+          "department_personnel": [
+            {
+              "name": "China",
+              "role": "Permanent Member"
+            },
+            {
+              "name": "France",
+              "role": "Permanent Member"
+            },
+            {
+              "name": "Russian Federation",
+              "role": "Permanent Member"
+            },
+            {
+              "name": "United Kingdom",
+              "role": "Permanent Member"
+            },
+            {
+              "name": "United States",
+              "role": "Permanent Member"
+            },
+            {
+              "name": "Belgium",
+              "role": "Non-Permanent Member (2019)"
+            },
+            {
+              "name": "Cote d'Ivoire",
+              "role": "Non-Permanent Member (2019)"
+            },
+            {
+              "name": "Dominican Republic",
+              "role": "Non-Permanent Member (2020)"
+            },
+            {
+              "name": "Equatorial Guinea",
+              "role": "Non-Permanent Member (2019)"
+            },
+            {
+              "name": "Germany",
+              "role": "Non-Permanent Member (2020)"
+            },
+            {
+              "name": "Indonesia",
+              "role": "Non-Permanent Member (2020)"
+            },
+            {
+              "name": "Kuwait",
+              "role": "Non-Permanent Member (2019)"
+            },
+            {
+              "name": "Peru",
+              "role": "Non-Permanent Member (2019)"
+            },
+            {
+              "name": "Poland",
+              "role": "Non-Permanent Member (2019)"
+            },
+            {
+              "name": "South Africa",
+              "role": "Non-Permanent Member (2020)"
+            }
+          ]
+        },
+        {
+          "department_name": "ECONOMIC AND SOCIAL COUNCIL",
+          "department_personnel": [
+            {
+              "name": "Andorra",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Angola",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Armenia",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Azerbaijan",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Belarus",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Benin",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Brazil",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Cambodia",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Cameroon",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Canada",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Chad",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "China",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Colombia",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Denmark",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Ecuador",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Egypt",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "El Salvador",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Eswatini",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "France",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Germany",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Ghana",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "India",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Iran (Islamic Republic of)",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Ireland",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Jamaica",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Japan",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Kenya",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Luxembourg",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Malawi",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Mali",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Malta",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Mexico",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Morocco",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Netherlands",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Norway",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Pakistan",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Paraguay",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Philippines",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Republic of Korea",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Romania",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Russian Federation",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Saint Vincent and the Grenadines",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Saudi Arabia",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Sudan",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Togo",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Turkey",
+              "role": "Member (2020)"
+            },
+            {
+              "name": "Turkmenistan",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Ukraine",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "United Kingdom of Great Britain and Northern Ireland",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "United States of America",
+              "role": "Member (2021)"
+            },
+            {
+              "name": "Venezuela (Bolivarian Republic of)",
+              "role": "Member (2019)"
+            },
+            {
+              "name": "Yemen",
+              "role": "Member (2019)"
+            }
+          ]
+        },
+        {
+          "department_name": "TRUSTEESHIP COUNCIL",
+          "department_personnel": [
+            {
+              "name": "China",
+              "role": "Member"
+            },
+            {
+              "name": "France",
+              "role": "Member"
+            },
+            {
+              "name": "Russian Federation",
+              "role": "Member"
+            },
+            {
+              "name": "United Kingdom",
+              "role": "Member"
+            },
+            {
+              "name": "United States",
+              "role": "Member"
+            }
+          ]
+        },
+        {
+          "department_name": "INTERNATIONAL COURT OF JUSTICE",
+          "department_personnel": [
+            {
+              "name": "Abdulqawi Ahmed Yusuf",
+              "role": "President (Somalia 2027)"
+            },
+            {
+              "name": "Xue Hanqin",
+              "role": "Vice-President (China 2021)"
+            },
+            {
+              "name": "Peter Tomka",
+              "role": "Judge (Slovakia 2021)"
+            },
+            {
+              "name": "Ronny Abraham",
+              "role": "Judge (France 2027)"
+            },
+            {
+              "name": "Mohamed Bennouna",
+              "role": "Judge (Morocco 2024)"
+            },
+            {
+              "name": "Antonio Augusto Cancado Trindade",
+              "role": "Judge (Brazil 2027)"
+            },
+            {
+              "name": "Joan E. Donoghue",
+              "role": "Judge (USA 2024)"
+            },
+            {
+              "name": "Giorgio Gaja",
+              "role": "Judge (Italy 2021)"
+            },
+            {
+              "name": "Julia Sebutinde",
+              "role": "Judge (Uganda 2021)"
+            },
+            {
+              "name": "Dalveer Bhandari",
+              "role": "Judge (India 2027)"
+            },
+            {
+              "name": "Patrick Lipton Robinson",
+              "role": "Judge (Jamaica 2024)"
+            },
+            {
+              "name": "James Richard Crawford",
+              "role": "Judge (Australia 2024)"
+            },
+            {
+              "name": "Kirill Gevorgian",
+              "role": "Judge (Russian Federation 2024)"
+            },
+            {
+              "name": "Nawaf Salam",
+              "role": "Judge (Lebanon 2027)"
+            },
+            {
+              "name": "Yuji Iwasawa",
+              "role": "Judge (Japan 2021)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS SECRETARIAT",
+          "department_personnel": [
+            {
+              "name": "Antonio Guterres",
+              "role": "Secretary-General (Portugal)"
+            },
+            {
+              "name": "Amina J. Mohammed",
+              "role": "Deputy Secretary-General (Nigeria)"
+            }
+          ]
+        },
+        {
+          "department_name": "EXECUTIVE OFFICE OF THE SECRETARY-GENERAL",
+          "department_personnel": [
+            {
+              "name": "Maria Luiza Ribeiro Viotti",
+              "role": "Chief of Staff (Brazil)"
+            },
+            {
+              "name": "Stephane Dujarric",
+              "role": "Spokesman"
+            },
+            {
+              "name": "Ana Maria Menendez Perez",
+              "role": "Special Adviser to the Secretary-General, Policy (Spain)"
+            },
+            {
+              "name": "David Vennett",
+              "role": "Principal Officer (United States)"
+            }
+          ]
+        },
+        {
+          "department_name": "OFFICE OF INTERNAL OVERSIGHT SERVICES",
+          "department_personnel": [
+            {
+              "name": "Heidi Mendoza",
+              "role": "Under-Secretary-General (Philippines)"
+            },
+            {
+              "name": "David Kanja",
+              "role": "Assistant Secretary-General (Kenya)"
+            }
+          ]
+        },
+        {
+          "department_name": "OFFICE OF LEGAL AFFAIRS",
+          "department_personnel": [
+            {
+              "name": "Miguel de Serpa Soares",
+              "role": "Under-Secretary-General and Legal Counsel (Portugal)"
+            },
+            {
+              "name": "Stephen Mathias",
+              "role": "Assistant Secretary-General (United States)"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF POLITICAL AND PEACEBUILDING AFFAIRS",
+          "department_personnel": [
+            {
+              "name": "Rosemary DiCarlo",
+              "role": "Under-Secretary-General (United States)"
+            },
+            {
+              "name": "Oscar Fernandez-Taranco",
+              "role": "Assistant Secretary-General for Peacebuilding Support (Argentina)"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF PEACE OPERATIONS",
+          "department_personnel": [
+            {
+              "name": "Jean-Pierre Lacroix",
+              "role": "Under-Secretary-General (France)"
+            },
+            {
+              "name": "Carlos Humberto Loitey",
+              "role": "Assistant Secretary-General / Military Adviser (Uruguay)"
+            },
+            {
+              "name": "Alexandre Zouev",
+              "role": "Assistant Secretary-General of the Office of Rule of Law and Security Institutions (Russian Federation)"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF OPERATIONAL SUPPORT",
+          "department_personnel": [
+            {
+              "name": "Atul Khare",
+              "role": "Under-Secretary-General (India)"
+            },
+            {
+              "name": "Lisa Buttenheim",
+              "role": "Assistant Secretary-General for Support Operations (United States)"
+            },
+            {
+              "name": "Christian Saunders",
+              "role": "Assistant Secretary-General for Supply Chain Management (United Kingdom)"
+            }
+          ]
+        },
+        {
+          "department_name": "OFFICE FOR THE COORDINATION OF HUMANITARIAN AFFAIRS (OCHA)",
+          "department_personnel": [
+            {
+              "name": "Mark Lowcock",
+              "role": "Under-Secretary-General, Humanitarian Affairs and Emergency Relief Coordinator (United Kingdom)"
+            },
+            {
+              "name": "Ursula Mueller",
+              "role": "Assistant Secretary-General / Deputy Emergency Relief Coordinator (Germany)"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS",
+          "department_personnel": [
+            {
+              "name": "Liu Zhenmin",
+              "role": "Under-Secretary-General (China)"
+            },
+            {
+              "name": "Maria Francesca Spatolisano",
+              "role": "Assistant Secretary-General, Policy Coordination and Inter-Agency Affairs (Italy)"
+            },
+            {
+              "name": "Elliott Harris",
+              "role": "Assistant Secretary-General, Economic Development"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF GENERAL ASSEMBLY AND CONFERENCE MANAGEMENT",
+          "department_personnel": [
+            {
+              "name": "Movses Abelian",
+              "role": "Under-Secretary-General (Armenia)"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF GLOBAL COMMUNICATIONS",
+          "department_personnel": [
+            {
+              "name": "Melissa Fleming",
+              "role": "Under-Secretary-General (United States)"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF SAFETY AND SECURITY",
+          "department_personnel": [
+            {
+              "name": "Gilles Michaud",
+              "role": "Under-Secretary-General (Canada)"
+            },
+            {
+              "name": "Noirin O' Sullivan",
+              "role": "Assistant Secretary-General (Ireland)"
+            }
+          ]
+        },
+        {
+          "department_name": "DEPARTMENT OF MANAGEMENT",
+          "department_personnel": [
+            {
+              "name": "Catherine Pollard",
+              "role": "Under-Secretary-General (Guyana)"
+            },
+            {
+              "name": "Martha Helena Lopez",
+              "role": "Assistant Secretary-General, Human Resources Management (Colombia)"
+            },
+            {
+              "name": "Chandramouli Ramanathan",
+              "role": "Assistant Secretary-General, Office of Enterprise Resource Planning & Controller (India)"
+            },
+            {
+              "name": "Atefeh Riazi",
+              "role": "Assistant Secretary-General, Information and Communications Technology (United States)"
+            }
+          ]
+        },
+        {
+          "department_name": "OFFICE FOR DISARMAMENT AFFAIRS",
+          "department_personnel": [
+            {
+              "name": "Izumi Nakamitsu",
+              "role": "Assistant Secretary-General, High Representative for Disarmament Affairs (Japan)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS COUNTER TERRORISM OFFICE",
+          "department_personnel": [
+            {
+              "name": "Vladimir Voronkov",
+              "role": "Under-Secretary-General (Russian Federation)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS OFFICE FOR PARTNERSHIPS",
+          "department_personnel": [
+            {
+              "name": "Annika Savill",
+              "role": "United Nations Democracy Fund (UNDEF) Executive Head"
+            },
+            {
+              "name": "Robert Skinner",
+              "role": "United Nations Fund for International Partnerships (UNFIP) Executive Director (United States)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS DEVELOPMENT COORDINATION OFFICE",
+          "department_personnel": [
+            {
+              "name": "Robert Piper",
+              "role": "Assistant Secretary-General (Australia)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS AT GENEVA (UNOG)",
+          "department_personnel": [
+            {
+              "name": "Tatiana Valovaya",
+              "role": "Director-General of UNOG (Russian Federation)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS AT VIENNA (UNOV)",
+          "department_personnel": [
+            {
+              "name": "Yury Fedotov",
+              "role": "Director-General (Russian Federation)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS AT NAIROBI (UNON)",
+          "department_personnel": [
+            {
+              "name": "Workneh Gebeyehu Negewo",
+              "role": "Director-General (Ethiopia)"
+            }
+          ]
+        },
+        {
+          "department_name": "UNITED NATIONS INFORMATION CENTRE",
+          "department_personnel": [
+            {
+              "name": "Mary Waters",
+              "role": "Director (United States)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "ECA",
+      "organization_personnel": [
+        {
+          "name": "Vera Songwe",
+          "role": "Executive Secretary"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "ECE",
+      "organization_personnel": [
+        {
+          "name": "Olga Algayerova",
+          "role": "Executive Secretary"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "ECLAC",
+      "organization_personnel": [
+        {
+          "name": "Alicia Barcena",
+          "role": "Executive Secretary"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "ECLAC Washington Office",
+          "department_personnel": [
+            {
+              "name": "Ines Bustillo",
+              "role": "Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "ESCAP",
+      "organization_personnel": [
+        {
+          "name": "Armida Salsiah Alisjahbana",
+          "role": "Executive Secretary"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "ESCWA",
+      "organization_personnel": [
+        {
+          "name": "Rola Dashti",
+          "role": "Executive Secretary"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "Regional Commissions",
+      "organization_personnel": [
+        {
+          "name": "Amr Nour",
+          "role": "Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNHCR",
+      "organization_personnel": [
+        {
+          "name": "Filippo Grandi",
+          "role": "High Commissioner"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNHCR Regional Office for the United States and the Caribbean",
+          "department_personnel": [
+            {
+              "name": "Matthew Reynolds",
+              "role": "Regional Representative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "UNICEF",
+      "organization_personnel": [
+        {
+          "name": "Henrietta Fore",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNICEF Representation Office",
+          "department_personnel": [
+            {
+              "name": "Sean Snyder",
+              "role": "Public Partnerships Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "UNCTAD",
+      "organization_personnel": [
+        {
+          "name": "Mukhisa Kituyi",
+          "role": "Secretary General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "ITC",
+      "organization_personnel": [
+        {
+          "name": "Maria Aranzuzu Gonzalez Laya",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNDP",
+      "organization_personnel": [
+        {
+          "name": "Achim Steiner",
+          "role": "Administrator"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNDP Representation Office",
+          "department_personnel": [
+            {
+              "name": "Paul Clayman",
+              "role": "Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "UN Women",
+      "organization_personnel": [
+        {
+          "name": "Phumzile Mlambo-Ngcuka",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNV",
+      "organization_personnel": [
+        {
+          "name": "Olivier Adam",
+          "role": "Executive Coordinator"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNEP",
+      "organization_personnel": [
+        {
+          "name": "Inger Andersen",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNEP Regional Office for North America",
+          "department_personnel": [
+            {
+              "name": "Barbara Hendrie",
+              "role": "Regional Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "UN-HABITAT",
+      "organization_personnel": [
+        {
+          "name": "Maimunah Mohd Sharif",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNODC",
+      "organization_personnel": [
+        {
+          "name": "Yury Fedotov",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNFPA",
+      "organization_personnel": [
+        {
+          "name": "Natalia Kanem",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNFPA Liaison Office",
+          "department_personnel": [
+            {
+              "name": "Sarah Craven",
+              "role": "Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "UNRWA",
+      "organization_personnel": [
+        {
+          "name": "Pierre Krahenbuhl",
+          "role": "Commissioner-General"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNRWA Representative Office",
+          "department_personnel": [
+            {
+              "name": "Elizabeth Campbell",
+              "role": "Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "WFP",
+      "organization_personnel": [
+        {
+          "name": "David Beasley",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "WFP U.S. Relations Office",
+          "department_personnel": [
+            {
+              "name": "Gresham Barrett",
+              "role": "Senior Director"
+            },
+            {
+              "name": "Jon Brause",
+              "role": "Managing Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "OHCHR",
+      "organization_personnel": [
+        {
+          "name": "Michelle Bachelet",
+          "role": "High Commissioner for Human Rights"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "OHCHR New York Office",
+          "department_personnel": [
+            {
+              "name": "Andrew Gilmour",
+              "role": "Assistant Secretary-General"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "NGLS",
+      "organization_personnel": [
+        {
+          "name": "Susan Alzner",
+          "role": "Officer-in-Charge, New York"
+        },
+        {
+          "name": "Hamish Jenkins",
+          "role": "Officer-in-Charge, Geneva"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNOPS",
+      "organization_personnel": [
+        {
+          "name": "Grete Faremo",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNOPS Liaison Office",
+          "department_personnel": [
+            {
+              "name": "Nicholas George",
+              "role": "Head of Office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "CEB",
+      "organization_personnel": [],
+      "departments": []
+    },
+    {
+      "organization_name": "UNSSC",
+      "organization_personnel": [
+        {
+          "name": "Dr. Jafar Javan",
+          "role": "Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNU",
+      "organization_personnel": [
+        {
+          "name": "David Malone",
+          "role": "Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "ICC",
+      "organization_personnel": [
+        {
+          "name": "Sameer Chauhan",
+          "role": "Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNAIDS",
+      "organization_personnel": [
+        {
+          "name": "Winnie Byanyima",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "UNAIDS Washington Liaison Office",
+          "department_personnel": [
+            {
+              "name": "Regan Hofmann",
+              "role": "Director, a.i."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "UNITED NATIONS INSTITUTE FOR DISARMAMENT RESEARCH",
+      "organization_personnel": [
+        {
+          "name": "Renata Dwan",
+          "role": "Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNITED NATIONS INSTITUTE FOR TRAINING AND RESEARCH",
+      "organization_personnel": [
+        {
+          "name": "Nikhil Seth",
+          "role": "Executive Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNITED NATIONS INTERNATIONAL RESEARCH AND TRAINING INSTITUTE FOR THE ADVANCEMENT OF WOMEN",
+      "organization_personnel": [],
+      "departments": []
+    },
+    {
+      "organization_name": "UNITED NATIONS INTERREGIONAL CRIME AND JUSTICE RESEARCH INSTITUTE",
+      "organization_personnel": [
+        {
+          "name": "Bettina Tucci Bartsiotas",
+          "role": "Director, a.i"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNITED NATIONS RESEARCH INSTITUTE FOR SOCIAL DEVELOPMENT",
+      "organization_personnel": [
+        {
+          "name": "Paul Ladd",
+          "role": "Director"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "FOOD AND AGRICULTURE ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Qu Dongyu",
+          "role": "Director-General"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "Liaison Office for North America",
+          "department_personnel": [
+            {
+              "name": "Vimlendra Sharan",
+              "role": "Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL CIVIL AVIATION ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Dr. Fang Liu",
+          "role": "Secretary-General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT",
+      "organization_personnel": [
+        {
+          "name": "Gilbert F. Houngbo",
+          "role": "President"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "External Affairs Department",
+          "department_personnel": [
+            {
+              "name": "Joanna Veltri",
+              "role": "Chief"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL LABOUR ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Guy Ryder",
+          "role": "Director-General"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "Washington Branch Office",
+          "department_personnel": [
+            {
+              "name": "Kevin Cassidy",
+              "role": "Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "INTERNATIONAL MARITIME ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Kitack Lim",
+          "role": "Secretary-General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "INTERNATIONAL MONETARY FUND",
+      "organization_personnel": [
+        {
+          "name": "David Lipton",
+          "role": "Managing Director (acting)"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "INTERNATIONAL TELECOMMUNICATIONS UNION",
+      "organization_personnel": [
+        {
+          "name": "Houlin Zhao",
+          "role": "Secretary-General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNITED NATIONS EDUCATIONAL, SCIENTIFIC, AND CULTURAL ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Audrey Azoulay",
+          "role": "Director-General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Li Yong",
+          "role": "Director-General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "UNIVERSAL POSTAL UNION",
+      "organization_personnel": [
+        {
+          "name": "Bishar Abdirahman Hussein",
+          "role": "Director-General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "WORLD BANK GROUP",
+      "organization_personnel": [
+        {
+          "name": "David Malpass",
+          "role": "President"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "WORLD HEALTH ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Tedros Adhanom Ghebreyesus",
+          "role": "Director-General"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "Pan American Health Organization / World Health Organization Regional Office for the Americas",
+          "department_personnel": [
+            {
+              "name": "Carissa F. Etienne",
+              "role": "Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "WORLD INTELLECTUAL PROPERTY ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Francis Gurry",
+          "role": "Director General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "WORLD METEOROLOGICAL ORGANIZATION",
+      "organization_personnel": [
+        {
+          "name": "Petteri Taalas",
+          "role": "Secretary-General"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "INTERNATIONAL ATOMIC ENERGY AGENCY",
+      "organization_personnel": [
+        {
+          "name": "Cornel Feruta",
+          "role": "Director General (acting)"
+        }
+      ],
+      "departments": [
+        {
+          "department_name": "Washington Office",
+          "department_personnel": [
+            {
+              "name": "Andrew Semmel",
+              "role": "Consultant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "organization_name": "SPECIAL AND PERSONAL REPRESENTATIVES AND ENVOYS OF THE SECRETARY-GENERAL",
+      "organization_personnel": [
+        {
+          "name": "David Gressly",
+          "role": "Emergency Ebola Response Coordinator"
+        },
+        {
+          "name": "Michel Kafando",
+          "role": "Special Envoy of the Secretary-General to lead and coordinate the political efforts of the United Nations in Burundi"
+        },
+        {
+          "name": "Bience Gawanas",
+          "role": "Special Adviser to the Secretary-General on Africa, OSAA"
+        },
+        {
+          "name": "Fekitamoeloa Katoa `Utoikamanu",
+          "role": "High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States, UN-OHRLLS"
+        },
+        {
+          "name": "Hanna Serwaa Tetteh",
+          "role": "Special Representative of the Secretary-General to the African Union, UNOAU"
+        },
+        {
+          "name": "Francois Lounceny Fall",
+          "role": "Special Representative of the Secretary-General and Head of UNOCA"
+        },
+        {
+          "name": "Mankeur Ndiaye",
+          "role": "Special Representative of the Secretary-General and Head of the United Nations Integrated Peacebuilding Office in the Central African Republic"
+        },
+        {
+          "name": "Kenneth Gluck",
+          "role": "Deputy Special Representative of the Secretary-General and Deputy Head of Mission, MINUSCA"
+        },
+        {
+          "name": "Denise Brown",
+          "role": "Deputy Special Representative of the Secretary-General in the Central African Republic and UN Resident Coordinator and Resident Representative, MINUSCA"
+        },
+        {
+          "name": "Leila Zerrougui",
+          "role": "Special Representative of the Secretary-General for the Democratic Republic of the Congo and Head of MONUSCO"
+        },
+        {
+          "name": "David Gressly",
+          "role": "United Nations Emergency Ebola Response Coordinator"
+        },
+        {
+          "name": "Francois Grignon",
+          "role": "Deputy Special Representative of the Secretary-General for Protection and Operations, MONUSCO (a.i)"
+        },
+        {
+          "name": "David McLachlan-Karr",
+          "role": "Deputy Special Representative ad interim, MONUSCO, and United Nations Resident Coordinator and Humanitarian Coordinator"
+        },
+        {
+          "name": "Huang Xia",
+          "role": "Special Representative of the Secretary-General for the Great Lakes Region"
+        },
+        {
+          "name": "Rosine Sori-Coulibaly",
+          "role": "Special Representative of the Secretary-General and Head of UNOGBIS"
+        },
+        {
+          "name": "Parfait Onanga-Anyanga",
+          "role": "Special Envoy of the Secretary-General for the Horn of Africa"
+        },
+        {
+          "name": "Mahamat Saleh Annadif",
+          "role": "Special Representative of the Secretary-General and Head of Mission, MINUSMA"
+        },
+        {
+          "name": "Joanne Adamson",
+          "role": "Deputy Special Representative of the Secretary-General (Political), MINUSMA"
+        },
+        {
+          "name": "Mbaranga Gasarabwe",
+          "role": "Deputy Special Representative of the Secretary-General, MINUSMA and UN Resident Coordinator, Humanitarian Coordinator and Resident Representative of UNDP"
+        },
+        {
+          "name": "Mohammed Ibn Chambas",
+          "role": "Special Representative of the Secretary-General and Head of UNOWAS"
+        },
+        {
+          "name": "Ruby Sandhu-Rojon",
+          "role": "Deputy Special Representative of the United Nations Secretary-General for West Africa and the Sahel"
+        },
+        {
+          "name": "Colin Stewart",
+          "role": "Special Representative of the Secretary-General for Western Sahara and Head of MINURSO"
+        },
+        {
+          "name": "Carlos Ruiz Massieu",
+          "role": "Special Representative for Colombia and Head of the United Nations Verification Mission in Colombia"
+        },
+        {
+          "name": "Karla Gabriela Samayoa Recari",
+          "role": "Deputy Special Representative and Deputy Head of the United Nations Verification Mission in Colombia"
+        },
+        {
+          "name": "Benito Andion",
+          "role": "Special Envoy to the Secretary-General to Facilitate Dialogue in El Salvador"
+        },
+        {
+          "name": "Helen Meagher La Lime",
+          "role": "Special Representative of the Secretary-General and Head of Mission, MINUJUSTH"
+        },
+        {
+          "name": "Mamadou Diallo",
+          "role": "Deputy Special Representative of the Secretary-General and United Nations Resident Coordinator and Humanitarian Coordinator, MINUJUSTH"
+        },
+        {
+          "name": "Paul Farmer",
+          "role": "Special Adviser to the Secretary-General for Community-based Medicine and Lessons from Haiti"
+        },
+        {
+          "name": "Josette Sheeran",
+          "role": "Special Envoy of the Secretary-General for Haiti"
+        },
+        {
+          "name": "Tadamichi Yamamoto",
+          "role": "Special Representative of the Secretary-General for Afghanistan and Head of UNAMA"
+        },
+        {
+          "name": "Toby Lanzer",
+          "role": "Deputy Special Representative of the Secretary-General, UN Resident Coordinator and UN Humanitarian Coordinator for Afghanistan, UNAMA"
+        },
+        {
+          "name": "Ingrid Hayden",
+          "role": "Deputy Special Representative of the Secretary-General (Political) for UNAMA"
+        },
+        {
+          "name": "Natalia Gherman",
+          "role": "Special Representative of the Secretary-General and Head of the UN Regional Centre for Preventive Diplomacy for Central Asia (UNRCCA)"
+        },
+        {
+          "name": "Jose Eladio Alcain",
+          "role": "Chief Military Observer and Head of Mission, UNMOGIP"
+        },
+        {
+          "name": "Christine Schraner Burgener",
+          "role": "Special Envoy of the Secretary-General for Myanmar"
+        },
+        {
+          "name": "Elizabeth Spehar",
+          "role": "Special Representative of the Secretary-General and Head of Mission, UNFICYP"
+        },
+        {
+          "name": "Jane Holl Lute",
+          "role": "Special Adviser to the Secretary-General on Cyprus"
+        },
+        {
+          "name": "Ayse Cihan Sultanoglu",
+          "role": "United Nations Representative"
+        },
+        {
+          "name": "Zahir Tanin",
+          "role": "Special Representative of the Secretary-General and Head of Mission, UNMIK"
+        },
+        {
+          "name": "Christopher Coleman",
+          "role": "Deputy Special Representative of the Secretary-General, UNMIK"
+        },
+        {
+          "name": "Nickolay Mladenov",
+          "role": "Special Coordinator for the Middle East Peace Process and Personal Representative of the Secretary-General to the Palestine Liberation Organization and the Palestinian Authority"
+        },
+        {
+          "name": "Jamie McGoldrick",
+          "role": "Deputy Special Coordinator for the Middle East Peace Process / United Nations Coordinator for Humanitarian Aid and Development Activities in the Occupied Palestinian Territory"
+        },
+        {
+          "name": "Major General Kristin Lund",
+          "role": "Head of Mission and Chief of Staff of UN Truce Supervision Organization (UNTSO)"
+        },
+        {
+          "name": "Jeanine Hennis-Plasschaert",
+          "role": "Special Representative of the Secretary-General for Iraq and Head of Mission, UNAMI"
+        },
+        {
+          "name": "Alice Walpole",
+          "role": "Deputy Special Representative of the Secretary-General for Political Affairs and Electoral Assistance, UNAMI"
+        },
+        {
+          "name": "Marta Ruedas",
+          "role": "Deputy Special Representative of the Secretary-General (Development and Humanitarian Support) and Resident Coordinator / Humanitarian Coordinator for Iraq, UNAMI"
+        },
+        {
+          "name": "Ahmed Al Meraikhi",
+          "role": "Humanitarian Envoy of the Secretary-General"
+        },
+        {
+          "name": "Jan Kubis",
+          "role": "Special Coordinator of the Secretary-General for Lebanon"
+        },
+        {
+          "name": "Philippe Lazzarini",
+          "role": "Deputy Special Coordinator of the Secretary-General for Lebanon, UN Resident Coordinator, Humanitarian Coordinator and Resident Representative"
+        },
+        {
+          "name": "Major General Stefano Del Col",
+          "role": "Head of Mission and Force Commander of UNIFIL"
+        },
+        {
+          "name": "Ghassan Salame",
+          "role": "Special Representative of the Secretary-General and Head of Mission, UNSMIL"
+        },
+        {
+          "name": "Stephanie T. Williams",
+          "role": "Deputy Special Representative and Deputy Head of the United Nations Support Mission in Libya, UNSMIL (Political)"
+        },
+        {
+          "name": "Yacoub El Hillo",
+          "role": "Deputy Special Representative in Libya, United Nations Resident Coordinator and Humanitarian Coordinator"
+        },
+        {
+          "name": "Geir O. Pedersen",
+          "role": "Special Envoy of the Secretary-General for Syria"
+        },
+        {
+          "name": "Khawla Matar",
+          "role": "Deputy Special Envoy of the Secretary-General for Syria"
+        },
+        {
+          "name": "Major General Shivaram Kharel",
+          "role": "Head of Mission and Force Commander of the UN Disengagement Observer Force (UNDOF) (acting)"
+        },
+        {
+          "name": "Martin Griffiths",
+          "role": "Special Envoy of the Secretary-General for Yemen"
+        },
+        {
+          "name": "Lise Grande",
+          "role": "Resident and Humanitarian Coordinator for Yemen"
+        },
+        {
+          "name": "Miguel Angel Moratinos Cuyaube",
+          "role": "High Representative"
+        },
+        {
+          "name": "Virginia Gamba",
+          "role": "Special Representative"
+        },
+        {
+          "name": "Michael Bloomberg",
+          "role": "Special Envoy"
+        },
+        {
+          "name": "Robert Orr",
+          "role": "Special Adviser to the Secretary-General on Climate Change",
+          "bioguide_id": "O000105"
+        },
+        {
+          "name": "Maria Soledad Cisternas Reyes",
+          "role": "Special Envoy on Disability and Accessibility"
+        },
+        {
+          "name": "Mami Mizutori",
+          "role": "Special Representative"
+        },
+        {
+          "name": "Han Seung-soo",
+          "role": "Special Envoy"
+        },
+        {
+          "name": "Gordon Brown",
+          "role": "Special Representative"
+        },
+        {
+          "name": "Adama Dieng",
+          "role": "Special Adviser"
+        },
+        {
+          "name": "Karen Smith",
+          "role": "Special Adviser"
+        },
+        {
+          "name": "Jean Todt",
+          "role": "Special Envoy"
+        },
+        {
+          "name": "Jane Holl Lute",
+          "role": "Special Coordinator"
+        },
+        {
+          "name": "Pramila Patten",
+          "role": "Special Representative"
+        },
+        {
+          "name": "Jorge Chediek",
+          "role": "Special Envoy"
+        },
+        {
+          "name": "Rachel Kyte",
+          "role": "Special Representative"
+        },
+        {
+          "name": "Najat Maalla M'jid",
+          "role": "Special Representative"
+        },
+        {
+          "name": "Jayathma Wickramanayake",
+          "role": "Envoy"
+        }
+      ],
+      "departments": []
+    },
+    {
+      "organization_name": "WORLD BANK GROUP",
+      "organization_personnel": [],
+      "departments": [
+        {
+          "department_name": "INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+          "department_personnel": [
+            {
+              "name": "David Malpass",
+              "role": "President"
+            },
+            {
+              "name": "Shaolin Yang",
+              "role": "Managing Director and World Bank Group Chief Administrative Officer"
+            },
+            {
+              "name": "Bernard Lauwers",
+              "role": "Managing Director and World Bank Group Chief Financial Officer (acting)"
+            },
+            {
+              "name": "Axel van Trotsenburg",
+              "role": "Chief Executive Officer (acting)"
+            },
+            {
+              "name": "Imrana Jalal",
+              "role": "Chairperson, Inspection Panel"
+            },
+            {
+              "name": "Sandie Okoro",
+              "role": "Senior Vice President and World Bank Group General Counsel, Vice President, Compliance"
+            },
+            {
+              "name": "Pinelopi Koujianou Goldberg",
+              "role": "World Bank Group Chief Economist"
+            },
+            {
+              "name": "Mahmoud Mohieldin",
+              "role": "Senior Vice President for the 2030 Development Agenda, United Nations Relations, and Partnerships Operations"
+            },
+            {
+              "name": "Annette Dixon",
+              "role": "Vice President, Human Development Vice Presidency"
+            },
+            {
+              "name": "Denis Robitaille",
+              "role": "World Bank Group Vice President Information and Technology Solutions and WBG Chief Information Officer"
+            },
+            {
+              "name": "Jorge Familiar Calderon",
+              "role": "Vice President and World Bank Group Controller"
+            },
+            {
+              "name": "Antonella Bassani",
+              "role": "Vice President, Budget, Performance Review and Strategic Planning"
+            },
+            {
+              "name": "Yvonne Tsikata",
+              "role": "Vice President and Corporate Secretary"
+            },
+            {
+              "name": "Jingdong Hua",
+              "role": "Vice President and Treasurer"
+            },
+            {
+              "name": "Hafez Ghanem",
+              "role": "Vice President of Africa"
+            },
+            {
+              "name": "Victoria Kwakwa",
+              "role": "Vice President of East Asia and Pacific"
+            },
+            {
+              "name": "Hartwig Schafer",
+              "role": "Vice President of South Asia"
+            },
+            {
+              "name": "Sheila Redzepi",
+              "role": "Vice President, World Bank Group External and Corporate Relations"
+            },
+            {
+              "name": "William C. Danvers",
+              "role": "North American Affairs (External and Corporate Relations) Special Representative"
+            },
+            {
+              "name": "Mario Alexander Sander von Torklus",
+              "role": "Europe (External and Corporate Relations) Special Representative and Director"
+            },
+            {
+              "name": "Masato Miyazaki",
+              "role": "Japan-External and Corporate Relations, Special Representative"
+            },
+            {
+              "name": "Ousmane Diagana",
+              "role": "Human Resources"
+            },
+            {
+              "name": "Axel van Trotsenburg",
+              "role": "Latin America and the Caribbean"
+            },
+            {
+              "name": "Ferid Belhaj",
+              "role": "Middle East and North Africa"
+            },
+            {
+              "name": "Cyril Muller",
+              "role": "Vice President of Europe and Central Asia"
+            },
+            {
+              "name": "Manuela Ferro",
+              "role": "Vice President and Network Head, Operations Policy and Country Services"
+            },
+            {
+              "name": "Bernard Lauwers",
+              "role": "Vice President, Institutional Projects"
+            },
+            {
+              "name": "Ceyla Pazarbasioglu",
+              "role": "Vice President, Equitable Growth, Finance and Institutions"
+            },
+            {
+              "name": "Laura Tuck",
+              "role": "Vice President, Sustainable Development Vice Presidency"
+            },
+            {
+              "name": "Makhtar Diop",
+              "role": "Vice President, Infrastructure"
+            },
+            {
+              "name": "Akihiko Nishio",
+              "role": "Vice President, Development Finance"
+            },
+            {
+              "name": "Lakshmi Shyam-Sunder",
+              "role": "Vice President and Bank Group Risk Officer"
+            },
+            {
+              "name": "Osvaldo Luis Gratacos",
+              "role": "Vice President, Compliance Advisor / Ombudsman"
+            },
+            {
+              "name": "Alison Evans",
+              "role": "Director-General, Independent Evaluation"
+            },
+            {
+              "name": "Anke D'Angelo",
+              "role": "Vice President and Auditor-General"
+            },
+            {
+              "name": "Pascale Helene Dubois",
+              "role": "Vice President, Institutional Integrity"
+            },
+            {
+              "name": "Jorge Dajani Gonzalez",
+              "role": "Vice President and World Bank Group Chief Ethics Officer"
+            }
+          ]
+        },
+        {
+          "department_name": "INTERNATIONAL DEVELOPMENT ASSOCIATION",
+          "department_personnel": []
+        },
+        {
+          "department_name": "INTERNATIONAL FINANCE CORPORATION",
+          "department_personnel": [
+            {
+              "name": "David Malpass",
+              "role": "President"
+            },
+            {
+              "name": "Philippe Le Houerou",
+              "role": "Executive Vice President and Chief Executive Officer"
+            },
+            {
+              "name": "Yvonne Tsikata",
+              "role": "Vice President and Corporate Secretary"
+            },
+            {
+              "name": "Stephanie von Friedeburg",
+              "role": "Chief Operating Officer"
+            },
+            {
+              "name": "Alison Evans",
+              "role": "Director-General, Independent Evaluation"
+            },
+            {
+              "name": "Osvaldo Luis Gratacos",
+              "role": "Compliance Advisor / Ombudsman (IFC / ICC and MIGA)"
+            },
+            {
+              "name": "Ethiopis Tafara",
+              "role": "Vice President and General Counsel, Legal & Compliance Risk"
+            },
+            {
+              "name": "Ousmane Diagana",
+              "role": "Vice President, Human Resource"
+            },
+            {
+              "name": "Mohamed Gouled",
+              "role": "Vice President, Risk and Finance"
+            },
+            {
+              "name": "John Gandolfo",
+              "role": "Vice President, Treasury and Syndications"
+            },
+            {
+              "name": "Hans Peters Lankes",
+              "role": "Vice President, Economics and Private Sector Development"
+            },
+            {
+              "name": "Monish Mahurkar",
+              "role": "Vice President, Corporate Strategy and Resources"
+            },
+            {
+              "name": "Karin Finkelston",
+              "role": "Vice President, Partnerships, Communication and Outreach"
+            },
+            {
+              "name": "Marcos Brujis",
+              "role": "Vice President, Asset Management Company Services and CEO, IFC Asset Management Company"
+            },
+            {
+              "name": "Snezana Stoiljkovic",
+              "role": "Vice President, South Asia, East Asia & Pacific"
+            },
+            {
+              "name": "Sergio Pimenta",
+              "role": "Vice President, Middle East & Africa"
+            },
+            {
+              "name": "Georgina Baker",
+              "role": "Vice President, Latin America & Caribbean, Europe & Central Asia"
+            },
+            {
+              "name": "Elizabeth Kibirige Namugenyi",
+              "role": "Director, Office of Budget and Business Administration"
+            },
+            {
+              "name": "Martin Spicer",
+              "role": "Director, Office of Blended Finance"
+            },
+            {
+              "name": "Alzbeta Klein",
+              "role": "Director, Office of Climate Business"
+            },
+            {
+              "name": "Shannon Wells Atkeson",
+              "role": "Director, Office of Disruptive Technology and Funds (acting)"
+            },
+            {
+              "name": "Aisha Elaine Williams",
+              "role": "Director, Office of Corporate Strategy and Operational Policies and Procedures"
+            },
+            {
+              "name": "Sekkappa Nagappan",
+              "role": "Director, Office of Information and Technology (acting)"
+            },
+            {
+              "name": "Leslie Sturtevant",
+              "role": "Legal"
+            },
+            {
+              "name": "Ceri Wyn Lawley",
+              "role": "Business Risk and Compliance"
+            },
+            {
+              "name": "Mary Porter Peschka",
+              "role": "Environment, Social and Governance Sustainability Advice and Solutions"
+            },
+            {
+              "name": "Davide Bonzano",
+              "role": "Human Resources"
+            },
+            {
+              "name": "Paulo de Bolle",
+              "role": "Financial Institutions Group"
+            },
+            {
+              "name": "Paul B. Bravery",
+              "role": "IFC Controller"
+            },
+            {
+              "name": "Morgan J. Landy",
+              "role": "Infrastructure and Natural Resources"
+            },
+            {
+              "name": "Deema Fakhoury",
+              "role": "Portfolio Management"
+            },
+            {
+              "name": "Emmanuel Damian Bahizi Nyirinkindi",
+              "role": "PPP and Corporate Finance"
+            },
+            {
+              "name": "Mona E. Haddad",
+              "role": "Country Economics and Engagement"
+            },
+            {
+              "name": "Issa Faye",
+              "role": "Sector Economics and Development Impact"
+            },
+            {
+              "name": "Jean Pierre Lacombe",
+              "role": "Global Macro and Market Research"
+            },
+            {
+              "name": "Tarek S. Himmo",
+              "role": "Corporate Risk Management"
+            },
+            {
+              "name": "Khawaja Aftab Ahmed",
+              "role": "Investment and Credit Risk"
+            },
+            {
+              "name": "Eric J. Jourdanet",
+              "role": "Special Operations"
+            },
+            {
+              "name": "Tomasz Telma",
+              "role": "Manufacturing, Agribusiness and Services"
+            },
+            {
+              "name": "Bertrand Heysch de la Borde",
+              "role": "Energy and Mining"
+            },
+            {
+              "name": "Vivek Pathak",
+              "role": "East Asia and the Pacific"
+            },
+            {
+              "name": "Jumoke Jagun-Dokunmu",
+              "role": "Eastern Africa"
+            },
+            {
+              "name": "Kevin Njiraini",
+              "role": "Southern Africa"
+            },
+            {
+              "name": "Aliou Maiga",
+              "role": "West and Central Africa"
+            },
+            {
+              "name": "Wiebke Schloemer",
+              "role": "Europe and Central Asia"
+            },
+            {
+              "name": "Mengistu Alemayehu",
+              "role": "South Asia"
+            },
+            {
+              "name": "Mouayed Makhlouf",
+              "role": "Middle East and North Africa"
+            },
+            {
+              "name": "Gabriel B. Goldschmidt",
+              "role": "Latin America and the Caribbean"
+            },
+            {
+              "name": "Atul Mehta",
+              "role": "Telecom, Media, Tech and Venture Investing"
+            },
+            {
+              "name": "Tom Maurice Valentine Ceusters",
+              "role": "Treasury Market Operations"
+            },
+            {
+              "name": "Keshav Gaur",
+              "role": "Treasury Client Solutions"
+            },
+            {
+              "name": "Takehisa Eguchi",
+              "role": "Treasury Quantitative Analysis"
+            },
+            {
+              "name": "Sabrina M. Borlini",
+              "role": "Syndicated Loans and Mobilization"
+            },
+            {
+              "name": "Toshitake Kurosawa",
+              "role": "Tokyo"
+            },
+            {
+              "name": "Ousseynou Nakoulima",
+              "role": "Western Europe"
+            },
+            {
+              "name": "Audrey Sibusisiwe Mpunzwana",
+              "role": "Manager, Office of Global Internal Engagement"
+            },
+            {
+              "name": "Thomas Michael Kerr",
+              "role": "Manager, Office of Global Engagement and Outreach"
+            },
+            {
+              "name": "Riham Mustafa",
+              "role": "Manager, Office of Campaigns and Content"
+            },
+            {
+              "name": "Rapti A. Goonesekere",
+              "role": "Manager, Office of Global Business Partners"
+            },
+            {
+              "name": "Mame Annan-Brown",
+              "role": "Manager, Office of External Relations"
+            },
+            {
+              "name": "Henriette Kolb",
+              "role": "Manager, Office of Gender Secretariat"
+            },
+            {
+              "name": "Vittorio Di Bello",
+              "role": "Manager, Office of FIG Europe and Central Asia"
+            },
+            {
+              "name": "Allen Nanglefack Agandie Forlemu",
+              "role": "Manager, Office of FIG Latin America and the Caribbean"
+            },
+            {
+              "name": "Manuel Reyes-Retana",
+              "role": "Manager, Office of FIG Middle East and Africa"
+            },
+            {
+              "name": "Rosy Khanna",
+              "role": "Manager, Office of FIG South Asia, East Asia and the Pacific"
+            },
+            {
+              "name": "Adil Marghub",
+              "role": "Manager, Office of INR Latin America and the Caribbean"
+            },
+            {
+              "name": "Cheryl Edleson Hanway",
+              "role": "Manager, Office of INR Europe and Central Asia"
+            },
+            {
+              "name": "Rudo Linda Munyengeterwa",
+              "role": "Manager, Office of INR Middle East and Africa"
+            },
+            {
+              "name": "Isabel Chatterton",
+              "role": "Manager, Office of INR South Asia, East Asia and the Pacific"
+            },
+            {
+              "name": "Tania Kaddeche",
+              "role": "Manager, Office of MAS Latin America and the Caribbean"
+            },
+            {
+              "name": "Tatiana Bogatyreva",
+              "role": "Manager, Office of MAS Europe and Central Asia"
+            },
+            {
+              "name": "Mary-Jean Lindile Moyo",
+              "role": "Manager, Office of MAS Middle East and Africa"
+            },
+            {
+              "name": "Rana Karadsheh",
+              "role": "Manager, Office of MAS South Asia, East Asia and the Pacific"
+            }
+          ]
+        },
+        {
+          "department_name": "MULTILATERAL INVESTMENT GUARANTEE AGENCY",
+          "department_personnel": [
+            {
+              "name": "David Malpass",
+              "role": "President"
+            },
+            {
+              "name": "Keiko Honda",
+              "role": "Executive Vice President and Chief Executive Officer"
+            },
+            {
+              "name": "Aradhana Kumar-Capoor",
+              "role": "Director and General Counsel, Legal Affairs and Claims Group"
+            },
+            {
+              "name": "Osvaldo Luis Gratacos",
+              "role": "Compliance Advisor / Ombudsman (IFC / ICC and MIGA)"
+            },
+            {
+              "name": "Subramaniam Vijay Iyer",
+              "role": "Vice President and Chief Operating Officer"
+            },
+            {
+              "name": "Sarvesh Suri",
+              "role": "Director, Operations Group"
+            },
+            {
+              "name": "Muhamet Fall",
+              "role": "Chief Underwriter, Operations Group"
+            },
+            {
+              "name": "Merli Margaret Baroudi",
+              "role": "Director, Economics and Sustainability Group"
+            },
+            {
+              "name": "Santiago Assalini",
+              "role": "Director, Corporate Risk"
+            },
+            {
+              "name": "Hoda Moustafa",
+              "role": "Head, MIGA Africa Hub"
+            },
+            {
+              "name": "Christopher Millward",
+              "role": "Head, MIGA Europe Hub"
+            },
+            {
+              "name": "Jae Hyung Kwon",
+              "role": "Head, MIGA North Asia"
+            },
+            {
+              "name": "Timothy Histed",
+              "role": "Head, MIGA Singapore Office"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

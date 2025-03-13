@@ -1,0 +1,66 @@
+{
+  "courts": [
+    {
+      "court_name": "UNITED STATES COURT OF INTERNATIONAL TRADE",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "MARK A. BARNETT",
+          "role": "chief judge"
+        },
+        {
+          "name": "CLAIRE R. KELLY",
+          "role": "judge"
+        },
+        {
+          "name": "JENNIFER CHOE-GROVES",
+          "role": "judge"
+        },
+        {
+          "name": "GARY S. KATZMANN",
+          "role": "judge"
+        },
+        {
+          "name": "TIMOTHY M. REIF",
+          "role": "judge"
+        },
+        {
+          "name": "M. MILLER BAKER",
+          "role": "judge"
+        },
+        {
+          "name": "STEPHEN ALEXANDER VADEN",
+          "role": "judge"
+        },
+        {
+          "name": "JANE A. RESTANI",
+          "role": "senior judge"
+        },
+        {
+          "name": "THOMAS J. AQUILINO, JR.",
+          "role": "senior judge"
+        },
+        {
+          "name": "RICHARD K. EATON",
+          "role": "senior judge"
+        },
+        {
+          "name": "TIMOTHY C. STANCEU",
+          "role": "senior judge"
+        },
+        {
+          "name": "LEO M. GORDON",
+          "role": "senior judge"
+        },
+        {
+          "name": "R. KENTON MUSGRAVE",
+          "role": "inactive senior judge"
+        },
+        {
+          "name": "MARIO TOSCANO",
+          "role": "Clerk of the Court"
+        }
+      ]
+    }
+  ]
+}

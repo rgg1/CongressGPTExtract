@@ -1,0 +1,98 @@
+{
+  "courts": [
+    {
+      "court_name": "SUPREME COURT OF THE UNITED STATES",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "JOHN G. ROBERTS, Jr.",
+          "role": "Chief Justice of the United States"
+        },
+        {
+          "name": "CLARENCE THOMAS",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "SAMUEL A. ALITO, Jr.",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "SONIA SOTOMAYOR",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "ELENA KAGAN",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "NEIL M. GORSUCH",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "BRETT M. KAVANAUGH",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "AMY CONEY BARRETT",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "KETANJI BROWN JACKSON",
+          "role": "Associate Justice"
+        },
+        {
+          "name": "SANDRA DAY O'CONNOR",
+          "role": "Retired Associate Justice"
+        },
+        {
+          "name": "ANTHONY M. KENNEDY",
+          "role": "Retired Associate Justice"
+        },
+        {
+          "name": "DAVID H. SOUTER",
+          "role": "Retired Associate Justice"
+        },
+        {
+          "name": "STEPHEN G. BREYER",
+          "role": "Retired Associate Justice"
+        },
+        {
+          "name": "JEFFREY P. MINEAR",
+          "role": "Counselor to the Chief Justice"
+        },
+        {
+          "name": "SCOTT S. HARRIS",
+          "role": "Clerk"
+        },
+        {
+          "name": "LINDA MASLOW",
+          "role": "Librarian"
+        },
+        {
+          "name": "GAIL A. CURLEY",
+          "role": "Marshal"
+        },
+        {
+          "name": "REBECCA A. WOMELDORF",
+          "role": "Reporter of Decisions"
+        },
+        {
+          "name": "ETHAN V. TORREY",
+          "role": "Court Counsel"
+        },
+        {
+          "name": "CATHERINE E. FITTS",
+          "role": "Curator"
+        },
+        {
+          "name": "ROBERT J. HAWKINS",
+          "role": "Director of Information Technology"
+        },
+        {
+          "name": "KATHLEEN L. ARBERG",
+          "role": "Public Information Officer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Kamala D. Harris",
+      "member_role": "Vice President of the United States",
+      "bioguide_id": "H001075"
+    },
+    {
+      "member_name": "Antony Blinken",
+      "member_role": "Secretary of State"
+    },
+    {
+      "member_name": "Dr. Janet Yellen",
+      "member_role": "Secretary of the Treasury"
+    },
+    {
+      "member_name": "Lloyd Austin",
+      "member_role": "Secretary of Defense"
+    },
+    {
+      "member_name": "Merrick Garland",
+      "member_role": "Attorney General"
+    },
+    {
+      "member_name": "Deb Haaland",
+      "member_role": "Secretary of the Interior"
+    },
+    {
+      "member_name": "Tom Vilsack",
+      "member_role": "Secretary of Agriculture"
+    },
+    {
+      "member_name": "Gina Raimondo",
+      "member_role": "Secretary of Commerce"
+    },
+    {
+      "member_name": "Marty Walsh",
+      "member_role": "Secretary of Labor"
+    },
+    {
+      "member_name": "Xavier Becerra",
+      "member_role": "Secretary of Health and Human Services",
+      "bioguide_id": "B000287"
+    },
+    {
+      "member_name": "Marcia Fudge",
+      "member_role": "Secretary of Housing and Urban Development",
+      "bioguide_id": "F000455"
+    },
+    {
+      "member_name": "Pete Buttigieg",
+      "member_role": "Secretary of Transportation"
+    },
+    {
+      "member_name": "Jennifer Granholm",
+      "member_role": "Secretary of Energy"
+    },
+    {
+      "member_name": "Dr. Miguel Cardona",
+      "member_role": "Secretary of Education"
+    },
+    {
+      "member_name": "Denis McDonough",
+      "member_role": "Secretary of Veterans Affairs"
+    },
+    {
+      "member_name": "Alejandro Mayorkas",
+      "member_role": "Secretary of Homeland Security"
+    },
+    {
+      "member_name": "Ron Klain",
+      "member_role": "White House Chief of Staff"
+    },
+    {
+      "member_name": "Michael Regan",
+      "member_role": "Administrator of the Environmental Protection Agency"
+    },
+    {
+      "member_name": "Katherine Tai",
+      "member_role": "U.S. Trade Representative"
+    },
+    {
+      "member_name": "Avril Haines",
+      "member_role": "Director of National Intelligence"
+    },
+    {
+      "member_name": "William Joseph Burns",
+      "member_role": "Director of the Central Intelligence Agency"
+    },
+    {
+      "member_name": "Shalanda Young",
+      "member_role": "Director of the Office of Management and Budget"
+    },
+    {
+      "member_name": "Isabel Guzman",
+      "member_role": "Administrator of the Small Business Administration"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": []
+}

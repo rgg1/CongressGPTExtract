@@ -1,0 +1,940 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Alejandro N. Mayorkas",
+      "member_role": "Secretary of Homeland Security"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF HOMELAND SECURITY",
+      "department_members": [
+        {
+          "member_name": "Alejandro N. Mayorkas",
+          "member_role": "Secretary of Homeland Security"
+        },
+        {
+          "member_name": "John K. Tien",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "Jennifer Higgins",
+          "member_role": "Chief of Staff (acting)"
+        },
+        {
+          "member_name": "Phyllis Coven",
+          "member_role": "U.S. Citizenship and Immigration Services / Ombudsman"
+        },
+        {
+          "member_name": "Katherine Culliton-Gonzalez",
+          "member_role": "Officer for Civil Rights and Civil Liberties"
+        },
+        {
+          "member_name": "Dr. Kimberly O'Connor",
+          "member_role": "Executive Secretary"
+        },
+        {
+          "member_name": "Jennifer Daskal",
+          "member_role": "General Counsel (acting)"
+        },
+        {
+          "member_name": "David Gersten",
+          "member_role": "Ombudsman (acting)"
+        },
+        {
+          "member_name": "John Hill",
+          "member_role": "Chief of Staff (acting)",
+          "bioguide_id": [
+            "H000595",
+            "H000594",
+            "H000596",
+            "H000597"
+          ]
+        },
+        {
+          "member_name": "Allison Posner",
+          "member_role": "Director of External Relations"
+        },
+        {
+          "member_name": "Joseph V. Cuffari",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Glenn Sklar",
+          "member_role": "Principal Deputy Inspector General"
+        },
+        {
+          "member_name": "Kristen Fredricks",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Kenneth L. Wainstein",
+          "member_role": "Under Secretary for Intelligence and Analysis"
+        },
+        {
+          "member_name": "Adam Luke",
+          "member_role": "Chief of Staff (acting)"
+        },
+        {
+          "member_name": "Adam Luke",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Stephanie Dobitsch",
+          "member_role": "Deputy Under Secretary for Intelligence Enterprise Operations"
+        },
+        {
+          "member_name": "Melissa Smislova",
+          "member_role": "Deputy Under Secretary for Intelligence Enterprise Readiness"
+        },
+        {
+          "member_name": "Eva A. Millona",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Alice Lugo",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Harlan Geer",
+          "member_role": "Deputy Assistant Secretary (Senate)"
+        },
+        {
+          "member_name": "Alexandra Carnes",
+          "member_role": "Deputy Assistant Secretary (House)"
+        },
+        {
+          "member_name": "Chloe Himmel",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Rear Admiral Michael H. Day",
+          "member_role": "Military Advisor"
+        },
+        {
+          "member_name": "Lynn Parker Dupree",
+          "member_role": "Chief Privacy Officer / Chief Freedom of Information Act Officer"
+        },
+        {
+          "member_name": "Marsha L. Espinosa",
+          "member_role": "Assistant Secretary"
+        },
+        {
+          "member_name": "Meira Bernstein",
+          "member_role": "Deputy Assistant Secretary, Media Operations"
+        },
+        {
+          "member_name": "Heather Fluit",
+          "member_role": "Deputy Assistant Secretary, Strategic Communications"
+        },
+        {
+          "member_name": "Jen Easterly",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Nitin Natarajan",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Kiersten Todt",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Eric Goldstein",
+          "member_role": "Executive Assistant Director for Cybersecurity"
+        },
+        {
+          "member_name": "Billy Bob Brown, Jr.",
+          "member_role": "Executive Assistant Director for Emergency Communication"
+        },
+        {
+          "member_name": "David Mussington",
+          "member_role": "Executive Assistant Director for Infrastructure Security"
+        },
+        {
+          "member_name": "Laura Delaney",
+          "member_role": "Assistant Director for Integrated Operations (acting)"
+        },
+        {
+          "member_name": "Robert Kolasky",
+          "member_role": "Assistant Director for National Risk Management Center"
+        },
+        {
+          "member_name": "Alaina Clark",
+          "member_role": "Assistant Director for Stakeholder Engagement"
+        },
+        {
+          "member_name": "Dmitri Kusnezov",
+          "member_role": "Under Secretary"
+        },
+        {
+          "member_name": "Catherine C. Cross",
+          "member_role": "Deputy Under Secretary (senior official performing the duties of the Deputy Under Secretary)"
+        },
+        {
+          "member_name": "Julie Brewer",
+          "member_role": "Chief of Staff (senior official performing the duties of the Chief of Staff)"
+        },
+        {
+          "member_name": "Gail Miller",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Ronnyka Fitzpatrick",
+          "member_role": "Director of Finance and Budget"
+        },
+        {
+          "member_name": "Dan Cotter",
+          "member_role": "Director, Office of Science & Engineering"
+        },
+        {
+          "member_name": "R. D. Alles",
+          "member_role": "Deputy Under Secretary"
+        },
+        {
+          "member_name": "Janene Corrado",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Angela Bailey",
+          "member_role": "Human Capital Officer"
+        },
+        {
+          "member_name": "Eric Hysen",
+          "member_role": "Information Officer"
+        },
+        {
+          "member_name": "Paul Courtney",
+          "member_role": "Procurement Officer"
+        },
+        {
+          "member_name": "Tom Chaleki",
+          "member_role": "Readiness Support Officer"
+        },
+        {
+          "member_name": "Rich McComb",
+          "member_role": "Security Officer"
+        },
+        {
+          "member_name": "Stacy Marcott",
+          "member_role": "Deputy Chief Financial Officer"
+        },
+        {
+          "member_name": "L. Eric Patterson",
+          "member_role": "Executive Director, Federal Protective Service"
+        },
+        {
+          "member_name": "Shonnie Lyons",
+          "member_role": "Executive Director, Office of Biometric Identity Management"
+        },
+        {
+          "member_name": "Debra Cox",
+          "member_role": "Executive Director, Office of Program Accountability and Risk Management"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF POLICY",
+      "department_members": [
+        {
+          "member_name": "Robert Silvers",
+          "member_role": "Under Secretary, Office of Strategy, Policy, and Plans"
+        },
+        {
+          "member_name": "Kelli Ann Burriesci",
+          "member_role": "Deputy Under Secretary"
+        },
+        {
+          "member_name": "Joel T. Meyer",
+          "member_role": "Chief of Staff, Office of Strategy, Policy, and Plans"
+        },
+        {
+          "member_name": "Serena Hoy",
+          "member_role": "Assistant Secretary, International Affairs"
+        },
+        {
+          "member_name": "Robert Paschall",
+          "member_role": "Principal Deputy Assistant Secretary, International Affairs"
+        },
+        {
+          "member_name": "David Cloe",
+          "member_role": "Deputy Assistant Secretary, Western Hemisphere"
+        },
+        {
+          "member_name": "Samantha Vinograd",
+          "member_role": "Assistant Secretary, Counterterrorism and Threat Prevention Policy (acting)"
+        },
+        {
+          "member_name": "Kevin Saupp",
+          "member_role": "Deputy Assistant Secretary, Counterterrorism and Threat Prevention Policy (acting)"
+        },
+        {
+          "member_name": "Todd Seidl",
+          "member_role": "Deputy Assistant Secretary, Screening and Vetting Policy (acting)"
+        },
+        {
+          "member_name": "David Shahoulian",
+          "member_role": "Assistant Secretary, Border and Immigration Policy"
+        },
+        {
+          "member_name": "Adam Hunter",
+          "member_role": "Deputy Assistant Secretary, Immigration Policy"
+        },
+        {
+          "member_name": "Marc Rosenblum",
+          "member_role": "Deputy Assistant Secretary, Immigration Statistics"
+        },
+        {
+          "member_name": "Thomas McDermott",
+          "member_role": "Assistant Secretary, Cyber Policy (acting)"
+        },
+        {
+          "member_name": "Thomas McDermott",
+          "member_role": "Deputy Assistant Secretary, Cyber Policy"
+        },
+        {
+          "member_name": "Bridget McGovern",
+          "member_role": "Assistant Secretary, Trade and Economic Security Policy"
+        },
+        {
+          "member_name": "Amy Strauss",
+          "member_role": "Deputy Assistant Secretary, Economic Security (acting)"
+        },
+        {
+          "member_name": "Drew Kuepper",
+          "member_role": "Deputy Assistant Secretary, Strategic Integration and Policy Planning"
+        },
+        {
+          "member_name": "Eric Choy",
+          "member_role": "Deputy Assistant Secretary, Trade (acting)"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)",
+      "department_members": [
+        {
+          "member_name": "Deanne Criswell",
+          "member_role": "Administrator"
+        },
+        {
+          "member_name": "Nancy Dragani",
+          "member_role": "Deputy Administrator"
+        },
+        {
+          "member_name": "Michael A. Coen, Jr.",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Roberto L. Hylton",
+          "member_role": "Senior Law Enforcement Advisor to the Administrator"
+        },
+        {
+          "member_name": "Marcus Coleman",
+          "member_role": "Director, Center of Faith-Based and Neighborhood Partnerships"
+        },
+        {
+          "member_name": "Charles Shaw",
+          "member_role": "Director, Congressional Affairs Division"
+        },
+        {
+          "member_name": "Sarah Montell",
+          "member_role": "Director, Intergovernmental Affairs Division"
+        },
+        {
+          "member_name": "Linda Mastandrea",
+          "member_role": "Director, Disability Integration and Coordination"
+        },
+        {
+          "member_name": "Jo Linda Johnson",
+          "member_role": "Director, Equal Rights"
+        },
+        {
+          "member_name": "Nicole Dyson",
+          "member_role": "Director, Executive Secretariat"
+        },
+        {
+          "member_name": "Justin Knighten",
+          "member_role": "Director, External Affairs"
+        },
+        {
+          "member_name": "Robert Long",
+          "member_role": "Director, National Advisory Council (acting)"
+        },
+        {
+          "member_name": "Kim Kadesch",
+          "member_role": "Director, National Capital Region Coordination"
+        },
+        {
+          "member_name": "Elizabeth Edge",
+          "member_role": "Director, Regional Operations"
+        },
+        {
+          "member_name": "Adrian Sevier",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Mary Comans",
+          "member_role": "Chief Financial Officer"
+        },
+        {
+          "member_name": "Cynthia Spishak",
+          "member_role": "Associate Administrator for Policy, Program Analysis and International Affairs"
+        },
+        {
+          "member_name": "Alex Amparo",
+          "member_role": "Deputy Administrator, Protection and National Preparedness"
+        },
+        {
+          "member_name": "Christopher Logan",
+          "member_role": "Assistant Administrator, Grant Programs (acting)"
+        },
+        {
+          "member_name": "Michael S. George",
+          "member_role": "Assistant Administrator, National Continuity Programs"
+        },
+        {
+          "member_name": "Tony Russell",
+          "member_role": "Assistant Administrator, National Preparedness (acting)"
+        },
+        {
+          "member_name": "Tonya Hoover",
+          "member_role": "Administrator, U.S. Fire Administration (acting)"
+        },
+        {
+          "member_name": "Traci L. Clever",
+          "member_role": "Deputy Associate Administrator, Mission Support"
+        },
+        {
+          "member_name": "Tracey Showman",
+          "member_role": "Chief, Mission Support, Administrative Officer"
+        },
+        {
+          "member_name": "Paige Hinkle-Bowles",
+          "member_role": "Chief, Mission Support, Component Human Capital Officer"
+        },
+        {
+          "member_name": "Lytwaive Hutchinson",
+          "member_role": "Chief, Mission Support, Information Officer"
+        },
+        {
+          "member_name": "Bobby McCane",
+          "member_role": "Chief, Mission Support, Procurement Officer"
+        },
+        {
+          "member_name": "Tami Franklin",
+          "member_role": "Chief, Mission Support, Security Officer"
+        },
+        {
+          "member_name": "David Bibo",
+          "member_role": "Associate Administrator, Response and Recovery (acting)"
+        },
+        {
+          "member_name": "David Bibo",
+          "member_role": "Deputy Associate Administrator, Response and Recovery"
+        },
+        {
+          "member_name": "John Rabin",
+          "member_role": "Assistant Administrator, Field Operations"
+        },
+        {
+          "member_name": "Carla Gammon",
+          "member_role": "Assistant Administrator, Logistics (acting)"
+        },
+        {
+          "member_name": "Keith Turi",
+          "member_role": "Assistant Administrator, Recovery"
+        },
+        {
+          "member_name": "Damon Penn",
+          "member_role": "Assistant Administrator, Response"
+        },
+        {
+          "member_name": "David Maurstad",
+          "member_role": "Deputy Associate Administrator for Insurance and Mitigation, Federal Insurance and Mitigation Administration"
+        }
+      ]
+    },
+    {
+      "department_name": "COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE (CWMD)",
+      "department_members": [
+        {
+          "member_name": "Gary Rasicot",
+          "member_role": "Assistant Secretary (acting)"
+        },
+        {
+          "member_name": "Pritesh Gandhi",
+          "member_role": "Chief Medical Officer"
+        },
+        {
+          "member_name": "Charles Cook",
+          "member_role": "Principal Deputy Assistant Secretary"
+        },
+        {
+          "member_name": "Anthony Antognoli",
+          "member_role": "Chief of Staff"
+        }
+      ]
+    },
+    {
+      "department_name": "TRANSPORTATION SECURITY ADMINISTRATION (TSA)",
+      "department_members": [
+        {
+          "member_name": "David P. Pekoske",
+          "member_role": "Administrator / Assistant Secretary"
+        },
+        {
+          "member_name": "Stacey Fitzmaurice",
+          "member_role": "Deputy Administrator"
+        },
+        {
+          "member_name": "Holly Canevari",
+          "member_role": "Chief of Staff"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES CUSTOMS AND BORDER PROTECTION (CBP)",
+      "department_members": [
+        {
+          "member_name": "Troy A. Miller",
+          "member_role": "Commissioner (acting)"
+        },
+        {
+          "member_name": "Benjamine \"Carry\" Huffman",
+          "member_role": "Deputy Commissioner"
+        },
+        {
+          "member_name": "Lise Clavel",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Daniel Herman",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Remy Krumpak",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Steve Schorr",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Scott Falk",
+          "member_role": "Chief Counsel"
+        },
+        {
+          "member_name": "Stephen A. Boyer",
+          "member_role": "Executive Assistant Commissioner of Air and Marine"
+        },
+        {
+          "member_name": "Samuel Grable",
+          "member_role": "Executive Assistant Commissioner of Enterprise Services (acting)"
+        },
+        {
+          "member_name": "William Ferrara",
+          "member_role": "Executive Assistant Commissioner of Field Operations"
+        },
+        {
+          "member_name": "Mark Koumans",
+          "member_role": "Executive Assistant Commissioner of Operations Support (acting)"
+        },
+        {
+          "member_name": "AnnMarie Highsmith",
+          "member_role": "Executive Assistant Commissioner of Trade"
+        },
+        {
+          "member_name": "Raul Ortiz",
+          "member_role": "Chief, United States Border Patrol"
+        },
+        {
+          "member_name": "Stephanie Talton",
+          "member_role": "Assistant Commissioner of Congressional Affairs (acting)"
+        },
+        {
+          "member_name": "Debbie Seguin",
+          "member_role": "Assistant Commissioner of International Affairs"
+        },
+        {
+          "member_name": "Matthew Klein",
+          "member_role": "Assistant Commissioner of Professional Responsibility"
+        },
+        {
+          "member_name": "Luis Miranda",
+          "member_role": "Assistant Commissioner of Public Affairs"
+        },
+        {
+          "member_name": "Tim Quinn",
+          "member_role": "Executive Director, Office of Intergovernmental Public Liaison"
+        },
+        {
+          "member_name": "Ashley Feasley",
+          "member_role": "Executive Director, Office of Policy"
+        },
+        {
+          "member_name": "Rebekah A. Salazar",
+          "member_role": "Executive Director, Office of Privacy and Diversity"
+        },
+        {
+          "member_name": "Valarie M. Neuhart",
+          "member_role": "Executive Director, Office of Trade Relations (acting)"
+        },
+        {
+          "member_name": "Wayne Winterling",
+          "member_role": "Director, Executive Secretariat"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT (ICE)",
+      "department_members": [
+        {
+          "member_name": "Tae D. Johnson",
+          "member_role": "Director (acting)"
+        },
+        {
+          "member_name": "Patrick J. Lechleitner",
+          "member_role": "Deputy Director (acting)"
+        },
+        {
+          "member_name": "Jonathon Bertran-Harris",
+          "member_role": "Assistant Director of Congressional Relations"
+        },
+        {
+          "member_name": "Waldemar Rodriguez",
+          "member_role": "Assistant Director of Professional Responsibility"
+        },
+        {
+          "member_name": "Jenny Burke",
+          "member_role": "Assistant Director of Public Affairs"
+        },
+        {
+          "member_name": "Francey Youngberg",
+          "member_role": "Assistant Director of Partnership and Engagement"
+        },
+        {
+          "member_name": "Scott F. Lanum",
+          "member_role": "Assistant Director, Office of Diversity and Civil Rights"
+        },
+        {
+          "member_name": "John D. Trasvina",
+          "member_role": "Principal Legal Advisor"
+        },
+        {
+          "member_name": "Corey Mayberry",
+          "member_role": "Executive Secretariat"
+        },
+        {
+          "member_name": "Corey A. Price",
+          "member_role": "Executive Associate Director, Enforcement and Removal Operations"
+        },
+        {
+          "member_name": "Peter Berg",
+          "member_role": "Deputy Executive Associate Director, Enforcement and Removal Operations (acting)"
+        },
+        {
+          "member_name": "Monica Burke",
+          "member_role": "Assistant Director of Custody Management (acting)"
+        },
+        {
+          "member_name": "Russell Hott",
+          "member_role": "Assistant Director of Enforcement (acting)"
+        },
+        {
+          "member_name": "Michael Meade",
+          "member_role": "Assistant Director of Field Operations (acting)"
+        },
+        {
+          "member_name": "Dr. Steward D. Smith",
+          "member_role": "Assistant Director of ICE Health Service Corps"
+        },
+        {
+          "member_name": "Marc Rapp",
+          "member_role": "Assistant Director of Law Enforcement Systems and Analysis"
+        },
+        {
+          "member_name": "Mellissa Harper",
+          "member_role": "Assistant Director of Non-Detained Management (acting)"
+        },
+        {
+          "member_name": "Jacki B. Klopp",
+          "member_role": "Assistant Director of Operations Support"
+        },
+        {
+          "member_name": "Diane Witte",
+          "member_role": "Assistant Director of Removal (acting)"
+        },
+        {
+          "member_name": "Patrick Lechleitner",
+          "member_role": "Executive Associate Director, Homeland Security Investigations"
+        },
+        {
+          "member_name": "Steve Francis",
+          "member_role": "Deputy Executive Associate Director, Homeland Security Investigations"
+        },
+        {
+          "member_name": "Kevin Kelly",
+          "member_role": "Assistant Director for Domestic Operations"
+        },
+        {
+          "member_name": "Peter J. Hatch",
+          "member_role": "Assistant Director for Intelligence"
+        },
+        {
+          "member_name": "Patrick McElwain",
+          "member_role": "Assistant Director for International Affairs"
+        },
+        {
+          "member_name": "Jennifer Cleary",
+          "member_role": "Assistant Director for Mission Support"
+        },
+        {
+          "member_name": "Andre Watson",
+          "member_role": "Assistant Director for National Security Investigations Division"
+        },
+        {
+          "member_name": "John Eisert",
+          "member_role": "Assistant Director for Programs"
+        },
+        {
+          "member_name": "Staci Barrera",
+          "member_role": "Executive Associate Director, Management and Administration"
+        },
+        {
+          "member_name": "Max Aguilar",
+          "member_role": "Deputy Executive Associate Director, Management and Administration"
+        },
+        {
+          "member_name": "Albert Dainton",
+          "member_role": "Director, Acquisition Management"
+        },
+        {
+          "member_name": "Stephen Roncone",
+          "member_role": "Director, Chief Financial Officer"
+        },
+        {
+          "member_name": "Patrick M. Hudgens",
+          "member_role": "Assistant Director, Office of Firearms and Tactical Programs"
+        },
+        {
+          "member_name": "Tracy Siler",
+          "member_role": "Assistant Director, Office of Leadership and Career Development"
+        },
+        {
+          "member_name": "Kenneth Clark",
+          "member_role": "Assistant Director, Office of Information Governance and Privacy Officer"
+        },
+        {
+          "member_name": "Christopher C. Moman",
+          "member_role": "Assistant Director, Office of Investment and Program Accountability"
+        },
+        {
+          "member_name": "Christopher S. Kelly",
+          "member_role": "Deputy Assistant Director, Office of Policy and Planning"
+        },
+        {
+          "member_name": "Rachelle B. Henderson",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Susan Cullen-Dunbar",
+          "member_role": "Human Capital Officer"
+        },
+        {
+          "member_name": "Fernando Pineiro",
+          "member_role": "Freedom of Information Act Officer"
+        },
+        {
+          "member_name": "Deborah Fleischaker",
+          "member_role": "Principal Policy Advisor, Office of Policy and Planning"
+        }
+      ]
+    },
+    {
+      "department_name": "FEDERAL LAW ENFORCEMENT TRAINING CENTERS",
+      "department_members": [
+        {
+          "member_name": "Thomas J. Walters",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "William Fallon",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Jennifer Tocco",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "David Christy",
+          "member_role": "Deputy Chief of Staff"
+        },
+        {
+          "member_name": "Richard Deasy",
+          "member_role": "Associate Director for Training Operations"
+        },
+        {
+          "member_name": "Manfred Harpole",
+          "member_role": "Assistant Director for Core Training Operations Directorate"
+        },
+        {
+          "member_name": "Bryan Lemons",
+          "member_role": "Assistant Director for Mission Readiness and Support Directorate"
+        },
+        {
+          "member_name": "Matthew Hanna",
+          "member_role": "Assistant Director for National Capital Region Training Operations Directorate"
+        },
+        {
+          "member_name": "Ariana Roddini",
+          "member_role": "Assistant Director for Training Management Operations Directorate"
+        },
+        {
+          "member_name": "Kai Munshi",
+          "member_role": "Assistant Director for Technical Training Operations Directorate"
+        },
+        {
+          "member_name": "Donald R. Lewis",
+          "member_role": "Assistant Director / Chief Financial Officer"
+        },
+        {
+          "member_name": "Michael L. Vesta",
+          "member_role": "Assistant Director / Chief Information Officer"
+        },
+        {
+          "member_name": "Michael Bunker",
+          "member_role": "Assistant Director / Chief Counsel"
+        },
+        {
+          "member_name": "Henry Rolon",
+          "member_role": "Chief for Office of Public Affairs"
+        },
+        {
+          "member_name": "David Emond",
+          "member_role": "Chief for Office of Security and Professional Responsibility"
+        },
+        {
+          "member_name": "Anthony Acocella",
+          "member_role": "Senior Legislative Affairs Advisor"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICES",
+      "department_members": [
+        {
+          "member_name": "Ur Jaddou",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Tracy Renaud",
+          "member_role": "Deputy Director (acting)"
+        },
+        {
+          "member_name": "Felicia Escobar Carrillo",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "Bill McElhaney",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "Matthew Emrich",
+          "member_role": "Associate Director for Fraud Detection and National Security Directorate"
+        },
+        {
+          "member_name": "Jennifer Higgins",
+          "member_role": "Associate Director for Refugee, Asylum and International Operations Directorate"
+        },
+        {
+          "member_name": "Connie Nolan",
+          "member_role": "Associate Director for Service Center Operations Directorate (acting)"
+        },
+        {
+          "member_name": "Erik Anderson",
+          "member_role": "Chief, Office of Administration"
+        },
+        {
+          "member_name": "Susan Dibbins",
+          "member_role": "Chief, Office of Administrative Appeals"
+        },
+        {
+          "member_name": "A. Ashley Tabaddor",
+          "member_role": "Chief, Office of Chief Counsel"
+        },
+        {
+          "member_name": "Kika Scott",
+          "member_role": "Chief, Office of Chief Financial Officer"
+        },
+        {
+          "member_name": "Carrie Selby",
+          "member_role": "Chief, Office of External Affairs Directorate (acting)"
+        },
+        {
+          "member_name": "Amanda Baran",
+          "member_role": "Chief, Office of Policy and Strategy"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES COAST GUARD",
+      "department_members": [
+        {
+          "member_name": "ADM Karl Schultz",
+          "member_role": "Commandant"
+        },
+        {
+          "member_name": "ADM Linda L. Fagan",
+          "member_role": "Vice Commandant"
+        },
+        {
+          "member_name": "VADM Paul F. Thomas",
+          "member_role": "Deputy Commandant for Mission Support"
+        },
+        {
+          "member_name": "VADM Scott A. Buschman",
+          "member_role": "Deputy Commandant for Operations"
+        },
+        {
+          "member_name": "Hon. Walter J. Brudzinski",
+          "member_role": "Chief Administrative Law Judge"
+        },
+        {
+          "member_name": "RADM Melissa L. Bert",
+          "member_role": "Judge Advocate General / Chief Counsel"
+        },
+        {
+          "member_name": "Calvin Lederer",
+          "member_role": "Deputy Judge Advocate General / Deputy Chief Counsel"
+        },
+        {
+          "member_name": "RADM Megan Dean",
+          "member_role": "Director of Governmental and Public Affairs"
+        },
+        {
+          "member_name": "RDML Michael H. Day",
+          "member_role": "Senior Military Advisor to the Secretary of Homeland Security"
+        }
+      ]
+    },
+    {
+      "department_name": "UNITED STATES SECRET SERVICE",
+      "department_members": [
+        {
+          "member_name": "James M. Murray",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "Faron K. Paramore",
+          "member_role": "Deputy Director"
+        },
+        {
+          "member_name": "Benjamin P. Kramer",
+          "member_role": "Special Agent in Charge, Congressional Affairs Program"
+        }
+      ]
+    }
+  ]
+}

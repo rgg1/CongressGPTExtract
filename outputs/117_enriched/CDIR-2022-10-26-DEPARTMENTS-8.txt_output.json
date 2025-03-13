@@ -1,0 +1,910 @@
+{
+  "cabinet": [
+    {
+      "member_name": "Carlos Del Toro",
+      "member_role": "Secretary of the Navy"
+    },
+    {
+      "member_name": "Hon. Erik K. Raven",
+      "member_role": "Under Secretary of the Navy (PTDO)"
+    },
+    {
+      "member_name": "John P. Coffey",
+      "member_role": "General Counsel"
+    },
+    {
+      "member_name": "VADM John Fuller",
+      "member_role": "Inspector General"
+    },
+    {
+      "member_name": "VADM Del Crandall",
+      "member_role": "Judge Advocate General"
+    },
+    {
+      "member_name": "RADM Sara Joyner",
+      "member_role": "Chief of Legislative Affairs"
+    },
+    {
+      "member_name": "Alaleh Jenkins",
+      "member_role": "Assistant Secretary for Financial Management and Comptroller"
+    },
+    {
+      "member_name": "Hon. Meredith Berger",
+      "member_role": "Assistant Secretary for Energy, Installations and Environment"
+    },
+    {
+      "member_name": "Robert Hogue",
+      "member_role": "Assistant Secretary for Manpower and Reserve Affairs (acting)"
+    },
+    {
+      "member_name": "Frederick Stefany",
+      "member_role": "Assistant Secretary for Research, Development and Acquisition (acting)"
+    },
+    {
+      "member_name": "Aaron D. Weis",
+      "member_role": "Chief Information Officer"
+    },
+    {
+      "member_name": "ADM Michael Gilday",
+      "member_role": "Chief of Naval Operations"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF THE NAVY",
+      "department_members": [
+        {
+          "member_name": "Carlos Del Toro",
+          "member_role": "Secretary of the Navy"
+        },
+        {
+          "member_name": "T. Ross, Jr.",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "J. Onofrio",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "M. Papermaster",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "J. Jaramillo",
+          "member_role": "Scheduler"
+        },
+        {
+          "member_name": "Lt. Col. D. Arenas",
+          "member_role": "Administrative Aide"
+        },
+        {
+          "member_name": "Maj. K. Rodgers",
+          "member_role": "Marine Personal Aide"
+        },
+        {
+          "member_name": "LCDR J. M. Burroughs",
+          "member_role": "Navy Personal Aide"
+        },
+        {
+          "member_name": "CAPT J. Dorsey",
+          "member_role": "Special Assistant for Public Affairs"
+        },
+        {
+          "member_name": "CAPT S. Sethi",
+          "member_role": "Navy Senior Military Assistant"
+        },
+        {
+          "member_name": "Col. A. Thompson",
+          "member_role": "Marine Senior Military Assistant"
+        },
+        {
+          "member_name": "Hon. Erik K. Raven",
+          "member_role": "Under Secretary of the Navy (PTDO)"
+        },
+        {
+          "member_name": "CAPT Thomas E. Shultz",
+          "member_role": "Executive Assistant (Navy)"
+        },
+        {
+          "member_name": "Lt. Col. Joseph E. Moye",
+          "member_role": "Senior Military Assistant (Marine)"
+        },
+        {
+          "member_name": "Edual Delgado",
+          "member_role": "Scheduler"
+        },
+        {
+          "member_name": "SSgt Miguel Ramirez",
+          "member_role": "Administrative Assistant"
+        },
+        {
+          "member_name": "YN1 Sheldon O. Serrano",
+          "member_role": "Administrative Assistant"
+        },
+        {
+          "member_name": "John P. Coffey",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "Catherine Kessmeier",
+          "member_role": "Principal Deputy General Counsel"
+        },
+        {
+          "member_name": "CAPT John Mills",
+          "member_role": "Executive Assistant and Special Counsel"
+        },
+        {
+          "member_name": "Craig D. Jensen",
+          "member_role": "Associate General Counsel for Litigation"
+        },
+        {
+          "member_name": "Diane M. Boyle",
+          "member_role": "Deputy General Counsel"
+        },
+        {
+          "member_name": "Sara Tetreault",
+          "member_role": "Assistant General Counsel for Ethics"
+        },
+        {
+          "member_name": "Tom Frankfurt",
+          "member_role": "Assistant General Counsel for Research, Development and Acquisition"
+        },
+        {
+          "member_name": "Lt. Col. M. Anderlonis",
+          "member_role": "Military Assistant"
+        },
+        {
+          "member_name": "VADM John Fuller",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "Catherine Donovan",
+          "member_role": "Deputy Naval Inspector General"
+        },
+        {
+          "member_name": "Dennis Hathorn",
+          "member_role": "Command Master Chief"
+        },
+        {
+          "member_name": "RDML Charlie Brown",
+          "member_role": "Chief of Information (CI)"
+        },
+        {
+          "member_name": "CDR Reann Mommsen",
+          "member_role": "Executive Assistant to Chief of Information (EA)"
+        },
+        {
+          "member_name": "RDML Paula Dunn",
+          "member_role": "Vice Chief of Information (VCI)"
+        },
+        {
+          "member_name": "CAPT Kevin Stephens",
+          "member_role": "Deputy, Chief of Information (DCI)"
+        },
+        {
+          "member_name": "LT Emily Wilkin",
+          "member_role": "Flag Aide to Chief of Information"
+        },
+        {
+          "member_name": "MCCM Michael Lewis",
+          "member_role": "Senior Enlisted Advisor (SEA)"
+        },
+        {
+          "member_name": "YNC Winston Banton",
+          "member_role": "Staff Senior Enlisted Leader (SEL)"
+        },
+        {
+          "member_name": "YNC Shaun Hamilton",
+          "member_role": "Flag Writer"
+        },
+        {
+          "member_name": "Justin Ward",
+          "member_role": "Assistant Chief of Information for Administration and Resource Management (OI-1)"
+        },
+        {
+          "member_name": "Rob Newell",
+          "member_role": "Assistant Chief of Information for Community Outreach (OI-6)"
+        },
+        {
+          "member_name": "CDR Courtney Hilson",
+          "member_role": "Assistant Chief of Information for Media Operations (OI-3)"
+        },
+        {
+          "member_name": "Chris Madden",
+          "member_role": "Assistant Chief of Information for Navy Media Content Services (OI-2)"
+        },
+        {
+          "member_name": "Dave Werner",
+          "member_role": "Assistant Chief of Information for Requirements and Policy (OI-8)"
+        },
+        {
+          "member_name": "CAPT Brook Dewalt",
+          "member_role": "Deputy Director of Defense Media Activity (DMA)"
+        },
+        {
+          "member_name": "CDR John Fage",
+          "member_role": "Director, Navy Office of Community Outreach"
+        },
+        {
+          "member_name": "LCDR Megan Shutka",
+          "member_role": "Director, Navy Office of Information, East"
+        },
+        {
+          "member_name": "CDR Stephanie Murdock",
+          "member_role": "Director, Navy Office of Information, West"
+        },
+        {
+          "member_name": "VADM Del Crandall",
+          "member_role": "Judge Advocate General"
+        },
+        {
+          "member_name": "CAPT Steve Obert",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "RDML Christopher French",
+          "member_role": "Deputy Judge Advocate General"
+        },
+        {
+          "member_name": "CDR Temperance Huffstetler",
+          "member_role": "Executive Assistant to the Deputy Judge Advocate General"
+        },
+        {
+          "member_name": "CAPT Peter Koebler",
+          "member_role": "Assistant Judge Advocate General for Civil Law"
+        },
+        {
+          "member_name": "Col. Donald Riley",
+          "member_role": "Assistant Judge Advocate General for Military Justice"
+        },
+        {
+          "member_name": "CAPT Charles Purnell",
+          "member_role": "Assistant Judge Advocate General for Chief Judge"
+        },
+        {
+          "member_name": "CAPT Robert Passerello",
+          "member_role": "Assistant Judge Advocate General for Operations and Management"
+        },
+        {
+          "member_name": "Steve Milewski",
+          "member_role": "Deputy Assistant Judge Advocate General for Administrative Law"
+        },
+        {
+          "member_name": "Christopher Spain",
+          "member_role": "Deputy Assistant Judge Advocate General for Admiralty"
+        },
+        {
+          "member_name": "Hal Dronberger",
+          "member_role": "Deputy Assistant Judge Advocate General for Claims, Investigations and Tort Litigation"
+        },
+        {
+          "member_name": "CAPT Aaron Rugh",
+          "member_role": "Deputy Assistant Judge Advocate General for Criminal Law"
+        },
+        {
+          "member_name": "Sean Schrock",
+          "member_role": "Deputy Assistant Judge Advocate General for General Litigation"
+        },
+        {
+          "member_name": "CAPT Ed Westbrook",
+          "member_role": "Deputy Assistant Judge Advocate General for International and Operational Law"
+        },
+        {
+          "member_name": "Kathlene Somerville",
+          "member_role": "Deputy Assistant Judge Advocate General for Legal Assistance"
+        },
+        {
+          "member_name": "CAPT Laurin Eskridge",
+          "member_role": "Deputy Assistant Judge Advocate General for Military Personnel"
+        },
+        {
+          "member_name": "CDR William Perdue",
+          "member_role": "Deputy Assistant Judge Advocate General for National Security Litigation and Intelligence Law"
+        },
+        {
+          "member_name": "CAPT Matthew Beran",
+          "member_role": "Deputy Assistant Judge Advocate General for Technology, Operations and Plan"
+        },
+        {
+          "member_name": "LNCM (SW / AW) Brook Larkins",
+          "member_role": "Judge Advocate General, Command Master Chief"
+        },
+        {
+          "member_name": "Dawn C. Rooney",
+          "member_role": "Comptroller"
+        },
+        {
+          "member_name": "CAPT Rock De Tolve",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "RADM Sara Joyner",
+          "member_role": "Chief of Legislative Affairs"
+        },
+        {
+          "member_name": "CAPT Eddie Crossman",
+          "member_role": "Deputy Chief of Legislative Affairs"
+        },
+        {
+          "member_name": "Sandra Latta",
+          "member_role": "Deputy Chief for Strategy and Assessment"
+        },
+        {
+          "member_name": "LCDR Joe Mills",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "LT Matthew Bernard",
+          "member_role": "Deputy Executive Assistant"
+        },
+        {
+          "member_name": "LT Jaime Bromley",
+          "member_role": "Flag Aide to the Chief of Legislative Affairs"
+        },
+        {
+          "member_name": "YN1 Christina Rowe",
+          "member_role": "Flag Writer"
+        },
+        {
+          "member_name": "LT Joe Fleshman",
+          "member_role": "Director of Administrative and Congressional Information"
+        },
+        {
+          "member_name": "Dee Wingfield",
+          "member_role": "Director of Congressional Operations and Budget"
+        },
+        {
+          "member_name": "CAPT Krista Dellapina",
+          "member_role": "Director of Legislation"
+        },
+        {
+          "member_name": "Geno Autrey",
+          "member_role": "Director of Naval Programs"
+        },
+        {
+          "member_name": "LCDR Megan Greene",
+          "member_role": "Director of Public Affairs"
+        },
+        {
+          "member_name": "CAPT David Walt",
+          "member_role": "Director, Financial Management and Comptroller Appropriations Matters Office (FMBE)"
+        },
+        {
+          "member_name": "CAPT Charles McKissick",
+          "member_role": "Deputy Director, Financial Management and Comptroller Appropriations Matters Office (FMBE)"
+        },
+        {
+          "member_name": "Marc Hone",
+          "member_role": "Branch Head, Financial Management and Comptroller Appropriations Matters Office (FMBE)"
+        },
+        {
+          "member_name": "Alaleh Jenkins",
+          "member_role": "Assistant Secretary for Financial Management and Comptroller"
+        },
+        {
+          "member_name": "CAPT Rob Thompson",
+          "member_role": "Executive Assistant and Naval Aide"
+        },
+        {
+          "member_name": "Maj. L. Simons",
+          "member_role": "Military Assistant and Marine Aide"
+        },
+        {
+          "member_name": "RADM John Gumbleton",
+          "member_role": "Deputy Assistant Secretary for Budget"
+        },
+        {
+          "member_name": "John Adams",
+          "member_role": "Deputy Assistant Secretary for Financial Management System",
+          "bioguide_id": [
+            "A000039",
+            "A000038",
+            "A000041",
+            "A000040"
+          ]
+        },
+        {
+          "member_name": "Mobola Kadiri",
+          "member_role": "Deputy Assistant Secretary for Financial Operations"
+        },
+        {
+          "member_name": "Hon. Meredith Berger",
+          "member_role": "Assistant Secretary for Energy, Installations and Environment"
+        },
+        {
+          "member_name": "CAPT Christopher Cox",
+          "member_role": "Executive Assistant"
+        },
+        {
+          "member_name": "James B. Balocki",
+          "member_role": "Principal Deputy Assistant Secretary of the Navy (acting)"
+        },
+        {
+          "member_name": "Karnig Ohannessian",
+          "member_role": "Deputy Assistant Secretary for Environment"
+        },
+        {
+          "member_name": "Jill Morrison",
+          "member_role": "Assistant General Counsel"
+        },
+        {
+          "member_name": "Robert Hogue",
+          "member_role": "Assistant Secretary for Manpower and Reserve Affairs (acting)"
+        },
+        {
+          "member_name": "Vacant",
+          "member_role": "Principal Deputy"
+        },
+        {
+          "member_name": "Mark Romano",
+          "member_role": "Assistant General Counsel"
+        },
+        {
+          "member_name": "CAPT Christine O'Connell",
+          "member_role": "Executive Assistant and Naval Aide"
+        },
+        {
+          "member_name": "Col. Jason P. Brown",
+          "member_role": "Military Assistant and Marine Aide"
+        },
+        {
+          "member_name": "LCDR Tessa Denaro",
+          "member_role": "Administrative Officer"
+        },
+        {
+          "member_name": "GySgt Jeremiah McCoy",
+          "member_role": "Administrative Chief"
+        },
+        {
+          "member_name": "Paige Hinkle-Bowles",
+          "member_role": "Deputy Assistant Secretary of Civilian Human Resources"
+        },
+        {
+          "member_name": "Dr. Russ Beland",
+          "member_role": "Deputy Assistant Secretary of Manpower Personnel Policy and Reserve Matters"
+        },
+        {
+          "member_name": "Jeffrey Riehl",
+          "member_role": "Director, Secretary of the Navy Council of Review Boards"
+        },
+        {
+          "member_name": "Roger R. Claussen",
+          "member_role": "Counsel"
+        },
+        {
+          "member_name": "Christopher Philson",
+          "member_role": "Office Administrator"
+        },
+        {
+          "member_name": "Robert Powers",
+          "member_role": "Physical Evaluation Board"
+        },
+        {
+          "member_name": "Randall Lamoureux",
+          "member_role": "Naval Clemency and Parole Board"
+        },
+        {
+          "member_name": "John D. Reeser",
+          "member_role": "Naval Discharge Review Board"
+        },
+        {
+          "member_name": "Leif Larsen",
+          "member_role": "Combat-Related Special Compensation Board"
+        },
+        {
+          "member_name": "James Nierle",
+          "member_role": "Board of Decorations and Medals"
+        },
+        {
+          "member_name": "Frederick Stefany",
+          "member_role": "Assistant Secretary for Research, Development and Acquisition (acting)"
+        },
+        {
+          "member_name": "Rebecca Michalek",
+          "member_role": "Special Assistant"
+        },
+        {
+          "member_name": "CAPT Tom Dickinson",
+          "member_role": "Executive Assistant and Naval Aide"
+        },
+        {
+          "member_name": "Col. Dave \"Angus\" Walsh",
+          "member_role": "Military Assistant and Marine Aide"
+        },
+        {
+          "member_name": "VADM Francis \"Spanky\" Morley",
+          "member_role": "Principal Military Deputy (PMD)"
+        },
+        {
+          "member_name": "CAPT Mike \"Sniff\" Burks",
+          "member_role": "PMD Executive Assistant and Naval Aide"
+        },
+        {
+          "member_name": "LCDR Latasha Griffin",
+          "member_role": "PMD Flag Writer"
+        },
+        {
+          "member_name": "E. Anne Sandel",
+          "member_role": "Principal Civilian Deputy (PCD) (acting)"
+        },
+        {
+          "member_name": "Mike Kosar",
+          "member_role": "PCD Chief of Staff"
+        },
+        {
+          "member_name": "Jennifer Shipman",
+          "member_role": "PCD Program Analyst"
+        },
+        {
+          "member_name": "Jaimie Reese",
+          "member_role": "Deputy Assistant Secretary of the Navy for Acquisition Policy and Budget"
+        },
+        {
+          "member_name": "William Taylor",
+          "member_role": "Deputy Assistant Secretary of the Navy for Air and Ground Programs",
+          "bioguide_id": [
+            "T000103",
+            "T000104",
+            "T000105"
+          ]
+        },
+        {
+          "member_name": "Jane Rathbun",
+          "member_role": "Deputy Assistant Secretary of the Navy for IWAR"
+        },
+        {
+          "member_name": "RADM Anthony Rossi",
+          "member_role": "Deputy Assistant Secretary of the Navy for International Programs"
+        },
+        {
+          "member_name": "Cindy Shaver",
+          "member_role": "Deputy Assistant Secretary of the Navy for Procurement"
+        },
+        {
+          "member_name": "Joan Johnson",
+          "member_role": "Deputy Assistant Secretary of the Navy for Research, Development, Engineering and Test"
+        },
+        {
+          "member_name": "Bilyana Anderson",
+          "member_role": "Deputy Assistant Secretary of the Navy for Ship Programs"
+        },
+        {
+          "member_name": "Christopher Lowman",
+          "member_role": "Deputy Assistant Secretary of the Navy for Sustainment"
+        },
+        {
+          "member_name": "Aaron D. Weis",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "ADM Michael Gilday",
+          "member_role": "Chief of Naval Operations"
+        },
+        {
+          "member_name": "ADM William Lescher",
+          "member_role": "Vice Chief of Naval Operations"
+        },
+        {
+          "member_name": "VADM Del Crandell",
+          "member_role": "Judge Advocate General of the Navy"
+        },
+        {
+          "member_name": "Omar R. Lopez",
+          "member_role": "Director, Naval Criminal Investigative Service"
+        },
+        {
+          "member_name": "RADM Curt Copley",
+          "member_role": "Director, Naval Intelligence"
+        },
+        {
+          "member_name": "ADM James Caldwell",
+          "member_role": "Director, Naval Nuclear Propulsion Program"
+        },
+        {
+          "member_name": "Andrew Haeuptle",
+          "member_role": "Director, Navy Staff"
+        },
+        {
+          "member_name": "RADM Brent Scott",
+          "member_role": "Chief of Chaplains"
+        },
+        {
+          "member_name": "RDML Charles Brown",
+          "member_role": "Chief of Information"
+        },
+        {
+          "member_name": "RADM Sara Joyner",
+          "member_role": "Chief of Legislative Affairs"
+        },
+        {
+          "member_name": "VADM John Mustin",
+          "member_role": "Chief of Navy Reserve"
+        },
+        {
+          "member_name": "Ronald Piret",
+          "member_role": "Oceanographer of the Navy"
+        },
+        {
+          "member_name": "RADM Bruce L. Gillingham",
+          "member_role": "Surgeon General of the Navy"
+        },
+        {
+          "member_name": "MCPON Russel Smith",
+          "member_role": "Master Chief Petty Officer of the Navy"
+        },
+        {
+          "member_name": "RDML Randall Peck",
+          "member_role": "President, Board of Inspection and Survey"
+        },
+        {
+          "member_name": "RADM Peter Garvin",
+          "member_role": "Commander, Naval Education and Training"
+        },
+        {
+          "member_name": "RADM Mark Leavitt",
+          "member_role": "Commander, Naval Safety Center"
+        },
+        {
+          "member_name": "VADM Ricky Williamson",
+          "member_role": "Deputy Chief of Naval Operations for Fleet Readiness and Logistics"
+        },
+        {
+          "member_name": "VADM Jeffrey Trusler",
+          "member_role": "Deputy Chief of Naval Operations for Information Warfare"
+        },
+        {
+          "member_name": "VADM Randy Crites",
+          "member_role": "Deputy Chief of Naval Operations for Integration of Capabilities and Resources"
+        },
+        {
+          "member_name": "VADM John Nowell, Jr.",
+          "member_role": "Deputy Chief of Naval Operations for Manpower, Personnel, Training, and Education"
+        },
+        {
+          "member_name": "VADM William Merz",
+          "member_role": "Deputy Chief of Naval Operations for Operations, Plans, and Strategy"
+        },
+        {
+          "member_name": "VADM Scott Donn",
+          "member_role": "Deputy Chief of Naval Operations for Warfare Systems"
+        }
+      ]
+    },
+    {
+      "department_name": "BUREAU OF MEDICINE AND SURGERY",
+      "department_members": [
+        {
+          "member_name": "RADM Bruce L. Gillingham, MC, USN",
+          "member_role": "Chief"
+        }
+      ]
+    },
+    {
+      "department_name": "MILITARY SEALIFT COMMAND",
+      "department_members": [
+        {
+          "member_name": "RADM Michael A. Wettlaufer",
+          "member_role": "Commander"
+        }
+      ]
+    },
+    {
+      "department_name": "WALTER REED NATIONAL MILITARY MEDICAL CENTER",
+      "department_members": [
+        {
+          "member_name": "BG Jack M. Davis, USA",
+          "member_role": "Director"
+        },
+        {
+          "member_name": "COL Anthony A. Meador, USA",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "James E. Seay, USN",
+          "member_role": "Command Master Chief"
+        }
+      ]
+    },
+    {
+      "department_name": "NAVAL AIR SYSTEMS COMMAND",
+      "department_members": [
+        {
+          "member_name": "VADM Dean Peters",
+          "member_role": "Commander"
+        }
+      ]
+    },
+    {
+      "department_name": "NAVAL CRIMINAL INVESTIGATIVE SERVICE HEADQUARTERS",
+      "department_members": [
+        {
+          "member_name": "Omar R. Lopez",
+          "member_role": "Director"
+        }
+      ]
+    },
+    {
+      "department_name": "NAVAL DISTRICT OF WASHINGTON",
+      "department_members": [
+        {
+          "member_name": "RDML Michael Steffen, USN",
+          "member_role": "Commandant"
+        },
+        {
+          "member_name": "CAPT Geoffrey Moore",
+          "member_role": "Chief of Staff"
+        }
+      ]
+    },
+    {
+      "department_name": "NAVAL FACILITIES ENGINEERING COMMAND",
+      "department_members": [
+        {
+          "member_name": "RADM John W. Korka, CEC, USN",
+          "member_role": "Commander"
+        }
+      ]
+    },
+    {
+      "department_name": "OFFICE OF NAVAL INTELLIGENCE",
+      "department_members": [
+        {
+          "member_name": "RADM Ronald Curt Copley, USN",
+          "member_role": "Commander"
+        }
+      ]
+    },
+    {
+      "department_name": "NAVAL SEA SYSTEMS COMMAND",
+      "department_members": [
+        {
+          "member_name": "VADM William Galinis",
+          "member_role": "Commander"
+        }
+      ]
+    },
+    {
+      "department_name": "NAVAL SUPPLY SYSTEMS COMMAND",
+      "department_members": [
+        {
+          "member_name": "RADM Peter Stamatopoulos",
+          "member_role": "Commander"
+        }
+      ]
+    },
+    {
+      "department_name": "NAVAL INFORMATION WARFARE SYSTEMS COMMAND (NAVWAR)",
+      "department_members": [
+        {
+          "member_name": "RADM Douglas Small",
+          "member_role": "Commander"
+        },
+        {
+          "member_name": "Steven Yuhas",
+          "member_role": "Director of Congressional and Legislative Affairs, PAO"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. NAVAL ACADEMY",
+      "department_members": [
+        {
+          "member_name": "VADM Sean Buck",
+          "member_role": "Superintendent"
+        }
+      ]
+    },
+    {
+      "department_name": "U.S. MARINE CORPS HEADQUARTERS",
+      "department_members": [
+        {
+          "member_name": "Gen. D.H. Berger",
+          "member_role": "Commandant"
+        },
+        {
+          "member_name": "Gen. G.L. Thomas",
+          "member_role": "Assistant Commandant"
+        },
+        {
+          "member_name": "Lt. Col. I.D. Stevens",
+          "member_role": "Aide-de-Camp"
+        },
+        {
+          "member_name": "RDML G.N. Todd",
+          "member_role": "Chaplain"
+        },
+        {
+          "member_name": "RDML Rick Freedman",
+          "member_role": "Dental Officer"
+        },
+        {
+          "member_name": "SES William Roberts, Jr",
+          "member_role": "Fiscal Director of the Marine Corps"
+        },
+        {
+          "member_name": "SES Carl Shelton, Jr.",
+          "member_role": "Inspector General of the Marine Corps (acting)"
+        },
+        {
+          "member_name": "Maj. Gen. D.J. Lecce",
+          "member_role": "Judge Advocate"
+        },
+        {
+          "member_name": "Brig. Gen. Roberta Shea",
+          "member_role": "Legislative Assistant"
+        },
+        {
+          "member_name": "RDML J.L. Hancock",
+          "member_role": "Medical Officer"
+        },
+        {
+          "member_name": "Col. A. Garcia",
+          "member_role": "Military Secretary"
+        },
+        {
+          "member_name": "Sgt. Maj. T.E. Black",
+          "member_role": "Sergeant Major of the Marine Corps"
+        },
+        {
+          "member_name": "Lt. Gen. M. Wise",
+          "member_role": "Deputy Commandant of Marine Corps for Aviation"
+        },
+        {
+          "member_name": "Lt. Gen. Eric Smith",
+          "member_role": "Deputy Commandant of Marine Corps for Combat Development and Integration"
+        },
+        {
+          "member_name": "Lt. Gen. M. G. Glavy",
+          "member_role": "Deputy Commandant of Marine Corps for Information"
+        },
+        {
+          "member_name": "Lt. Gen. E. D. Banta",
+          "member_role": "Deputy Commandant of Marine Corps for Installations and Logistics"
+        },
+        {
+          "member_name": "Lt. Gen. D. A. Ottignon",
+          "member_role": "Deputy Commandant of Marine Corps for Manpower and Reserve Affairs"
+        },
+        {
+          "member_name": "Lt. Gen. D. Furness",
+          "member_role": "Deputy Commandant of Marine Corps for Plans, Policies, and Operations"
+        },
+        {
+          "member_name": "Lt. Gen. C.J. Mahoney",
+          "member_role": "Deputy Commandant of Marine Corps for Programs and Resources"
+        },
+        {
+          "member_name": "Brig. Gen. S.M. Salene",
+          "member_role": "Deputy Commandant of Marine Corps for Public Affairs"
+        },
+        {
+          "member_name": "Brig. Gen. M.G. Carter",
+          "member_role": "Director of Intelligence"
+        },
+        {
+          "member_name": "Anna Pardo",
+          "member_role": "Director, Marine Corps History and Museums"
+        }
+      ]
+    },
+    {
+      "department_name": "MARINE BARRACKS",
+      "department_members": [
+        {
+          "member_name": "Col. Teague A. Pastel",
+          "member_role": "Commanding Officer"
+        }
+      ]
+    },
+    {
+      "department_name": "TRAINING AND EDUCATION COMMAND",
+      "department_members": [
+        {
+          "member_name": "Lt. Gen. Lewis A. Craparotta",
+          "member_role": "Commanding General"
+        }
+      ]
+    }
+  ]
+}

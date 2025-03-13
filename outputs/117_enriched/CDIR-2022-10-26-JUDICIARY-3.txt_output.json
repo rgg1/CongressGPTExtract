@@ -1,0 +1,96 @@
+{
+  "courts": [
+    {
+      "court_name": "UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "SRI SRINIVASAN",
+          "role": "chief circuit judge"
+        },
+        {
+          "name": "KAREN LeCRAFT HENDERSON",
+          "role": "circuit judge"
+        },
+        {
+          "name": "JUDITH W. ROGERS",
+          "role": "circuit judge"
+        },
+        {
+          "name": "DAVID S. TATEL",
+          "role": "circuit judge"
+        },
+        {
+          "name": "GREGORY G. KATSAS",
+          "role": "circuit judge"
+        },
+        {
+          "name": "NEOMI RAO",
+          "role": "circuit judge"
+        },
+        {
+          "name": "PATRICIA MILLETT",
+          "role": "circuit judge"
+        },
+        {
+          "name": "JUSTIN R. WALKER",
+          "role": "circuit judge"
+        },
+        {
+          "name": "J. MICHELLE CHILDS",
+          "role": "circuit judge"
+        },
+        {
+          "name": "CORNELIA T.L. PILLARD",
+          "role": "circuit judge"
+        },
+        {
+          "name": "ROBERT L. WILKINS",
+          "role": "circuit judge"
+        },
+        {
+          "name": "HARRY T. EDWARDS",
+          "role": "senior circuit judge"
+        },
+        {
+          "name": "LAURENCE HIRSCH SILBERMAN",
+          "role": "senior circuit judge"
+        },
+        {
+          "name": "DOUGLAS HOWARD GINSBURG",
+          "role": "circuit judge"
+        },
+        {
+          "name": "DAVID BRYAN SENTELLE",
+          "role": "circuit judge"
+        },
+        {
+          "name": "A. RAYMOND RANDOLPH",
+          "role": "senior circuit judge"
+        }
+      ]
+    },
+    {
+      "court_name": "Officers of the United States Court of Appeals for the District of Columbia Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "Betsy Paret",
+          "role": "Circuit Executive"
+        },
+        {
+          "name": "Mark J. Langer",
+          "role": "Clerk"
+        },
+        {
+          "name": "Marilyn R. Sargent",
+          "role": "Chief Deputy Clerk"
+        },
+        {
+          "name": "Melissa McKenney Ryan",
+          "role": "Director, Legal Division"
+        }
+      ]
+    }
+  ]
+}

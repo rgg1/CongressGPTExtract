@@ -1,0 +1,433 @@
+{
+  "cabinet": [
+    {
+      "member_name": "JENNIFER M. GRANHOLM",
+      "member_role": "Secretary of Energy"
+    }
+  ],
+  "executive_office_of_president": [],
+  "departments": [
+    {
+      "department_name": "DEPARTMENT OF ENERGY",
+      "department_members": [
+        {
+          "member_name": "JENNIFER M. GRANHOLM",
+          "member_role": "Secretary of Energy"
+        },
+        {
+          "member_name": "DAVID TURK",
+          "member_role": "Deputy Secretary"
+        },
+        {
+          "member_name": "CHRISTOPHER DAVIS",
+          "member_role": "Chief of Staff"
+        },
+        {
+          "member_name": "TERI DONALDSON",
+          "member_role": "Inspector General"
+        },
+        {
+          "member_name": "ALI NOURI",
+          "member_role": "Assistant Secretary for Congressional and Intergovernmental Affairs"
+        },
+        {
+          "member_name": "ANDREW LIGHT",
+          "member_role": "Assistant Secretary for International Affairs"
+        },
+        {
+          "member_name": "SAMUEL WALSH",
+          "member_role": "General Counsel"
+        },
+        {
+          "member_name": "CHRISTOPHER JOHNS",
+          "member_role": "Chief Financial Officer (acting)"
+        },
+        {
+          "member_name": "ERIN MOORE",
+          "member_role": "Chief Human Capital Officer"
+        },
+        {
+          "member_name": "ANN DUNKIN",
+          "member_role": "Chief Information Officer"
+        },
+        {
+          "member_name": "ANN AUGUSTYN",
+          "member_role": "Director, Office of Economic Impact and Diversity (acting)"
+        },
+        {
+          "member_name": "JOHN DUPUY",
+          "member_role": "Director, Office of Enterprise Assessments"
+        },
+        {
+          "member_name": "POLI MARMOLEJOS",
+          "member_role": "Director, Office of Hearings and Appeals"
+        },
+        {
+          "member_name": "STEVE BLACK",
+          "member_role": "Director, Office of Intelligence and Counterintelligence"
+        },
+        {
+          "member_name": "INGRID KOLB",
+          "member_role": "Director, Office of Management"
+        },
+        {
+          "member_name": "CARLA FRISCH",
+          "member_role": "Director, Office of Policy (acting)"
+        },
+        {
+          "member_name": "PAUL BOSCO",
+          "member_role": "Director, Office of Project Management"
+        },
+        {
+          "member_name": "DAVID MAYORGA",
+          "member_role": "Director, Office of Public Affairs"
+        },
+        {
+          "member_name": "RON PIERCE",
+          "member_role": "Director, Office of Small and Disadvantaged Business Utilization"
+        },
+        {
+          "member_name": "JOSEPH DECAROLIS",
+          "member_role": "Administrator for Energy Information Administration"
+        },
+        {
+          "member_name": "JENNIFER GERBI",
+          "member_role": "Director, Advanced Research Projects Agency-Energy (acting)"
+        },
+        {
+          "member_name": "MATTHEW MOURY",
+          "member_role": "Director, Office of Environment, Health, Safety and Security"
+        },
+        {
+          "member_name": "CARMELO MELENDEZ",
+          "member_role": "Director, Legacy Management"
+        },
+        {
+          "member_name": "VANESSA CHAN",
+          "member_role": "Director and Chief Commercialization Officer, Technology Transitions"
+        },
+        {
+          "member_name": "KATHLEEN HOGAN",
+          "member_role": "Principal Deputy Under Secretary for Infrastructure"
+        },
+        {
+          "member_name": "JOHN HAIRSTON",
+          "member_role": "Administrator, Bonneville Power Administration"
+        },
+        {
+          "member_name": "VIRGIL HOBBS III",
+          "member_role": "Administrator, Southeastern Power Administration"
+        },
+        {
+          "member_name": "MIKE WECH",
+          "member_role": "Administrator, Southwestern Power Administration"
+        },
+        {
+          "member_name": "TRACEY LeBEAU",
+          "member_role": "Administrator, Western Power Administration"
+        },
+        {
+          "member_name": "KELLY CUMMINS",
+          "member_role": "Director, Office of Clean Energy Demonstrations (acting)"
+        },
+        {
+          "member_name": "PUESH KUMAR",
+          "member_role": "Director, Office of Cybersecurity, Energy Security, and Emergency Response"
+        },
+        {
+          "member_name": "WAHLEAH JOHNS",
+          "member_role": "Director, Office of Indian Energy Policy and Programs"
+        },
+        {
+          "member_name": "JIGAR SHAH",
+          "member_role": "Director, Office of Loan Programs"
+        },
+        {
+          "member_name": "DAVID HOWELL",
+          "member_role": "Director, Office of Manufacturing & Energy Supply Chains (acting)"
+        },
+        {
+          "member_name": "GERALDINE RICHMOND",
+          "member_role": "Under Secretary for Science and Innovation"
+        },
+        {
+          "member_name": "BRAD CRABTREE",
+          "member_role": "Assistant Secretary for Fossil Energy and Carbon Management"
+        },
+        {
+          "member_name": "KATHRYN HUFF",
+          "member_role": "Assistant Secretary for Nuclear Energy"
+        },
+        {
+          "member_name": "GEORGE ROE",
+          "member_role": "Director, Office of Arctic Energy (acting)"
+        },
+        {
+          "member_name": "PAMELA ISOM",
+          "member_role": "Director, Office of Artificial Intelligence and Technology"
+        },
+        {
+          "member_name": "ASMERET BERHE",
+          "member_role": "Director, Office of Science"
+        },
+        {
+          "member_name": "JILL HRUBY",
+          "member_role": "Administrator for National Nuclear Security Administration / Under Secretary for Nuclear Security"
+        },
+        {
+          "member_name": "FRANK ROSE",
+          "member_role": "Principal Deputy Administrator"
+        },
+        {
+          "member_name": "JAMES MCCONNELL",
+          "member_role": "Associate Principal Deputy Administrator"
+        },
+        {
+          "member_name": "DOUGLAS FREMONT",
+          "member_role": "NNSA Chief of Staff"
+        },
+        {
+          "member_name": "COREY HINDERSTEIN",
+          "member_role": "Deputy Administrator for Defense Nuclear Nonproliferation"
+        },
+        {
+          "member_name": "MARVIN ADAMS",
+          "member_role": "Deputy Administrator for Defense Programs"
+        },
+        {
+          "member_name": "ADM JAMES CALDWELL, USN",
+          "member_role": "Deputy Administrator for Naval Reactors"
+        },
+        {
+          "member_name": "ROBERT RAINES",
+          "member_role": "Associate Administrator for Acquisition and Project Management"
+        },
+        {
+          "member_name": "JASON MILLER",
+          "member_role": "Associate Administrator for Congressional & Intergovernmental Affairs (acting)"
+        },
+        {
+          "member_name": "JAY A. TILDEN",
+          "member_role": "Associate Administrator for Counterterrorism and Counterproliferation"
+        },
+        {
+          "member_name": "JEFFREY JOHNSON",
+          "member_role": "Associate Administrator for Defense Nuclear Security"
+        },
+        {
+          "member_name": "JOHN JUSKIE",
+          "member_role": "Associate Administrator for Emergency Operations"
+        },
+        {
+          "member_name": "JAMES WOLFF",
+          "member_role": "Associate Administrator for Information Management"
+        },
+        {
+          "member_name": "FRANK LOWERY",
+          "member_role": "Associate Administrator for Management and Budget"
+        },
+        {
+          "member_name": "KENNETH SHEELY",
+          "member_role": "Associate Administrator for Safety, Infrastructure, and Operations (acting)"
+        },
+        {
+          "member_name": "TIMOTHY FISCHER",
+          "member_role": "Office of the General Counsel"
+        },
+        {
+          "member_name": "GORDON TROWBRIDGE",
+          "member_role": "Office of Public Affairs"
+        },
+        {
+          "member_name": "DEREK PASSARELLI",
+          "member_role": "Manager, Golden Field Office (EERE)"
+        },
+        {
+          "member_name": "BRIAN VANCE",
+          "member_role": "Manager, Richland (EM)"
+        },
+        {
+          "member_name": "BRIAN VANCE",
+          "member_role": "Manager, Office of River Protection (ORP)"
+        },
+        {
+          "member_name": "MICHAEL BUDNEY",
+          "member_role": "Manager, Savannah River (EM)"
+        },
+        {
+          "member_name": "REINHARD KNERR",
+          "member_role": "Manager, Carlsbad Field Office (EM)"
+        },
+        {
+          "member_name": "MICHAEL MIKOLANIS",
+          "member_role": "Manager, Los Alamos (EM)"
+        },
+        {
+          "member_name": "LAURA WILKERSON",
+          "member_role": "Manager, Oak Ridge Office (EM) (acting)"
+        },
+        {
+          "member_name": "JOEL BRADBURNE",
+          "member_role": "Manager, Portsmouth and Paducah Project Office (EM)"
+        },
+        {
+          "member_name": "ROBERT BOSTON",
+          "member_role": "Manager, Idaho (NE)"
+        },
+        {
+          "member_name": "SAMUEL BIGGER",
+          "member_role": "Manager, Ames Office (SC)"
+        },
+        {
+          "member_name": "JOANNA LIVENGOOD",
+          "member_role": "Manager, Argonne Office (SC)"
+        },
+        {
+          "member_name": "ROGER SNYDER",
+          "member_role": "Manager, Fermi (SC) (acting)"
+        },
+        {
+          "member_name": "PAUL GOLAN",
+          "member_role": "Manager, Bay Area (Berkeley & SLAC) (SC)"
+        },
+        {
+          "member_name": "SANDRA ROGAN",
+          "member_role": "Manager, Princeton (SC)"
+        },
+        {
+          "member_name": "TED PIETROK",
+          "member_role": "Manager, Pacific Northwest (SC)"
+        },
+        {
+          "member_name": "JOSEPH ARANGO",
+          "member_role": "Manager, Thomas Jefferson (SC)"
+        },
+        {
+          "member_name": "ROBERT GORDON",
+          "member_role": "Manager, Brookhaven (SC)",
+          "bioguide_id": "G000314"
+        },
+        {
+          "member_name": "JOHNNY MOORE",
+          "member_role": "Manager, Oak Ridge National Laboratory Site Office (SC)"
+        },
+        {
+          "member_name": "MATTHEW BROTT",
+          "member_role": "Manager, Naval Reactors Naval Nuclear Laboratory (NNSA)"
+        },
+        {
+          "member_name": "JEFF SHOULTA",
+          "member_role": "Manager, Kansas City (NNSA)"
+        },
+        {
+          "member_name": "PETER RODRIK",
+          "member_role": "Manager, Livermore (NNSA)"
+        },
+        {
+          "member_name": "TED WYKA",
+          "member_role": "Manager, Los Alamos (NNSA)"
+        },
+        {
+          "member_name": "DAVID BOWMAN",
+          "member_role": "Manager, Nevada (NNSA)"
+        },
+        {
+          "member_name": "TERESA ROBBINS",
+          "member_role": "Manager, NNSA Production Office (NNSA)"
+        },
+        {
+          "member_name": "DARYL HAUCK",
+          "member_role": "Manager, Sandia (NNSA)"
+        },
+        {
+          "member_name": "JASON ARMSTRONG",
+          "member_role": "Manager, Savannah River (NNSA)"
+        },
+        {
+          "member_name": "JOHN ZIMMERMAN",
+          "member_role": "Manager, EM Consolidated Business Center"
+        },
+        {
+          "member_name": "KENNETH TARCZA",
+          "member_role": "Manager, SC Consolidated Service Center"
+        },
+        {
+          "member_name": "BRIAN ANDERSON",
+          "member_role": "Director, National Energy Technology Laboratory"
+        },
+        {
+          "member_name": "PAUL OOSTERLING",
+          "member_role": "Project Manager, Strategic Petroleum Reserve Project Office"
+        },
+        {
+          "member_name": "RICHARD GLICK",
+          "member_role": "Chair, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "ALLISON CLEMENTS",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "MARK C. CHRISTIE",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "JAMES DANLY",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "WILLIE L. PHILLIPS",
+          "member_role": "Commissioner, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "CARMEN A. CINTRON",
+          "member_role": "Chief Administrative Law Judge, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "ANTON C. PORTER",
+          "member_role": "Executive Director, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "DAVID L. MORENOFF",
+          "member_role": "General Counsel, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "KIMBERLY BOSE",
+          "member_role": "Secretary, Office of the Secretary, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "JOHN KROEGER",
+          "member_role": "Director, Office of Administrative Litigation, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "DAVID ORTIZ",
+          "member_role": "Director, Office of Electric Reliability (acting), Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "JOSEPH MCCLELLAND",
+          "member_role": "Director, Office of Energy Infrastructure Security, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "JETTE GEBHART",
+          "member_role": "Director, Office of Energy Market Regulation, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "JIGNASA GADANI",
+          "member_role": "Director, Office of Energy Policy and Innovation, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "TERRY TURPIN",
+          "member_role": "Director, Office of Energy Projects, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "JANEL BURDICK",
+          "member_role": "Director, Office of Enforcement, Federal Energy Regulatory Commission"
+        },
+        {
+          "member_name": "SARAH VENUTO",
+          "member_role": "Director, Office of External Affairs, Federal Energy Regulatory Commission"
+        }
+      ]
+    }
+  ]
+}

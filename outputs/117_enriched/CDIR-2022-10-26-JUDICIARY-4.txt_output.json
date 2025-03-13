@@ -1,0 +1,86 @@
+{
+  "courts": [
+    {
+      "court_name": "United States Court of Appeals for the Federal Circuit",
+      "circuits": [],
+      "court_personnel": [
+        {
+          "name": "KIMBERLY A. MOORE",
+          "role": "Chief Circuit Judge"
+        },
+        {
+          "name": "PAULINE NEWMAN",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "ALAN D. LOURIE",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "TIMOTHY B. DYK",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "SHARON PROST",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "JIMMIE V. REYNA",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "RICHARD G. TARANTO",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "RAYMOND T. CHEN",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "TODD M. HUGHES",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "KARA FARNANDEZ STOLL",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "TIFFANY P. CUNNINGHAM",
+          "role": "Circuit Judge"
+        },
+        {
+          "name": "LEONARD P. STARK",
+          "role": "N/A"
+        },
+        {
+          "name": "HALDANE ROBERT MAYER",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "S. JAY PLAGER",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "RAYMOND C. CLEVENGER III",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "ALVIN A. SCHALL",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "WILLIAM C. BRYSON",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "RICHARD LINN",
+          "role": "Senior Circuit Judge"
+        },
+        {
+          "name": "EVAN J. WALLACH",
+          "role": "Senior Circuit Judge"
+        }
+      ]
+    }
+  ]
+}

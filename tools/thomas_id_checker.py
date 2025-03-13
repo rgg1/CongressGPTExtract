@@ -218,7 +218,7 @@ def main():
         description="Check Thomas ID matches in committee JSON files"
     )
     parser.add_argument(
-        "json_file", nargs="?", help="JSON file with Thomas IDs to check (optional)"
+        "json_file", nargs="?", help="JSON file with Thomas IDs to check (optional, default: CDIR-2022-10-26-HOUSECOMMITTEES.txt_output_with_thomas_ids.json)"
     )
     parser.add_argument(
         "--congress",

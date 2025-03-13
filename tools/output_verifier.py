@@ -882,7 +882,7 @@ def main():
     2. With --congress argument: Verify all JSON files for that congress
     """
     # Set up argument parser
-    parser = argparse.ArgumentParser(description="Verify output JSON files")
+    parser = argparse.ArgumentParser(description="Verify output JSON files. Defaults to 108th Congress if no json_file or congress is specified.")
     parser.add_argument("json_file", nargs="?", help="JSON file to verify (optional)")
     parser.add_argument(
         "--congress", type=str, help="Verify all JSON files for this Congress number"
